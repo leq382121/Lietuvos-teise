@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2004-11-11"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_246190"
+redakcija_nuo: "2004-12-22"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_248108"
 ---
 
 # Baudžiamasis kodeksas
@@ -4032,11 +4032,19 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-2\. Tas, kas organizavo neteisėtą nuolatinės gyvenamosios vietos Lietuvos Respublikoje neturinčių užsieniečių gabenimą per Lietuvos Respublikos valstybės sieną ar organizavo neteisėtai perėjusių valstybės sieną tokių užsieniečių gabenimą ar slėpimą Lietuvos Respublikos teritorijoje,
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytas veikas dėl savanaudiškų paskatų, arba jeigu tai sukėlė pavojų asmens gyvybei,
+
+baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+3.Tas, kas organizavo šio straipsnio 1 dalyje numatytas veikas,
 
 baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-61, 2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)*
 
 #### 293 straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten jiems pasilikti arba palikti be pagalbos organizavimas
 
@@ -4424,13 +4432,21 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų.
+1\. 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų.
+
+2\. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti tranzitu ir apsigyventi.
+
+3\. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir apsigyventi.
 
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
 
-\_________________
+*Priedo pakeitimai:*
+
+*Nr. X-61, 2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)*
+
+\_______________
 
 **Pakeitimai:**
 
@@ -4516,8 +4532,16 @@ Nr. IX-2570, 2004-11-11, Žin., 2004, Nr. 171-6318 (2004-11-26)
 
 BAUDŽIAMOJO KODEKSO PAPILDYMO 250(1) STRAIPSNIU ĮSTATYMAS
 
+10\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-61, 2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)
+
+BAUDŽIAMOJO KODEKSO 292 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-12-01)
+Redagavo: Aušrinė Trapinskienė (2004-12-31)
 
 [email protected]
