@@ -4,8 +4,8 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "2003-04-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/GmAjUpQzVd"
+redakcija_nuo: "2004-08-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/FfXSCgsniz"
 ---
 
 # Lietuvos Respublikos Konstitucija
@@ -466,7 +466,13 @@ Seimo nariais negali būti renkami asmenys, nebaigę atlikti bausmės pagal teis
 
 ### 57 straipsnis
 
-Eiliniai Seimo rinkimai rengiami ne anksčiau kaip prieš du mėnesius ir ne vėliau kaip prieš mėnesį iki pasibaigiant Seimo narių įgaliojimams.
+Eiliniai Seimo rinkimai rengiami Seimo narių įgaliojimų pabaigos metais spalio mėnesio antrą sekmadienį.
+
+Eiliniai Seimo rinkimai, einantys po pirmalaikių Seimo rinkimų, rengiami šio straipsnio pirmojoje dalyje nurodytu laiku.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2344, 2004-07-13, Žin., 2004, Nr. 111-4124 (2004-07-17), i. k. 1041010ISTA0IX-2344*
 
 ### 58 straipsnis
 
@@ -1320,7 +1326,15 @@ Lietuvos Respublikos Konstitucijos sudedamąja dalimi yra:
 
 1991 m. vasario 11 d. Konstitucinis įstatymas „Dėl Lietuvos valstybės“;
 
-1992 m. birželio 8 d. Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“.
+1992 m. birželio 8 d. Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“;
+
+1992 m. spalio 25 d. Įstatymas „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“;
+
+2004 m. liepos 13 d. Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2343, 2004-07-13, Žin., 2004, Nr. 111-4123 (2004-07-17), i. k. 1041010ISTA0IX-2343*
 
 ### 151 straipsnis
 
@@ -1395,3 +1409,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1379, 2003-03-20, Žin., 2003, Nr. 32-1316 (2003-04-02), i. k. 1031010ISTA0IX-1379
 
 Lietuvos Respublikos Konstitucijos 118 straipsnio pakeitimo įstatymas
+
+7\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2343, 2004-07-13, Žin., 2004, Nr. 111-4123 (2004-07-17), i. k. 1041010ISTA0IX-2343
+
+Lietuvos Respublikos Konstitucijos papildymo Konstituciniu aktu "Dėl Lietuvos Respublikos narystės Europos Sąjungoje" ir Lietuvos Respublikos Konstitucijos 150 straipsnio papildymo įstatymas
+
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2344, 2004-07-13, Žin., 2004, Nr. 111-4124 (2004-07-17), i. k. 1041010ISTA0IX-2344
+
+Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas
