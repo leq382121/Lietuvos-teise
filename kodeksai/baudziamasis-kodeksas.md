@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2003-07-04"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_216213"
+redakcija_nuo: "2004-01-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_227292"
 ---
 
 # Baudžiamasis kodeksas
@@ -220,9 +220,13 @@ Baudžiamasis nusižengimas yra pavojinga ir šiame kodekse uždrausta veika (ve
 
 1\. Pagal šį kodeksą atsako asmuo, kuriam iki nusikaltimo ar baudžiamojo nusižengimo padarymo buvo suėję šešiolika metų, o šio straipsnio 2 dalyje numatytais atvejais – keturiolika metų.
 
-2\. Asmuo, kuriam iki nusikaltimo ar baudžiamojo nusižengimo padarymo buvo suėję keturiolika metų, atsako už nužudymą (129 straipsnis), sunkų sveikatos sutrikdymą (135 straipsnis), išžaginimą (149 straipsnis), seksualinį prievartavimą (150 straipsnis), vagystę (178 straipsnis), plėšimą (180 straipsnis), turto prievartavimą (181 straipsnis), turto sunaikinimą ar sugadinimą (187 straipsnio 2 dalis), šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų pagrobimą (254 straipsnis), narkotinių ar psichotropinių medžiagų pagrobimą (263 straipsnis), transporto priemonių ar kelių, juose esančių įrenginių sugadinimą (280 straipsnio 2 dalis).
+2\. Asmuo, kuriam iki nusikaltimo ar baudžiamojo nusižengimo padarymo buvo suėję keturiolika metų, atsako už nužudymą (129 straipsnis), sunkų sveikatos sutrikdymą (135 straipsnis), išžaginimą (149 straipsnis), seksualinį prievartavimą (150 straipsnis), vagystę (178 straipsnis), plėšimą (180 straipsnis), turto prievartavimą (181 straipsnis), turto sunaikinimą ar sugadinimą (187 straipsnio 2 dalis), šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų pagrobimą (254 straipsnis), narkotinių ar psichotropinių medžiagų vagystę, prievartavimą arba kitokį neteisėtą užvaldymą (263 straipsnis), transporto priemonių ar kelių, juose esančių įrenginių sugadinimą (280 straipsnio 2 dalis).
 
 3\. Asmeniui, kuriam iki šiame kodekse numatytos pavojingos veikos padarymo nebuvo suėję keturiolika metų, Lietuvos Respublikos įstatymų nustatyta tvarka gali būti taikomos auklėjamojo poveikio ar kitos priemonės.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 14 straipsnis. Kaltės formos
 
@@ -2176,9 +2180,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 162 straipsnis. Vaiko išnaudojimas pornografijai
 
-Tas, kas išnaudojo vaiką pornografinei produkcijai gaminti,
+1\. Tas, kas išnaudojo vaiką pornografinei produkcijai gaminti,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 163 straipsnis. Piktnaudžiavimas tėvų, globėjo ar rūpintojo arba kitų teisėtų vaiko atstovų teisėmis ar pareigomis
 
@@ -2556,6 +2566,12 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
 #### 192 straipsnis. Literatūros, mokslo, meno ar kitokio kūrinio neteisėtas atgaminimas, neteisėtų kopijų platinimas, gabenimas ar laikymas
 
 1\. Tas, kas neteisėtai atgamino literatūros, mokslo, meno ar kitokį kūrinį ar jo dalį arba importavo, eksportavo, platino, gabeno ar laikė komercijos tikslais neteisėtas jų kopijas, jeigu kopijų bendra vertė pagal teisėtų kopijų mažmenines kainas viršijo 100 MGL dydžio sumą,
@@ -2592,19 +2608,31 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 #### 196 straipsnis. Kompiuterinės informacijos sunaikinimas ar pakeitimas
 
-1\. Tas, kas sunaikino, sugadino ar pakeitė kompiuterinę informaciją padarydamas didelės žalos,
+1\. Tas, kas neteisėtai sunaikino, sugadino, pašalino ar pakeitė kompiuterinę informaciją arba įrenginiais ar kompiuterinėmis programomis apribojo naudojimąsi tokia informacija padarydamas didelės žalos,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės atėmimu iki trejų metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-#### 197 straipsnis. Kompiuterinės programos sunaikinimas ar pakeitimas
+*Straipsnio pakeitimai:*
 
-1\. Tas, kas sunaikino, sugadino ar pakeitė kompiuteryje esančią programą ar įdiegė į kompiuterį ar kompiuterinį tinklą programą, kuri sutrikdė ar pakeitė kompiuterinio tinklo, duomenų banko ar informacinės sistemos darbą, padarydamas didelės žalos,
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
+#### 197 straipsnis. Kompiuterinės programos sunaikinimas ar pakeitimas ir
+
+**kompiuterinio tinklo, duomenų banko ar informacinės sistemos**
+
+**darbo sutrikdymas**
+
+1\. Tas, kas neteisėtai sunaikino, sugadino, pašalino ar pakeitė kompiuteryje esančią programą arba sutrikdė ar pakeitė kompiuterinio tinklo, duomenų banko ar informacinės sistemos darbą padarydamas didelės žalos,
 
 baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 198 straipsnis. Kompiuterinės informacijos pasisavinimas ir skleidimas
 
@@ -2617,6 +2645,34 @@ baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+**198(¹) straipsnis. Neteisėtas prisijungimas prie kompiuterio ar kompiuterinio tinklo**
+
+1\. Tas, kas neteisėtai prisijungė prie kompiuterio ar kompiuterinio tinklo pažeisdamas kompiuterio ar kompiuterinio tinklo apsaugos priemones,
+
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
+**198(²) straipsnis. Neteisėtas disponavimas įrenginiais, kompiuterinėmis programomis, slaptažodžiais, prisijungimo kodais ir kitokiais duomenimis, skirtais nusikaltimams daryti**
+
+1\. Tas, kas neteisėtai gamino, gabeno, pardavė ar kitaip platino šio Kodekso 166, 198 ir 198(¹) straipsniuose numatytiems nusikaltimams daryti tiesiogiai skirtus ar pritaikytus įrenginius ar kompiuterines programas, taip pat slaptažodžius, prisijungimo kodus ar kitokius panašius duomenis arba turėdamas tikslą daryti tuos nusikaltimus juos įgijo ar laikė,
+
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Tas, kas neteisėtai gamino, gabeno, pardavė ar kitaip platino šio Kodekso 196 ar 197 straipsniuose numatytiems nusikaltimams daryti tiesiogiai skirtus ar pritaikytus įrenginius ar kompiuterines programas, taip pat slaptažodžius, prisijungimo kodus ar kitokius panašius duomenis arba turėdamas tikslą daryti tuos nusikaltimus juos įgijo ar laikė,
+
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 ### XXXI SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI EKONOMIKAI IR VERSLO TVARKAI
 
@@ -2678,17 +2734,21 @@ baudžiamas laisvės atėmimu iki dvejų metų.
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
-#### 203 straipsnis. Neteisėta įmonės veikla
+#### 203 straipsnis. Neteisėta juridinio asmens veikla
 
-1\. Tas, kas stambiu mastu vertėsi įmonės steigimo dokumentuose nenumatyta veikla,
+1\. Tas, kas stambiu mastu vertėsi viešojo juridinio asmens steigimo dokumentuose nenumatyta veikla,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas įsteigė ar vadovavo įmonei, naudojamai neteisėtai veiklai nuslėpti,
+2\. Tas, kas įsteigė ar vadovavo juridiniam asmeniui, naudojamam neteisėtai veiklai nuslėpti,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 3\. Už šio straipsnio 1 dalyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 204 straipsnis. Kitos įmonės prekių ar paslaugų ženklo naudojimas
 
@@ -2708,13 +2768,21 @@ Tas, kas įmonės vardu oficialioje ataskaitoje ar paraiškoje pateikė apgaulin
 
 baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-#### 206 straipsnis. Kredito ar paskolos panaudojimas ne pagal paskirtį
+#### 206 straipsnis. Kredito, paskolos ar tikslinės paramos panaudojimas ne pagal paskirtį ar nustatytą tvarką
 
-1\. Tas, kas gavęs kreditą ar paskolą panaudojo jį ne pagal paskirtį ir negrąžino jo nustatytu laiku, ir dėl to kreditoriui, laiduotojui arba kitam asmeniui padarė didelės turtinės žalos,
+1\. Tas, kas gavęs 150 MGL dydžio ar didesnės vertės kreditą, paskolą ar tikslinę paramą panaudojo juos ne pagal paskirtį ar nustatytą tvarką,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Tas, kas gavęs kreditą ar paskolą panaudojo jį ne pagal paskirtį ar nustatytą tvarką ir negrąžino jo laiku, ir dėl to kreditoriui, laiduotojui arba kitam asmeniui padarė didelės turtinės žalos,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 207 straipsnis. Kreditinis sukčiavimas
 
@@ -2806,11 +2874,15 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 #### 216 straipsnis. Nusikalstamu būdu įgytų pinigų ar turto legalizavimas
 
-1\. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens nusikalstamu būdu įgytus pinigus ar turtą atliko su tuo turtu ar pinigais ar jų dalimi susijusias finansines operacijas, sudarė sandorius ar naudojo juos ūkinėje, komercinėje veikloje ar melagingai nurodė, kad tai gauta iš teisėtos veiklos,
+1\. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens pinigus ar turtą, žinodamas, kad jie įgyti nusikalstamu būdu, atliko su tuo turtu ar pinigais ar jų dalimi susijusias finansines operacijas, sudarė sandorius ar naudojo juos ūkinėje, komercinėje veikloje ar melagingai nurodė, kad tai gauta iš teisėtos veiklos,
 
 baudžiamas laisvės atėmimu iki septynerių metų.
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 217 straipsnis. Prekyba vertybiniais popieriais pasinaudojant viešai neatskleista informacija
 
@@ -2830,7 +2902,7 @@ baudžiamas laisvės apribojimu arba bauda, arba laisvės atėmimu iki trejų me
 
 #### 219 straipsnis. Mokesčių nesumokėjimas
 
-1\. Tas, kas pateikęs deklaraciją laiku nesumokėjo pagal ją apskaičiuotų mokesčių po to, kai valstybės įgaliota institucija priminė apie pareigą sumokėti mokesčius,
+1\. Tas, kas pateikęs deklaraciją arba nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą laiku nesumokėjo pagal juos apskaičiuotų mokesčių po to, kai valstybės įgaliota institucija priminė apie pareigą sumokėti mokesčius,
 
 baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
@@ -2844,6 +2916,10 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
 #### 220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas
 
 1\. Tas, kas siekdamas išvengti mokesčių įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie savo ar įmonės pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai,
@@ -2856,11 +2932,21 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-#### 221 straipsnis. Deklaracijos nepateikimas
+#### 221 straipsnis. Deklaracijos, ataskaitos ar kito dokumento nepateikimas
 
-Tas, kas teisės aktų nustatyta tvarka laiku nepateikė valstybinei mokesčių inspekcijai deklaracijos apie savo ar įmonės pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą pateikti deklaraciją, padarė baudžiamąjį nusižengimą ir
+1\. Tas, kas teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie savo ar įmonės pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas viešaisiais darbais arba bauda, arba areštu.
+
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką siekdamas išvengti daugiau kaip 500 MGL dydžio mokesčių ar kitokių įmokų,
+
+baudžiamas bauda arba laisvės atėmimu iki trejų metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 222 straipsnis. Apgaulingas apskaitos tvarkymas
 
@@ -3832,19 +3918,25 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas laisvės atėmimu nuo dvejų iki septynerių metų.
 
-#### 309 straipsnis. Pornografinio turinio produkcijos gaminimas, platinimas, viešas demonstravimas
+#### 309 straipsnis. Disponavimas pornografinio turinio dalykais
 
 1\. Tas, kas turėdamas tikslą platinti pagamino ar įsigijo arba platino pornografinio turinio dalykus,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas turėdamas tikslą platinti pagamino ar įsigijo arba platino pornografinio turinio dalykus, kuriuose atvaizduotas vaikas,
+2\. Tas, kas pagamino, įsigijo, laikė, demonstravo, reklamavo arba platino pornografinio turinio dalykus, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas,
 
 baudžiamas bauda arba laisvės atėmimu iki dvejų metų.
 
-3\. Tas, kas viešai demonstravo ar reklamavo pornografinio turinio dalykus arba įgijo ar laikė pornografinio turinio dalykus, kuriuose atvaizduotas vaikas, padarė baudžiamąjį nusižengimą ir
+3\. Tas, kas demonstravo ar reklamavo pornografinio turinio dalykus, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
+
+4\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 #### 310 straipsnis. Žiaurus elgesys su gyvūnais
 
@@ -4072,8 +4164,16 @@ BAUDŽIAMOJO KODEKSO 139, 140, 176, 180, 181, 190, 201, 212, 249, 281 STRAIPSNI�
 
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 76 (2003-08-01)
 
+4\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
+
+BAUDŽIAMOJO KODEKSO 13, 162, 191, 196, 197, 203, 206, 216, 219, 221, 309 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 198(1) IR 198(2) STRAIPSNIAIS ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2003-08-06)
+Redagavo: Aušrinė Trapinskienė (2004-02-19)
 
 [email protected]
