@@ -4,21 +4,23 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2000-10-25"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
+redakcija_nuo: "2002-10-31"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_194036"
 ---
 
 # Baudžiamasis kodeksas
 
-**LIETUVOS RESPUBLIKOS**
+Įstatymas skelbtas: Žin., 2000, Nr. 89-2741
+
+Neoficialus Įstatymo tekstas
+
+LIETUVOS RESPUBLIKOS
 
 **BAUDŽIAMOJO KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO**
 
-**Į S T A T Y M A S**
+**ĮSTATYMAS**
 
-2000 m. rugsėjo 26 d. Nr. VIII-1968
-
-Vilnius
+2000 m. rugsėjo 26 d. Nr. VIII-1968 Vilnius
 
 #### 1 straipsnis. Lietuvos Respublikos baudžiamojo kodekso patvirtinimas
 
@@ -26,9 +28,13 @@ Vilnius
 
 #### 2 straipsnis. Lietuvos Respublikos baudžiamojo kodekso įsigaliojimas
 
-1\. Lietuvos Respublikos baudžiamasis kodeksas įsigalioja kartu ir tik suderintas su naujais Lietuvos Respublikos baudžiamojo proceso kodeksu, Lietuvos Respublikos bausmių vykdymo kodeksu ir Lietuvos Respublikos administracinių teisės pažeidimų kodeksu.
+1\. Lietuvos Respublikos baudžiamasis kodeksas įsigalioja kartu ir tik suderintas su naujais Lietuvos Respublikos baudžiamojo proceso kodeksu ir Lietuvos Respublikos bausmių vykdymo kodeksu.
 
 2\. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1168, 2002-10-31, Žin., 2002, Nr. 112-4973 (2002-11-22)*
 
 #### 3 straipsnis. Lietuvos Respublikos baudžiamojo kodekso įgyvendinimo tvarka
 
@@ -38,17 +44,25 @@ Lietuvos Respublikos baudžiamojo kodekso įgyvendinimo tvarka nustatoma atskiru
 
 RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
 
-\______________
+*Baudžiamasis kodeksas įsigalioja nuo 2003 m. gegužės 1 d., tai nusako Įstatymas:*
+
+*Nr. IX-1162, 2002-10-29, Žin., 2002, Nr. 112-4970 (2002-11-22)*
 
 PATVIRTINTAS
 
-2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968
+2000 m. rugsėjo 26 d.
 
-**LIETUVOS RESPUBLIKOS BAUDŽIAMASIS KODEKSAS**
+įstatymu Nr. VIII-1968
+
+LIETUVOS RESPUBLIKOS
+
+**BAUDŽIAMASIS KODEKSAS**
 
 ## BENDROJI DALIS
 
-### I SKYRIUS – BENDRosios NUOSTATos
+### I SKYRIUS
+
+BENDRosios NUOSTATos
 
 #### 1 straipsnis. Lietuvos Respublikos baudžiamojo kodekso paskirtis
 
@@ -168,7 +182,9 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 4\. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus yra suteiktas prieglobstis, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamąjį įstatymą nebaudžiami ir užsienio valstybėms neišduodami, išskyrus šio kodekso 7 straipsnyje numatytus atvejus.
 
-### III SKYRIUS – NUSIKALTIMAS IR BAUDŽIAMASIS NUSIŽENGIMAS
+III SKYRIUS
+
+**NUSIKALTIMAS IR BAUDŽIAMASIS NUSIŽENGIMAS**
 
 #### 10 straipsnis. Nusikalstamų veikų rūšys
 
@@ -266,7 +282,9 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 5\. Pagal šį kodeksą neatsako valstybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
 
-### IV SKYRIUS – NUSIKALSTAMOS VEIKOS STADIJOS IR FORMOS
+IV SKYRIUS
+
+**NUSIKALSTAMOS VEIKOS STADIJOS IR FORMOS**
 
 #### 21 straipsnis. Rengimasis padaryti nusikaltimą
 
@@ -348,7 +366,9 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 5\. Asmens pripažinimas pavojingu recidyvistu netenka galios, kai asmens teistumas išnyksta arba panaikinamas.
 
-### V SKYRIUS – BAUDŽIAMĄJĄ ATSAKOMYBĘ ŠALINANČIOS APLINKYBĖS
+V SKYRIUS
+
+**BAUDŽIAMĄJĄ ATSAKOMYBĘ ŠALINANČIOS APLINKYBĖS**
 
 #### 28 straipsnis. Būtinoji gintis
 
@@ -478,7 +498,9 @@ Teismas gali atleisti nuo baudžiamosios atsakomybės asmenį, padariusį nusika
 
 8\. Jeigu asmuo, atleistas nuo baudžiamosios atsakomybės pagal laidavimą, laidavimo metu padarė naują tyčinį nusikaltimą, ankstesnis sprendimas atleisti jį nuo baudžiamosios atsakomybės nustoja galioti ir sprendžiama dėl šio asmens baudžiamosios atsakomybės už visas padarytas nusikalstamas veikas.
 
-### VII SKYRIUS – BAUSMĖ
+VII SKYRIUS
+
+**BAUSMĖ**
 
 #### 41 straipsnis. Bausmė ir jos paskirtis
 
@@ -696,7 +718,9 @@ Teismas gali atleisti nuo baudžiamosios atsakomybės asmenį, padariusį nusika
 
 Teismas, skirdamas juridinio asmens likvidavimo bausmę, įpareigoja juridinį asmenį per teismo nustatytą terminą nutraukti visą ūkinę, komercinę, finansinę ar profesinę veiklą ir uždaryti visus juridinio asmens padalinius.
 
-### VIII SKYRIUS – BAUSMĖS SKYRIMAS
+VIII SKYRIUS
+
+**BAUSMĖS SKYRIMAS**
 
 #### 54 straipsnis. Bendrieji bausmės skyrimo pagrindai
 
@@ -914,7 +938,9 @@ b) vieno MGL dydžio baudai (1:1);
 
 2\. Kardomasis kalinimas (suėmimas) į paskirtą bausmę įskaitomas pagal šio kodekso 65 straipsnio 1 dalies taisykles vieną kardomojo kalinimo (suėmimo) dieną prilyginant vienai laisvės atėmimo ar arešto parai.
 
-### IX SKYRIUS – BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
+IX SKYRIUS
+
+**BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS**
 
 #### 67 straipsnis. Baudžiamojo poveikio priemonių paskirtis ir rūšys
 
@@ -1002,7 +1028,9 @@ Teismas gali paskirti nuo 5 iki 25 MGL dydžio įmoką į nukentėjusių nuo nus
 
 2\. Asmeniui, kuris vengia įvykdyti jam paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą), teismas bausmę vykdančios institucijos teikimu gali paskirti bausmę pagal šio kodekso 243 straipsnį. Šiuo atveju nubaudimas neatleidžia nuteistojo nuo pareigos įvykdyti paskirtą baudžiamojo poveikio priemonę.
 
-### X SKYRIUS – BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS
+X SKYRIUS
+
+**BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS**
 
 #### 75 straipsnis. Baudos, arešto ar laisvės atėmimo bausmės vykdymo atidėjimas
 
@@ -1090,7 +1118,9 @@ d) ne mažiau kaip vieną trečdalį paskirtos bausmės už neatsargų arba nesu
 
 2\. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
 
-### XI SKYRIUS – NEPILNAMEČIŲ BAUDŽIAMOSIOS ATSAKOMYBĖS YPATumai
+XI SKYRIUS
+
+**NEPILNAMEČIŲ BAUDŽIAMOSIOS ATSAKOMYBĖS YPATumai**
 
 #### 80 straipsnis. Nepilnamečių baudžiamosios atsakomybės ypatumų paskirtis
 
@@ -1284,7 +1314,9 @@ b) ne mažiau kaip du trečdalius paskirtos bausmės už sunkų ar labai sunkų 
 
 5\. Jeigu asmuo, kuris lygtinai atleistas nuo laisvės atėmimo bausmės prieš terminą arba kuriam laisvės atėmimo bausmė pakeista švelnesne, per neatliktos bausmės laiką padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje nustatytas taisykles.
 
-### XII SKYRIUS – Baudžiamosios atsakomybės senatis
+XII SKYRIUS
+
+**Baudžiamosios atsakomybės senatis**
 
 #### 95 straipsnis. Apkaltinamojo nuosprendžio priėmimo senatis
 
@@ -1392,7 +1424,9 @@ d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
 
 8\. Jeigu turintis teistumą asmuo padaro naują nusikaltimą ar baudžiamąjį nusižengimą, teistumo išnykimo eiga nutrūksta. Šiuo atveju teistumo už ankstesnę nusikalstamą veiką išnykimo terminas pradedamas skaičiuoti nuo bausmės už naują nusikaltimą ar baudžiamąjį nusižengimą atlikimo. Asmuo laikomas teistu už kiekvieną nusikalstamą veiką tol, kol išnyksta teistumas už sunkiausią iš jų.
 
-### XIV skyrius – Priverčiamosios medicinos priemonės
+XIV skyrius
+
+**Priverčiamosios medicinos priemonės**
 
 #### 98 straipsnis. Priverčiamosios medicinos priemonės
 
@@ -1418,7 +1452,7 @@ d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
 
 7\. Jeigu priverčiamąsias medicinos priemones taikyti asmeniui nebūtina, taip pat jeigu teismas panaikina šių priemonių taikymą, asmuo gali būti teismo perduodamas giminaičių ar kitų asmenų globai ar rūpybai ir kartu jam gali būti nustatomas medicininis stebėjimas.
 
-## SPECIALIOJI DALIS
+SPECIALIOJI DALIS
 
 ### XV SKYRIUS – Nusikaltimai žmoniškumui ir karo nusikaltimai
 
@@ -1626,7 +1660,9 @@ Tas, kas nuplėšė, sudraskė, sulaužė, sunaikino, subjaurojo ar kitaip išni
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-### XVII skyrius – Nusikaltimai žmogaus gyvybEI
+XVII skyrius
+
+**Nusikaltimai žmogaus gyvybEI**
 
 #### 129 straipsnis. Nužudymas
 
@@ -1888,7 +1924,9 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
-### XXI SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ŽMOGAUS SEKSUALINIO APSISPRENDIMO LAISVEI IR NELIEČIAMUMUI
+XXI SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ŽMOGAUS SEKSUALINIO APSISPRENDIMO LAISVEI IR NELIEČIAMUMUI**
 
 #### 149 straipsnis. Išžaginimas
 
@@ -1956,7 +1994,9 @@ Tas, kas atliko mažamečio asmens tvirkinimo veiksmus,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS GARBEI IR ORUMUI
+### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
+
+**GARBEI IR ORUMUI**
 
 #### 154 straipsnis. Šmeižimas
 
@@ -1996,7 +2036,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 157 straipsnis. Vaiko pirkimas arba pardavimas
 
-1\. Tas, kas pardavė, pirko ar kitaip perleido arba įgijo mažametį vaiką,
+1.Tas, kas pardavė, pirko ar kitaip perleido arba įgijo mažametį vaiką,
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
@@ -2016,7 +2056,7 @@ Tas, kas įtikinėdamas, prašydamas, papirkdamas, grasindamas, apgaule ar kitok
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-#### 160 straipsnis.Vaiko įtraukimas vartoti vaistus ar kitas apkvaišinančias priemones
+#### 160 straipsnis. Vaiko įtraukimas vartoti vaistus ar kitas apkvaišinančias priemones
 
 Tas, kas įtraukė vaiką ne gydymo tikslais vartoti vaistus ar kitas apkvaišinančias nenarkotines priemones,
 
@@ -2050,7 +2090,9 @@ Tas, kas vengė pareigos pagal teismo sprendimą išlaikyti vaiką, mokėti lė�
 
 baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-### XXIV SKYRIUS – NUSIKALTIMAI ASMENS PRIVATAUS GYVENIMO NELIEČIAMUMUI
+XXIV SKYRIUS
+
+**NUSIKALTIMAI ASMENS PRIVATAUS GYVENIMO NELIEČIAMUMUI**
 
 #### 165 straipsnis. Neteisėtas asmens būsto neliečiamumo pažeidimas
 
@@ -2086,7 +2128,9 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 3\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
-### XXV SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI
+XXV SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI**
 
 **ASMENS LYGIATEISIŠKUMUI IR SĄŽINĖS LAISVEI**
 
@@ -2114,7 +2158,9 @@ Tas, kas necenzūriniais žodžiais, įžūliais veiksmais, grasinimais, patyči
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
-### XXVI SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI PILIEČIŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI
+XXVI SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI PILIEČIŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI**
 
 #### 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
 
@@ -2164,7 +2210,9 @@ Tas, kas trukdė profesinės sąjungos ar jos nario teisėtai veiklai, padarė b
 
 baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba laisvės apribojimu.
 
-### XXVIII skyrius – Nusikaltimai ir baudžiamieji nusižengimai nuosavyBEI, turtinėms teisėms ir turtiniams interesams
+XXVIII skyrius
+
+**Nusikaltimai ir baudžiamieji nusižengimai nuosavyBEI, turtinėms teisėms ir turtiniams interesams**
 
 #### 178 straipsnis. Vagystė
 
@@ -2354,7 +2402,9 @@ baudžiamas viešaisiais darbais arba bauda, arba areštu.
 
 Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą, ir nedidelės vertės – kai jo vertė neviršija 1 MGL dydžio sumos.
 
-### XXIX SKYRIUS – NUSIKALTIMAI INTELEKTINEI ir pramoninei NUOSAVYBEI
+XXIX SKYRIUS
+
+**NUSIKALTIMAI INTELEKTINEI ir pramoninei NUOSAVYBEI**
 
 #### 191 straipsnis. Autorystės pasisavinimas
 
@@ -2746,7 +2796,9 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 
 3\. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba bet kokioje valstybinėje, nevalstybinėje ar privačioje įstaigoje, įmonėje ar organizacijoje ar verčiasi profesine veikla ir turi atitinkamus viešojo administravimo įgaliojimus, ar teikia viešąsias paslaugas, išskyrus ūkines ar technines funkcijas atliekantį asmenį.
 
-### XXXIV SKYRIUS – Nusikaltimai ir baudžiamieji nusižengimai teisingumui
+XXXIV SKYRIUS
+
+**Nusikaltimai ir baudžiamieji nusižengimai teisingumui**
 
 #### 231 straipsnis. Trukdymas teisėjo, prokuroro, ikiteisminio tyrimo pareigūno, advokato ar teismo antstolio veiklai
 
@@ -2888,7 +2940,9 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 3\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
 
-### XXXV SKYRIUS – NUSIKALTIMAI VISUOMENĖS SAUGUMUI
+XXXV SKYRIUS
+
+**NUSIKALTIMAI VISUOMENĖS SAUGUMUI**
 
 #### 249 straipsnis. Nusikalstamas susivienijimas
 
@@ -3110,7 +3164,9 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 
 2\. Kokį narkotinių ar psichotropinių medžiagų kiekį laikyti nedideliu, kokį dideliu ir labai dideliu, nustatoma remiantis Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintomis rekomendacijomis.
 
-### XXXVIII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI APLINKAI IR ŽMONIŲ SVEIKATAI
+XXXVIII SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI APLINKAI IR ŽMONIŲ SVEIKATAI**
 
 #### 270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo taisyklių pažeidimas
 
@@ -3354,7 +3410,9 @@ Tas, kas įžeidė savo pareigas einantį valstybės tarnautoją ar viešojo adm
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-### XLII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VALDYMO TVARKAI
+XLII SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VALDYMO TVARKAI**
 
 #### 291 straipsnis. Neteisėtas valstybės sienos perėjimas
 
@@ -3500,7 +3558,9 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-### XLIV SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
+XLIV SKYRIUS
+
+**NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI**
 
 #### 307 straipsnis. Pelnymasis iš kito asmens prostitucijos
 
@@ -3580,7 +3640,9 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar prokuroro reikalavimas.
 
-### XLVI skyrius – Nusikaltimai IR BAUDŽIAMIEJI NUSIŽENGIMAI krašto apsaugos tarnybAI
+XLVI skyrius
+
+**Nusikaltimai IR BAUDŽIAMIEJI NUSIŽENGIMAI krašto apsaugos tarnybAI**
 
 #### 314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas
 
@@ -3730,4 +3792,20 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 2\. Šauktinis yra karo prievolininkas, Karo prievolės įstatymo nustatyta tvarka ir būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar alternatyviosios tarnybos ir nuo jos neatleistas.
 
-\______________
+\_________________
+
+**Pakeitimai:**
+
+1\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1168, 2002-10-31, Žin., 2002, Nr. 112-4973 (2002-11-22)
+
+BAUDŽIAMOJO KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+\*\*\* Pabaiga \*\*\*
+
+Redagavo: Aušra Bodin (2002-11-25)
+
+[email protected]
