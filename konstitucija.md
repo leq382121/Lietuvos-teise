@@ -4,11 +4,13 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "1992-11-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
+redakcija_nuo: "1996-07-21"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/kNOccjkdjr"
 ---
 
 # Lietuvos Respublikos Konstitucija
+
+*Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324*
 
 **LIETUVOS RESPUBLIKOS**
 
@@ -387,6 +389,12 @@ Valstybė gina vartotojo interesus.
 ### 47 straipsnis
 
 Žemė, vidaus vandenys, miškai, parkai nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
+
+Savivaldybėms, kitiems nacionaliniams subjektams, taip pat tiems ūkinę veiklą Lietuvoje vykdantiems užsienio subjektams, kurie nustatyti konstitucinio įstatymo pagal Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus, gali būti leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokio sklypo įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato konstitucinis įstatymas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390*
 
 Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
 
@@ -1319,3 +1327,13 @@ AUKŠČIAUSIOSIOS TARYBOS
 PIRMININKAS VYTAUTAS LANDSBERGIS
 
 Vilnius, 1992 m. lapkričio 6 d.
+
+**Pakeitimai:**
+
+1\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio papildymo įstatymas
