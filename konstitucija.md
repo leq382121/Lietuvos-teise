@@ -4,8 +4,8 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "1996-07-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/kNOccjkdjr"
+redakcija_nuo: "1997-01-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/gkXBNjrYDx"
 ---
 
 # Lietuvos Respublikos Konstitucija
@@ -1082,7 +1082,11 @@ Prokurorų ir tardytojų skyrimo tvarką ir jų statusą nustato įstatymas.
 
 Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per atitinkamas savivaldybių tarybas.
 
-Savivaldybių tarybų narius dvejiems metams renka administracinio vieneto gyventojai – Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Savivaldybių tarybų narius trejiems metams renka administracinio vieneto gyventojai - Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32*
 
 Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.
 
@@ -1337,3 +1341,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390
 
 Lietuvos Respublikos Konstitucijos 47 straipsnio papildymo įstatymas
+
+2\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. VIII-32, 1996-12-12, Žin., 1996, Nr. 122-2863 (1996-12-18), i. k. 0961010ISTA0VIII-32
+
+Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
