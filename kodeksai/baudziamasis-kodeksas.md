@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2004-01-29"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_227292"
+redakcija_nuo: "2004-03-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_230770"
 ---
 
 # Baudžiamasis kodeksas
@@ -3078,9 +3078,17 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, panaudodamas smurtą ar kitokią prievartą,
+2\. Tas, kas bet kokiu būdu siekė paveikti liudytoją, ekspertą, specialistą ar vertėją, kad šie apkaltos proceso metu Seimo specialiajai tyrimo komisijai ar Seimui duotų melagingus parodymus, išvadas, paaiškinimus ar neteisingai išverstų, arba trukdė jiems pagal šaukimą atvykti į Seimo specialiąją tyrimo komisiją ar Seimą,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+3\. Tas, kas padarė šio straipsnio 1 ir 2 dalyse numatytas veikas, panaudodamas smurtą ar kitokią prievartą,
 
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2093, 2004-03-30, Žin., 2004, Nr. 54-1835 (2004-04-15)*
 
 #### 234 straipsnis. Poveikis nukentėjusiam asmeniui, kad šis susitaikytų su kaltininku
 
@@ -3094,11 +3102,19 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kaltindamas asmenį, neva šis padarė sunkų ar labai sunkų nusikaltimą,
+2\. Tas, kas apkaltos proceso metu Seimo specialiajai tyrimo komisijai ar Seimui būdamas liudytoju davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+3\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kaltindamas asmenį, neva šis padarė sunkų ar labai sunkų nusikaltimą,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3\. Nukentėjęs asmuo ar liudytojas neatsako už melagingų parodymų davimą, jeigu pagal įstatymus turėjo teisę atsisakyti duoti parodymus, tačiau prieš apklausą nebuvo su šia teise supažindintas.
+4\. Nukentėjęs asmuo ar liudytojas neatsako už melagingų parodymų davimą, jeigu pagal įstatymus turėjo teisę atsisakyti duoti parodymus, tačiau prieš apklausą nebuvo su šia teise supažindintas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2093, 2004-03-30, Žin., 2004, Nr. 54-1835 (2004-04-15)*
 
 #### 236 straipsnis. Melagingas įskundimas ar pranešimas apie nebūtą nusikaltimą
 
@@ -4172,8 +4188,16 @@ Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 
 BAUDŽIAMOJO KODEKSO 13, 162, 191, 196, 197, 203, 206, 216, 219, 221, 309 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 198(1) IR 198(2) STRAIPSNIAIS ĮSTATYMAS
 
+5\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2093, 2004-03-30, Žin., 2004, Nr. 54-1835 (2004-04-15)
+
+BAUDŽIAMOJO KODEKSO 233, 235 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-02-19)
+Redagavo: Aušrinė Trapinskienė (2004-04-16)
 
 [email protected]
