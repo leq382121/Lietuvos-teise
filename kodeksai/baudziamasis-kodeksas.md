@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2003-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_211457"
+redakcija_nuo: "2003-07-04"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_216213"
 ---
 
 # Baudžiamasis kodeksas
@@ -43,10 +43,6 @@ Lietuvos Respublikos baudžiamojo kodekso įgyvendinimo tvarka nustatoma atskiru
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 
 RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-
-*Baudžiamasis kodeksas įsigalioja nuo 2003 m. gegužės 1 d., tai nusako Įstatymas:*
-
-*Nr. IX-1162, 2002-10-29, Žin., 2002, Nr. 112-4970 (2002-11-22)*
 
 PATVIRTINTAS
 
@@ -1930,6 +1926,12 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas areštu arba laisvės atėmimu iki vienerių metų.
 
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
+
 #### 140 straipsnis. Fizinio skausmo sukėlimas ar nežymus sveikatos sutrikdymas
 
 1\. Tas, kas mušdamas ar kitaip smurtaudamas sukėlė žmogui fizinį skausmą arba nežymiai jį sužalojo ar trumpam susargdino,
@@ -1939,6 +1941,12 @@ baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba la
 2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
 
 baudžiamas laisvės atėmimu iki dvejų metų.
+
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr. 76*
 
 #### 141 straipsnis. Sąvokų išaiškinimas
 
@@ -2292,11 +2300,19 @@ baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
 #### 176 straipsnis. Darbų saugos ir sveikatos apsaugos darbe reikalavimų pažeidimas
 
-1\. Darbdavys ar jo įgaliotas asmuo, pažeidęs įstatymuose ar kituose teisės aktuose nustatytus darbų saugos ar sveikatos apsaugos darbe reikalavimus, jeigu dėl to galėjo įvykti nelaimingas atsitikimas žmonėms, avarija ar atsirasti kitokių sunkių padarinių, padarė baudžiamąjį nusižengimą ir
+1\. Darbdavys ar jo įgaliotas asmuo, pažeidęs darbų saugos įstatymuose ar kituose teisės aktuose nustatytus darbų saugos ar sveikatos apsaugos darbe reikalavimus, jeigu dėl to įvyko nelaimingas atsitikimas žmonėms, avarija ar atsirado kitokių sunkių padarinių,
+
+baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
+
+2\. Darbdavys ar jo įgaliotas asmuo, padaręs šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to galėjo įvykti nelaimingas atsitikimas žmonėms, avarija ar atsirasti kitokių sunkių padarinių, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba laisvės apribojimu, arba areštu.
 
-2\. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
+3\. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 177 straipsnis. Trukdymas profesinių sąjungų veiklai
 
@@ -2360,9 +2376,13 @@ baudžiamas areštu arba laisvės atėmimu iki šešerių metų.
 
 baudžiamas laisvės atėmimu iki septynerių metų.
 
-3\. Tas, kas apiplėšė panaudojęs šaunamąjį ginklą ar sprogmenį arba apiplėšęs pagrobė didelės vertės turtą,
+3\. Tas, kas apiplėšė panaudojęs šaunamąjį ginklą ar sprogmenį arba apiplėšęs pagrobė didelės vertės turtą, arba apiplėšė dalyvaudamas organizuotoje grupėje,
 
 baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 181 straipsnis. Turto prievartavimas
 
@@ -2374,9 +2394,13 @@ baudžiamas areštu arba laisvės atėmimu iki šešerių metų.
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-3\. Tas, kas prievartavo didelės vertės turtą,
+3\. Tas, kas prievartavo didelės vertės turtą arba prievartavo turtą dalyvaudamas organizuotoje grupėje,
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 182 straipsnis. Sukčiavimas
 
@@ -2512,7 +2536,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 #### 190 straipsnis. Turto vertės išaiškinimas
 
-Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą, ir nedidelės vertės – kai jo vertė neviršija 1 MGL dydžio sumos.
+Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą, ir nedidelės vertės – kai jo vertė viršija 1 MGL, bet neviršija 3 MGL dydžio sumos.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 XXIX SKYRIUS
 
@@ -2616,19 +2644,23 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-#### 201 straipsnis. Neteisėtas namų gamybos stiprių alkoholinių gėrimų ir aparatų jiems gaminti gaminimas, laikymas, gabenimas turint tikslą realizuoti ar realizavimas
+201 straipsnis. Neteisėtas namų gamybos stiprių alkoholinių gėrimų, nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių) ir aparatų jiems gaminti gaminimas, laikymas, gabenimas turint tikslą realizuoti ar realizavimas
 
-1\. Tas, kas turėdamas tikslą realizuoti neteisėtai gamino, laikė, gabeno namų gamybos stiprius alkoholinius gėrimus ar aparatus jiems gaminti arba juos realizavo,
+1\. Tas, kas turėdamas tikslą realizuoti neteisėtai gamino, laikė, gabeno namų gamybos stiprius alkoholinius gėrimus, nedenatūruotą, denatūruotą ar techninį etilo alkoholį, jų skiedinius (mišinius) ar aparatus jiems gaminti arba juos realizavo,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas turėdamas tikslą realizuoti neteisėtai pagamino, laikė, gabeno penkiasdešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų arba juos realizavo,
+2\. Tas, kas turėdamas tikslą realizuoti neteisėtai pagamino, laikė, gabeno penkiasdešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų, nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių) arba juos realizavo,
 
 baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
 
-3\. Tas, kas neturėdamas tikslo realizuoti neteisėtai pagamino, laikė, gabeno dešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų, padarė baudžiamąjį nusižengimą ir
+3\. Tas, kas neturėdamas tikslo realizuoti neteisėtai pagamino, laikė, gabeno dešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų arba nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių), padarė baudžiamąjį nusižengimą ir
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 202 straipsnis. Neteisėtas vertimasis ūkine, komercine, finansine ar profesine veikla
 
@@ -2726,11 +2758,13 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 
 1\. Šiame skyriuje nurodyta didelė turtinė žala yra 150 MGL dydžio sumą viršijanti žala.
 
-2\. Šio skyriaus 201 straipsnyje nurodyti namų gamybos stiprūs alkoholiniai gėrimai yra naminė degtinė, spirito skiediniai (mišiniai), kiti namų gamybos alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų, taip pat spiritas.
+2\. Šio skyriaus 201 straipsnyje nurodyti namų gamybos stiprūs alkoholiniai gėrimai yra alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 ### XXXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI FINANSŲ SISTEMAI
 
@@ -2920,7 +2954,7 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 
 #### 229 straipsnis. Tarnybos pareigų neatlikimas(
 
-)Valstybės tarnautojas ar jam prilygintas asmuo, dėl neatsargumo neatlikęs savo pareigų ar jas netinkamai atlikęs, jeigu dėl to valstybė, juridinis ar fizinis asmuo patyrė didelės žalos,
+Valstybės tarnautojas ar jam prilygintas asmuo, dėl neatsargumo neatlikęs savo pareigų ar jas netinkamai atlikęs, jeigu dėl to valstybė, juridinis ar fizinis asmuo patyrė didelės žalos,
 
 baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3084,19 +3118,21 @@ XXXV SKYRIUS
 
 1\. Tas, kas dalyvavo nusikalstamo susivienijimo veikloje,
 
-baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 
 2\. Tas, kas dalyvavo šaunamaisiais ginklais, sprogmenimis ar sprogstamosiomis medžiagomis ginkluoto nusikalstamo susivienijimo veikloje,
 
-baudžiamas laisvės atėmimu nuo šešerių iki dvylikos metų arba laisvės atėmimu iki gyvos galvos.
+baudžiamas laisvės atėmimu nuo šešerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 3\. Tas, kas organizavo šio straipsnio 1 ar 2 dalyje numatytus nusikalstamus susivienijimus arba jiems vadovavo,
 
-baudžiamas laisvės atėmimu nuo dešimties iki penkiolikos metų arba laisvės atėmimu iki gyvos galvos.
+baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 250 straipsnis. Teroro aktas
 
@@ -3490,37 +3526,43 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 3\. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
 
-#### 281 straipsnis. Kelių transporto eismo saugumo ar transporto priemonių eksploatavimo taisyklių pažeidimas
+281 straipsnis. Kelių transporto eismo saugumo ar transporto priemonių eksploatavimo taisyklių pažeidimas
 
-1\. Tas, kas vairavo kelių transporto priemonę būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ir pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko avarija, dėl kurios buvo nesunkiai sutrikdyta kito žmogaus sveikata arba nukentėjusiam asmeniui padaryta didelės turtinės žalos,
+1\. Tas, kas vairuodamas kelių transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio buvo nesunkiai sutrikdyta kito žmogaus sveikata,
+
+baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2\. Tas, kas vairavo kelių transporto priemonę būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ir pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio buvo nesunkiai sutrikdyta kito žmogaus sveikata arba nukentėjusiam asmeniui padaryta didelės turtinės žalos,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas vairuodamas kelių transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko avarija, dėl kurios buvo sunkiai sutrikdyta kito žmogaus sveikata,
+3\. Tas, kas vairuodamas kelių transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio buvo sunkiai sutrikdyta kito žmogaus sveikata,
 
-baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3\. Tas, kas padarė šio straipsnio 2 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
+4\. Tas, kas padarė šio straipsnio 3 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
 
 baudžiamas laisvės atėmimu iki šešerių metų.
 
-4\. Tas, kas vairuodamas kelių transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko avarija, dėl kurios žuvo žmogus,
+5\. Tas, kas vairuodamas kelių transporto priemonę pažeidė kelių eismo saugumo ar transporto priemonės eksploatavimo taisykles, jeigu dėl to įvyko eismo įvykis, dėl kurio žuvo žmogus,
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-5\. Tas, kas padarė šio straipsnio 4 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
+6\. Tas, kas padarė šio straipsnio 5 dalyje numatytą veiką būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų,
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
-6\. Asmuo atsako pagal šio straipsnio 1–5 dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo.
+7\. Asmuo atsako pagal šio straipsnio 1–6 dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo.
 
-7\. Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4 promilės ir daugiau alkoholio.
+8\. Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4 promilės ir daugiau alkoholio.
 
-8\. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
+9\. Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir kitos mechaninės transporto priemonės.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
 
 #### 282 straipsnis. Transporto eismo tvarkos ar saugumo taisyklių pažeidimas
 
@@ -3750,7 +3792,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-**306(¹ )straipsnis. Transporto priemonės identifikavimo numerių suklastojimas, neteisėtas sunaikinimas ar pakeitimas**
+**306(¹) straipsnis. Transporto priemonės identifikavimo numerių suklastojimas, neteisėtas sunaikinimas ar pakeitimas**
 
 1\. Tas, kas suklastojo, neteisėtai sunaikino ar pakeitė transporto priemonės identifikavimo numerius,
 
@@ -4020,8 +4062,18 @@ BAUDŽIAMOJO KODEKSO, PATVIRTINTO 2000 M. RUGSĖJO 26 D. ĮSTATYMU NR. VIII-1968
 
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 39 (2003-04-25)
 
+3\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
+
+BAUDŽIAMOJO KODEKSO 139, 140, 176, 180, 181, 190, 201, 212, 249, 281 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 76 (2003-08-01)
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2003-05-23)
+Redagavo: Aušrinė Trapinskienė (2003-08-06)
 
 [email protected]
