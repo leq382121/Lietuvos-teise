@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2004-04-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_233117"
+redakcija_nuo: "2004-11-11"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_246124"
 ---
 
 # Civilinis kodeksas
@@ -5368,7 +5368,7 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 2\. Išlaikymas taip pat priteisiamas, jeigu tėvai, nutraukdami santuoką ar pradėdami gyventi skyrium, nesusitarė dėl savo nepilnamečių vaikų išlaikymo šios knygos nustatyta tvarka.
 
-3\. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas.
+3\. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas, arba kai vaikui būtina parama, jis mokosi vidurinių, aukštųjų ar profesinių mokyklų dieniniuose skyriuose ir yra ne vyresnis negu 24 metų.
 
 4\. Priteisto išlaikymo išieškojimas nutraukiamas, jeigu:
 
@@ -5381,6 +5381,10 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 4\) vaikas miršta.
 
 5\. Kai asmuo, iš kurio buvo priteistas išlaikymas, mirė, išlaikymo pareiga pereina jo įpėdiniams, kiek leidžia paveldimas turtas, nesvarbu, koks palikimo priėmimo būdas pagal šio kodekso penktosios knygos normas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2571, 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)*
 
 ###### 3.195 straipsnis. Išlaikymo pareiga atskyrus vaikus nuo tėvų
 
@@ -18198,8 +18202,16 @@ Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)
 
 CIVILINIO KODEKSO 1.3, 2.55, 2.61, 2.72, 2.79, 2.112, 2.152, 2.160, 2.167, 4.176, 6.292, 6.298, 6.299, 6.747, 6.748, 6.751, 6.753 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+2\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2571, 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)
+
+CIVILINIO KODEKSO 3.194 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-05-12)
+Redagavo: Aušrinė Trapinskienė (2004-11-30)
 
 [email protected]
