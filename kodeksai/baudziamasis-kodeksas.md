@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2004-07-05"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_237810"
+redakcija_nuo: "2004-10-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_245271"
 ---
 
 # Baudžiamasis kodeksas
@@ -3532,6 +3532,12 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 ### XXXVI SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI, SUSIJĘ SU DISPONAVIMU GINKLAIS, ŠAUDMENIMIS, SPROGMENIMIS, SPROGSTAMOSIOMIS AR RADIOAKTYVIOSIOMIS MEDŽIAGOMIS
 
+**ARBA KARINE ĮRANGA**
+
+*Skyriaus pavadinimas keistas:*
+
+*Nr. IX-2512, 2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)*
+
 #### 253 straipsnis. Neteisėtas disponavimas šaunamaisiais ginklais, šaudmenimis, sprogmenimis ar sprogstamosiomis medžiagomis
 
 1\. Tas, kas neturėdamas leidimo gamino, įgijo, laikė, nešiojo, gabeno ar realizavo šaunamąjį ginklą, šaudmenis, sprogmenis ar sprogstamąsias medžiagas,
@@ -3541,6 +3547,18 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 2\. Tas, kas neturėdamas leidimo pagamino, įgijo, laikė, nešiojo, gabeno ar realizavo ne mažiau kaip tris šaunamuosius ginklus, didelės sprogstamosios galios arba didelį kiekį šaudmenų, sprogmenų ar sprogstamųjų medžiagų,
 
 baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
+
+**253(¹) straipsnis. Neteisėtas tarpininkavimas dėl karinės įrangos perdavimo**
+
+1\. Tas, kas neturėdamas leidimo tarpininkavo dėl karinės įrangos perdavimo į kitą, ne Europos Sąjungos, valstybę,
+
+baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba bauda, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. IX-2512, 2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)*
 
 #### 254 straipsnis. Šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų pagrobimas
 
@@ -4470,8 +4488,16 @@ BAUDŽIAMOJO KODEKSO 20, 42, 63, 67, 68, 72, 75, 77, 82, 90, 91, 92, 95, 97, 128
 
 Asmenims, kuriems baudos ar arešto bausmės vykdymas atidėtas pagal Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsnius, nustatyti įpareigojimai vykdomi ir po šio įstatymo įsigaliojimo iki bausmės vykdymo atidėjimo termino pabaigos. Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas priima vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, 75 ir 92 straipsniais.
 
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2512, 2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
+
+BAUDŽIAMOJO KODEKSO XXXVI SKYRIAUS PAVADINIMO PAKEITIMO IR KODEKSO PAPILDYMO 253(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-07-15)
+Redagavo: Aušrinė Trapinskienė (2004-11-16)
 
 [email protected]
