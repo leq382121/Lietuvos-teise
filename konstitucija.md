@@ -4,8 +4,8 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "2002-07-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/RzlMgDnCyv"
+redakcija_nuo: "2003-02-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/EOrazLHexW"
 ---
 
 # Lietuvos Respublikos Konstitucija
@@ -388,19 +388,17 @@ Valstybė gina vartotojo interesus.
 
 ### 47 straipsnis
 
-Žemė, vidaus vandenys, miškai, parkai nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
-
-Savivaldybėms, kitiems nacionaliniams subjektams, taip pat tiems ūkinę veiklą Lietuvoje vykdantiems užsienio subjektams, kurie nustatyti konstitucinio įstatymo pagal Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus, gali būti leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokio sklypo įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato konstitucinis įstatymas.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. I-1390, 1996-06-20, Žin., 1996, Nr. 64-1501 (1996-07-05), i. k. 0961010ISTA00I-1390*
-
-Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
-
 Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai.
 
 Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš jos teritorijos, jos kontinentinį šelfą bei ekonominę zoną Baltijos jūroje.
+
+Žemę, vidaus vandenis ir miškus įsigyti nuosavybėn Lietuvos Respublikoje užsienio subjektai gali pagal konstitucinį įstatymą.
+
+Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-1305, 2003-01-23, Žin., 2003, Nr. 14-540 (2003-02-07), i. k. 1031010ISTA0IX-1305*
 
 ### 48 straipsnis
 
@@ -1359,3 +1357,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-959, 2002-06-20, Žin., 2002, Nr. 65-2629 (2002-06-28), i. k. 1021010ISTA00IX-959
 
 Lietuvos Respublikos Konstitucijos 119 straipsnio pakeitimo įstatymas
+
+4\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-1305, 2003-01-23, Žin., 2003, Nr. 14-540 (2003-02-07), i. k. 1031010ISTA0IX-1305
+
+Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas
