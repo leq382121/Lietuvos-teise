@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2004-03-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_230770"
+redakcija_nuo: "2004-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_232719"
 ---
 
 # Baudžiamasis kodeksas
@@ -71,6 +71,12 @@ BENDRosios NUOSTATos
 2\) nustato bausmes, baudžiamojo ir auklėjamojo poveikio priemones už šiame kodekse numatytas veikas bei priverčiamąsias medicinos priemones;
 
 3\) nustato baudžiamosios atsakomybės pagrindus ir sąlygas, taip pat pagrindus ir sąlygas, kuriais nusikalstamas veikas padarę asmenys gali būti atleisti nuo baudžiamosios atsakomybės ar bausmės.
+
+3\. Šio kodekso nuostatos yra suderintos su Europos Sąjungos teisės aktų, nurodytų šio kodekso priede, nuostatomis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
 
 #### 2 straipsnis. Pagrindinės baudžiamosios atsakomybės nuostatos
 
@@ -189,6 +195,52 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+**9(¹) straipsnis. Asmens perdavimas pagal Europos arešto orderį**
+
+1\. Remiantis Europos arešto orderiu, Lietuvos Respublikos pilietis ar užsienietis, Europos arešto orderį išdavusioje valstybėje įtariamas nusikalstamos veikos padarymu arba šioje valstybėje nubaustas su laisvės atėmimu susijusia bausme, tačiau jos neatlikęs, perduodamas Europos arešto orderį išdavusiai valstybei.
+
+2\. Lietuvos Respublikos pilietis ar užsienietis pagal Europos arešto orderį perduodamas tik tuo atveju, jeigu pagal šį orderį išdavusios valstybės įstatymus už jo padarytą nusikalstamą veiką yra numatyta bent vienerių metų su laisvės atėmimu susijusi bausmė, o jeigu Europos arešto orderis buvo išduotas dėl jau paskirtos su laisvės atėmimu susijusios bausmės vykdymo, – tik kai paskirtos bausmės terminas yra ne trumpesnis negu keturi mėnesiai.
+
+3\. Lietuvos Respublikos pilietis ar užsienietis neperduodamas Europos arešto orderį išdavusiai valstybei, jeigu:
+
+1\) asmens perdavimas pagal Europos arešto orderį pažeistų pagrindines žmogaus teises ir (ar) laisves;
+
+2\) asmuo pagal amnestijos aktą ar malonės tvarka Lietuvos Respublikoje atleistas nuo bausmės už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, atlikimo;
+
+3\) asmuo už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo nuteistas Lietuvos Respublikoje ar kitoje valstybėje ir paskirta bausmė įvykdyta, tebevykdoma ar nebegali būti vykdoma pagal nuteisusios valstybės įstatymus;
+
+4\) asmuo nusikalstamos veikos padarymo metu nebuvo sulaukęs amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką;
+
+5\) padaryta veika pagal šį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu, išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13 d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų 2 straipsnio 2 dalyje numatytos nusikalstamos veikos, o Europos arešto orderį išdavusios valstybės baudžiamieji įstatymai už šią nusikalstamą veiką numato ne mažesnę negu trejų metų su laisvės atėmimu susijusią bausmę;
+
+6\) asmuo už padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje išteisintas ar atleistas nuo baudžiamosios atsakomybės ar bausmės;
+
+7\) Europos arešto orderis yra išduotas dėl nusikalstamos veikos, dėl kurios gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, ir yra suėję šio kodekso 95 straipsnyje numatyti apkaltinamojo nuosprendžio priėmimo senaties ar 96 straipsnyje numatyti apkaltinamojo nuosprendžio vykdymo senaties terminai;
+
+8\) nusikalstama veika padaryta ne Europos arešto orderį išdavusios valstybės teritorijoje ir Lietuvos Respublikos baudžiamieji įstatymai negalėtų būti taikomi dėl analogiškos veikos, jeigu ji būtų buvusi padaryta ne Lietuvos valstybės teritorijoje arba ne laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais.
+
+4\. Lietuvos Respublikos pilietis ar užsienietis, atsižvelgiant į bylos aplinkybes ir teisingumo interesus, gali būti neperduodamas Europos arešto orderį išdavusiai valstybei, jeigu:
+
+1\) dėl asmens padarytos nusikalstamos veikos, dėl kurios išduotas Europos arešto orderis, Lietuvos Respublikoje yra pradėtas baudžiamasis procesas;
+
+2\) dėl asmens padarytos nusikalstamos veikos Lietuvos Respublikoje buvo atsisakyta pradėti baudžiamąjį procesą arba pradėtas baudžiamasis procesas buvo nutrauktas;
+
+3\) Europos arešto orderis yra išduotas dėl Lietuvos Respublikos piliečiui ar nuolat Lietuvos Respublikoje gyvenančiam asmeniui paskirtos su laisvės atėmimu susijusios bausmės vykdymo ir Lietuvos Respublika perima šios bausmės vykdymą;
+
+4\) nusikalstama veika padaryta Lietuvos valstybės teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais;
+
+5\) Europos arešto orderyje trūksta informacijos, reikalingos sprendimui dėl asmens perdavimo priimti, ir Europos arešto orderį išdavusi valstybė per nustatytą terminą jos nepateikia.
+
+5\. Jeigu Europos arešto orderis išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui paskirtos su laisvės atėmimu susijusios bausmės vykdymo, o ši bausmė buvo paskirta jam nedalyvaujant ir nepranešus apie bylos nagrinėjimo vietą bei laiką, Lietuvos Respublikos pilietis ar užsienietis perduodamas tik tuo atveju, kai Europos arešto orderį išdavusi valstybė užtikrina, kad šio asmens prašymu byla bus išnagrinėta (peržiūrėta) ir nuosprendis priimtas jam dalyvaujant.
+
+6\. Jeigu Europos arešto orderis išduotas dėl nusikalstamos veikos, už kurią Europos arešto orderį išdavusios valstybės įstatymai numato laisvės atėmimo iki gyvos galvos bausmę, Lietuvos Respublikos pilietis ar užsienietis perduodamas su sąlyga, kad Europos arešto orderį išdavusios valstybės įstatymai numato galimybę nuteistajam ne vėliau kaip atlikus dvidešimt metų laisvės atėmimo bausmės kreiptis dėl atleidimo nuo bausmės ar jos sušvelninimo.
+
+7\. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
 
 III SKYRIUS
 
@@ -1715,6 +1767,18 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 Tas, kas būdamas įgaliotas atstovauti Lietuvos Respublikai palaikant santykius su kita valstybe ar kitos valstybės organizacija ar tarptautinėje viešojoje organizacijoje viršijo įgaliojimus arba sąmoningai neatliko pareigų, arba netinkamai jas atliko ir dėl to padarė Lietuvos Respublikos interesams prieštaraujančią veiką, dėl kurios padaryta ar galėjo būti padaryta didelės žalos,
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+123(¹) straipsnis. Tarptautinių sankcijų pažeidimas
+
+1\. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
+
+baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba laisvės atėmimu iki penkerių metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
 
 #### 124 straipsnis. Neteisėtas disponavimas informacija, kuri yra valstybės paslaptis
 
@@ -4146,6 +4210,20 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 2\. Šauktinis yra karo prievolininkas, Karo prievolės įstatymo nustatyta tvarka ir būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar alternatyviosios tarnybos ir nuo jos neatleistas.
 
+Lietuvos Respublikos
+
+baudžiamojo kodekso
+
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų.
+
+*Kodeksas papildytas priedu:*
+
+*Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
+
 \_________________
 
 **Pakeitimai:**
@@ -4196,8 +4274,18 @@ Nr. IX-2093, 2004-03-30, Žin., 2004, Nr. 54-1835 (2004-04-15)
 
 BAUDŽIAMOJO KODEKSO 233, 235 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+6\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
+
+BAUDŽIAMOJO KODEKSO 1 STRAIPSNIO PAPILDYMO BEI KODEKSO PAPILDYMO 9(1), 123(1) STRAIPSNIAIS IR PRIEDU ĮSTATYMAS
+
+Šis Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-04-16)
+Redagavo: Aušrinė Trapinskienė (2004-05-06)
 
 [email protected]
