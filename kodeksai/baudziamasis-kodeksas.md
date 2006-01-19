@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2005-06-23"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_259127"
+redakcija_nuo: "2006-01-20"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_270444"
 ---
 
 # Baudžiamasis kodeksas
@@ -4290,17 +4290,25 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 ### XLIII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VALDYMO TVARKAI, SUSIJĘ SU DOKUMENTŲ AR MATAVIMO PRIEMONIŲ KLASTOJIMU
 
-#### 300 straipsnis. Dokumento suklastojimas ar suklastoto dokumento panaudojimas arba realizavimas
+#### 300 straipsnis. Dokumento suklastojimas ar disponavimas suklastotu dokumentu
 
-1\. Tas, kas pagamino netikrą dokumentą, suklastojo tikrą dokumentą arba netikrą ar suklastotą dokumentą panaudojo ar realizavo,
+1\. Tas, kas pagamino netikrą dokumentą, suklastojo tikrą dokumentą arba žinomai netikrą ar žinomai suklastotą tikrą dokumentą laikė, gabeno, siuntė, panaudojo ar realizavo,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo padaryta didelės žalos,
+2\. Tas, kas pagamino netikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar valstybinio socialinio draudimo pažymėjimą arba suklastojo tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar valstybinio socialinio draudimo pažymėjimą, arba žinomai netikrą ar žinomai suklastotą tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar valstybinio socialinio draudimo pažymėjimą laikė, gabeno, siuntė, panaudojo ar realizavo,
 
-baudžiamas laisvės atėmimu iki penkerių metų.
+baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytas veikas, jeigu dėl to buvo padaryta didelės žalos, arba pagamino didelį kiekį netikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba suklastojo didelį kiekį tikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba žinomai netikrų ar žinomai suklastotų tikrų didelį kiekį asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų laikė, gabeno, siuntė, panaudojo ar realizavo,
+
+baudžiamas laisvės atėmimu iki šešerių metų.
+
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)*
 
 #### 301 straipsnis. Antspaudo, spaudo ar blanko suklastojimas
 
@@ -4316,15 +4324,35 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 #### 302 straipsnis. Antspaudo, spaudo ar dokumento pagrobimas arba pagrobtojo panaudojimas
 
-1\. Tas, kas pagrobė fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar griežtos atskaitomybės blanką arba pasinaudojo pagrobtu antspaudu, spaudu, dokumentu ar griežtos atskaitomybės blanku,
+1\. Tas, kas pagrobė ar neturėdamas teisėto pagrindo įgijo, laikė, gabeno, siuntė, panaudojo ar realizavo fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar griežtos atskaitomybės blanką,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-2\. Tas, kas šio straipsnio 1 dalyje numatytus veiksmus darė versliškai arba jeigu dėl šių veiksmų buvo sutrikdyta fizinio ar juridinio asmens veikla, arba padaryta didelės žalos valstybei arba fiziniam ar juridiniam asmeniui,
+2\. Tas, kas šio straipsnio 1 dalyje numatytas veikas darė versliškai arba pagrobė ar neturėdamas teisėto pagrindo įgijo, laikė, gabeno, siuntė, panaudojo ar realizavo didelį kiekį fizinio ar juridinio asmens antspaudų, spaudų, dokumentų ar griežtos atskaitomybės blankų, arba jeigu buvo padaryta didelės žalos valstybei arba fiziniam ar juridiniam asmeniui,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas laisvės atėmimu iki šešerių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)*
+
+**302(¹) straipsnis. Įrangos antspaudams, spaudams, dokumentams ar griežtos atskaitomybės blankams klastoti gaminimas, laikymas, gabenimas, siuntimas ar realizavimas**
+
+1\. Tas, kas gamino, laikė, gabeno, siuntė ar realizavo įrangą, programinę įrangą ar kitokias priemones, tiesiogiai skirtas ar pritaikytas netikriems antspaudams, spaudams, dokumentams ar griežtos atskaitomybės blankams gaminti arba tikriems antspaudams, spaudams, dokumentams ar griežtos atskaitomybės blankams klastoti,
+
+baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
+
+2\. Tas, kas šio straipsnio 1 dalyje numatytas veikas darė versliškai arba jeigu buvo padaryta didelės žalos valstybei arba fiziniam ar juridiniam asmeniui,
+
+baudžiamas laisvės atėmimu iki šešerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)*
 
 #### 303 straipsnis. Antspaudo, spaudo ar dokumento sunaikinimas arba paslėpimas
 
@@ -4768,8 +4796,16 @@ Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 
 BAUDŽIAMOJO KODEKSO 48, 60, 145, 147, 157, 212, 213, 214, 215, 226, 249, 251, 252, 256, 267, 270, 272, 274, 280 STRAIPSNIŲ IR PRIEDO PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 147(1), 199(1), 199(2), 267(1), 270(1), 308(1) STRAIPSNIAIS ĮSTATYMAS
 
+12\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)
+
+BAUDŽIAMOJO KODEKSO 300, 302 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 302(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušra Bodin (2005-07-05)
+Redagavo: Aušrinė Trapinskienė (2006-02-11)
 
 [email protected]
