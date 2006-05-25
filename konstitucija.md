@@ -4,8 +4,8 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "2004-08-14"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/FfXSCgsniz"
+redakcija_nuo: "2006-05-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/yNstpNVGmo"
 ---
 
 # Lietuvos Respublikos Konstitucija
@@ -1148,9 +1148,11 @@ Savivaldybių tarybų, jų vykdomųjų organų bei jų pareigūnų aktai ar veik
 
 Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės teise priklauso Lietuvos valstybei.
 
-Pinigų emisijos teisę turi tik Lietuvos bankas.
+Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.
 
-Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus nustato įstatymas.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572*
 
 ### 126 straipsnis
 
@@ -1425,3 +1427,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2344, 2004-07-13, Žin., 2004, Nr. 111-4124 (2004-07-17), i. k. 1041010ISTA0IX-2344
 
 Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas
+
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572
+
+Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas
