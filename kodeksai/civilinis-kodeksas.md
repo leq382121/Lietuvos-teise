@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2004-11-11"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_246124"
+redakcija_nuo: "2006-06-22"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_280349"
 ---
 
 # Civilinis kodeksas
@@ -13520,13 +13520,17 @@ Už rentą iki gyvos galvos perduoto turto atsitiktinis žuvimas ar sugadinimas 
 
 3\. Dovanojimo sutartis negalioja, jeigu dovanotojas nebuvo dovanos savininkas arba nebuvo tinkamai įgaliotas sudaryti tokią sutartį.
 
-4\. Draudžiama priimti dovanas sveikatos priežiūros, gydymo ar globos (rūpybos) institucijų vadovams ir kitiems darbuotojams iš asmenų, kurie šiose institucijose gydosi ar išlaikomi, bei jų artimųjų giminaičių, išskyrus simbolines dovanas, kurių vertė neviršija vieno minimalaus gyvenimo lygio dydžio sumos.
+4\. (Neteko galios nuo 2006 m. liepos 14 d.)
 
 5\. Draudžiama priimti dovanas politikams, valstybės ir savivaldybių pareigūnams ir kitokiems valstybės tarnautojams ir jų artimiesiems giminaičiams, kai tai susiję su politiko, pareigūno ar valstybės tarnautojo tarnybine padėtimi ar tarnybinėmis pareigomis.
 
 6\. Turto, kurio nėra sutarties sudarymo metu ar kuris bus sukurtas tik ateityje, dovanojimo sutartis negalioja.
 
 7\. Dovanojimo sutartis gali būti pripažinta negaliojančia pagal dovanotojo ar jo įpėdinių ieškinį, jeigu sutarties sudarymo metu dovanotojas sirgo sunkia nepagydoma liga, dėl kurios jis negalėjo pareikšti savo tikrosios valios.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-730, 2006-06-22, Žin., 2006, Nr. 77-2974 (2006-07-14)*
 
 ###### 6.471 straipsnis. Dovanojimo apribojimai
 
@@ -18210,8 +18214,16 @@ Nr. IX-2571, 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)
 
 CIVILINIO KODEKSO 3.194 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+3\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-730, 2006-06-22, Žin., 2006, Nr. 77-2974 (2006-07-14)
+
+CIVILINIO KODEKSO 6.470 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2004-11-30)
+Redagavo: Aušrinė Trapinskienė (2006-07-18)
 
 [email protected]
