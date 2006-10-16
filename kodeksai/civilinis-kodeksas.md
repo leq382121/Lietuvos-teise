@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2006-06-22"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_280349"
+redakcija_nuo: "2006-10-17"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_286643"
 ---
 
 # Civilinis kodeksas
@@ -7182,29 +7182,29 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 4\. Ginčus dėl statinių ar sodinių vertės, paėmimo sąlygų ir dėl žemės sklypo paėmimo atveju atsiradusių nuostolių dydžio sprendžia teismas.
 
-###### 4.103 straipsnis. Normatyvinių statybos techninių dokumentų pažeidimo civilinės teisinės pasekmės
+###### 4.103 straipsnis. Neteisėtos statybos civilinės teisinės pasekmės
 
-1\. Fiziniai ar juridiniai asmenys, kurie pasistatė, statosi arba rekonstruoja statinį neturėdami nustatyto leidimo, reikiamai suderinto ir patvirtinto projekto arba tai daro su esminiais nukrypimais nuo statinio projekto, arba šiurkščiai pažeisdami pagrindinius normatyvinius statybos techninius dokumentus, arba turėdami neteisėtai išduotą leidimą, neturi teisės tokiu statiniu naudotis ar disponuoti (parduoti, padovanoti, išnuomoti ir pan.).
+1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai statytojas neturi teisės tokiu statiniu naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.). Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
 
-2\. Asmenys, kurių teisės ir interesai yra pažeidžiami, 1 dalyje nurodytu atveju turi teisę kreiptis į teismą dėl statinio statybos taisyklių ar leidimo statybai išdavimo tvarkos pažeidimo.
+2\. Asmenys, kurių teisės ir interesai yra pažeidžiami, ir kiti įstatymų įgalioti asmenys dėl šio straipsnio 1 dalyje nurodytų pažeidimų turi teisę kreiptis į teismą.
 
 3\. Teismas savo sprendimu gali:
 
-1\) įpareigoti statytoją per nustatytą terminą reikiamai patvirtinti projektą, padaryti reikiamus jo pakeitimus, gauti nustatytą leidimą ar pašalinti kitus trūkumus, susijusius su statinio statybos dokumentų tinkamu įforminimu;
+1\) įpareigoti statytoją per nustatytą terminą reikiamai pertvarkyti statinį (dalį statinio nugriauti, perstatyti ar pan.);
 
-2\) įpareigoti statytoją per nustatytą terminą reikiamai pertvarkyti statinį (dalį statinio nugriauti, perstatyti ar pan.);
+2\) įpareigoti statytoją per nustatytą terminą statinį nugriauti.
 
-3\) įpareigoti statytoją per nustatytą terminą statinį nugriauti.
+4\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 1 punkte nurodyto reikalavimo, statinys (jo dalis) teismo sprendimu pertvarkomas statytojo lėšomis.
 
-4\. Jeigu statytojas per nustatytą terminą įvykdo šio straipsnio 3 dalies 1 ir 2 punktuose nurodytus reikalavimus, nekilnojamuosius daiktus registruojanti institucija privalo teisiškai įregistruoti statybą.
+5\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 2 punkte nurodyto reikalavimo, statinys teismo sprendimu nugriaunamas statytojo lėšomis.
 
-5\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų reikalavimų, statinys (jo dalis) gali būti teismo sprendimu nugriaunamas statytojo lėšomis.
+6\. Statybinės medžiagos, likusios statinius nugriovus, yra statytojo nuosavybė.
 
-6\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 3 punkte nurodyto reikalavimo, statinys (jo dalis) teismo sprendimu nugriaunamas statytojo lėšomis.
+7\. Dėl normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama šio kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta tvarka.
 
-7\. Statybinės medžiagos, likusios statinius nugriovus, yra statytojo nuosavybė.
+*Straipsnio pakeitimas:*
 
-8\. Dėl normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama šio kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta tvarka.
+*Nr. X-858, 2006-10-17, Žin., 2006, Nr. 116-4403 (2006-10-31)*
 
 ###### 4.104 straipsnis. Teisės naudotis žemės sklypu praradimo pasekmės
 
@@ -18222,8 +18222,16 @@ Nr. X-730, 2006-06-22, Žin., 2006, Nr. 77-2974 (2006-07-14)
 
 CIVILINIO KODEKSO 6.470 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+4\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-858, 2006-10-17, Žin., 2006, Nr. 116-4403 (2006-10-31)
+
+CIVILINIO KODEKSO 4.103 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2006-07-18)
+Redagavo: Aušrinė Trapinskienė (2006-11-16)
 
 [email protected]
