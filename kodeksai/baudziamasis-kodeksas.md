@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2006-06-22"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_280488"
+redakcija_nuo: "2006-12-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_289856"
 ---
 
 # Baudžiamasis kodeksas
@@ -1624,7 +1624,7 @@ XIV skyrius
 
 1\) ambulatorinį stebėjimą pirminės psichikos sveikatos priežiūros sąlygomis;
 
-2\) stacionarinį stebėjimą bendro stebėjimo sąlygomis psichikos sveikatos priežiūros įstaigose;
+2\) stacionarinį stebėjimą bendro stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose;
 
 3\) stacionarinį stebėjimą sustiprinto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose;
 
@@ -1632,7 +1632,7 @@ XIV skyrius
 
 2\. Ambulatorinį stebėjimą teismas taiko asmeniui, kurio dėl padarytos veikos pavojingumo ir jo psichikos sutrikimo nereikia stebėti ir gydyti stacionare arba kuris gali toliau ambulatoriškai gydytis, kai po stacionarinio gydymo jo psichikos būklė pagerėja.
 
-3\. Stacionarinį stebėjimą bendro stebėjimo sąlygomis teismas taiko asmeniui, kurį dėl jo psichikos sutrikimo reikia stebėti ir gydyti stacionare.
+3\. Stacionarinį stebėjimą bendro stebėjimo sąlygomis teismas taiko asmeniui, kurį dėl jo psichikos sutrikimo reikia stebėti ir gydyti specializuotame stacionare.
 
 4\. Stacionarinį stebėjimą sustiprinto stebėjimo sąlygomis teismas taiko asmeniui, kurį dėl padarytos veikos pavojingumo ir jo psichikos sutrikimo reikia stebėti ir gydyti specializuotame stacionare.
 
@@ -1641,6 +1641,10 @@ XIV skyrius
 6\. Teismas nenustato priverčiamųjų medicinos priemonių taikymo laiko. Jos taikomos, kol asmuo pasveiksta arba pagerėja jo psichikos būklė bei išnyksta jo pavojingumas. Teismas ne rečiau kaip kartą per šešis mėnesius pagal sveikatos priežiūros įstaigos išvadą privalo spręsti klausimą dėl priverčiamųjų medicinos priemonių taikymo pratęsimo, rūšies pakeitimo ar jų taikymo panaikinimo.
 
 7\. Jeigu priverčiamąsias medicinos priemones taikyti asmeniui nebūtina, taip pat jeigu teismas panaikina šių priemonių taikymą, asmuo gali būti teismo perduodamas giminaičių ar kitų asmenų globai ar rūpybai ir kartu jam gali būti nustatomas medicininis stebėjimas.
+
+*Straipsnio pakeitimas:*
+
+*Nr. X-970, 2006-12-12, Žin., 2006, Nr. 141-5401 (2006-12-28)*
 
 SPECIALIOJI DALIS
 
@@ -4866,8 +4870,16 @@ Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)
 
 BAUDŽIAMOJO KODEKSO 149, 150, 151, 162, 260, 265, 266, 307, 308, 309 STRAIPSNIŲ IR PRIEDO PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 151(1) STRAIPSNIU ĮSTATYMAS
 
+14\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-970, 2006-12-12, Žin., 2006, Nr. 141-5401 (2006-12-28)
+
+BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2006-07-19)
+Redagavo: Aušrinė Trapinskienė (2007-01-02)
 
 [email protected]
