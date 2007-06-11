@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2006-10-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_286643"
+redakcija_nuo: "2007-06-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_299402"
 ---
 
 # Civilinis kodeksas
@@ -5368,7 +5368,7 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 2\. Išlaikymas taip pat priteisiamas, jeigu tėvai, nutraukdami santuoką ar pradėdami gyventi skyrium, nesusitarė dėl savo nepilnamečių vaikų išlaikymo šios knygos nustatyta tvarka.
 
-3\. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas, arba kai vaikui būtina parama, jis mokosi vidurinių, aukštųjų ar profesinių mokyklų dieniniuose skyriuose ir yra ne vyresnis negu 24 metų.
+\*3. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas, arba kai vaikui būtina parama, jis mokosi vidurinių, aukštųjų ar profesinių mokyklų dieniniuose skyriuose ir yra ne vyresnis negu 24 metų.
 
 4\. Priteisto išlaikymo išieškojimas nutraukiamas, jeigu:
 
@@ -5382,9 +5382,15 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 5\. Kai asmuo, iš kurio buvo priteistas išlaikymas, mirė, išlaikymo pareiga pereina jo įpėdiniams, kiek leidžia paveldimas turtas, nesvarbu, koks palikimo priėmimo būdas pagal šio kodekso penktosios knygos normas.
 
+\*Pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.194 straipsnio 3 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, Nr. 171-6319) ta apimtimi, kuria nustatyta, kad teismas visais atvejais privalo priteisti tėvų (ar vieno iš jų) išlaikymą paramos reikalingam, vidurinį išsilavinimą jau įgijusiam, aukštosios ar profesinės mokyklos dieniniame skyriuje besimokančiam ir ne vyresniam negu 24 metų pilnamečiam asmeniui, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2571, 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)*
+
+*Lietuvos Respublikos Konstitucinis Teismas, Nutarimas*
+
+*2007-06-07, Žin., 2007, Nr. 65-2529 (2007-06-12)*
 
 ###### 3.195 straipsnis. Išlaikymo pareiga atskyrus vaikus nuo tėvų
 
@@ -18232,6 +18238,18 @@ CIVILINIO KODEKSO 4.103 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2006-11-16)
+**Konstitucinio Teismo nutarimai:**
+
+1\.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+2007-06-07, Žin., 2007, Nr. 65-2529 (2007-06-12)
+
+DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. LAPKRIČIO 11 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+
+\*\*\* Pabaiga \*\*\*
+
+Redagavo: Aušrinė Trapinskienė (2007-06-13)
 
 [email protected]
