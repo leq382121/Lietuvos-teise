@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2007-07-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_302241"
+redakcija_nuo: "2008-02-05"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_314141"
 ---
 
 # Baudžiamasis kodeksas
@@ -1756,15 +1756,15 @@ Tas, kas po karo veiksmų nutraukimo nepateisinamai vilkino paleisti internuotus
 
 baudžiamas laisvės atėmimu iki trejų metų arba bauda.
 
-#### 109 straipsnis. Neteisėtas Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Jungtinių Tautų Organizacijos emblemos (ženklo) panaudojimas
+#### 109 straipsnis. Neteisėtas Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemos ar kitos visuotinai pripažintos emblemos (ženklo), ar pavadinimo panaudojimas
 
-1\. Tas, kas taikos metu neteisėtai panaudojo Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Jungtinių Tautų Organizacijos emblemą ar kitą visuotinai pripažintą emblemą (ženklą),
-
-baudžiamas laisvės atėmimu iki vienerių metų arba bauda.
-
-2\. Tas, kas karo ar tarptautinio ginkluoto konflikto metu neteisėtai panaudojo Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Jungtinių Tautų Organizacijos emblemą ar kitą visuotinai pripažintą karo metu naudojamą emblemą (ženklą),
+Tas, kas tarptautinio ar netarptautinio ginkluoto konflikto metu neteisėtai panaudojo Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemą ar kitą visuotinai pripažintą emblemą (ženklą), ar pavadinimą,
 
 baudžiamas laisvės atėmimu iki trejų metų arba bauda.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-1433, 2008-01-18, Žin., 2008, Nr. 15-516 (2008-02-05)*
 
 #### 110 straipsnis. Agresija
 
@@ -2990,6 +2990,8 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
+*Straipsnio pakeitimai:*
+
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 **198(²) straipsnis. Neteisėtas disponavimas įrenginiais, programine įranga, slaptažodžiais, prisijungimo kodais ir kitokiais duomenimis**
@@ -3003,6 +3005,8 @@ baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmim
 *Kodeksas papildytas straipsniu:*
 
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
+*Straipsnio pakeitimai:*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
@@ -5074,8 +5078,16 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 
 BAUDŽIAMOJO KODEKSO 7, 38, 47, 63, 66, 70, 75, 82, 93, 129, 166, 167, 172, 178, 180, 181, 182, 183, 184, 185, 189, 194, 196, 197, 198, 198(1), 198(2), 199, 202, 213, 214, 215, 225, 227, 228, 231, 233, 235, 252, 256, 257, 262, 284, 285, 312 STRAIPSNIŲ, PRIEDO PAKEITIMO IR PAPILDYMO, XXVI, XXX SKYRIŲ PAVADINIMŲ PAKEITIMO IR KODEKSO PAPILDYMO 256(1), 257(1) STRAIPSNIAIS ĮSTATYMAS
 
+16\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1433, 2008-01-18, Žin., 2008, Nr. 15-516 (2008-02-05)
+
+BAUDŽIAMOJO KODEKSO 109 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušra Bodin (2007-07-23)
+Redagavo: Aušrinė Trapinskienė (2008-02-06)
 
 [email protected]
