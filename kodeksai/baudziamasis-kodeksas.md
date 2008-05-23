@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2008-02-05"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_314141"
+redakcija_nuo: "2008-05-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_320762"
 ---
 
 # Baudžiamasis kodeksas
@@ -1958,13 +1958,15 @@ baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą ar audinį transplantavimui,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
 
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 #### 130 straipsnis. Nužudymas labai susijaudinus
 
@@ -2038,9 +2040,13 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą ar audinį transplantavimui,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
 
 baudžiamas laisvės atėmimu nuo dvejų iki dvylikos metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 #### 136 straipsnis. Sunkus sveikatos sutrikdymas labai susijaudinus
 
@@ -2094,9 +2100,13 @@ baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki trejų 
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą ar audinį transplantavimui,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
 
 baudžiamas laisvės atėmimu iki penkerių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 #### 139 straipsnis. Nesunkus sveikatos sutrikdymas dėl neatsargumo
 
@@ -4918,15 +4928,17 @@ priedas
 
 11\. 2003 m. gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su seksualiniu vaikų išnaudojimu ir vaikų pornografija (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 10).
 
-12\. 2004 m. spalio 25 d. Tarybos pagrindų sprendimas 2004/757/TVR, nustatantis būtiniausias nuostatas dėl nusikalstamų veikų sudėties požymių ir bausmių neteisėtos prekybos narkotikais srityje (OL 2004 L 335, p. 8).
+12\. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
 
-13\. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/212/TVR dėl nusikalstamu būdu įgytų lėšų, nusikaltimo priemonių ir turto konfiskavimo (OL 2005 L 68, p. 49).
+13\. 2004 m. spalio 25 d. Tarybos pagrindų sprendimas 2004/757/TVR, nustatantis būtiniausias nuostatas dėl nusikalstamų veikų sudėties požymių ir bausmių neteisėtos prekybos narkotikais srityje (OL 2004 L 335, p. 8).
 
-14\. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/222/TVR dėl atakų prieš informacines sistemas (OL 2005 L 69, p. 67).
+14\. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/212/TVR dėl nusikalstamu būdu įgytų lėšų, nusikaltimo priemonių ir turto konfiskavimo (OL 2005 L 68, p. 49).
 
-15\. 2005 m. liepos 12 d. Tarybos pagrindų sprendimas 2005/667/TVR dėl baudžiamosios teisės sistemos stiprinimo įgyvendinant teršimui iš laivų taikomą teisę (OL 2005 L 255, p. 164).
+15\. 2005 m. vasario 24 d. Tarybos pagrindų sprendimas 2005/222/TVR dėl atakų prieš informacines sistemas (OL 2005 L 69, p. 67).
 
-16\. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
+16\. 2005 m. liepos 12 d. Tarybos pagrindų sprendimas 2005/667/TVR dėl baudžiamosios teisės sistemos stiprinimo įgyvendinant teršimui iš laivų taikomą teisę (OL 2005 L 255, p. 164).
+
+17\. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
 
 *Kodeksas papildytas priedu:*
 
@@ -4941,6 +4953,8 @@ priedas
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 \_______________
 
@@ -5086,8 +5100,16 @@ Nr. X-1433, 2008-01-18, Žin., 2008, Nr. 15-516 (2008-02-05)
 
 BAUDŽIAMOJO KODEKSO 109 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+17\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)
+
+BAUDŽIAMOJO KODEKSO 129, 135, 138 STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2008-02-06)
+Redagavo: Aušrinė Trapinskienė (2008-05-27)
 
 [email protected]
