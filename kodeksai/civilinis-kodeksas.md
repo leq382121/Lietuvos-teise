@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2007-06-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_299402"
+redakcija_nuo: "2008-06-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_322201"
 ---
 
 # Civilinis kodeksas
@@ -4156,7 +4156,7 @@ Abiejų sutuoktinių prašymu teismas, nutraukdamas santuoką, sprendime nenurod
 
 2\. Teismas gali taikyti šias laikinąsias apsaugos priemones:
 
-1\) įpareigoti, esant galimybei, vieną sutuoktinį gyventi skyrium;
+1\) įpareigoti vieną sutuoktinį gyventi skyrium;
 
 2\) nustatyti nepilnamečių vaikų gyvenamąją vietą su vienu iš tėvų;
 
@@ -4169,6 +4169,10 @@ Abiejų sutuoktinių prašymu teismas, nutraukdamas santuoką, sprendime nenurod
 6\) areštuoti vieno sutuoktinio turtą, kurio verte būtų galima užtikrinti teismo išlaidų atlyginimą kitam sutuoktiniui;
 
 7\) uždrausti vienam sutuoktiniui matytis su nepilnamečiais vaikais ar lankytis tam tikrose vietose.
+
+*Straipsnio pakeitimai:*
+
+*Nr. X-1566, 2008-06-03, Žin., 2008, Nr. 68-2568 (2008-06-14)*
 
 Penktasis skirsnis
 
@@ -18236,6 +18240,14 @@ Nr. X-858, 2006-10-17, Žin., 2006, Nr. 116-4403 (2006-10-31)
 
 CIVILINIO KODEKSO 4.103 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+5\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1566, 2008-06-03, Žin., 2008, Nr. 68-2568 (2008-06-14)
+
+CIVILINIO KODEKSO 3.65 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18250,6 +18262,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2007-06-13)
+Redagavo: Aušrinė Trapinskienė (2008-06-16)
 
 [email protected]
