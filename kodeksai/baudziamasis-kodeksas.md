@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2008-05-24"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_320762"
+redakcija_nuo: "2008-06-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_323740"
 ---
 
 # Baudžiamasis kodeksas
@@ -652,13 +652,15 @@ VII SKYRIUS
 
 5\. Jeigu už kelis padarytus nusikaltimus skiriamos daugiau negu dvi skirtingų rūšių bausmės, teismas, skirdamas galutinę subendrintą bausmę, iš paskirtų bausmių palieka dvi bausmes: vieną iš jų – griežčiausią, o kitą parenka savo nuožiūra.
 
-6\. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68 ir 72 straipsniais, gali būti skiriamos baudžiamojo poveikio priemonės – uždraudimas naudotis specialia teise ir (ar) turto konfiskavimas.
+6\. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 72, 72¹ ir 72² straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose.
 
 7\. Bausmių rūšis juridiniams asmenims ir bausmių skyrimo nepilnamečiams ypatumus nustato šio kodekso 43 ir 90 straipsniai.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 43 straipsnis. Bausmių rūšys juridiniams asmenims
 
@@ -1122,7 +1124,11 @@ IX SKYRIUS
 
 5\) turto konfiskavimas.
 
-3\. Uždraudimas naudotis specialia teise ir turto konfiskavimas gali būti skiriami kartu su bausme.
+6\) draudimas prisiartinti prie nukentėjusio asmens;
+
+7\) dalyvavimas smurtinį elgesį keičiančiose programose.
+
+3\. Uždraudimas naudotis specialia teise, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose gali būti skiriami kartu su bausme.
 
 4\. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas.
 
@@ -1135,6 +1141,8 @@ IX SKYRIUS
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 68 straipsnis. Uždraudimas naudotis specialia teise
 
@@ -1199,6 +1207,26 @@ Teismas gali paskirti nuo 5 iki 25 MGL dydžio įmoką į nukentėjusių nuo nus
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+#### 72¹ straipsnis. Draudimas prisiartinti prie nukentėjusio asmens
+
+1\. Teismas gali skirti draudimą prisiartinti prie nukentėjusio asmens, jei tai būtina siekiant apsaugoti nukentėjusio asmens teisėtus interesus.
+
+2\. Paskyrus draudimą prisiartinti prie nukentėjusio asmens, iki teismo nustatyto termino pabaigos kaltininkui draudžiama bendrauti ir ieškoti ryšių su nukentėjusiu asmeniu, lankytis nurodytose vietose, kuriose būna nukentėjęs asmuo.
+
+3\. Jei kaltininkas ir nukentėjęs asmuo gyvena vienoje gyvenamojoje patalpoje, paskyrus draudimą prisiartinti prie nukentėjusio asmens, teismas įpareigoja kaltininką gyventi skyrium iki teismo nustatyto termino pabaigos arba kol įstatymų nustatyta tvarka bus išspręstas teisės gyventi toje gyvenamojoje patalpoje suteikimo nukentėjusiam asmeniui arba kaltininkui klausimas.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+#### 72² straipsnis. Dalyvavimas smurtinį elgesį keičiančiose programose
+
+Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmenis, padariusius nusikalstamas veikas artimajam giminaičiui ar šeimos nariui. Šis įpareigojimas turi būti įvykdytas per teismo nustatytą terminą.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 73 straipsnis. Baudžiamojo poveikio priemonių skyrimas
 
@@ -1940,7 +1968,7 @@ baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.
 
 2\) bejėgiškos būklės žmogų;
 
-3\) savo motiną, tėvą ar vaiką;
+3\) savo artimąjį giminaitį ar šeimos narį;
 
 4\) nėščią moterį;
 
@@ -1967,6 +1995,8 @@ baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba lais
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 130 straipsnis. Nužudymas labai susijaudinus
 
@@ -2022,7 +2052,7 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 2\) bejėgiškos būklės žmogų;
 
-3\) savo motiną, tėvą ar vaiką;
+3\) savo artimąjį giminaitį ar šeimos narį;
 
 4\) nėščią moterį;
 
@@ -2047,6 +2077,8 @@ baudžiamas laisvės atėmimu nuo dvejų iki dvylikos metų.
 *Straipsnio pakeitimai:*
 
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 136 straipsnis. Sunkus sveikatos sutrikdymas labai susijaudinus
 
@@ -2082,7 +2114,7 @@ baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki trejų 
 
 2\) bejėgiškos būklės žmogų;
 
-3\) savo motiną, tėvą ar vaiką;
+3\) savo artimąjį giminaitį ar šeimos narį;
 
 4\) nėščią moterį;
 
@@ -2107,6 +2139,8 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 *Straipsnio pakeitimai:*
 
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
+
+*Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
 #### 139 straipsnis. Nesunkus sveikatos sutrikdymas dėl neatsargumo
 
@@ -5108,8 +5142,16 @@ Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)
 
 BAUDŽIAMOJO KODEKSO 129, 135, 138 STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
 
+18\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)
+
+BAUDŽIAMOJO KODEKSO 42, 67, 129, 135, 138 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 72(1), 72(2) STRAIPSNIAIS ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2008-05-27)
+Redagavo: Aušrinė Trapinskienė (2008-07-02)
 
 [email protected]
