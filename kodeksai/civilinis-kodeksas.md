@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2008-06-14"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_322201"
+redakcija_nuo: "2008-12-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_334624"
 ---
 
 # Civilinis kodeksas
@@ -10908,11 +10908,17 @@ Jeigu sutarties standartinės sąlygos prieštarauja nestandartinėms, pirmenyb�
 
 5\. Ar sutarties sąlyga nesąžininga, turi būti vertinama atsižvelgiant į sutartyje numatytų prekių ar paslaugų prigimtį bei visas sutarties sudarymo metu buvusias ir jos sudarymui turėjusias įtakos aplinkybes ir visas kitas tos sutarties ar kitos sutarties, nuo kurios ji priklauso, sąlygas. Sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu (t. y. netaikomos šio straipsnio 1 ir 2 dalių normos), jeigu jos išreikštos aiškiai ir suprantamai.
 
-6\. Kai teismas sutarties sąlygą (sąlygas) pripažįsta nesąžininga, ji negalioja nuo sutarties sudarymo, o likusios sutarties sąlygos šalims lieka privalomos, jeigu tolesnis sutarties vykdymas yra galimas panaikinus nesąžiningas sąlygas.
+6\. Bet kuri vartojimo sutarties rašytinė sąlyga turi būti išreikšta aiškiai ir suprantamai. Jei kyla abejonių dėl sutarties sąlygų, taikoma šio kodekso 6.193 straipsnio 4 dalyje nustatyta sutarčių aiškinimo taisyklė. Ši taisyklė nėra taikoma kolektyvinio vartotojų interesų gynimo atveju, kai siekiama parengtas standartines sutarčių sąlygas uždrausti tolesniam jų naudojimui.
 
-7\. Vartotojas, kurio interesai pažeidžiami dėl nesąžiningų sąlygų taikymo, turi teisę dėl šio pažeidimo kreiptis ir į vartotojų teises ginančias institucijas.
+7\. Kai teismas sutarties sąlygą (sąlygas) pripažįsta nesąžininga, ji negalioja nuo sutarties sudarymo, o likusios sutarties sąlygos šalims lieka privalomos, jeigu tolesnis sutarties vykdymas yra galimas panaikinus nesąžiningas sąlygas.
 
-8\. Vartotojų teises ginančios institucijos turi teisę įstatymų nustatyta tvarka kontroliuoti sutarčių standartines sąlygas ir ginčyti nesąžiningas vartojimo sutarčių sąlygas.
+8\. Vartotojas, kurio interesai pažeidžiami dėl nesąžiningų sąlygų taikymo, turi teisę dėl šio pažeidimo kreiptis ir į vartotojų teises ginančias institucijas.
+
+9\. Vartotojų teises ginančios institucijos turi teisę įstatymų nustatyta tvarka kontroliuoti sutarčių standartines sąlygas ir ginčyti nesąžiningas vartojimo sutarčių sąlygas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-65, 2008-12-16, Žin., 2008, Nr. 149-5997 (2008-12-30)(papildyta 6 dalimi)*
 
 #### XIII skyrius
 
@@ -18248,7 +18254,13 @@ Nr. X-1566, 2008-06-03, Žin., 2008, Nr. 68-2568 (2008-06-14)
 
 CIVILINIO KODEKSO 3.65 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-\*\*\* Pabaiga \*\*\*
+6\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-65, 2008-12-16, Žin., 2008, Nr. 149-5997 (2008-12-30)
+
+CIVILINIO KODEKSO 6.188 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 **Konstitucinio Teismo nutarimai:**
 
@@ -18262,6 +18274,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2008-06-16)
+Redagavo Aušra Bodin (2008-12-30)
 
 [email protected]
