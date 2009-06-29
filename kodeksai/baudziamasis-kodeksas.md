@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2008-06-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_323740"
+redakcija_nuo: "2009-06-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_347438"
 ---
 
 # Baudžiamasis kodeksas
@@ -952,13 +952,17 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 10\) veika padaryta visuotinai pavojingu būdu arba naudojant sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus;
 
-11\) dėl padarytos veikos atsirado sunkių padarinių.
+11\) dėl padarytos veikos atsirado sunkių padarinių;
+
+12\) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
 
 2\. Skirdamas bausmę, teismas neatsižvelgia į tokią atsakomybę sunkinančią aplinkybę, kuri įstatyme numatyta kaip nusikaltimo sudėties požymis.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)*
 
 #### 61 straipsnis. Bausmės skyrimas, kai yra atsakomybę lengvinančių ir (ar) sunkinančių aplinkybių
 
@@ -1986,7 +1990,9 @@ baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
+
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
@@ -1997,6 +2003,8 @@ baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba lais
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+*Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)*
 
 #### 130 straipsnis. Nužudymas labai susijaudinus
 
@@ -2070,7 +2078,9 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
+
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 
 baudžiamas laisvės atėmimu nuo dvejų iki dvylikos metų.
 
@@ -2079,6 +2089,8 @@ baudžiamas laisvės atėmimu nuo dvejų iki dvylikos metų.
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+*Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)*
 
 #### 136 straipsnis. Sunkus sveikatos sutrikdymas labai susijaudinus
 
@@ -2132,7 +2144,9 @@ baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki trejų 
 
 11\) siekdamas nuslėpti kitą nusikaltimą;
 
-12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles,
+12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
+
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 
 baudžiamas laisvės atėmimu iki penkerių metų.
 
@@ -2141,6 +2155,8 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+*Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)*
 
 #### 139 straipsnis. Nesunkus sveikatos sutrikdymas dėl neatsargumo
 
@@ -5150,8 +5166,16 @@ Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)
 
 BAUDŽIAMOJO KODEKSO 42, 67, 129, 135, 138 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 72(1), 72(2) STRAIPSNIAIS ĮSTATYMAS
 
+19\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)
+
+BAUDŽIAMOJO KODEKSO 60, 129, 135 IR 138 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo: Aušrinė Trapinskienė (2008-07-02)
+Redagavo Aušrinė Trapinskienė (2009-06-30)
 
 [email protected]
