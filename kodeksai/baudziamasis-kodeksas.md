@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2009-06-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_347438"
+redakcija_nuo: "2009-07-23"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_349789"
 ---
 
 # Baudžiamasis kodeksas
@@ -2578,15 +2578,37 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 170 straipsnis. Kurstymas prieš bet kokios tautos, rasės, etninę, religinę ar kitokią žmonių grupę
 
-1\. Tas, kas viešais pareiškimais žodžiu, raštu ar panaudodamas visuomenės informavimo priemonę tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+1\. Tas, kas turėdamas tikslą platinti gamino, įsigijo, siuntė, gabeno, laikė dalykus, kuriuose tyčiojamasi, niekinama, skatinama neapykanta ar kurstoma diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstoma smurtauti, fiziškai susidoroti su tokia žmonių grupe ar jai priklausančiu asmeniu, arba juos platino,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Tas, kas viešai tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
+3\. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
+
+**\*170¹ straipsnis. Grupių ir organizacijų, turinčių tikslą diskriminuoti žmonių grupę arba kurstyti prieš ją, kūrimas ir veikla**
+
+1\. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
+
+*\*Pastaba: kodeksas papildytas nauju 170¹ straipsniu*
 
 #### 171 straipsnis. Trukdymas atlikti religines apeigas ar religines iškilmes
 
@@ -2912,11 +2934,11 @@ XXIX SKYRIUS
 
 #### 191 straipsnis. Autorystės pasisavinimas
 
-1\. Tas, kas savo vardu išleido arba viešai paskelbė svetimą literatūros, mokslo, meno ar kitokį kūrinį arba jo dalį,
+1\. Tas, kas savo vardu išleido arba viešai paskelbė svetimą literatūros, mokslo ar meno kūrinį (įskaitant kompiuterių programas ir duomenų bazes) arba jo dalį,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas pasinaudodamas tarnybos padėtimi arba panaudodamas psichinę prievartą privertė literatūros, mokslo, meno ar kitokio kūrinio ar jo dalies autorių pripažinti kitą asmenį bendraautoriumi ar autoriaus teisių perėmėju arba atsisakyti autorystės teisės,
+2\. Tas, kas pasinaudodamas tarnybos padėtimi arba panaudodamas psichinę prievartą privertė literatūros, mokslo ar meno kūrinio (įskaitant kompiuterių programas ir duomenų bazes) arba jo dalies autorių pripažinti kitą asmenį bendraautoriumi ar autoriaus teisių perėmėju arba atsisakyti autorystės teisės,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
@@ -2926,13 +2948,29 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
-#### 192 straipsnis. Literatūros, mokslo, meno ar kitokio kūrinio neteisėtas atgaminimas, neteisėtų kopijų platinimas, gabenimas ar laikymas
+*Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
 
-1\. Tas, kas neteisėtai atgamino literatūros, mokslo, meno ar kitokį kūrinį ar jo dalį arba importavo, eksportavo, platino, gabeno ar laikė komercijos tikslais neteisėtas jų kopijas, jeigu kopijų bendra vertė pagal teisėtų kopijų mažmenines kainas viršijo 100 MGL dydžio sumą,
+*Straipsnio pavadinimo pakeitimai:*
+
+*Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
+
+#### 192 straipsnis. Literatūros, mokslo, meno kūrinio ar gretutinių teisių objekto neteisėtas atgaminimas, neteisėtų kopijų platinimas, gabenimas ar laikymas
+
+1\. Tas, kas neteisėtai atgamino literatūros, mokslo ar meno kūrinį (įskaitant kompiuterių programas ir duomenų bazes) ar gretutinių teisių objektą arba jų dalį komercijos tikslais arba platino, gabeno ar laikė komercijos tikslais neteisėtas jų kopijas, jeigu kopijų bendra vertė pagal teisėtų kopijų, o kai jų nėra, pagal atgamintų kūrinių originalų kainas viršijo 100 MGL dydžio sumą,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+\*2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu neteisėtų kopijų bendra vertė pagal teisėtų kopijų, o kai jų nėra, pagal atgamintų kūrinių originalų kainas viršijo 250 MGL dydžio sumą,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
+
+\*Pastaba: 1 dalis, straipsnis papildytas nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi
 
 #### 193 straipsnis. Informacijos apie autorių teisių ar gretutinių teisių valdymą sunaikinimas arba pakeitimas
 
@@ -5174,8 +5212,16 @@ Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)
 
 BAUDŽIAMOJO KODEKSO 60, 129, 135 IR 138 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 
+20\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
+
+BAUDŽIAMOJO KODEKSO 170, 191, 192 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 170(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2009-06-30)
+Redagavo Vilija Tamaliūnienė (2009-07-23)
 
 [email protected]
