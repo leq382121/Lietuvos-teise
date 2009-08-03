@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2008-12-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_334624"
+redakcija_nuo: "2009-08-04"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_350494"
 ---
 
 # Civilinis kodeksas
@@ -1985,6 +1985,12 @@ BENDROSIOS NUOSTATOS
 1\. Juridinis asmuo yra savo pavadinimą turinti įmonė, įstaiga ar organizacija, kuri gali savo vardu įgyti ir turėti teises bei pareigas, būti ieškovu ar atsakovu teisme.
 
 2\. Šios knygos II dalies normos taikomos atskiroms juridinių asmenų teisinėms formoms, išskyrus, jeigu šio kodekso normos numato kitaip.
+
+3\. Juridinių asmenų, nurodytų Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, steigimą, valdymą, reorganizavimą, pertvarkymą ir likvidavimą šis kodeksas reglamentuoja tiek, kiek Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas nenumato kitaip.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-372, 2009-07-21, Žin., 2009, Nr. 93-3965 (2009-08-04)(papildyta 3 dalimi)*
 
 ###### 2.34 straipsnis. Viešieji ir privatieji asmenys
 
@@ -18262,6 +18268,14 @@ Nr. XI-65, 2008-12-16, Žin., 2008, Nr. 149-5997 (2008-12-30)
 
 CIVILINIO KODEKSO 6.188 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+7\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-372, 2009-07-21, Žin., 2009, Nr. 93-3965 (2009-08-04)
+
+CIVILINIO KODEKSO 2.33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+
 **Konstitucinio Teismo nutarimai:**
 
 1\.
@@ -18274,6 +18288,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2008-12-30)
+Redagavo Aušra Bodin (2009-08-04)
 
 [email protected]
