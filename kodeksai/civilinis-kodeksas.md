@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2009-08-04"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_350494"
+redakcija_nuo: "2009-11-10"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_357638"
 ---
 
 # Civilinis kodeksas
@@ -15804,13 +15804,19 @@ Asmens sveikatos priežiūros paslaugų metu paimti anonimo audiniai ir atskiri 
 
 2\. Jeigu turistas atsisako sutarties dėl aplinkybių, už kurias jis atsako, tai jis turi atlyginti kelionės organizatoriui nuostolius, padarytus dėl tokio atsisakymo. Tačiau nuostolių dydis šiuo atveju negali viršyti maksimalios vienos kelionės kainos.
 
-3\. Jeigu turistas atsisako sutarties dėl aplinkybių, už kurias jis neatsako, tai jis turi teisę reikalauti, kad jam būtų grąžinti ar kompensuoti už kelionę sumokėti pinigai arba, jei kelionė jau iš dalies įvyko, proporcinga jų dalis.
+3\. Jeigu turistas atsisako sutarties dėl su juo susijusių aplinkybių, kurių jis negali kontroliuoti ir kurių sutarties sudarymo metu negalėjo protingai numatyti, kelionės organizatorius turi teisę reikalauti atlyginti patirtus tiesioginius nuostolius, padarytus dėl tokio atsisakymo, išskyrus atvejus, kai sutarties atsisakoma dėl nenugalimos jėgos aplinkybių. Šioje dalyje nurodytais atvejais atlygintinų tiesioginių nuostolių dydis negali viršyti sutartyje nustatytos kelionės kainos.
+
+4\. Turistas, atsisakęs sutarties dėl aplinkybių, už kurias atsako kelionės organizatorius ar asmuo, kurio pagalba kelionės organizatorius naudojasi, arba dėl su turistu nesusijusių aplinkybių, kurių jis negali kontroliuoti ir kurių sutarties sudarymo metu negalėjo protingai numatyti, turi teisę reikalauti, kad jam būtų grąžinti už kelionę sumokėti pinigai arba jo sutikimu kompensuota kitu būdu.
+
+*Straipsnio pakeitimas:*
+
+*Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)*
 
 ###### 6.751 straipsnis. Kelionės organizatoriaus teisė atsisakyti sutarties
 
 1\. Kelionės organizatorius turi teisę atsisakyti sutarties tik dėl svarbių priežasčių, apie kurias jis nedelsdamas privalo informuoti turistą.
 
-2\. Jeigu kelionės organizatorius atsisako sutarties dėl aplinkybių, už kurias turistas neatsako, jis privalo pasiūlyti turistui naują tokios pat ar geresnės kokybės kelionę (alternatyvią kelionę). Jeigu turistas pasiūlytos naujos kelionės atsisako, jis turi teisę reikalauti, kad jam būtų grąžinti ar kompensuoti už neįvykusią kelionę sumokėti pinigai arba, jeigu kelionė iš dalies įvyko, proporcinga jų dalis.
+2\. Jeigu kelionės organizatorius atsisako sutarties dėl aplinkybių, už kurias turistas neatsako, jis privalo pasiūlyti turistui naują tokios pat ar geresnės kokybės kelionę (alternatyvią kelionę). Jeigu dėl pagrįstų priežasčių nėra galimybės pasiūlyti alternatyvią kelionę arba turistas pasiūlytos naujos kelionės atsisako, jis turi teisę reikalauti, kad jam būtų grąžinti už neįvykusią kelionę sumokėti pinigai.
 
 3\. Kelionės organizatorius, atsisakęs sutarties, privalo atlyginti turistui turtinę žalą ir grąžinti pinigus už kelionę. Žala neatlyginama, kai:
 
@@ -15821,6 +15827,8 @@ Asmens sveikatos priežiūros paslaugų metu paimti anonimo audiniai ir atskiri 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)*
+
+*Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)*
 
 ###### 6.752 straipsnis. Sutarties sąlygų pakeitimas
 
@@ -15858,9 +15866,13 @@ Asmens sveikatos priežiūros paslaugų metu paimti anonimo audiniai ir atskiri 
 
 3\. Jeigu sutartis vykdoma ne pagal turisto lūkesčius, kelionės organizatorius, atsižvelgdamas į konkrečias aplinkybes, privalo teikti turistui visokeriopą pagalbą ir paramą. Jeigu priežastis, dėl kurios sutartis nėra tinkamai vykdoma, susijusi su pačiu turistu, kelionės organizatorius turi teikti turistui tokią pagalbą ir paramą, kurios, remiantis protingumo kriterijumi, gali būti reikalaujama iš kelionės organizatoriaus pagal sutartį. Šiuo atveju kelionės organizatoriaus išlaidas, susijusias su tokios pagalbos ir paramos teikimu, turi atlyginti pats turistas. Jeigu už netinkamą sutarties vykdymą atsako kelionės organizatorius arba asmuo, kurio pagalba jis naudojasi (šio straipsnio 2 dalis), tai visas išlaidas, susijusias su papildomos pagalbos ir paramos teikimu turistui, apmoka pats kelionės organizatorius.
 
-4\. Jeigu prasidėjus kelionei paaiškėja, kad kelionės organizatorius negalės įvykdyti pagrindinės sutartų paslaugų dalies, tai jis privalo pasiūlyti turistui tinkamą alternatyvią kelionę už tokią pačią kainą sutartyje nurodytam terminui bei kompensuoti turistui anksčiau pasiūlytų ir faktiškai suteiktų paslaugų kainos skirtumą. Jeigu kelionės organizatorius dėl pagrįstų priežasčių negali pasiūlyti alternatyvios kelionės arba dėl protingų priežasčių turistas jos atsisakė, kelionės organizatorius turi užtikrinti turisto grąžinimą atgal arba nuvežimą į kitą vietovę, dėl kurios sutinka turistas, taip pat grąžinti turistui pinigus už tokią kelionę.
+4\. Jeigu prasidėjus kelionei paaiškėja, kad kelionės organizatorius negalės įvykdyti pagrindinės sutartų paslaugų dalies, tai jis privalo pasiūlyti turistui tinkamas alternatyvias paslaugas už tokią pačią kainą sutartyje nurodytam terminui ir kompensuoti turistui anksčiau pasiūlytų ir faktiškai suteiktų paslaugų kainos skirtumą. Jeigu kelionės organizatorius dėl pagrįstų priežasčių negali pasiūlyti alternatyvių paslaugų arba dėl protingų priežasčių turistas jų atsisakė, kelionės organizatorius, be papildomo užmokesčio, turi užtikrinti turisto grąžinimą atgal arba nuvežimą į kitą vietovę, dėl kurios sutinka turistas, taip pat grąžinti turistui pinigus už nesuteiktas paslaugas.
 
 5\. Jeigu dėl netinkamo sutarties vykdymo, už kurį atsako kelionės organizatorius, turisto pagrįsti ir protingi lūkesčiai neišsipildo ir dėl to turistas lieka kelione nepatenkintas, jis turi teisę reikalauti atlyginti ir neturtinę žalą. Atlygintinos neturtinės žalos dydis šiuo atveju negali viršyti trigubos kelionės kainos.
+
+*Straipsnio pakeitimas:*
+
+*Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)*
 
 ###### 6.755 straipsnis. Draudimas panaikinti ar riboti civilinę atsakomybę
 
@@ -16878,17 +16890,25 @@ Jeigu įstatymas ar sutartis nustato prekių sandėlio teisę disponuoti saugomo
 
 3\) buvo viešbučio saugojami protingą terminą iki asmens apsigyvenimo viešbutyje ir po to, kai asmuo iš viešbučio išvyko.
 
-3\. Viešbutis privalo priimti saugoti jame apsigyvenusių asmenų pinigus, brangenybes ir kitas vertybes, išskyrus daiktus, kurie kelia pavojų aplinkiniams arba dėl savo labai didelių gabaritų ar didžiulės vertės gali sudaryti didelių nepatogumų viešbučiui ir jo gyventojams.
+3\. Kai turtas nėra perduotas viešbučiui saugoti, išskyrus atvejus, kai viešbutis atsisakė priimti saugoti turtą, kurį jam privaloma priimti saugoti, civilinę atsakomybę už viešbutyje apsigyvenusio asmens daiktų praradimą, trūkumą ar sugadinimą riboja viešbutyje apsigyvenusio asmens vienos nakvynės viešbutyje kaina, padauginta iš šimto. Civilinę atsakomybę už viešbutyje apsigyvenusio asmens vieno daikto praradimą, trūkumą ar sugadinimą riboja viešbutyje apsigyvenusio asmens vienos nakvynės viešbutyje kaina, padauginta iš penkiasdešimties.
 
-4\. Viešbutis, priimdamas saugoti pinigus ar kitas vertybes, turi teisę reikalauti, kad jie būtų tinkamai supakuoti ir pažymėti.
+4\. Viešbutis atsako ir jo civilinė atsakomybė neribojama pagal šio straipsnio 3 dalį, kai turtas buvo sugadintas, sunaikintas ar prarastas dėl paties viešbučio ar dėl asmens, už kurio veiksmus jis yra atsakingas, kaltės.
 
-5\. Gyvenantis viešbutyje asmuo privalo nedelsdamas pranešti viešbučio administracijai apie savo daiktų dingimą, trūkumą, sugadinimą ar žuvimą. Priešingu atveju viešbutis atleidžiamas nuo atsakomybės už daiktų neišsaugojimą.
+5\. Viešbutis privalo priimti saugoti jame apsigyvenusių asmenų pinigus, brangenybes ir kitas vertybes, išskyrus daiktus, kurie kelia pavojų aplinkiniams arba dėl savo labai didelių gabaritų ar didžiulės vertės gali sudaryti didelių nepatogumų viešbučiui ir jo gyventojams.
 
-6\. Viešbutis neatsako, jeigu daiktai buvo neišsaugoti dėl daiktų savininko, jį lydinčių ar pasikviestų į viešbutį asmenų kaltės, nenugalimos jėgos arba dėl paties daikto savybių. Viešbutis taip pat neatsako už viešbutyje gyvenančių asmenų transporto priemonių, paliktų ne viešbučio saugomoje teritorijoje, juose esančių daiktų bei gyvūnų neišsaugojimą.
+6\. Viešbutis, priimdamas saugoti pinigus ar kitas vertybes, turi teisę reikalauti, kad jie būtų tinkamai supakuoti ir pažymėti.
 
-7\. Šalių susitarimas arba vienašalis viešbučio pareiškimas, kad viešbutis neatsako už gyventojų daiktų saugumą arba kuriuo nustatoma viešbučio ribota atsakomybė, negalioja.
+7\. Gyvenantis viešbutyje asmuo privalo nedelsdamas pranešti viešbučio administracijai apie savo daiktų dingimą, trūkumą, sugadinimą ar žuvimą. Priešingu atveju viešbutis atleidžiamas nuo atsakomybės už daiktų neišsaugojimą.
 
-8\. Šio straipsnio taisyklės taip pat taikomos daiktų saugojimui moteliuose, poilsio namuose, pensionuose, sanatorijose ir kitose panašiose įstaigose.
+8\. Viešbutis neatsako, jeigu daiktai buvo neišsaugoti dėl daiktų savininko, jį lydinčių ar pasikviestų į viešbutį asmenų kaltės, nenugalimos jėgos arba dėl paties daikto savybių. Viešbutis taip pat neatsako už viešbutyje gyvenančių asmenų transporto priemonių, paliktų ne viešbučio saugomoje teritorijoje, juose esančių daiktų bei gyvūnų neišsaugojimą.
+
+9\. Šalių susitarimas arba vienašalis viešbučio pareiškimas, kad viešbutis neatsako už gyventojų daiktų saugumą arba kuriuo nustatoma viešbučio ribota atsakomybė, negalioja. Viešbučio ribota atsakomybė nustatyta šio straipsnio 3 dalyje.
+
+10\. Šio straipsnio taisyklės taip pat taikomos daiktų saugojimui moteliuose, poilsio namuose, pensionuose, sanatorijose ir kitose panašiose įstaigose.
+
+*Straipsnio pakeitimas:*
+
+*Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)*
 
 ###### 6.866 straipsnis. Daiktų saugojimas banke
 
@@ -18276,6 +18296,16 @@ Nr. XI-372, 2009-07-21, Žin., 2009, Nr. 93-3965 (2009-08-04)
 
 CIVILINIO KODEKSO 2.33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)
+
+CIVILINIO KODEKSO 6.750, 6.751, 6.754, 6.865 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+\*\*\* Pabaiga \*\*\*
+
 **Konstitucinio Teismo nutarimai:**
 
 1\.
@@ -18288,6 +18318,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2009-08-04)
+Redagavo Aušrinė Trapinskienė (2009-11-11)
 
 [email protected]
