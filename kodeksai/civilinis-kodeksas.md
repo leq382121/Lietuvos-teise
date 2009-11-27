@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2009-11-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_357638"
+redakcija_nuo: "2009-11-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_359474"
 ---
 
 # Civilinis kodeksas
@@ -2426,7 +2426,7 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 1\) fiziniams asmenims, kurių duomenys įrašyti registre, – registre kaupiami duomenys apie šiuos asmenis;
 
-2\) teisėtvarkos institucijoms – kiek jų reikia tiesioginėms funkcijoms atlikti;
+2\) teisėtvarkos institucijoms ir teismams – kiek jų reikia tiesioginėms funkcijoms atlikti;
 
 3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal keitimosi duomenimis sutartis.
 
@@ -2435,6 +2435,8 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)*
+
+*Nr. XI-485, 2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)*
 
 ###### 2.73 straipsnis. Atsakomybė už neteisėtą atsisakymą įregistruoti juridinį asmenį bei už klaidas juridinių asmenų registre
 
@@ -18304,6 +18306,14 @@ Nr. XI-447, 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)
 
 CIVILINIO KODEKSO 6.750, 6.751, 6.754, 6.865 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-485, 2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)
+
+CIVILINIO KODEKSO 2.72 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18318,6 +18328,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2009-11-11)
+Redagavo Aušrinė Trapinskienė (2009-12-02)
 
 [email protected]
