@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2009-07-23"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_349789"
+redakcija_nuo: "2009-12-10"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_360699"
 ---
 
 # Baudžiamasis kodeksas
@@ -3670,7 +3670,7 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas apkaltos proceso metu Seimo specialiajai tyrimo komisijai ar Seimui būdamas liudytoju davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė,
+2\. Tas, kas apkaltos proceso metu Seimo specialiajai tyrimo komisijai ar Seimui būdamas liudytoju davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė arba Seimo laikinajai tyrimo komisijai ar Seimo komitetui, kuriam Seimas suteikė laikinosios tyrimo komisijos įgaliojimus, pateikė melagingą pranešimą, paaiškinimą, informaciją ar duomenis,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3685,6 +3685,8 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 *Nr. IX-2093, 2004-03-30, Žin., 2004, Nr. 54-1835 (2004-04-15)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-521, 2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)*
 
 #### 236 straipsnis. Melagingas įskundimas ar pranešimas apie nebūtą nusikaltimą
 
@@ -5220,8 +5222,16 @@ Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
 
 BAUDŽIAMOJO KODEKSO 170, 191, 192 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 170(1) STRAIPSNIU ĮSTATYMAS
 
+22\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-521, 2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)
+
+BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Vilija Tamaliūnienė (2009-07-23)
+Redagavo Aušrinė Trapinskienė (2009-12-10)
 
 [email protected]
