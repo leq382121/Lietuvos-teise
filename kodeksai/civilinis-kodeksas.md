@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2009-11-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_359474"
+redakcija_nuo: "2010-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_363244"
 ---
 
 # Civilinis kodeksas
@@ -572,9 +572,13 @@ Užsienio piliečiai ir asmenys be pilietybės pripažįstami nežinia kur esan�
 
 1\. Užsienio juridinių asmenų ar kitų organizacijų atstovybėms ir filialams, įregistruotiems Lietuvos Respublikoje, taikoma Lietuvos Respublikos teisė.
 
-2\. Bent vienas iš asmenų, veikiančių atstovybės ar filialo vardu, turi gyventi Lietuvos Respublikoje.
+2\. Bent vienas iš asmenų, veikiančių atstovybės ar filialo vardu, turi gyventi Lietuvos Respublikoje. Ši nuostata netaikoma Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių juridinių asmenų ar kitų organizacijų atstovybėms ar filialams, įsteigtiems Lietuvos Respublikoje.
 
 3\. Asmenų, veikiančių Lietuvos Respublikoje registruotos atstovybės ar filialo vardu, teises ir pareigas (kompetenciją) nustato Lietuvos Respublikos teisė.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 1.22 straipsnis. Juridinių asmenų ar kitų organizacijų atstovams ir jų civilinei atsakomybei taikytina teisė
 
@@ -2126,7 +2130,7 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 2\) juridinio asmens teisinė forma;
 
-3\) juridinio asmens buveinė;
+3\) (neteko galios nuo 2010 m. sausio 1 d.);
 
 4\) juridinio asmens veiklos tikslai;
 
@@ -2142,7 +2146,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 2\. Viešųjų juridinių asmenų veiklos tikslai turi būti apibūdinti aiškiai ir išsamiai, nurodant veiklos sritį bei rūšį.
 
-3\. Juridinio asmens dalyvių susirinkimo kompetencijos ir šaukimo tvarkos, kitų juridinio asmens organų kompetencijos bei skyrimo ir atšaukimo tvarkos nurodyti nereikia, jeigu ji nesiskiria nuo įstatymuose nustatytos ir apie tai nurodoma pačiuose įstatuose.
+3\. Juridinio asmens dalyvių susirinkimo kompetencijos ir šaukimo tvarkos, kitų juridinio asmens organų kompetencijos bei skyrimo ir atšaukimo tvarkos, juridinio asmens steigimo dokumentų keitimo tvarkos nurodyti nereikia, jeigu ji nesiskiria nuo įstatymuose nustatytos ir apie tai nurodoma pačiuose įstatuose.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.48 straipsnis. Juridinių asmenų turtas
 
@@ -2154,11 +2162,15 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 1\. Juridinio asmens buveine laikoma ta vieta, kurioje yra nuolatinis jo valdymo organas. Juridinio asmens buveinė apibūdinama nurodant patalpų, kuriose yra buveinė, adresą.
 
-2\. Jeigu juridinio asmens buveinė, nurodyta juridinių asmenų registre, steigimo dokumentuose ar sandoryje, ir jo nuolatinio valdymo organo buvimo vieta nesutampa, tai tretieji asmenys nuolatinio valdymo organo buvimo vietą turi teisę laikyti juridinio asmens buveine.
+2\. Jeigu juridinio asmens buveinė, nurodyta juridinių asmenų registre ar sandoryje, ir jo nuolatinio valdymo organo buvimo vieta nesutampa, tai tretieji asmenys nuolatinio valdymo organo buvimo vietą turi teisę laikyti juridinio asmens buveine.
 
 3\. Visas susirašinėjimas su juridiniu asmeniu yra laikomas tinkamu, kai jis vyksta juridinio asmens buveinės adresu, taip pat atsižvelgiant į šio straipsnio 2 dalį, jeigu juridinis asmuo aiškiai nenurodė kitaip.
 
-4\. Juridinis asmuo, pakeitęs buveinę, privalo atitinkamai pakeisti steigimo dokumentus ir juos įregistruoti.
+4\. Sprendimą dėl juridinio asmens buveinės priima steigėjai. Sprendimas dėl juridinio asmens buveinės pakeitimo priimamas juridinio asmens steigimo dokumentų nustatyta tvarka, jeigu kitaip nenumatyta atskirų juridinių asmenų veiklą reglamentuojančiuose įstatymuose.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.50 straipsnis. Juridinių asmenų atsakomybė pagal savo prievoles
 
@@ -2200,7 +2212,7 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 1\) filialo pavadinimas;
 
-2\) filialo buveinė (adresas);
+2\) (neteko galios nuo 2010 m. sausio 1 d.);
 
 3\) filialo veiklos tikslai;
 
@@ -2210,7 +2222,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 6\) kitos įstatymų ar juridinio asmens nustatytos nuostatos.
 
-2\. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnyje, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
+2\. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 4 ir 5 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.55 straipsnis. Filialų reglamentavimas
 
@@ -2218,11 +2234,13 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 2\. Filialo dokumentuose, nurodytuose šio kodekso 2.44 straipsnyje, turi būti pateikiama analogiška informacija ir apie juridinį asmenį, išskyrus informaciją, nurodytą šio kodekso 2.44 straipsnio 3 dalyje, jei filialo steigėjas yra užsienio juridinis asmuo ar kita organizacija.
 
-3\. Užsienio juridinis asmuo ar kita organizacija, įregistravusi filialą, privalo informuoti juridinių asmenų registrą apie pateiktų registrui juridinio asmens dokumentų ir duomenų pasikeitimus ir apie juridinio asmens teisinį statusą, pateikti juridinio asmens metinės finansinės atskaitomybės, taip pat ir konsoliduotos, dokumentus, jei tokia atskaitomybė būtina pagal įstatymus, taikomus užsienio juridiniam asmeniui ar kitai organizacijai.
+3\. Užsienio juridinis asmuo ar kita organizacija, įregistravę filialą, privalo informuoti juridinių asmenų registrą apie pateiktų registrui juridinio asmens ar kitos organizacijos dokumentų ir duomenų pasikeitimus ir apie juridinio asmens ar kitos organizacijos teisinį statusą, pateikti juridinio asmens, kitos organizacijos ar filialo metinių finansinių ataskaitų rinkinį, jeigu užsienio juridinio asmens ar kitos organizacijos metinių finansinių ataskaitų rinkinys sudaromas vadovaujantis skirtingais, negu taikomi Europos Sąjungoje, reikalavimais ir finansinė atskaitomybė būtina pagal Lietuvos Respublikos įstatymus, taikomus užsienio juridiniam asmeniui ar kitai organizacijai.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.56 straipsnis. Juridinio asmens atstovybė
 
@@ -2256,7 +2274,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 2\. Atstovybės dokumentuose, nurodytuose šio kodekso 2.44 straipsnyje, turi būti pateikiama tokia pat informacija ir apie juridinį asmenį, išskyrus informaciją, nurodytą šio kodekso 2.44 straipsnio 3 dalyje, jei atstovybės steigėjas yra užsienio juridinis asmuo ar kita organizacija.
 
-3\. Užsienio juridinis asmuo ar kita organizacija, įregistravusi atstovybę, privalo informuoti juridinių asmenų registrą apie pateiktų registrui juridinio asmens dokumentų ir duomenų pasikeitimus bei apie juridinio asmens teisinį statusą, pateikti juridinio asmens metinės finansinės atskaitomybės, taip pat ir konsoliduotos, dokumentus, jei tokia atskaitomybė būtina pagal įstatymus, taikomus užsienio juridiniam asmeniui ar kitai organizacijai.
+3\. Užsienio juridinis asmuo ar kita organizacija, įregistravę atstovybę, privalo informuoti juridinių asmenų registrą apie pateiktų registrui juridinio asmens dokumentų ir duomenų pasikeitimus ir apie juridinio asmens teisinį statusą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 #### V SKYRIUS
 
@@ -2292,7 +2314,11 @@ Juridiniai asmenys steigiami šio kodekso ir įstatymų nustatyta tvarka. Steigi
 
 3\. Juridiniai asmenys privalo juridinių asmenų registre nurodyti apie save ir savo veiklą visus įstatymų reikalaujamus duomenis (atskleidimo principas).
 
-4\. Juridinių asmenų registro tvarkymo įstaiga (registro tvarkytojas) yra įstatymų nustatyta valstybės institucija.
+4\. Vadovaujančiąją juridinių asmenų registro tvarkymo įstaigą ir registro tvarkymo įstaigą (registro tvarkytoją) nustato įstatymas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.63 straipsnis. Juridinio asmens įsteigimo momentas
 
@@ -2314,19 +2340,29 @@ Juridiniai asmenys steigiami šio kodekso ir įstatymų nustatyta tvarka. Steigi
 
 4\) dokumentai, patvirtinantys registrui pateikiamų duomenų tikrumą ir steigimo dokumentų atitikimą įstatymų reikalavimams, taip pat dokumentai, patvirtinantys, kad juridinį asmenį registruoti galima, nes įstatymuose ar steigimo sandoryje nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar steigimo dokumentuose numatytos aplinkybės. Šiuos dokumentus surašo ar tvirtina notaras, išskyrus juridinių asmenų registro nuostatų numatytais atvejais;
 
-5\) registravimo rinkliavos sumokėjimą patvirtinantis dokumentas, išskyrus atvejus, kai asmuo yra atleistas nuo registravimo rinkliavos;
+5\) (neteko galios nuo 2010 m. sausio 1 d.);
 
 6\) kiti įstatymų nustatyti dokumentai.
 
-3\. Juridinis asmuo turi būti įregistruojamas per trisdešimt dienų nuo visų šio straipsnio 2 dalyje išvardytų dokumentų pateikimo.
+3\. Juridinis asmuo turi būti įregistruojamas per tris darbo dienas nuo visų šio straipsnio 2 dalyje išvardytų dokumentų pateikimo ir atlyginimo už registravimą sumokėjimo.
 
 4\. Juridinių asmenų registravimo tvarką nustato juridinių asmenų registro nuostatai. Juos tvirtina Vyriausybė.
 
-5\. Juridinis asmuo gali būti išregistruotas iš juridinių asmenų registro tik tuo atveju, kai juridinis asmuo pasibaigia.
+5\. Už juridinių asmenų, jų filialų ir atstovybių registravimą, jų duomenų, informacijos ir steigimo dokumentų pakeitimo įregistravimą mokamas atlyginimas. Atlyginimo dydį nustato Vyriausybė.
 
-###### 2.65 straipsnis. Juridinio asmens registravimo pažymėjimas ir kodas
+6\. Juridinis asmuo gali būti išregistruotas iš juridinių asmenų registro tik tuo atveju, kai juridinis asmuo pasibaigia.
 
-Juridinį asmenį įregistravęs registro tvarkytojas išduoda juridinio asmens registravimo pažymėjimą ir juridiniam asmeniui suteikia juridinio asmens kodą.
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+###### 2.65 straipsnis. Juridinio asmens kodas
+
+Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteikia juridinio asmens kodą ir išduoda juridinių asmenų registro išrašą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.66 straipsnis. Juridinių asmenų registro duomenys
 
@@ -2342,9 +2378,9 @@ Juridinį asmenį įregistravęs registro tvarkytojas išduoda juridinio asmens 
 
 5\) juridinio asmens organai;
 
-6\) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas (juridinio asmens kodas), gyvenamoji vieta (buveinė);
+6\) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas, gyvenamoji vieta);
 
-7\) juridinio asmens valdymo organų nariai ir juridinio asmens dalyviai, turintys teisę juridinio asmens vardu sudaryti sandorius, jų teisių ribos ir parašų pavyzdžiai;
+7\) juridinio asmens valdymo organų nariai ir juridinio asmens dalyviai, turintys teisę juridinio asmens vardu sudaryti sandorius, jų teisių ribos;
 
 8\) juridinio asmens filialai ir atstovybės (pavadinimai, kodai, buveinės, filialų ir atstovybių valdymo organų nariai);
 
@@ -2356,15 +2392,21 @@ Juridinį asmenį įregistravęs registro tvarkytojas išduoda juridinio asmens 
 
 12\) juridinio asmens registro duomenų ir dokumentų keitimo datos;
 
-13\) kiti įstatymų numatyti duomenys.
+13\) juridinio asmens finansiniai metai;
+
+14\) kiti įstatymų numatyti duomenys.
 
 2\. Registruojant juridinius asmenis, kurių dalyviai atsako pagal juridinio asmens prievoles, papildomai turi būti nurodomi juridinio asmens dalyvio fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba juridinio asmens pavadinimas, teisinė forma, kodas, buveinė.
 
 3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
 
-4\. Registrui pateikiami įmonių metinės finansinės atskaitomybės dokumentai (metinė finansinė atskaitomybė) kiekvienais metais per trisdešimt dienų nuo momento, kai juridinis asmuo juos patvirtina įstatymų ir juridinio asmens steigimo dokumentuose nustatyta tvarka, jei įstatymai nenumato kitaip.
+4\. Juridinių asmenų registrui pateikiamas įmonės metinių finansinių ataskaitų rinkinys (konsoliduotųjų finansinių ataskaitų rinkinys) ir metinis pranešimas (konsoliduotasis metinis pranešimas) kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kitaip.
 
 5\. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.67 straipsnis. Asmenys, atsakingi už juridinio asmens dokumentų ir registro duomenų pateikimą registro tvarkytojui
 
@@ -2404,15 +2446,25 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 3\. Jeigu per tris mėnesius nuo pranešimo apie numatomą juridinio asmens likvidavimą paskelbimo juridinių asmenų registro tvarkytojas negauna prieštaravimo dėl juridinio asmens likvidavimo, jis kreipiasi į teismą dėl juridinio asmens likvidavimo.
 
+4\. Registro tvarkytojo prašymai dėl juridinio asmens likvidavimo nagrinėjami Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
 ###### 2.71 straipsnis. Juridinių asmenų registro viešumas
 
 1\. Juridinių asmenų registro duomenys, registre kaupiami dokumentai ir bet kokia kita registrui pateikta informacija yra vieša.
 
-2\. Kiekvienam juridiniam asmeniui suformuojama atskira byla. Joje kaupiami ir saugomi registrui pateikti dokumentai, duomenys bei kita informacija, susijusi su tuo juridiniu asmeniu.
+2\. Kiekvienam juridiniam asmeniui suformuojama atskira byla. Joje kaupiami ir saugomi registrui pateikti dokumentai, jų kopijos, duomenys bei kita informacija, susijusi su tuo juridiniu asmeniu.
 
-3\. Registro pateikiami duomenys, dokumentų ar informacijos kopijos turi turėti žymą „išrašas tikras“ („kopija tikra“), išskyrus atvejus, kai tokio įrašo asmuo, kuris kreipiasi, nereikalauja. Taip patvirtintos registro duomenų, dokumentų ar informacijos kopijos turi prima facie galių.
+3\. Registro teikiami rašytinės formos registro duomenų ir informacijos išrašai turi turėti žymą „išrašas tikras“, o dokumentų kopijos – žymą „kopija tikra“, išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Registro teikiami elektroninės formos registro duomenų ir informacijos išrašai ir dokumentų kopijos netvirtinamos žymomis „išrašas tikras“ („kopija tikra“), išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, reikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią.
 
 4\. Kiekvienas asmuo juridinių asmenų registro nuostatų nustatyta tvarka turi teisę nedelsiant nemokamai gauti informaciją žodžiu apie juridinio asmens teisinį statusą ir veiklos apribojimus.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.72 straipsnis. Juridinių asmenų registro duomenų paskelbimo būdai ir tvarka
 
@@ -2426,9 +2478,9 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 1\) fiziniams asmenims, kurių duomenys įrašyti registre, – registre kaupiami duomenys apie šiuos asmenis;
 
-2\) teisėtvarkos institucijoms ir teismams – kiek jų reikia tiesioginėms funkcijoms atlikti;
+2\) teisėtvarkos institucijoms, teismams ir mokesčių administravimo institucijoms – kiek jų reikia tiesioginėms funkcijoms atlikti;
 
-3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal keitimosi duomenimis sutartis.
+3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal duomenų teikimo sutartis.
 
 5\. Užmokestis už juridinių asmenų duomenų bei dokumentų kopijų teikimą neturi viršyti registro administravimo išlaidų.
 
@@ -2437,6 +2489,8 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 *Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)*
 
 *Nr. XI-485, 2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.73 straipsnis. Atsakomybė už neteisėtą atsisakymą įregistruoti juridinį asmenį bei už klaidas juridinių asmenų registre
 
@@ -2546,9 +2600,13 @@ JURIDINIO ASMENS ORGANAI
 
 2\. Kiekvienas juridinis asmuo turi turėti vienasmenį ar kolegialų valdymo organą ir dalyvių susirinkimą, jeigu steigimo dokumentuose ir juridinių asmenų veiklą reglamentuojančiuose įstatymuose nenumatyta kitokia organų struktūra. Atskiras juridinių asmenų teisines formas reglamentuojantys įstatymai gali nustatyti, kad valdymo organas ir dalyvių susirinkimas gali būti vienu juridinio asmens organu.
 
-3\. Valdymo organas atsako už finansinės atskaitomybės sudarymą, juridinio asmens dalyvių susirinkimo sušaukimą, duomenų ir dokumentų pateikimą juridinių asmenų registrui, pranešimą juridinio asmens dalyviams apie esminius įvykius, turinčius reikšmės juridinio asmens veiklai, juridinio asmens veiklos organizavimą, juridinio asmens dalyvių apskaitą, veiksmus, nurodytus šio kodekso 2.4 straipsnio 3 dalyje, jei kitaip nenumatyta atskirų juridinių asmenų veiklą reglamentuojančiuose įstatymuose ar juridinio asmens steigimo dokumentuose.
+3\. Valdymo organas atsako už juridinio asmens dalyvių susirinkimo sušaukimą, pranešimą juridinio asmens dalyviams apie esminius įvykius, turinčius reikšmės juridinio asmens veiklai, juridinio asmens veiklos organizavimą, juridinio asmens dalyvių apskaitą, veiksmus, nurodytus šio kodekso 2.4 straipsnio 3 dalyje, jei kitaip nenumatyta atskirų juridinių asmenų veiklą reglamentuojančiuose įstatymuose.
 
 4\. Juridinių asmenų organų sprendimai gali būti teismo tvarka pripažinti negaliojančiais, jeigu jie prieštarauja imperatyviosioms įstatymų normoms, juridinio asmens steigimo dokumentams arba protingumo ar sąžiningumo principams. Ieškinį gali pareikšti juridinio asmens kreditoriai – jeigu sprendimas pažeidžia jų teises ar interesus, atitinkamas juridinio asmens valdymo organas, juridinio asmens dalyvis arba kiti įstatymuose numatyti asmenys. Tokiems ieškiniams nustatomas trijų mėnesių ieškinio senaties terminas. Jis pradedamas skaičiuoti nuo tos dienos, kurią ieškovas sužinojo arba turėjo sužinoti apie ginčijamą sprendimą, jeigu šis kodeksas ir kiti įstatymai nenustato kitokio ieškinio senaties termino ir kitokios sprendimo nuginčijimo tvarkos.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.83 straipsnis. Sandoriai, sudaryti pažeidžiant privačiojo juridinio asmens valdymo organų kompetenciją
 
@@ -2746,9 +2804,13 @@ JURIDINIŲ ASMENŲ PABAIGA IR PERTVARKYMAS
 
 ###### 2.100 straipsnis. Reorganizavimo sąlygų įvertinimas
 
-1\. Juridinio asmens reorganizavimo sąlygas įvertina turintis reikiamą kvalifikaciją nepriklausomas ekspertas.
+1\. Juridinių asmenų reorganizavimo sąlygas įvertina turintys reikiamą kvalifikaciją nepriklausomi ekspertai, jeigu tai nustatyta atskirų juridinių asmenų veiklą reglamentuojančiuose įstatymuose.
 
 2\. Nepriklausomus ekspertus skiria kiekvienas reorganizavime dalyvaujantis juridinis asmuo. Jei norima paskirti visiems reorganizuojamiems juridiniams asmenims bendrą ekspertą, tokiam ekspertui turi pritarti juridinių asmenų registro tvarkytojas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.101 straipsnis. Reorganizuojamų juridinių asmenų kreditorių teisių gynimas
 
@@ -2786,9 +2848,13 @@ Jei reorganizuojamas juridinis asmuo prijungiamas prie juridinio asmens, kuris y
 
 3\. Viešasis juridinis asmuo, išskyrus valstybės ir savivaldybės įmones, negali būti pertvarkomas į privatųjį juridinį asmenį.
 
-4\. Pertvarkant juridinius asmenis, mutatis mutandis taikomi šio kodekso 2.101 straipsnio 2 dalis, 2.102 straipsnis, 2.107 straipsnio 1 dalis, 2.112 straipsnio 1 dalis.
+4\. Pertvarkant juridinius asmenis, mutatis mutandis taikomi šio kodekso 2.101 straipsnio 2 dalis, 2.102 straipsnis, 2.107 straipsnio 1 dalis, 2.112 straipsnio 1 ir 2 dalys.
 
 5\. Juridinių asmenų pertvarkymo ypatumus gali nustatyti ir atskiras juridinių asmenų teisines formas reglamentuojantys įstatymai.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.105 straipsnis. Juridinių asmenų privalomas pertvarkymas
 
@@ -2808,13 +2874,17 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 3\) teismo priimtas sprendimas likviduoti juridinį asmenį vadovaujantis šio kodekso 2.131 straipsniu;
 
-4\) teismo sprendimas likviduoti juridinį asmenį šio kodekso 2.70 straipsnyje nurodytais atvejais;
+4\) teismo nutartis likviduoti juridinį asmenį šio kodekso 2.70 straipsnyje nurodytais atvejais;
 
 5\) laikotarpio, kuriam buvo įsteigtas juridinis asmuo, pabaiga;
 
 6\) juridinio asmens dalyvių skaičiaus sumažėjimas mažiau nei įstatymų leidžiamas minimumas, jeigu juridinio asmens dalyvis per šešis mėnesius po tokio sumažėjimo nenutaria juridinio asmens reorganizuoti ar pertvarkyti;
 
 7\) juridinio asmens steigimo pripažinimas negaliojančiu vadovaujantis šio kodekso 2.114 straipsniu.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.107 straipsnis. Juridinio asmens dalyvių sprendimas dėl likvidavimo
 
@@ -2888,7 +2958,7 @@ Likviduojamas juridinis asmuo gali sudaryti tik tuos sandorius, kurie yra susij�
 
 4\) įstatymų nustatyta tvarka ir terminais nebuvo suformuotas minimalus įstatinis kapitalas;
 
-5\) juridinio asmens dokumentuose nenumatytas jo pavadinimas, tikslai, įstatinio kapitalo ar dalyvių asmeninių įnašų dydis, jei to reikalauja atskiras juridinių asmenų teisines formas reglamentuojančių įstatymų imperatyviosios normos.
+5\) juridinio asmens steigimo dokumentuose nenurodytas jo pavadinimas, tikslai, įstatinio kapitalo ar dalyvių asmeninių įnašų dydis, jei to reikalauja atskiras juridinių asmenų teisines formas reglamentuojančių įstatymų imperatyviosios normos.
 
 2\. Kai teismas pripažįsta juridinio asmens įsteigimą neteisėtu, juridinis asmuo turi būti likviduojamas įstatymų nustatyta tvarka.
 
@@ -2897,6 +2967,10 @@ Likviduojamas juridinis asmuo gali sudaryti tik tuos sandorius, kurie yra susij�
 4\. Teismas, priimdamas sprendimą dėl juridinio asmens įsteigimo pripažinimo neteisėtu, turi atsižvelgti į juridinio asmens darbuotojų ir jo dalyvių, nedalyvavusių įsteigiant juridinį asmenį, interesus.
 
 5\. Ieškinį dėl juridinio asmens įsteigimo pripažinimo neteisėtu gali paduoti juridinio asmens dalyvis ar valdymo organai, taip pat prokuroras, gindamas viešą interesą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 IX SKYRIUS
 
@@ -3600,7 +3674,11 @@ Atstovaujamasis privalo:
 
 1\. Prokūra gali būti ribota. Prokūros apribojimas gali būti juridinio asmens filialas, atitinkamos juridinio asmens veiklos sritys ir rūšys, tam tikros aplinkybės, laikas ar teritorija.
 
-2\. Prokūros apribojimai neturi įtakos tretiesiems asmenims.
+2\. Šio straipsnio 1 dalyje nurodyti prokūros apribojimai neturi įtakos tretiesiems asmenims.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
 
 ###### 2.181 straipsnis. Prokūros įsigaliojimas
 
@@ -18238,7 +18316,7 @@ Draudėjas turi teisę pakeisti apdraustą asmenį kitu asmeniu tik gavęs rašy
 
 Šio skyriaus taisyklės taikomos įstatymų nustatytoms draudimo šakoms ir grupėms tiek, kiek kiti įstatymai nenustato ko kita.
 
-\________________
+\______________
 
 **Pakeitimai:**
 
@@ -18314,6 +18392,16 @@ Nr. XI-485, 2009-11-12, Žin., 2009, Nr. 141-6205 (2009-11-28)
 
 CIVILINIO KODEKSO 2.72 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+10\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
+
+CIVILINIO KODEKSO 1.21, 2.47, 2.49, 2.54, 2.55, 2.58, 2.62, 2.64, 2.65, 2.66, 2.70, 2.71, 2.72, 2.82, 2.100, 2.104, 2.106, 2.114, 2.180 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 20 straipsnį, įsigalioja 2010 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18328,6 +18416,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2009-12-02)
+Redagavo Aušrinė Trapinskienė (2010-01-12)
 
 [email protected]
