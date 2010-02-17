@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-01-05"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_363212"
+redakcija_nuo: "2010-02-18"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_365503"
 ---
 
 # Baudžiamasis kodeksas
@@ -534,7 +534,7 @@ Padaręs nusikaltimą asmuo gali būti teismo atleistas nuo baudžiamosios atsak
 
 2\) savu noru atlygino ar pašalino fiziniam ar juridiniam asmeniui padarytą žalą arba susitarė dėl šios žalos atlyginimo ar pašalinimo, ir
 
-3\) susitaikė su nukentėjusiu asmeniu arba juridinio asmens atstovu, ir
+3\) susitaikė su nukentėjusiu asmeniu arba juridinio asmens ar valstybės institucijos atstovu, ir;
 
 4\) yra pagrindo manyti, kad jis nedarys naujų nusikalstamų veikų.
 
@@ -547,6 +547,8 @@ Padaręs nusikaltimą asmuo gali būti teismo atleistas nuo baudžiamosios atsak
 *Straipsnio pakeitimai:*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-677, 2010-02-11, Žin., 2010, Nr. 20-927 (2010-02-18)*
 
 #### 39 straipsnis. Atleidimas nuo baudžiamosios atsakomybės, kai yra lengvinančių aplinkybių
 
@@ -5266,8 +5268,16 @@ BAUDŽIAMOJO KODEKSO 272, 274 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, KODE
 
 **Šio įstatymo atitaisymas skelbtas: Žin., 2010, Nr. 2 (2010-01-07)**
 
+24\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-677, 2010-02-11, Žin., 2010, Nr. 20-927 (2010-02-18)
+
+BAUDŽIAMOJO KODEKSO 38 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-01-12)
+Redagavo Aušrinė Trapinskienė (2010-02-18)
 
 [email protected]
