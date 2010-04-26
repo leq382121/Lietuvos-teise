@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-02-18"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_365503"
+redakcija_nuo: "2010-04-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_370769"
 ---
 
 # Baudžiamasis kodeksas
@@ -708,7 +708,13 @@ VII SKYRIUS
 
 3\. Viešųjų darbų atlikimo laikas bei darbo valandų skaičius straipsnio sankcijoje nenurodomas. Tai nustato teismas, skirdamas bausmę, tačiau šis laikas negali būti ilgesnis nei 480 valandų, kai bausmė skiriama už nusikaltimą, ir 240 valandų, kai bausmė skiriama už baudžiamąjį nusižengimą.
 
+**4 dalies redakcija iki 2010 m. liepos 1 d.:**
+
 4\. Darbą nuteistajam parenka bausmę vykdanti institucija kartu su savivaldybių vykdomosiomis institucijomis ir (ar) apskrities viršininko administracija.
+
+**4 dalies redakcija nuo 2010 m. liepos 1 d.:**
+
+4\. Darbą nuteistajam parenka bausmę vykdanti institucija kartu su savivaldybių vykdomosiomis institucijomis.
 
 5\. Jeigu dėl objektyvių priežasčių asmuo negali atlikti pagal šį straipsnį jam paskirtų viešųjų darbų, teismas gali atleisti jį nuo šios bausmės vietoj jos paskirdamas šio kodekso IX skyriuje numatytą baudžiamojo poveikio priemonę.
 
@@ -721,6 +727,8 @@ VII SKYRIUS
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. XI-742, 2010-04-13, Žin., 2010, Nr. 48-2292 (2010-04-27)*
 
 #### 47 straipsnis. Bauda
 
@@ -5276,8 +5284,18 @@ Nr. XI-677, 2010-02-11, Žin., 2010, Nr. 20-927 (2010-02-18)
 
 BAUDŽIAMOJO KODEKSO 38 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+25\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-742, 2010-04-13, Žin., 2010, Nr. 48-2292 (2010-04-27)
+
+BAUDŽIAMOJO KODEKSO 46 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2010 m. liepos 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-02-18)
+Redagavo Aušrinė Trapinskienė (2010-04-28)
 
 [email protected]
