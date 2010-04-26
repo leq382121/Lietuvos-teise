@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_363244"
+redakcija_nuo: "2010-04-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_370754"
 ---
 
 # Civilinis kodeksas
@@ -14216,11 +14216,21 @@ Kai įmonės nuomos sutartis pasibaigia, nuomininkas privalo grąžinti įmonę 
 
 1\. Privačios žemės nuomotojas yra privačios žemės savininkas.
 
+**2 dalies redakcija iki 2010 m. liepos 1 d.:**
+
 2\. Valstybinės žemės nuomos sutartis pagal savo kompetenciją gali sudaryti apskrities viršininkas, savivaldybės institucija ar kita valstybinės žemės valdytojo funkcijas atliekanti institucija.
+
+**2 dalies redakcija nuo 2010 m. liepos 1 d.:**
+
+2\. Valstybinės žemės nuomos sutartis pagal savo kompetenciją sudaro valstybinės žemės valdytojo funkcijas atliekanti institucija.
 
 3\. Keliems asmenims bendrosios nuosavybės teise priklausantis žemės sklypas gali būti išnuomojamas, jeigu visi bendraturčiai raštu sutinka.
 
 4\. Žemės nuomininku gali būti Lietuvos Respublikos ir užsienio valstybių fiziniai ir juridiniai asmenys.
+
+*Straipsnio pakeitimas:*
+
+*Nr. XI-747, 2010-04-13, Žin., 2010, Nr. 48-2297 (2010-04-27)*
 
 ###### 6.549 straipsnis. Žemės nuomos sutarties terminas
 
@@ -18402,6 +18412,16 @@ CIVILINIO KODEKSO 1.21, 2.47, 2.49, 2.54, 2.55, 2.58, 2.62, 2.64, 2.65, 2.66, 2.
 
 Šis įstatymas, išskyrus 20 straipsnį, įsigalioja 2010 m. sausio 1 d.
 
+11\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-747, 2010-04-13, Žin., 2010, Nr. 48-2297 (2010-04-27)
+
+CIVILINIO KODEKSO 6.548 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2010 m. liepos 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18416,6 +18436,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-01-12)
+Redagavo Aušrinė Trapinskienė (2010-04-28)
 
 [email protected]
