@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-04-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_370754"
+redakcija_nuo: "2010-06-19"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_375852"
 ---
 
 # Civilinis kodeksas
@@ -2036,11 +2036,15 @@ BENDROSIOS NUOSTATOS
 
 1\. Profesinės sąjungos yra juridiniai asmenys, jeigu yra įvykdytos šio straipsnio 2 dalies nuostatos.
 
-2\. Profesinė sąjunga yra įsteigiama, jeigu ji turi ne mažiau kaip trisdešimt steigėjų arba jeigu įmonėje, įstaigoje, organizacijoje yra ne mažiau kaip trisdešimt steigėjų ir jie (jos) sudarytų ne mažiau kaip 1/5 visų darbuotojų (o 1/5 visų darbuotojų būtų ne mažiau kaip trys darbuotojai), ir profesinės sąjungos susirinkime yra patvirtinti jos įstatai bei išrinkti valdymo organai.
+2\. Profesinė sąjunga yra įsteigiama, jeigu ji turi ne mažiau kaip dvidešimt steigėjų arba jeigu įmonėje, įstaigoje, organizacijoje jie sudarytų ne mažiau kaip 1/10 visų darbuotojų (o 1/10 visų darbuotojų būtų ne mažiau kaip trys darbuotojai), ir profesinės sąjungos susirinkime yra patvirtinti jos įstatai bei išrinkti valdymo organai.
 
 3\. Profesinės sąjungos steigėjais gali būti Lietuvos Respublikos piliečiai ar fiziniai asmenys, nuolat gyvenantys Lietuvos Respublikoje, ne jaunesni kaip keturiolikos metų ir dirbantys pagal darbo sutartį ar kitais pagrindais.
 
 4\. Profesinėms sąjungoms taikomas šios knygos V skyrius, kiek tai neprieštarauja šio straipsnio 1 daliai. Profesinės sąjungos pateikia juridinių asmenų registrui dokumentus, patvirtinančius šio straipsnio 2 dalyje nurodytų aplinkybių buvimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-881, 2010-06-04, Žin., 2010, Nr. 71-3554 (2010-06-19)*
 
 ###### 2.39 straipsnis. Juridinio asmens pavadinimas
 
@@ -18422,6 +18426,14 @@ CIVILINIO KODEKSO 6.548 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.
 
+12\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-881, 2010-06-04, Žin., 2010, Nr. 71-3554 (2010-06-19)
+
+CIVILINIO KODEKSO 2.38 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18436,6 +18448,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-04-28)
+Redagavo Aušrinė Trapinskienė (2010-06-18)
 
 [email protected]
