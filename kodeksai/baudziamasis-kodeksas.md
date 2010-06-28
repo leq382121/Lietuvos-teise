@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-04-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_370769"
+redakcija_nuo: "2010-06-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_376816"
 ---
 
 # Baudžiamasis kodeksas
@@ -1596,19 +1596,43 @@ XII SKYRIUS
 
 1\. Asmeniui, padariusiam nusikalstamą veiką, negali būti priimtas apkaltinamasis nuosprendis, jeigu:
 
-1\) praėję: a) dveji metai, kai padarytas baudžiamasis nusižengimas; b) penkeri metai, kai padarytas neatsargus arba nesunkus tyčinis nusikaltimas; c) aštuoneri metai, kai padarytas apysunkis tyčinis nusikaltimas;d) dešimt metų, kai buvo padarytas sunkus nusikaltimas; e) penkiolika metų, kai buvo padarytas labai sunkus nusikaltimas;
+1\) praėję:
 
-f) dvidešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito žmogaus gyvybės atėmimu;
+a) treji metai, kai buvo padarytas baudžiamasis nusižengimas;
 
-2\) per šio straipsnio 1 dalies 1 punkte nustatytą laiką asmuo nesislėpė nuo ikiteisminio tyrimo ar teismo ir nepadarė naujos nusikalstamos veikos.
+b) aštuoneri metai, kai buvo padarytas neatsargus arba nesunkus tyčinis nusikaltimas;
+
+c) dvylika metų, kai buvo padarytas apysunkis tyčinis nusikaltimas;
+
+d) penkiolika metų, kai buvo padarytas sunkus nusikaltimas;
+
+e) dvidešimt penkeri metai, kai buvo padarytas labai sunkus nusikaltimas;
+
+f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito žmogaus gyvybės atėmimu;
+
+2\) per šio straipsnio 1 dalies 1 punkte nustatytą laiką asmuo nesislėpė nuo ikiteisminio tyrimo ar teismo ir nepadarė naujos tyčinės nusikalstamos veikos.
 
 2\. Senaties terminas skaičiuojamas nuo nusikalstamos veikos padarymo iki nuosprendžio priėmimo dienos.
 
-3\. Jeigu nusikalstamą veiką padaręs asmuo pasislėpė nuo ikiteisminio tyrimo ar teismo, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią asmuo sulaikomas arba kurią jis pats atvyksta ir prisipažįsta padaręs nusikaltimą. Tačiau apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo to laiko, kai asmuo padarė nusikaltimą, praėjo penkiolika metų, o nuo to laiko, kai padarė nusikaltimą, susijusį su tyčiniu kito žmogaus gyvybės atėmimu, – dvidešimt metų ir senaties eiga nenutrūko dėl naujo nusikaltimo padarymo.
+3\. Jeigu nuo šio kodekso XVIII, XX, XXI, XXIII ir XLIV skyriuose numatytų nusikalstamų veikų nukentėjo nepilnametis, senaties terminas negali baigtis anksčiau, negu šiam asmeniui sueina dvidešimt penkeri metai.
 
-4\. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas nusikaltimas ar baudžiamasis nusižengimas.
+4\. Jeigu nusikalstamą veiką padaręs asmuo pasislėpė nuo ikiteisminio tyrimo ar teismo, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią asmuo sulaikomas arba kurią jis pats atvyksta pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Tačiau apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo to laiko, kai asmuo padarė nusikalstamą veiką, praėjo dvidešimt penkeri metai, o nuo to laiko, kai padarė nusikaltimą, susijusį su tyčiniu kito žmogaus gyvybės atėmimu, – trisdešimt metų ir senaties eiga nenutrūko dėl naujos tyčinės nusikalstamos veikos padarymo.
 
-5\. Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse:
+5\. Bylos nagrinėjimo teisme metu senaties eiga sustoja laikotarpiui, kuriam:
+
+1\) teismas paskelbia nagrinėjimo teisme pertrauką ar bylos nagrinėjimą atideda dėl kaltinamojo ar jo gynėjo nedalyvavimo;
+
+2\) teismas paskelbia nagrinėjimo teisme pertrauką, kol bus atlikta teismo paskirta ekspertizė, specialisto tyrimas ar bus įvykdytas teisinės pagalbos prašymas užsienio valstybei;
+
+3\) teismas paskelbia nagrinėjimo teisme pertrauką ir paveda prokurorui ar ikiteisminio tyrimo teisėjui atlikti Lietuvos Respublikos baudžiamojo proceso kodekse numatytus procesinius veiksmus;
+
+4\) teismas paskelbia nagrinėjimo teisme pertrauką naujai pakviestam kaltinamojo gynėjui susipažinti su bylos medžiaga.
+
+6\. Šio straipsnio 5 dalyje numatytais atvejais apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo senaties termino pradžios praėjo penkeriais metais ilgesnis terminas, negu numatyta šio straipsnio 1 dalyje.
+
+7\. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują tyčinę nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas tyčinis nusikaltimas ar baudžiamasis nusižengimas.
+
+8\. Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse:
 
 1\) genocidui (99 straipsnis);
 
@@ -1637,6 +1661,8 @@ f) dvidešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24), atitaisymas skelbtas: Žin., 2003, Nr. 39*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
 
 #### 96 straipsnis. Apkaltinamojo nuosprendžio vykdymo senatis
 
@@ -2606,7 +2632,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
 
-**\*170¹ straipsnis. Grupių ir organizacijų, turinčių tikslą diskriminuoti žmonių grupę arba kurstyti prieš ją, kūrimas ir veikla**
+#### 170¹ straipsnis. Grupių ir organizacijų, turinčių tikslą diskriminuoti žmonių grupę arba kurstyti prieš ją, kūrimas ir veikla
 
 1\. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
 
@@ -2614,11 +2640,21 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-*Straipsnio pakeitimai:*
+*Papildyta straipsniu:*
 
 *Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
 
-*\*Pastaba: kodeksas papildytas nauju 170¹ straipsniu*
+#### 170² straipsnis. Viešas pritarimas tarptautiniams nusikaltimams, SSRS ar nacistinės Vokietijos nusikaltimams Lietuvos Respublikai ar jos gyventojams, jų neigimas ar šiurkštus menkinimas
+
+1\. Tas, kas viešai pritarė Lietuvos Respublikos ar Europos Sąjungos teisės aktais arba įsiteisėjusiais Lietuvos Respublikos ar tarptautinių teismų sprendimais pripažintiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, taip pat tas, kas viešai pritarė SSRS ar nacistinės Vokietijos įvykdytai agresijai prieš Lietuvos Respubliką, SSRS ar nacistinės Vokietijos įvykdytiems Lietuvos Respublikos teritorijoje ar prieš Lietuvos Respublikos gyventojus genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, arba 1990–1991 metais įvykdytiems kitiems agresiją prieš Lietuvos Respubliką vykdžiusių ar joje dalyvavusių asmenų labai sunkiems ar sunkiems nusikaltimams Lietuvos Respublikai arba labai sunkiems nusikaltimams Lietuvos Respublikos gyventojams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Papildyta straipsniu:*
+
+*Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
 
 #### 171 straipsnis. Trukdymas atlikti religines apeigas ar religines iškilmes
 
@@ -5064,6 +5100,8 @@ priedas
 
 19\. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
 
+20\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -5081,6 +5119,8 @@ priedas
 *Nr. X-1527, 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)*
 
 *Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)*
+
+*Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
 
 \_______________
 
@@ -5294,8 +5334,16 @@ BAUDŽIAMOJO KODEKSO 46 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.
 
+26\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)
+
+BAUDŽIAMOJO KODEKSO 95 STRAIPSNIO PAKEITIMO BEI PAPILDYMO, KODEKSO PAPILDYMO 170(2) STRAIPSNIU IR KODEKSO PRIEDO PAPILDYMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-04-28)
+Redagavo Aušra Bodin (2010-06-29)
 
 [email protected]
