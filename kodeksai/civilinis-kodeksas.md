@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-06-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_375852"
+redakcija_nuo: "2010-06-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_376956"
 ---
 
 # Civilinis kodeksas
@@ -3842,13 +3842,17 @@ Santuoką leidžiama sudaryti tik su skirtingos lyties asmeniu.
 
 1\. Santuoką leidžiama sudaryti asmenims, kurie santuokos sudarymo dieną yra aštuoniolikos metų.
 
-2\. Norinčio tuoktis, tačiau neturinčio aštuoniolikos metų asmens prašymu teismas supaprastinto proceso tvarka turi teisę sumažinti tokio asmens santuokinį amžių, bet ne daugiau kaip trejais metais.
+2\. Norinčio tuoktis, tačiau neturinčio aštuoniolikos metų asmens prašymu teismas supaprastinto proceso tvarka turi teisę sumažinti tokio asmens santuokinį amžių, bet ne daugiau kaip dvejais metais.
 
-3\. Nėštumo atveju teismas gali leisti tuoktis asmeniui, nesulaukusiam penkiolikos metų.
+3\. Nėštumo atveju teismas gali leisti tuoktis asmeniui, nesulaukusiam šešiolikos metų.
 
 4\. Teismas, spręsdamas klausimą dėl santuokinio amžiaus sumažinimo, turi teismo posėdyje išklausyti norinčio tuoktis nepilnamečio tėvų, globėjų ar rūpintojų nuomonę ir atsižvelgti į jo psichinę bei psichologinę būklę, turtinę padėtį ir svarbias priežastis, dėl kurių būtina sumažinti santuokinį amžių. Nėštumas – svarbi priežastis sumažinti santuokinį amžių.
 
 5\. Kai sprendžiamas klausimas dėl santuokinio amžiaus sumažinimo, valstybinė vaiko teisių apsaugos institucija privalo pateikti išvadą dėl santuokinio amžiaus sumažinimo tikslingumo ir ar tai atitinka nepilnamečio interesus.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-937, 2010-06-22, Žin., 2010, Nr. 76-3873 (2010-06-30)*
 
 ###### 3.15 straipsnis. Veiksnumas
 
@@ -18434,6 +18438,14 @@ Nr. XI-881, 2010-06-04, Žin., 2010, Nr. 71-3554 (2010-06-19)
 
 CIVILINIO KODEKSO 2.38 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+13\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-937, 2010-06-22, Žin., 2010, Nr. 76-3873 (2010-06-30)
+
+CIVILINIO KODEKSO 3.14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18448,6 +18460,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-06-18)
+Redagavo Aušra Bodin (2010-06-30)
 
 [email protected]
