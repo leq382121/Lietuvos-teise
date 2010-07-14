@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-06-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_376956"
+redakcija_nuo: "2010-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_378331"
 ---
 
 # Civilinis kodeksas
@@ -7286,6 +7286,8 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 4\. Ginčus dėl statinių ar sodinių vertės, paėmimo sąlygų ir dėl žemės sklypo paėmimo atveju atsiradusių nuostolių dydžio sprendžia teismas.
 
+**Straipsnio redakcija iki 2011 m. sausio 1 d.:**
+
 ###### 4.103 straipsnis. Neteisėtos statybos civilinės teisinės pasekmės
 
 1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai statytojas neturi teisės tokiu statiniu naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.). Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
@@ -7306,9 +7308,21 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 7\. Dėl normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama šio kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta tvarka.
 
+**Straipsnio redakcija nuo 2011 m. sausio 1 d.:**
+
+###### 4.103 straipsnis. Statybos, pažeidžiančios teisės aktų reikalavimus, civilinės teisinės pasekmės
+
+1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai tokiu statiniu (jo dalimi) naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.) draudžiama. Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
+
+2\. Asmenys, kurių teisės ir interesai yra pažeidžiami, ir kiti įstatymų įgalioti asmenys dėl šio straipsnio 1 dalyje nurodytų pažeidimų turi teisę kreiptis į teismą.
+
+3\. Teismas statybos, pažeidžiančios teisės aktų reikalavimus, padarinių šalinimo klausimą išsprendžia įstatymų nustatyta tvarka.
+
 *Straipsnio pakeitimas:*
 
 *Nr. X-858, 2006-10-17, Žin., 2006, Nr. 116-4403 (2006-10-31)*
+
+*Nr. XI-993, 2010-07-02, Žin., 2010, Nr. 84-4402 (2010-07-15)*
 
 ###### 4.104 straipsnis. Teisės naudotis žemės sklypu praradimo pasekmės
 
@@ -14224,12 +14238,6 @@ Kai įmonės nuomos sutartis pasibaigia, nuomininkas privalo grąžinti įmonę 
 
 1\. Privačios žemės nuomotojas yra privačios žemės savininkas.
 
-**2 dalies redakcija iki 2010 m. liepos 1 d.:**
-
-2\. Valstybinės žemės nuomos sutartis pagal savo kompetenciją gali sudaryti apskrities viršininkas, savivaldybės institucija ar kita valstybinės žemės valdytojo funkcijas atliekanti institucija.
-
-**2 dalies redakcija nuo 2010 m. liepos 1 d.:**
-
 2\. Valstybinės žemės nuomos sutartis pagal savo kompetenciją sudaro valstybinės žemės valdytojo funkcijas atliekanti institucija.
 
 3\. Keliems asmenims bendrosios nuosavybės teise priklausantis žemės sklypas gali būti išnuomojamas, jeigu visi bendraturčiai raštu sutinka.
@@ -18446,6 +18454,16 @@ Nr. XI-937, 2010-06-22, Žin., 2010, Nr. 76-3873 (2010-06-30)
 
 CIVILINIO KODEKSO 3.14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+14\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-993, 2010-07-02, Žin., 2010, Nr. 84-4402 (2010-07-15)
+
+CIVILINIO KODEKSO 4.103 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18460,6 +18478,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2010-06-30)
+Redagavo Aušrinė Trapinskienė (2010-07-19)
 
 [email protected]
