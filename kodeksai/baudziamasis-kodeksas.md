@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-06-29"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_376816"
+redakcija_nuo: "2010-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378211"
 ---
 
 # Baudžiamasis kodeksas
@@ -707,12 +707,6 @@ VII SKYRIUS
 2\. Viešieji darbai skiriami nuo vieno mėnesio iki vienerių metų. Bausmės terminas skaičiuojamas mėnesiais. Asmuo, nuteistas atlikti viešuosius darbus, įpareigojamas per teismo paskirtą laiką neatlygintinai dirbti nuo 10 iki 40 valandų per mėnesį visuomenės labui.
 
 3\. Viešųjų darbų atlikimo laikas bei darbo valandų skaičius straipsnio sankcijoje nenurodomas. Tai nustato teismas, skirdamas bausmę, tačiau šis laikas negali būti ilgesnis nei 480 valandų, kai bausmė skiriama už nusikaltimą, ir 240 valandų, kai bausmė skiriama už baudžiamąjį nusižengimą.
-
-**4 dalies redakcija iki 2010 m. liepos 1 d.:**
-
-4\. Darbą nuteistajam parenka bausmę vykdanti institucija kartu su savivaldybių vykdomosiomis institucijomis ir (ar) apskrities viršininko administracija.
-
-**4 dalies redakcija nuo 2010 m. liepos 1 d.:**
 
 4\. Darbą nuteistajam parenka bausmę vykdanti institucija kartu su savivaldybių vykdomosiomis institucijomis.
 
@@ -4286,6 +4280,18 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
+#### 271¹ straipsnis. Statybą reglamentuojančių teisės aktų reikalavimų pažeidimas
+
+1\. Tas, kas vykdė savavališką statybą ar kitaip pažeidė statybą reglamentuojančių teisės aktų reikalavimus, jeigu dėl to įvyko statinio avarija ir žuvo žmogus arba buvo sunkiai sutrikdyta žmogaus sveikata, arba buvo padaryta didelė žala aplinkai ar didelė turtinė žala asmeniui,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-994, 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)*
+
 #### 272 straipsnis. Neteisėtas medžiojimas ar žvejojimas arba kitoks laukinės gyvūnijos išteklių naudojimas
 
 1\. Tas, kas medžiojo ar žvejojo uždraustu laiku, uždraustose vietose ar draudžiamais būdais, įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino laukinės gyvūnijos išteklius ir padarė didelės žalos gyvūnijai,
@@ -5342,8 +5348,16 @@ Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)
 
 BAUDŽIAMOJO KODEKSO 95 STRAIPSNIO PAKEITIMO BEI PAPILDYMO, KODEKSO PAPILDYMO 170(2) STRAIPSNIU IR KODEKSO PRIEDO PAPILDYMO ĮSTATYMAS
 
+27\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-994, 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)
+
+BAUDŽIAMOJO KODEKSO PAPILDYMO 271(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2010-06-29)
+Redagavo Aušrinė Trapinskienė (2010-07-15)
 
 [email protected]
