@@ -5,7 +5,7 @@ priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
 redakcija_nuo: "2010-07-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378520"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378519"
 ---
 
 # Baudžiamasis kodeksas
@@ -3704,9 +3704,9 @@ Tas, kas siekė paveikti nukentėjusį asmenį, valstybės ar juridinio asmens a
 
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
-#### 235 straipsnis. Melagingi skundas, pareiškimas, pranešimas, parodymai, išvados ir vertimas
+#### 235 straipsnis. Melagingi parodymai, išvados ir vertimas
 
-1\. Tas, kas pateikė melagingą skundą, pareiškimą, pranešimą apie nusikalstamą veiką arba davė melagingus parodymus apklausiamas kaip liudytojas ar nukentėjęs asmuo, arba būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą, arba būdamas vertėju melagingai ar žinomai neteisingai išvertė ikiteisminio tyrimo metu ir (ar) teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje,
+1\. Tas, kas ikiteisminio tyrimo metu, teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje būdamas liudytoju ar nukentėjusiu asmeniu davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3727,8 +3727,6 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-521, 2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)*
-
-*Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)*
 
 #### 236 straipsnis. Melagingas įskundimas ar pranešimas apie nebūtą nusikaltimą
 
@@ -5381,14 +5379,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-974, 2010-06-30, Žin., 2010, Nr. 86-4527 (2010-07-20)
 
 BAUDŽIAMOJO KODEKSO 266, 269 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-
-29\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)
-
-BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
