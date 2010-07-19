@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378211"
+redakcija_nuo: "2010-07-20"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378521"
 ---
 
 # Baudžiamasis kodeksas
@@ -2412,21 +2412,31 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
-**151(¹) straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą**
+#### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
-1\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+1\. Pilnametis asmuo, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su jaunesniu negu šešiolikos metų asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+3\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+5\. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
 
 *Įstatymas papildytas straipsniu:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
 #### 152 straipsnis. Seksualinis priekabiavimas
 
@@ -2440,7 +2450,11 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 Tas, kas atliko mažamečio asmens tvirkinimo veiksmus,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+baudžiamas laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
 ### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
 
@@ -3704,9 +3718,9 @@ Tas, kas siekė paveikti nukentėjusį asmenį, valstybės ar juridinio asmens a
 
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
-#### 235 straipsnis. Melagingi parodymai, išvados ir vertimas
+#### 235 straipsnis. Melagingi skundas, pareiškimas, pranešimas, parodymai, išvados ir vertimas
 
-1\. Tas, kas ikiteisminio tyrimo metu, teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje būdamas liudytoju ar nukentėjusiu asmeniu davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė,
+1\. Tas, kas pateikė melagingą skundą, pareiškimą, pranešimą apie nusikalstamą veiką arba davė melagingus parodymus apklausiamas kaip liudytojas ar nukentėjęs asmuo, arba būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą, arba būdamas vertėju melagingai ar žinomai neteisingai išvertė ikiteisminio tyrimo metu ir (ar) teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3727,6 +3741,8 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-521, 2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)*
+
+*Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)*
 
 #### 236 straipsnis. Melagingas įskundimas ar pranešimas apie nebūtą nusikaltimą
 
@@ -4176,17 +4192,27 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
-266 straipsnis. Neteisėtas disponavimas pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakais (prekursoriais)
+#### 266 straipsnis. Neteisėtas disponavimas pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakais (prekursoriais)
 
 1\. Tas, kas neteisėtai gamino, įgijo, laikė, gabeno, siuntė arba pardavė ar kitaip realizavo pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakus (prekursorius),
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 
-2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2\. Tas, kas neteisėtai gamino, įgijo, laikė, gabeno, siuntė arba pardavė ar kitaip realizavo didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
+
+baudžiamas laisvės atėmimu nuo trejų iki šešerių metų.
+
+3\. Tas, kas neteisėtai gamino, įgijo, laikė, gabeno, siuntė arba pardavė ar kitaip realizavo labai didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
+
+baudžiamas laisvės atėmimu nuo šešerių iki dešimties metų.
+
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XI-974, 2010-06-30, Žin., 2010, Nr. 86-4527 (2010-07-20)*
 
 #### 267 straipsnis. Neteisėtas disponavimas stipriai veikiančiomis ar nuodingosiomis medžiagomis
 
@@ -4231,6 +4257,12 @@ baudžiamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla at�
 1\. Šiame skyriuje nurodytos narkotinės ir psichotropinės medžiagos yra medžiagos, įtrauktos į Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus narkotinių ir psichotropinių medžiagų sąrašus.
 
 2\. Kokį narkotinių ar psichotropinių medžiagų kiekį laikyti nedideliu, kokį dideliu ir labai dideliu, nustatoma remiantis Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintomis rekomendacijomis.
+
+3\. Kokį pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kiekį laikyti dideliu ir labai dideliu, nustatoma remiantis Lietuvos Respublikos Vyriausybės įgaliotos įstaigos, atsakingos už veiklos, susijusios su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencijavimą, patvirtintomis rekomendacijomis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-974, 2010-06-30, Žin., 2010, Nr. 86-4527 (2010-07-20)*
 
 XXXVIII SKYRIUS
 
@@ -5356,8 +5388,32 @@ Nr. XI-994, 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)
 
 BAUDŽIAMOJO KODEKSO PAPILDYMO 271(1) STRAIPSNIU ĮSTATYMAS
 
+28\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-974, 2010-06-30, Žin., 2010, Nr. 86-4527 (2010-07-20)
+
+BAUDŽIAMOJO KODEKSO 266, 269 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+29\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)
+
+BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+30\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)
+
+BAUDŽIAMOJO KODEKSO 151(1), 153 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-07-15)
+Redagavo Aušrinė Trapinskienė (2010-07-21)
 
 [email protected]
