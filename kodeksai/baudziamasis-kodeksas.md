@@ -5,7 +5,7 @@ priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
 redakcija_nuo: "2010-07-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378521"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378520"
 ---
 
 # Baudžiamasis kodeksas
@@ -2412,31 +2412,21 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
-#### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
+**151(¹) straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą**
 
-1\. Pilnametis asmuo, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su jaunesniu negu šešiolikos metų asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
-
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
-
-2\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+1\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-3\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+2\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
-
-5\. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Įstatymas papildytas straipsniu:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
-
-*Straipsnio pakeitimai:*
-
-*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
 #### 152 straipsnis. Seksualinis priekabiavimas
 
@@ -2450,11 +2440,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 Tas, kas atliko mažamečio asmens tvirkinimo veiksmus,
 
-baudžiamas laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
-
-*Straipsnio pakeitimai:*
-
-*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 ### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
 
@@ -5403,14 +5389,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)
 
 BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-
-30\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)
-
-BAUDŽIAMOJO KODEKSO 151(1), 153 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
