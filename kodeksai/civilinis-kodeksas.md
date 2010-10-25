@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_378331"
+redakcija_nuo: "2010-10-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_384488"
 ---
 
 # Civilinis kodeksas
@@ -13,6 +13,12 @@ redakcija_nuo: "2010-07-15"
 Įstatymas skelbtas: žin., 2000, Nr. 74-2262
 
 Neoficialus įstatymo tekstas
+
+Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
+
+Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+
+VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 LIETUVOS RESPUBLIKOS
 
@@ -359,6 +365,12 @@ PATVIRTINTAS
 2000 m. liepos 18 d.
 
 įstatymu Nr.VIII-1864
+
+Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
+
+Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+
+VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 
 LIETUVOS RESPUBLIKOS
 
@@ -1753,6 +1765,20 @@ Trečiasis skirsnis
 6\. Prašymą apriboti asmens civilinį veiksnumą turi teisę paduoti to asmens sutuoktinis, tėvai, pilnamečiai vaikai, globos (rūpybos) institucija arba prokuroras. Kreiptis į teismą dėl veiksnumo apribojimo panaikinimo turi teisę taip pat ir asmuo, kurio veiksnumas apribotas.
 
 7\. Santykiams, susijusiems su neveiksnaus ar ribotai veiksnaus fizinio asmens turtinių ir neturtinių teisių įgyvendinimu ir gynimu, mutatis mutandis taikomi šio kodekso trečiosios knygos VII dalies straipsniai.
+
+**Kodeksas papildomas 2.11¹ straipsniu nuo 2011 m. sausio 1 d.:**
+
+###### 2.11¹ straipsnis. Neveiksnių ir ribotai veiksnių asmenų registras
+
+1\. Neveiksnių ir ribotai veiksnių asmenų registre registruojami asmenys, kurie teismo tvarka pripažinti neveiksniais arba kurių civilinis veiksnumas apribotas, nepilnamečiai nuo keturiolikos iki aštuoniolikos metų šio kodekso 2.8 straipsnio 3 dalyje nustatytais atvejais, šių asmenų globėjai ir rūpintojai ir tvarkomi dėl jų teismo priimtų sprendimų duomenys apie veiksnumo ar veiksnumo apribojimo nustatymą ir panaikinimą. Neveiksnių ir ribotai veiksnių asmenų registras yra neviešas valstybės registras.
+
+2\. Vadovaujančioji neveiksnių ir ribotai veiksnių asmenų registro tvarkymo įstaiga yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkymo įstaiga – Centrinė hipotekos įstaiga. Registro duomenys tvarkomi Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka.
+
+3\. Neveiksnių ir ribotai veiksnių asmenų registro duomenys Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka teikiami tik turintiems įstatymų ir kitų teisės aktų nustatytą teisę šiuos duomenis gauti duomenų gavėjams jų tiesioginėms funkcijoms atlikti.
+
+*Įstatymas papildytas straipsniu:*
+
+*Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
 
 Ketvirtasis skirsnis
 
@@ -3234,6 +3260,22 @@ BENDROSIOS NUOSTATOS
 
 3\) asmenų, esančių tolimojo plaukiojimo metu jūrų laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, patvirtinti tų laivų kapitonų.
 
+**Kodeksas papildomas 2.138¹ straipsniu nuo 2011 m. sausio 1 d.:**
+
+###### 2.138¹ straipsnis. Notarine tvarka patvirtintų įgaliojimų registras
+
+1\. Notarine tvarka patvirtinti įgaliojimai ir šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai turi būti registruojami viešame notarine tvarka patvirtintų įgaliojimų registre. Duomenis notarine tvarka patvirtintų įgaliojimų registrui pateikia įgaliojimus patvirtinę notarai, Lietuvos Respublikos konsuliniai pareigūnai ir šio kodekso 2.138 straipsnio 2 dalyje nurodyti asmenys.
+
+2\. Registruojant notarine tvarka patvirtintus įgaliojimus ir šio kodekso 2.138 straipsnio 2 dalyje nurodytus notaro patvirtintiems prilyginamus įgaliojimus, notarine tvarka patvirtintų įgaliojimų registrui pateikiami duomenys apie įgaliojimą davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį, įgaliojimo patvirtinimo ir pasibaigimo datas, įgaliojimo turinį ir kiti Notarine tvarka patvirtintų įgaliojimų registro nuostatų nustatyti duomenys.
+
+3\. Vadovaujančioji notarine tvarka patvirtintų įgaliojimų registro tvarkymo įstaiga yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkymo įstaiga – Centrinė hipotekos įstaiga.
+
+4\. Notarine tvarka patvirtintų įgaliojimų registro duomenys tvarkomi Notarine tvarka patvirtintų įgaliojimų registro nuostatų nustatyta tvarka.
+
+*Įstatymas papildytas straipsniu:*
+
+*Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
+
 ###### 2.139 straipsnis. Supaprastintas įgaliojimo patvirtinimas
 
 Įgaliojimą, kurį fizinis asmuo duoda korespondencijai (konkrečiai –siunčiamiems pinigams ir siuntiniams) gauti, taip pat darbo užmokesčiui ir kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms gauti, gali patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių namų savininkų bendrijos, kurios name gyvena asmuo, pirmininkas arba esančio tolimajame plaukiojime jūrų laivo kapitonas.
@@ -3303,6 +3345,36 @@ Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, ats
 2\. Pasibaigus įgaliojimui, netenka galios ir perįgaliojimas.
 
 3\. Atstovavimo pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis, išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
+
+**2.147 straipsnio redakcija nuo 2011 m. sausio 1 d.:**
+
+###### 2.147 straipsnis. Įgaliojimo pasibaigimas
+
+1\. Įgaliojimas pasibaigia:
+
+1\) pasibaigus įgaliojimo terminui;
+
+2\) įgaliotojui panaikinus įgaliojimą;
+
+3\) įgaliotiniui atsisakius įgaliojimo;
+
+4\) nustojus egzistuoti juridiniam asmeniui, kuris davė įgaliojimą;
+
+5\) nustojus egzistuoti juridiniam asmeniui, kuriam duotas įgaliojimas, arba jam iškėlus bankroto bylą;
+
+6\) mirus davusiam įgaliojimą fiziniam asmeniui ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu;
+
+7\) mirus fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu.
+
+2\. Duomenys apie įgaliojimo pasibaigimą turi būti pateikti notarine tvarka patvirtintų įgaliojimų registro tvarkymo įstaigai.
+
+3\. Pasibaigus įgaliojimui, netenka galios ir perįgaliojimas.
+
+4\. Atstovavimo pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis, išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
 
 ###### 2.148 straipsnis. Įgaliotojo pareiga pranešti apie įgaliojimo pasibaigimą
 
@@ -18464,6 +18536,16 @@ CIVILINIO KODEKSO 4.103 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.
 
+15\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)
+
+CIVILINIO KODEKSO PAPILDYMO 2.11(1), 2.138(1) STRAIPSNIAIS IR 2.147 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18478,6 +18560,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-07-19)
+Redagavo Aušrinė Trapinskienė (2010-10-28)
 
 [email protected]
