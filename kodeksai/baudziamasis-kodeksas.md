@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-07-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_378519"
+redakcija_nuo: "2010-12-11"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_388527"
 ---
 
 # Baudžiamasis kodeksas
@@ -102,7 +102,11 @@ BENDRosios NUOSTATos
 
 3\. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), okupuotos valstybės civilių trėmimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), draudžiamą karo ataką (111 straipsnis).
 
-4\. Skiriamos tos baudžiamojo ar auklėjamojo poveikio priemonės bei priverčiamosios medicinos priemonės, kurias numato teismo sprendimo priėmimo metu galiojantis baudžiamasis įstatymas.
+4\. Skiriamos tos baudžiamojo ar auklėjamojo poveikio priemonės bei priverčiamosios medicinos priemonės, kurias numato teismo sprendimo priėmimo metu galiojantis baudžiamasis įstatymas. Išplėstinis turto konfiskavimas skiriamas tik tuo atveju, jeigu jis numatytas šio kodekso uždraustos veikos padarymo metu galiojusiame baudžiamajame įstatyme.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 #### 4 straipsnis. Baudžiamojo įstatymo galiojimas asmenims, padariusiems nusikalstamas veikas Lietuvos valstybės teritorijoje arba laivuose ar orlaiviuose su Lietuvos valstybės vėliava ar skiriamaisiais ženklais
 
@@ -1134,13 +1138,15 @@ IX SKYRIUS
 
 6\) draudimas prisiartinti prie nukentėjusio asmens;
 
-7\) dalyvavimas smurtinį elgesį keičiančiose programose.
+7\) dalyvavimas smurtinį elgesį keičiančiose programose;
 
-3\. Uždraudimas naudotis specialia teise, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose gali būti skiriami kartu su bausme.
+8\) išplėstinis turto konfiskavimas.
 
-4\. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas.
+3\. Uždraudimas naudotis specialia teise, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme.
 
-5\. Juridiniam asmeniui gali būti skiriamas turto konfiskavimas.
+4\. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
+
+5\. Juridiniam asmeniui gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
 
 6\. Kai skiriamos dvi ar daugiau baudžiamojo poveikio priemonių, atsižvelgiama į jų suderinamumą ir galimybes taisomai veikti nuteistąjį.
 
@@ -1151,6 +1157,8 @@ IX SKYRIUS
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 #### 68 straipsnis. Uždraudimas naudotis specialia teise
 
@@ -1188,33 +1196,33 @@ Teismas gali paskirti nuo 5 iki 25 MGL dydžio įmoką į nukentėjusių nuo nus
 
 #### 72 straipsnis. Turto konfiskavimas
 
-1\. Turto konfiskavimas yra priverstinis neatlygintinas konfiskuotino bet kokio pavidalo turto, esančio pas kaltininką, jo bendrininką ar kitus asmenis, paėmimas valstybės nuosavybėn.
+1\. Turto konfiskavimas yra priverstinis neatlygintinas konfiskuotino bet kokio pavidalo turto, esančio pas kaltininką ar kitus asmenis, paėmimas valstybės nuosavybėn.
 
-2\. Konfiskuojamas tik tas turtas, kuris buvo nusikaltimo įrankis, priemonė ar nusikalstamos veikos rezultatas. Teismas privalo konfiskuoti:
+2\. Konfiskuotinu turtu laikomas šio kodekso uždraustos veikos įrankis, priemonė ar rezultatas. Šio kodekso uždraustos veikos rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš jos gautas bet kokio pavidalo turtas.
 
-1\) perduotus kaltininkui ar jo bendrininkui nusikalstamai veikai padaryti pinigus ar kitus materialią vertę turinčius daiktus;
+3\. Kaltininkui priklausantis konfiskuotinas turtas privalo būti konfiskuojamas visais atvejais.
 
-2\) darant nusikalstamą veiką panaudotus pinigus ir kitus materialią vertę turinčius daiktus;
+4\. Kitam fiziniam ar juridiniam asmeniui priklausantis konfiskuotinas turtas konfiskuojamas, nepaisant to, ar tas asmuo nuteistas už šio kodekso uždraustos veikos padarymą, ar ne, jeigu:
 
-3\) iš nusikalstamos veikos gautus pinigus ir kitus materialią vertę turinčius daiktus.
+1\) perleisdamas turtą kaltininkui ar kitiems asmenims, jis žinojo arba turėjo ir galėjo žinoti, kad šis turtas bus naudojamas šio kodekso uždraustai veikai daryti;
 
-3\. Kitiems fiziniams ar juridiniams asmenims perduotas turtas konfiskuojamas nepaisant to, ar tie asmenys patraukti baudžiamojon atsakomybėn, jeigu:
+2\) šis turtas jam buvo perleistas sudarius apsimestinį sandorį;
 
-1\) turtas jiems buvo suteiktas nusikalstamai veikai daryti;
+3\) šis turtas jam buvo perleistas kaip kaltininko šeimos nariui ar artimajam giminaičiui;
 
-2\) įgydami turtą, jie žinojo arba turėjo ir galėjo žinoti, jog šis turtas, pinigai ar už juos naujai įgytos vertybės yra gautos iš nusikalstamos veikos.
+4\) šis turtas jam buvo perleistas kaip juridiniam asmeniui, kurio vadovas, valdymo organo narys arba dalyviai, valdantys ne mažiau kaip penkiasdešimt procentų juridinio asmens akcijų (pajaus, įnašų ir pan.), yra kaltininkas, jo šeimos nariai ar artimieji giminaičiai;
 
-4\. Kitiems fiziniams ar juridiniams asmenims perduotas turtas gali būti konfiskuojamas neatsižvelgiant į tai, ar turtą perdavęs asmuo yra patrauktas baudžiamojon atsakomybėn, jeigu šis asmuo turėjo ir galėjo žinoti, kad tas turtas gali būti panaudotas darant sunkų ar labai sunkų nusikaltimą.
+5\) įgydamas šį turtą, jis arba juridiniame asmenyje vadovaujančias pareigas ėję ir teisę jam atstovauti, juridinio asmens vardu priimti sprendimus ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas yra šio kodekso uždraustos veikos įrankis, priemonė ar rezultatas.
 
-5\. Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių, teismas iš kaltininko, jo bendrininkų ar kitų šio straipsnio 2, 3 ir 4 dalyse nurodytų asmenų išieško konfiskuotino turto vertę atitinkančią pinigų sumą.
+5\. Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismas iš kaltininko ar kitų šio straipsnio 4 dalyje nurodytų asmenų išieško konfiskuotino turto vertę atitinkančią pinigų sumą.
 
-6\. Nepilnamečiams taikomas tik šio straipsnio 2 ir 3 dalyse numatytas privalomas turto konfiskavimas.
-
-7\. Teismas, skirdamas turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto vertę pinigais.
+6\. Teismas, skirdamas turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto vertę pinigais.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 #### 72¹ straipsnis. Draudimas prisiartinti prie nukentėjusio asmens
 
@@ -1235,6 +1243,40 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 *Kodeksas papildytas straipsniu:*
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
+
+**\*72³ straipsnis. Išplėstinis turto konfiskavimas**
+
+1\. Išplėstinis turto konfiskavimas yra kaltininko turto ar jo dalies, neproporcingos kaltininko teisėtoms pajamoms, paėmimas valstybės nuosavybėn, kai yra pagrindas manyti, kad turtas gautas nusikalstamu būdu.
+
+2\. Išplėstinis turto konfiskavimas taikomas, kai yra visos šios sąlygos:
+
+1\) kaltininkas pripažintas padaręs apysunkį, sunkų arba labai sunkų tyčinį nusikaltimą, iš kurio jis turėjo ar galėjo turėti turtinės naudos;
+
+2\) kaltininkas turi šio kodekso uždraustos veikos padarymo metu, po jos padarymo arba per penkerius metus iki jos padarymo įgyto turto, kurio vertė neatitinka jo teisėtų pajamų, ir šis skirtumas viršija 250 MGL dydžio sumą, arba per šiame punkte nurodytą laikotarpį kitiems asmenims yra perleidęs tokio turto;
+
+3\) baudžiamojo proceso metu kaltininkas nepagrindžia šio turto įsigijimo teisėtumo.
+
+3\. Šio straipsnio 2 dalyje nurodytas konfiskuotinas turtas, perleistas kitam fiziniam ar juridiniam asmeniui, iš šio asmens konfiskuojamas, jeigu yra bent vienas iš šių pagrindų:
+
+1\) turtas perleistas sudarius apsimestinį sandorį;
+
+2\) turtas perleistas kaltininko šeimos nariams arba artimiesiems giminaičiams;
+
+3\) turtas perleistas juridiniam asmeniui, kurio vadovas, valdymo organo narys arba dalyviai, valdantys ne mažiau kaip penkiasdešimt procentų juridinio asmens akcijų (pajaus, įnašų ir pan.), yra kaltininkas, jo šeimos nariai ar artimieji giminaičiai;
+
+4\) asmuo, kuriam perleistas turtas, arba juridiniame asmenyje vadovaujančias pareigas ėję ir teisę jam atstovauti, juridinio asmens vardu priimti sprendimus ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas įgytas nusikalstamu būdu ar neteisėtomis kaltininko lėšomis.
+
+4\. Šiame straipsnyje numatytas išplėstinis turto konfiskavimas negali būti taikomas kaltininko ar trečiųjų asmenų turtui ar jo daliai, iš kurių pagal Lietuvos Respublikos tarptautines sutartis, Lietuvos Respublikos civilinio proceso kodekso, kitų įstatymų nuostatas negali būti išieškoma.
+
+5\. Kai konfiskuotinas visas turtas arba jo dalis yra paslėpta, suvartota, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismas iš kaltininko ar kitų šio straipsnio 3 dalyje nurodytų asmenų išieško konfiskuotino turto ar jo dalies vertę atitinkančią pinigų sumą.
+
+6\. Teismas, skirdamas išplėstinį turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto ar jo dalies vertę pinigais.
+
+**\*Pastaba. 72³ straipsnyje numatytas išplėstinis turto konfiskavimas taikomas tik turtui, kurį baudžiamajame įstatyme uždraustą veiką padaręs asmuo įgijo po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 #### 73 straipsnis. Baudžiamojo poveikio priemonių skyrimas
 
@@ -1280,7 +1322,13 @@ X SKYRIUS
 
 4\. Jeigu nuteistasis bausmės vykdymo atidėjimo laikotarpiu:
 
-1\) įvykdė teismo paskirtą baudžiamojo poveikio priemonę ir (ar) įpareigojimus, nepadarė šios dalies 3 punkte numatytų pažeidimų ir yra pagrindas manyti, kad jis laikysis įstatymų, nedarys naujų nusikalstamų veikų, teismas atleidžia nuteistąjį nuo bausmės, kai sueina bausmės vykdymo atidėjimo terminas;2) vykdo teismo paskirtą baudžiamojo poveikio priemonę ir (ar) įpareigojimus, tačiau padaro kitų teisės pažeidimų, už kuriuos jam taikytos administracinės nuobaudos ar drausminio poveikio priemonės, teismas gali vieneriems metams pratęsti bausmės vykdymo atidėjimo terminą;3) be pateisinamų priežasčių neįvykdo teismo paskirtos baudžiamojo poveikio priemonės ir (ar) įpareigojimų arba pažeidinėja viešąją tvarką, girtauja ar padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus taikytos administracinės nuobaudos ar drausminio poveikio priemonės, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu įspėja nuteistąjį, kad bausmės vykdymo atidėjimas gali būti panaikintas. Jeigu nuteistasis toliau nevykdo teismo paskirtos baudžiamojo poveikio priemonės ir (ar) įpareigojimų ar daro teisės pažeidimus, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę;4) padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje numatytas taisykles.
+1\) įvykdė teismo paskirtą baudžiamojo poveikio priemonę ir (ar) įpareigojimus, nepadarė šios dalies 3 punkte numatytų pažeidimų ir yra pagrindas manyti, kad jis laikysis įstatymų, nedarys naujų nusikalstamų veikų, teismas atleidžia nuteistąjį nuo bausmės, kai sueina bausmės vykdymo atidėjimo terminas;
+
+2\) vykdo teismo paskirtą baudžiamojo poveikio priemonę ir (ar) įpareigojimus, tačiau padaro kitų teisės pažeidimų, už kuriuos jam taikytos administracinės nuobaudos ar drausminio poveikio priemonės, teismas gali vieneriems metams pratęsti bausmės vykdymo atidėjimo terminą;
+
+3\) be pateisinamų priežasčių neįvykdo teismo paskirtos baudžiamojo poveikio priemonės ir (ar) įpareigojimų arba pažeidinėja viešąją tvarką, girtauja ar padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus taikytos administracinės nuobaudos ar drausminio poveikio priemonės, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu įspėja nuteistąjį, kad bausmės vykdymo atidėjimas gali būti panaikintas. Jeigu nuteistasis toliau nevykdo teismo paskirtos baudžiamojo poveikio priemonės ir (ar) įpareigojimų ar daro teisės pažeidimus, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę;
+
+4\) padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje numatytas taisykles.
 
 *Straipsnio pakeitimai:*
 
@@ -2412,21 +2460,31 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
-**151(¹) straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą**
+#### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
-1\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+1\. Pilnametis asmuo, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su jaunesniu negu šešiolikos metų asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+3\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+5\. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
 
 *Įstatymas papildytas straipsniu:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
 #### 152 straipsnis. Seksualinis priekabiavimas
 
@@ -2440,7 +2498,11 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 Tas, kas atliko mažamečio asmens tvirkinimo veiksmus,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+baudžiamas laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
 ### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
 
@@ -2694,7 +2756,13 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
-175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas, pagrobimas arba paslėpimasTas, kas sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių teisę dalyvauti referendume piliečių sąrašą, rinkimų ar referendumo biuletenį ar balsų skaičiavimo protokolą, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams,baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+#### 175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas,
+
+**pagrobimas arba paslėpimas**
+
+Tas, kas sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių teisę dalyvauti referendume piliečių sąrašą, rinkimų ar referendumo biuletenį ar balsų skaičiavimo protokolą, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
 *Straipsnio pakeitimai:*
 
@@ -2728,7 +2796,15 @@ XXVIII skyrius
 
 **Nusikaltimai ir baudžiamieji nusižengimai nuosavyBEI, turtinėms teisėms ir turtiniams interesams**
 
-178 straipsnis. Vagystė1. Tas, kas pagrobė svetimą turtą,baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.2. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį, baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.
+#### 178 straipsnis. Vagystė
+
+1\. Tas, kas pagrobė svetimą turtą,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+
+2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį,
+
+baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.
 
 3\. Tas, kas pagrobė didelės vertės svetimą turtą arba didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes arba pagrobė svetimą turtą dalyvaudamas organizuotoje grupėje,
 
@@ -2910,7 +2986,9 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes, baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
+2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
+
+baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 3\. Tas, kas sunaikino ar sugadino nedidelės vertės svetimą turtą, padarė baudžiamąjį nusižengimą ir
 
@@ -2960,13 +3038,33 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
+**\*189¹ straipsnis. Neteisėtas praturtėjimas**
+
+1\. Tas, kas turėjo nuosavybės teise didesnės negu 500 MGL vertės turtą, žinodamas arba turėdamas ir galėdamas žinoti, kad tas turtas negalėjo būti įgytas teisėtomis pajamomis,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+2\. Šio straipsnio 1 dalyje nurodytą turtą iš trečiųjų asmenų perėmęs asmuo nuo baudžiamosios atsakomybės už neteisėtą praturtėjimą atleidžiamas, jeigu jis iki pranešimo apie įtarimą įteikimo apie tai pranešė teisėsaugos institucijoms ir aktyviai bendradarbiavo nustatant šio turto kilmę.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+**\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+
 #### 190 straipsnis. Turto vertės išaiškinimas
 
-Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą, ir nedidelės vertės – kai jo vertė viršija 1 MGL, bet neviršija 3 MGL dydžio sumos.
+1\. Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą, ir nedidelės vertės – kai jo vertė viršija 1 MGL, bet neviršija 3 MGL dydžio sumos.
+
+2\. Šio skyriaus 189¹ straipsnyje nurodytos teisėtos pajamos yra iš teisės aktų neuždraustos veiklos gautos pajamos, nesvarbu, ar jos buvo apskaitytos teisės aktų nustatyta tvarka, ar ne.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)*
+
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 XXIX SKYRIUS
 
@@ -3704,9 +3802,9 @@ Tas, kas siekė paveikti nukentėjusį asmenį, valstybės ar juridinio asmens a
 
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
-#### 235 straipsnis. Melagingi parodymai, išvados ir vertimas
+#### 235 straipsnis. Melagingi skundas, pareiškimas, pranešimas, parodymai, išvados ir vertimas
 
-1\. Tas, kas ikiteisminio tyrimo metu, teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje būdamas liudytoju ar nukentėjusiu asmeniu davė melagingus parodymus, būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas vertėju melagingai ar žinomai neteisingai išvertė,
+1\. Tas, kas pateikė melagingą skundą, pareiškimą, pranešimą apie nusikalstamą veiką arba davė melagingus parodymus apklausiamas kaip liudytojas ar nukentėjęs asmuo, arba būdamas ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą, arba būdamas vertėju melagingai ar žinomai neteisingai išvertė ikiteisminio tyrimo metu ir (ar) teisme arba Tarptautiniame baudžiamajame teisme ar kitoje tarptautinėje teisminėje institucijoje,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3727,6 +3825,8 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-521, 2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)*
+
+*Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)*
 
 #### 236 straipsnis. Melagingas įskundimas ar pranešimas apie nebūtą nusikaltimą
 
@@ -5380,8 +5480,36 @@ Nr. XI-974, 2010-06-30, Žin., 2010, Nr. 86-4527 (2010-07-20)
 
 BAUDŽIAMOJO KODEKSO 266, 269 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+29\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-976, 2010-06-30, Žin., 2010, Nr. 86-4528 (2010-07-20)
+
+BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+30\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)
+
+BAUDŽIAMOJO KODEKSO 151(1), 153 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+31\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
+
+BAUDŽIAMOJO KODEKSO 3, 67, 72, 190 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 72(3), 189(1) STRAIPSNIAIS ĮSTATYMAS
+
+Šio įstatymo 4 straipsnyje išdėstytame Baudžiamojo kodekso 72³ straipsnyje numatytas išplėstinis turto konfiskavimas taikomas tik turtui, kurį baudžiamajame įstatyme uždraustą veiką padaręs asmuo įgijo po šio įstatymo įsigaliojimo.
+
+Pagal šio įstatymo 5 straipsnyje išdėstytą Baudžiamojo kodekso 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-07-21)
+Redagavo Aušrinė Trapinskienė (2010-12-13)
 
 [email protected]
