@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2010-10-26"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_384488"
+redakcija_nuo: "2011-01-04"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_390714"
 ---
 
 # Civilinis kodeksas
@@ -1766,8 +1766,6 @@ Trečiasis skirsnis
 
 7\. Santykiams, susijusiems su neveiksnaus ar ribotai veiksnaus fizinio asmens turtinių ir neturtinių teisių įgyvendinimu ir gynimu, mutatis mutandis taikomi šio kodekso trečiosios knygos VII dalies straipsniai.
 
-**Kodeksas papildomas 2.11¹ straipsniu nuo 2011 m. sausio 1 d.:**
-
 ###### 2.11¹ straipsnis. Neveiksnių ir ribotai veiksnių asmenų registras
 
 1\. Neveiksnių ir ribotai veiksnių asmenų registre registruojami asmenys, kurie teismo tvarka pripažinti neveiksniais arba kurių civilinis veiksnumas apribotas, nepilnamečiai nuo keturiolikos iki aštuoniolikos metų šio kodekso 2.8 straipsnio 3 dalyje nustatytais atvejais, šių asmenų globėjai ir rūpintojai ir tvarkomi dėl jų teismo priimtų sprendimų duomenys apie veiksnumo ar veiksnumo apribojimo nustatymą ir panaikinimą. Neveiksnių ir ribotai veiksnių asmenų registras yra neviešas valstybės registras.
@@ -3260,8 +3258,6 @@ BENDROSIOS NUOSTATOS
 
 3\) asmenų, esančių tolimojo plaukiojimo metu jūrų laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, patvirtinti tų laivų kapitonų.
 
-**Kodeksas papildomas 2.138¹ straipsniu nuo 2011 m. sausio 1 d.:**
-
 ###### 2.138¹ straipsnis. Notarine tvarka patvirtintų įgaliojimų registras
 
 1\. Notarine tvarka patvirtinti įgaliojimai ir šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai turi būti registruojami viešame notarine tvarka patvirtintų įgaliojimų registre. Duomenis notarine tvarka patvirtintų įgaliojimų registrui pateikia įgaliojimus patvirtinę notarai, Lietuvos Respublikos konsuliniai pareigūnai ir šio kodekso 2.138 straipsnio 2 dalyje nurodyti asmenys.
@@ -3323,30 +3319,6 @@ Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, ats
 1\. Įgaliotojas turi teisę bet kada panaikinti įgaliojimą, o įgaliotinis – įgaliojimo atsisakyti. Perįgaliojimą gali bet kada panaikinti tiek įgaliotojas, tiek ir įgaliotinis. Savo ruožtu ir asmuo, kuriam įgaliojimas duotas perįgaliojant, gali bet kada jo atsisakyti.
 
 2\. Įstatymai arba šalių sutartis gali nustatyti atvejus, kuriais išduodamas neatšaukiamas įgaliojimas.
-
-###### 2.147 straipsnis. Įgaliojimo pasibaigimas
-
-1\. Įgaliojimas pasibaigia:
-
-1\) pasibaigus įgaliojimo terminui;
-
-2\) įgaliotojui panaikinus įgaliojimą;
-
-3\) įgaliotiniui atsisakius įgaliojimo;
-
-4\) nustojus egzistuoti juridiniam asmeniui, kuris davė įgaliojimą;
-
-5\) nustojus egzistuoti juridiniam asmeniui, kuriam duotas įgaliojimas, arba jam iškėlus bankroto bylą;
-
-6\) mirus davusiam įgaliojimą fiziniam asmeniui ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu;
-
-7\) mirus fiziniam asmeniui, kuriam duotas įgaliojimas, ar pripažinus jį neveiksniu arba ribotai veiksniu, arba nežinia kur esančiu.
-
-2\. Pasibaigus įgaliojimui, netenka galios ir perįgaliojimas.
-
-3\. Atstovavimo pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis, išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
-
-**2.147 straipsnio redakcija nuo 2011 m. sausio 1 d.:**
 
 ###### 2.147 straipsnis. Įgaliojimo pasibaigimas
 
@@ -7357,30 +7329,6 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 3\. Žemės, statinių ar sodinių vertė, paėmimo sąlygos ir dėl žemės sklypo paėmimo atsiradusių nuostolių dydis nustatomi naujojo žemės naudotojo ir statinių savininko sutartimi.
 
 4\. Ginčus dėl statinių ar sodinių vertės, paėmimo sąlygų ir dėl žemės sklypo paėmimo atveju atsiradusių nuostolių dydžio sprendžia teismas.
-
-**Straipsnio redakcija iki 2011 m. sausio 1 d.:**
-
-###### 4.103 straipsnis. Neteisėtos statybos civilinės teisinės pasekmės
-
-1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai statytojas neturi teisės tokiu statiniu naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.). Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
-
-2\. Asmenys, kurių teisės ir interesai yra pažeidžiami, ir kiti įstatymų įgalioti asmenys dėl šio straipsnio 1 dalyje nurodytų pažeidimų turi teisę kreiptis į teismą.
-
-3\. Teismas savo sprendimu gali:
-
-1\) įpareigoti statytoją per nustatytą terminą reikiamai pertvarkyti statinį (dalį statinio nugriauti, perstatyti ar pan.);
-
-2\) įpareigoti statytoją per nustatytą terminą statinį nugriauti.
-
-4\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 1 punkte nurodyto reikalavimo, statinys (jo dalis) teismo sprendimu pertvarkomas statytojo lėšomis.
-
-5\. Jeigu statytojas per nustatytą terminą neįvykdo šio straipsnio 3 dalies 2 punkte nurodyto reikalavimo, statinys teismo sprendimu nugriaunamas statytojo lėšomis.
-
-6\. Statybinės medžiagos, likusios statinius nugriovus, yra statytojo nuosavybė.
-
-7\. Dėl normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama šio kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta tvarka.
-
-**Straipsnio redakcija nuo 2011 m. sausio 1 d.:**
 
 ###### 4.103 straipsnis. Statybos, pažeidžiančios teisės aktų reikalavimus, civilinės teisinės pasekmės
 
@@ -17270,6 +17218,22 @@ TREČIASIS SKIRSNIS
 
 4\. Pagal šį straipsnį kredito davėjas yra asmuo ar grupė asmenų, kurie įstatymų nustatyta tvarka ir atvejais dėl savo komercinės, profesinės veiklos turi teisę teikti vartojimo kreditą.
 
+**6.886 straipsnio redakcija nuo 2011 m. balandžio 1 d.:**
+
+###### 6.886 straipsnis. Vartojimo kredito sutarties samprata
+
+1\. Vartojimo kredito sutartimi kredito davėjas suteikia arba įsipareigoja suteikti kredito gavėjui vartojimo kreditą atidėto mokėjimo, paskolos forma arba kitu panašiu finansiniu būdu, išskyrus sutartis dėl nuolatinio tos pačios rūšies paslaugų teikimo ar tos pačios rūšies prekių tiekimo, kai kredito gavėjas už teikiamas paslaugas ar tiekiamas prekes moka dalimis jų teikimo ar tiekimo metu.
+
+2\. Kredito davėjas, teikdamas vartojimo kredito paslaugą, privalo užtikrinti tinkamą atsakingo skolinimo principo įgyvendinimą.
+
+3\. Su vartojimo kreditu susijusius santykius reglamentuoja šis kodeksas ir kiti įstatymai.
+
+4\. Pagal šį straipsnį kredito davėjas yra asmuo, kuris įstatymų nustatyta tvarka ir atvejais dėl savo komercinės veiklos teikia arba įsipareigoja teikti vartojimo kreditus.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
+
 ###### 6.887 straipsnis. Vartojimo kredito sutarties forma ir turinys
 
 1\. Vartojimo kredito sutartis turi būti rašytinė.
@@ -17306,11 +17270,23 @@ TREČIASIS SKIRSNIS
 
 8\. Visais atvejais, nesvarbu, kokiu būdu siūloma vartotojui sudaryti kredito sutartį (taip pat ir reklamoje), nurodoma metinė kredito grąžinimo norma. Rašytiniame pasiūlyme nurodomas bendros kredito sumos apskaičiavimo pavyzdys.
 
+###### 6.887 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
+
 ###### 6.888 straipsnis. Kredito gavėjo teisės
 
 1\. Jeigu sutartyje nėra numatytos šio kodekso 6.887 straipsnio 3 dalyje nurodytos privalomos jos sąlygos arba sutartyje nurodyta informacija yra klaidinanti, kredito gavėjas turi teisę sutarties atsisakyti. Šiuo atveju kredito gavėjas turi kreditą grąžinti, bet jis neprivalo mokėti sutartyje nustatytų palūkanų ir kitų mokesčių.
 
 2\. Kredito gavėjas turi teisę kreditą grąžinti nesibaigus jo grąžinimo laikui, tačiau sumoka iki kredito grąžinimo dienos priskaičiuotas palūkanas ir kitus mokesčius.
+
+###### 6.888 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
 ###### 6.889 straipsnis. Sutarties nutraukimas kredito davėjo reikalavimu
 
@@ -17320,11 +17296,23 @@ Kredito davėjas turi teisę nutraukti sutartį, jeigu yra abi šios sąlygos:
 
 2\) nebuvo sumokėta per dvi savaites nuo papildomo pranešimo įteikimo kredito gavėjui.
 
+###### 6.889 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
+
 ###### 6.890 straipsnis. Draudimas priimti vekselius, čekius ir skolos raštus
 
 1\. Kredito davėjui draudžiama priimti įmokas iš kredito gavėjo vekseliais, čekiais ar skolos raštais.
 
 2\. Jeigu kredito davėjas priėmė įmokas šio straipsnio 1 dalyje nustatytomis mokėjimo priemonėmis, jis turi atlyginti kredito gavėjui visus nuostolius, susijusius su šių mokėjimo priemonių tolesniu naudojimu.
+
+###### 6.890 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
 ###### 6.891 straipsnis. Kredito sutartis dėl tam tikro daikto ar paslaugos pirkimo
 
@@ -17337,6 +17325,12 @@ Kredito davėjas turi teisę nutraukti sutartį, jeigu yra abi šios sąlygos:
 2\. Kredito gavėjas gali pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį, tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų sutarties sąlygos nebuvo įvykdytos.
 
 3\. Kredito gavėjas, kurio teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų teises ginančias institucijas.
+
+###### 6.891 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
 #### XLiV skyrius – Banko indėlis
 
@@ -18546,6 +18540,16 @@ CIVILINIO KODEKSO PAPILDYMO 2.11(1), 2.138(1) STRAIPSNIAIS IR 2.147 STRAIPSNIO P
 
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 
+16\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)
+
+CIVILINIO KODEKSO 6.886 STRAIPSNIO PAKEITIMO IR 6.887, 6.888, 6.889, 6.890, 6.891 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. balandžio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18560,6 +18564,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-10-28)
+Redagavo Aušrinė Trapinskienė (2011-01-11)
 
 [email protected]
