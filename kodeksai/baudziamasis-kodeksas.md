@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2010-12-11"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_388527"
+redakcija_nuo: "2011-03-31"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_395588"
 ---
 
 # Baudžiamasis kodeksas
@@ -100,13 +100,15 @@ BENDRosios NUOSTATos
 
 2\. Veikos nusikalstamumą panaikinantis, bausmę švelninantis arba kitokiu būdu nusikalstamą veiką padariusio asmens teisinę padėtį palengvinantis baudžiamasis įstatymas turi grįžtamąją galią, t. y. taikomas iki tokio įstatymo įsigaliojimo nusikalstamą veiką padariusiems asmenims, taip pat atliekantiems bausmę bei turintiems teistumą asmenims.
 
-3\. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), okupuotos valstybės civilių trėmimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), draudžiamą karo ataką (111 straipsnis).
+3\. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą (99 straipsnis), tarptautinės teisės draudžiamą elgesį su žmonėmis (100 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žudymą (101 straipsnis), civilių trėmimą ar perkėlimą (102 straipsnis), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais ar jų turto apsaugos pažeidimą (103 straipsnis), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose (105 straipsnis), saugomų objektų naikinimą ar nacionalinių vertybių grobstymą (106 straipsnis), agresiją (110 straipsnis), draudžiamą karo ataką (111 straipsnis), uždraustų karo priemonių naudojimą (112 straipsnis), aplaidų vado pareigų vykdymą (113¹ straipsnis).
 
 4\. Skiriamos tos baudžiamojo ar auklėjamojo poveikio priemonės bei priverčiamosios medicinos priemonės, kurias numato teismo sprendimo priėmimo metu galiojantis baudžiamasis įstatymas. Išplėstinis turto konfiskavimas skiriamas tik tuo atveju, jeigu jis numatytas šio kodekso uždraustos veikos padarymo metu galiojusiame baudžiamajame įstatyme.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 4 straipsnis. Baudžiamojo įstatymo galiojimas asmenims, padariusiems nusikalstamas veikas Lietuvos valstybės teritorijoje arba laivuose ar orlaiviuose su Lietuvos valstybės vėliava ar skiriamaisiais ženklais
 
@@ -134,7 +136,7 @@ Užsieniečiai, neturintys nuolatinės gyvenamosios vietos Lietuvos Respublikoje
 
 Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji vieta, taip pat nusikaltimo padarymo vieta bei tai, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos įstatymus, kai padaro nusikaltimus, atsakomybė už kuriuos numatyta tarptautinių sutarčių pagrindu:
 
-1\) nusikaltimus žmoniškumui ir karo nusikaltimus (99–113 straipsniai);
+1\) nusikaltimus žmoniškumui ir karo nusikaltimus (99–113¹ straipsniai);
 
 2\) prekybą žmonėmis (147 straipsnis);
 
@@ -161,6 +163,8 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus
 
@@ -1682,21 +1686,21 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 
 3\) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis);
 
-4\) okupuotos valstybės civilių trėmimui ar okupavusios valstybės civilių gyventojų perkėlimui (102 straipsnis);
+4\) civilių trėmimui ar perkėlimui (102 straipsnis);
 
-5\) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais (103 straipsnis);
+5\) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis);
 
-6\) tarptautinės humanitarinės teisės normų dėl civilių ir jų turto apsaugos karo metu pažeidimui (104 straipsnis);
+6\) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
 
-7\) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
+7\) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
 
-8\) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
+8\) agresijai (110 straipsnis);
 
-9\) agresijai (110 straipsnis);
+9\) draudžiamai karo atakai (111 straipsnis);
 
-10\) draudžiamai karo atakai (111 straipsnis);
+10\) uždraustų karo priemonių naudojimui (112 straipsnis);
 
-11\) uždraustų karo priemonių naudojimui (112 straipsnis).
+11\) aplaidžiam vado pareigų vykdymui (113¹ straipsnis).
 
 *Straipsnio pakeitimai:*
 
@@ -1705,6 +1709,8 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 96 straipsnis. Apkaltinamojo nuosprendžio vykdymo senatis
 
@@ -1802,19 +1808,27 @@ baudžiamas laisvės atėmimu nuo penkerių iki dvidešimties metų arba laisvė
 
 #### 100 straipsnis. Tarptautinės teisės draudžiamas elgesys su žmonėmis
 
-Tas, kas tyčia, vykdydamas ar remdamas valstybės ar organizacijos politiką, dideliu mastu arba sistemingai užpuldinėjo civilius ir juos žudė arba sunkiai sutrikdė jų sveikatą; sudarė tokias gyvenimo sąlygas, kad jos lėmė žmonių žūtį; prekiavo žmonėmis; deportavo gyventojus; kankino, žagino, įtraukė į seksualinę vergovę, vertė užsiimti prostitucija, priverstinai apvaisino ar sterilizavo; persekiojo kurią nors žmonių grupę ar bendriją dėl politinių, rasinių, nacionalinių, etninių, kultūrinių, religinių, lyties ar kitų motyvų, kuriuos draudžia tarptautinė teisė; žmones sulaikė, areštavo ar kitaip atėmė jų laisvę, kai toks laisvės atėmimas nepripažįstamas, ar nepranešė apie žmonių likimą arba buvimo vietą; vykdė apartheido politiką,
+Tas, kas tyčia, vykdydamas ar remdamas valstybės ar organizacijos politiką dideliu mastu arba sistemingai užpuldinėti civilius, juos žudė arba sunkiai sutrikdė jų sveikatą; sudarė tokias gyvenimo sąlygas, kad jos lėmė žmonių žūtį; pavergė žmones; deportavo ar prievarta perkėlė gyventojus; neteisėtai įkalino ar kitaip apribojo fizinę žmonių laisvę pažeidžiant tarptautinės teisės normas; kankino; žagino ar seksualiai prievartavo žmones, įtraukė juos į seksualinę vergovę ar vertė juos užsiimti prostitucija; neteisėtai atėmė priverstinai apvaisintai moteriai laisvę siekiant pakeisti gyventojų etninę sudėtį ar darant kitą tarptautinės teisės normų pažeidimą; priverstinai sterilizavo žmones arba darė kitokius panašaus pobūdžio seksualinės prievartos veiksmus; persekiojo kurią nors žmonių grupę ar bendriją dėl politinių, rasinių, nacionalinių, etninių, kultūrinių, religinių, lyties ar kitų motyvų, kuriuos draudžia tarptautinė teisė; žmones sulaikė, areštavo, pagrobė ar kitaip atėmė jų laisvę, kai toks laisvės atėmimas nepripažįstamas, ar nepranešė apie žmonių likimą arba buvimo vietą; vykdė apartheidą,
 
 baudžiamas laisvės atėmimu nuo penkerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
 #### 101 straipsnis. Tarptautinės humanitarinės teisės saugomų asmenų žudymas
 
-Tas, kas karo, tarptautinio ginkluoto konflikto, okupacijos ar aneksijos metu pažeisdamas tarptautinės humanitarinės teisės normas įsakė žudyti ar žudė: asmenis, kurie kapituliavo sudėdami ginklus arba neturėdami kuo priešintis; sužeistus asmenis, ligonius ar žūvančio karo laivo jūreivius; karo belaisvius; okupuotoje, aneksuotoje, užgrobtoje ar karo veiksmų teritorijoje buvusius civilius ar kitus asmenis, kuriems karo metu suteikiama tarptautinė apsauga,
+Tas, kas karo, ginkluoto konflikto, agresijos, okupacijos ar aneksijos metu įsakė, kurstė ar organizavo žudyti ar žudė tarptautinės humanitarinės teisės saugomus asmenis,
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-102 straipsnis. Okupuotos valstybės civilių trėmimas ar okupavusios valstybės civilių gyventojų perkėlimas
+*Straipsnio pakeitimai:*
 
-Tas, kas karo, tarptautinio ginkluoto konflikto metu arba okupacijos ar aneksijos sąlygomis įsakė tremti ar trėmė civilius gyventojus iš okupuotos ar aneksuotos teritorijos į okupavusios ar aneksavusios arba trečiosios šalies teritoriją; įsakė perkelti ar perkėlė okupavusios valstybės civilius gyventojus į okupuotos šalies teritoriją,
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
+#### 102 straipsnis. Civilių trėmimas ar perkėlimas
+
+Tas, kas karo, ginkluoto konflikto metu arba agresijos, okupacijos ar aneksijos metu įsakė, kurstė ar organizavo tremti ar trėmė civilius gyventojus iš okupuotos ar aneksuotos teritorijos į okupavusios ar aneksavusios arba trečiosios šalies teritoriją; įsakė, kurstė ar organizavo perkelti ar prievarta išvaryti arba perkėlė ar prievarta išvarė okupuotos ar aneksuotos valstybės civilius gyventojus tos valstybės teritorijoje pažeisdamas tarptautinės teisės normas; įsakė, kurstė ar organizavo perkelti ar perkėlė okupavusios valstybės civilius gyventojus į okupuotos šalies teritoriją,
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
@@ -1822,21 +1836,29 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
-#### 103 straipsnis. Tarptautinės humanitarinės teisės saugomų asmenų žalojimas, kankinimas ar kitoks nežmoniškas elgesys su jais
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
-Tas, kas karo ar tarptautinio ginkluoto konflikto metu arba okupacijos ar aneksijos sąlygomis pažeisdamas tarptautinės humanitarinės teisės normas sunkiai sužalojo ar susargdino arba kankino sužeistus asmenis, ligonius, žūvančio karo laivo jūreivius, karo belaisvius, civilius ar kitus tarptautinės humanitarinės teisės saugomus asmenis, atliko su jais biologinį ar medicininį eksperimentą, neteisėtai paėmė persodinti jų organą ar audinį, neteisėtai ėmė jų kraują arba kitaip nežmoniškai su jais elgėsi, baudė kriminalinėmis bausmėmis be nepriklausomo ir nešališko teismo sprendimo ar be gynybos garantijų teisme arba išniekino nukautųjų palaikus,
+#### 103 straipsnis. Tarptautinės humanitarinės teisės saugomų asmenų žalojimas, kankinimas ar kitoks nežmoniškas elgesys su jais ar jų turto apsaugos pažeidimas
+
+1\. Tas, kas karo ar ginkluoto konflikto arba agresijos, okupacijos ar aneksijos metu įsakė, kurstė ar organizavo nežmoniškai elgtis ar nežmoniškai elgėsi su tarptautinės humanitarinės teisės saugomais asmenimis: juos sunkiai sužalojo, susargdino arba kankino; atliko su jais biologinį ar medicininį eksperimentą, neteisėtai paėmė persodinti jų organą ar audinį, neteisėtai ėmė jų kraują arba kitaip nežmoniškai su jais elgėsi; ėmė juos įkaitais; baudė kriminalinėmis bausmėmis be nepriklausomo ir nešališko teismo sprendimo ar be gynybos garantijų teisme; taikė kolektyvines bausmes; žagino ar seksualiai prievartavo žmones, įtraukė juos į seksualinę vergovę ar vertė juos užsiimti prostitucija; priverstinai sterilizavo arba apvaisino; naudojo bauginimo ir teroro priemones; neteisėtai suvaržė ar atėmė jų laisvę; atskyrė vaikus nuo tėvų ar globėjų; sukėlė jiems mirties nuo bado grėsmę; neteisėtai atėmė, konfiskavo civilių asmenų turtą ar vykdė didelio masto jo nusavinimą, nepateisinamą karo būtinumu; užgauliai žemino jų orumą; vertė pereiti į kitą tikėjimą; išniekino nukautųjų palaikus,
 
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
 
-#### 104 straipsnis. Tarptautinės humanitarinės teisės normų dėl civilių ir jų turto apsaugos karo metu pažeidimas
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką panaudodamas apgaulę, baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.
 
-Tas, kas karo, tarptautinio ginkluoto konflikto metu arba okupacijos ar aneksijos sąlygomis pažeisdamas tarptautinės humanitarinės teisės normas prievarta išvarė iš gyvenamosios vietos ar perkeldino civilius gyventojus, ar privertė juos pereiti į kitą tikėjimą; žagino moteris, įtraukė jas į seksualinę vergovę ar vertė jas užsiimti prostitucija; priverstinai sterilizavo arba apvaisino; naudojo bauginimo ir teroro priemones; ėmė įkaitus; taikė kolektyvines bausmes; uždarė į koncentracijos stovyklą; atskyrė vaikus nuo tėvų ar globėjų; sukėlė jiems mirties nuo bado grėsmę; baudė kriminalinėmis bausmėmis be nepriklausomo ir nešališko teismo sprendimo arba be gynybos garantijų teisme; konfiskavo jų turtą ar vykdė didelio masto jo nusavinimą, nepateisinamą kariniu būtinumu; nustatė nepagrįstai dideles kontribucijas bei rekvizicijas,
+*Straipsnio pakeitimai:*
 
-baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
+104 straipsnis. Neteko galios nuo 2011 m. kovo 31 d.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 105 straipsnis. Civilių ar karo belaisvių prievartinis panaudojimas priešo ginkluotosiose pajėgose
 
-1\. Tas, kas karo, ginkluoto tarptautinio konflikto, okupacijos ar aneksijos metu pažeisdamas tarptautinę humanitarinę teisę vertė civilius ar karo belaisvius tarnauti jų priešo ginkluotosiose pajėgose, naudojo juos kaip gyvąjį skydą karo operacijoje, ėmė ar verbavo vaikus iki aštuoniolikos metų į ginkluotąsias pajėgas arba panaudojo juos karo operacijoje,
+1\. Tas, kas karo, ginkluoto konflikto, agresijos, okupacijos ar aneksijos metu pažeisdamas tarptautinę humanitarinę teisę vertė civilius ar karo belaisvius tarnauti jų priešo ginkluotosiose pajėgose, naudojo juos kaip gyvąjį skydą karo operacijoje, ėmė ar verbavo vaikus iki aštuoniolikos metų į ginkluotąsias pajėgas arba panaudojo juos karo operacijoje,
 
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
@@ -1848,11 +1870,17 @@ baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
-#### 106 straipsnis. Saugomų objektų naikinimas ar nacionalinių vertybių grobstymas
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
-Tas, kas davė karo būtinumu nepateisinamą įsakymą naikinti arba naikino tarptautinių sutarčių ar valstybės vidaus teisės aktų saugomus istorinius paminklus, kultūros, meno, švietimo, auklėjimo, mokslo ar religijos objektus, grobstė nacionalines vertybes okupuotoje ar aneksuotoje teritorijoje ir padarė didelės žalos,
+#### 106 straipsnis. Saugomų objektų naikinimas, nacionalinių vertybių grobstymas, naikinimas ar gadinimas
+
+Tas, kas davė karo būtinumu nepateisinamą įsakymą naikinti arba naikino tarptautinių sutarčių ar valstybės vidaus teisės aktų saugomus istorinius paminklus, kultūros, meno, švietimo, auklėjimo, mokslo ar religijos objektus, naudojo tokius objektus arba juos supančią aplinką karo veiksmams, grobstė ar pasisavino nacionalines vertybes okupuotoje ar aneksuotoje teritorijoje ar vandališkais veiksmais jas naikino ar gadino ir padarė didelės žalos,
 
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 107 straipsnis. Vilkinimas repatrijuoti karo belaisvius
 
@@ -1866,15 +1894,17 @@ Tas, kas po karo veiksmų nutraukimo nepateisinamai vilkino paleisti internuotus
 
 baudžiamas laisvės atėmimu iki trejų metų arba bauda.
 
-#### 109 straipsnis. Neteisėtas Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemos ar kitos visuotinai pripažintos emblemos (ženklo), ar pavadinimo panaudojimas
+#### 109 straipsnis. Neteisėtas Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemos ar kitos tarptautinės humanitarinės teisės saugomos emblemos (ženklo), ar pavadinimo panaudojimas
 
-Tas, kas tarptautinio ar netarptautinio ginkluoto konflikto metu neteisėtai panaudojo Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemą ar kitą visuotinai pripažintą emblemą (ženklą), ar pavadinimą,
+Tas, kas ginkluoto konflikto metu neteisėtai panaudojo Raudonojo Kryžiaus, Raudonojo Pusmėnulio, Raudonojo Kristalo, Jungtinių Tautų Organizacijos emblemą ar kitą tarptautinės humanitarinės teisės saugomą emblemą (ženklą), ar pavadinimą,
 
 baudžiamas laisvės atėmimu iki trejų metų arba bauda.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-1433, 2008-01-18, Žin., 2008, Nr. 15-516 (2008-02-05)*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 110 straipsnis. Agresija
 
@@ -1884,13 +1914,17 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 #### 111 straipsnis. Draudžiama karo ataka
 
-1\. Tas, kas įsakė vykdyti ar vykdė tarptautinės humanitarinės teisės draudžiamą karo ataką prieš civilius, medicinos ar civilinės gynybos personalą, karo ar civilinę ligoninę, medicinos punktą, sužeistus asmenis ar ligonius vežančią transporto priemonę, Tarptautinio Raudonojo Kryžiaus komiteto ar nacionalinės Raudonojo Kryžiaus ar Raudonojo Pusmėnulio draugijos personalą, karo ataką prieš neginamą gyvenvietę ar demilitarizuotą zoną, karo ataką, nepasirinkęs konkretaus taikinio ir žinodamas, kad dėl jos gali žūti civiliai ar būti sunaikintas civilinis objektas, arba karo ataką prieš aiškiai iš mūšio pasitraukusius ir nesipriešinančius kombatantus,
+1\. Tas, kas įsakė vykdyti ar vykdė tarptautinės humanitarinės teisės draudžiamą karo ataką prieš civilius, medicinos ar civilinės gynybos personalą, karo ar civilinę ligoninę, medicinos punktą, sužeistus asmenis ar ligonius vežančią transporto priemonę, Tarptautinio Raudonojo Kryžiaus komiteto ar nacionalinės Raudonojo Kryžiaus, ar Raudonojo Pusmėnulio draugijos personalą, karo ataką prieš neginamą gyvenvietę ar demilitarizuotą zoną, karo ataką prieš saugomą kultūros vertybę, karo ataką, nepasirinkęs konkretaus taikinio ir žinodamas, kad dėl jos gali žūti civiliai ar būti sunaikintas civilinis objektas, arba karo ataką prieš aiškiai iš mūšio pasitraukusius ir nesipriešinančius kombatantus ar kitus asmenis,
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 2\. Tas, kas įsakė vykdyti ar vykdė prieštaraujančią tarptautinei humanitarinei teisei karo ataką prieš didelį pavojų aplinkai ir žmonėms keliantį objektą – atominę elektrinę, užtvanką, nuodingųjų medžiagų saugyklą ar kitą panašų objektą, žinodamas, kad dėl jos gali atsirasti labai sunkių padarinių, arba karo ataką naudojant masinio naikinimo ginklą,
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 #### 112 straipsnis. Uždraustų karo priemonių naudojimas
 
@@ -1903,6 +1937,20 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 Tas, kas įsakė grobti ar grobė kautynių lauke turtą iš nukautų ar sužeistų asmenų,
 
 baudžiamas laisvės atėmimu iki penkerių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
+#### 113¹ straipsnis. Aplaidus vado pareigų vykdymas
+
+Tas, kas aplaidžiai vykdė vado pareigas ir dėl to jam teisiškai ar faktiškai pavaldūs asmenys padarė šiame skyriuje numatytą nusikalstamą veiką,
+
+baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 ### XVI SKYRIUS – NUSIKALTIMAI LIETUVOS valstybės nepriklausomybei, teritoriJOS vientisumui ir konstitucinei santvarkai
 
@@ -4320,7 +4368,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 
-2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.“
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Kodeksas papildytas straipsniu:*
 
@@ -5508,8 +5556,16 @@ BAUDŽIAMOJO KODEKSO 3, 67, 72, 190 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKS
 
 Pagal šio įstatymo 5 straipsnyje išdėstytą Baudžiamojo kodekso 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
 
+32\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
+
+BAUDŽIAMOJO KODEKSO 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 104 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR KODEKSO PAPILDYMO 113(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2010-12-13)
+Redagavo Aušrinė Trapinskienė (2011-03-31)
 
 [email protected]
