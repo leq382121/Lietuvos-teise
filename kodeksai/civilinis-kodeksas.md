@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2011-01-04"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_390714"
+redakcija_nuo: "2011-04-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_397625"
 ---
 
 # Civilinis kodeksas
@@ -7308,9 +7308,13 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 2\. Šio straipsnio 1 dalyje nurodytu atveju daikto (turto) savininkui atlyginama pinigais to daikto (turto) rinkos kaina, o šalių sutarimu – perduodamas kitas daiktas (turtas).
 
-3\. Ginčus dėl nuosavybės paėmimo, vertės ir dėl nuosavybės paėmimo savininkui atsiradusių nuostolių sprendžia teismas.
+3\. Visus klausimus, susijusius su nuosavybės paėmimo teisėtumu, taip pat ginčus dėl paimamos nuosavybės vertės ir dėl nuosavybės paėmimo savininkui atsiradusių nuostolių įstatymų nustatyta tvarka sprendžia teismas.
 
-4\. Nuosavybės teisė į visuomenės poreikiams paimamą kilnojamąjį daiktą (turtą) valstybei pereina nuo atsiskaitymo su daikto (turto) savininku momento. Nuosavybės teisė į visuomenės poreikiams paimamą nekilnojamąjį daiktą valstybei pereina nuo nekilnojamojo daikto įregistravimo viešame registre momento, tačiau įregistruoti tokį daiktą kaip valstybės nuosavybę viešame registre galima tik nuo atsiskaitymo su nekilnojamojo daikto savininku momento.
+4\. Nuosavybės teisė į visuomenės poreikiams paimamą kilnojamąjį daiktą (turtą) valstybei pereina nuo atsiskaitymo su daikto (turto) savininku momento, išskyrus atvejus, kai įstatymai nustato kitaip. Nuosavybės teisė į visuomenės poreikiams paimamą nekilnojamąjį daiktą valstybei pereina nuo nekilnojamojo daikto įregistravimo viešame registre momento, tačiau įregistruoti tokį daiktą kaip valstybės nuosavybę viešame registre galima tik nuo atsiskaitymo su nekilnojamojo daikto savininku momento, išskyrus atvejus, kai įstatymai nustato kitaip.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1312, 2011-04-12, Žin., 2011, Nr. 49-2367 (2011-04-28)*
 
 ###### 4.101 straipsnis. Asmenų, kuriems nuosavybės teise priklausantys statiniais užstatyti žemės sklypai paimami visuomenės poreikiams, nuosavybės teisių apsauga
 
@@ -17198,30 +17202,6 @@ TREČIASIS SKIRSNIS
 
 ###### 6.886 straipsnis. Vartojimo kredito sutarties samprata
 
-1\. Vartojimo kredito sutartimi kredito davėjas suteikia ar įsipareigoja suteikti kredito gavėjui fiziniam asmeniui (vartotojui):
-
-1\) kreditą atidėto apmokėjimo, taip pat mokėjimo išdėstymo (apmokėjimo dalimis) būdu;
-
-2\) kreditus, įskaitant einamosios sąskaitos kreditą, bendrosios vienkartinės sumos kreditą ir daiktui ar paslaugai pirkti teikiamą kreditą.
-
-2\. Vartojimo kredito sutartimi taip pat laikoma pirkimo–pardavimo išsimokėtinai (išperkamosios nuomos) ar kita panašaus pobūdžio sutartis, kai daiktai, esantys sutarties dalyku, vartotojo nuosavybėn pereina per šioje sutartyje nustatytą terminą sumokėjus daikto kainą, kredito palūkanas bei kitus sutartyje nustatytus mokesčius.
-
-3\. Šio skirsnio nuostatos netaikomos, kai pagal kredito sutartį:
-
-1\) kreditas suteikiamas įkeičiant nekilnojamąjį daiktą;
-
-2\) vartotojas nemoka jokių palūkanų ar kitų mokesčių;
-
-3\) vartotojas įsipareigoja grąžinti kreditą ne per ilgesnį kaip trijų mėnesių laikotarpį arba kai kredito suma yra ne didesnė kaip vienas tūkstantis litų;
-
-4\) už tam tikrą nuolat teikiamą paslaugą vartotojas apmoka dalimis paslaugos teikimo metu.
-
-4\. Pagal šį straipsnį kredito davėjas yra asmuo ar grupė asmenų, kurie įstatymų nustatyta tvarka ir atvejais dėl savo komercinės, profesinės veiklos turi teisę teikti vartojimo kreditą.
-
-**6.886 straipsnio redakcija nuo 2011 m. balandžio 1 d.:**
-
-###### 6.886 straipsnis. Vartojimo kredito sutarties samprata
-
 1\. Vartojimo kredito sutartimi kredito davėjas suteikia arba įsipareigoja suteikti kredito gavėjui vartojimo kreditą atidėto mokėjimo, paskolos forma arba kitu panašiu finansiniu būdu, išskyrus sutartis dėl nuolatinio tos pačios rūšies paslaugų teikimo ar tos pačios rūšies prekių tiekimo, kai kredito gavėjas už teikiamas paslaugas ar tiekiamas prekes moka dalimis jų teikimo ar tiekimo metu.
 
 2\. Kredito davėjas, teikdamas vartojimo kredito paslaugą, privalo užtikrinti tinkamą atsakingo skolinimo principo įgyvendinimą.
@@ -17234,99 +17214,31 @@ TREČIASIS SKIRSNIS
 
 *Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
-###### 6.887 straipsnis. Vartojimo kredito sutarties forma ir turinys
-
-1\. Vartojimo kredito sutartis turi būti rašytinė.
-
-2\. Vienas sutarties egzempliorius privalo būti įteiktas kredito gavėjui. Kilus ginčui, sutarties egzemplioriaus įteikimo kredito gavėjui faktą privalo įrodyti kredito davėjas.
-
-3\. Vartojimo kredito sutartyje turi būti nurodyta:
-
-1\) kredito suma arba kredito limitas, jeigu toks yra;
-
-2\) metinė kredito grąžinimo norma, palūkanų norma, mokesčiai ir kitos su kredito gavimu bei naudojimu susijusios kredito gavėjo išlaidos;
-
-3\) kredito grąžinimo terminas arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, – kiekvienos įmokos suma ir mokėjimo laikas;
-
-4\) daiktui ar paslaugai pirkti skirto kredito atveju – daikto (paslaugos) kaina ir bendra kredito suma;
-
-5\) kredito gavėjo teisė grąžinti kreditą nesibaigus jo grąžinimo laikui pagal šio kodekso 6.888 straipsnio nuostatas;
-
-6\) metinės kredito grąžinimo normos keitimo sąlygos ir tvarka, jeigu tokia galimybė yra nustatyta sutartyje, su sąlyga, kad pakeitimų negali daryti kredito davėjas vienašališkai.
-
-4\. Jeigu kredito gavėjas privalo pateikti kredito draudimą, sutartyje taip pat privalo būti nurodyta kredito draudimo vertė ir sąlygos, kuriomis draudimo suma bus pervesta kredito davėjui.
-
-5\. Sutarties sudarymo metu kredito gavėjas raštu informuojamas apie:
-
-1\) teikiamo kredito apribojimus, jei tokių yra;
-
-2\) metinę palūkanų normą ir mokesčius, taikomus nuo sutarties sudarymo, ir sąlygas, kurioms esant jie gali būti keičiami;
-
-3\) sutarties pakeitimo procedūrą.
-
-6\. Sutarties galiojimo metu kredito gavėjas informuojamas apie kiekvieną metinės palūkanų normos arba panašių išlaidų pasikeitimą tuo metu, kai tokie pasikeitimai įvyksta.
-
-7\. Metinės kredito grąžinimo normos apskaičiavimo tvarką nustato Vyriausybė ir Lietuvos bankas.
-
-8\. Visais atvejais, nesvarbu, kokiu būdu siūloma vartotojui sudaryti kredito sutartį (taip pat ir reklamoje), nurodoma metinė kredito grąžinimo norma. Rašytiniame pasiūlyme nurodomas bendros kredito sumos apskaičiavimo pavyzdys.
-
-###### 6.887 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+6.887 straipsnis. Neteko galios nuo 2011 m. balandžio 1 d.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
-###### 6.888 straipsnis. Kredito gavėjo teisės
-
-1\. Jeigu sutartyje nėra numatytos šio kodekso 6.887 straipsnio 3 dalyje nurodytos privalomos jos sąlygos arba sutartyje nurodyta informacija yra klaidinanti, kredito gavėjas turi teisę sutarties atsisakyti. Šiuo atveju kredito gavėjas turi kreditą grąžinti, bet jis neprivalo mokėti sutartyje nustatytų palūkanų ir kitų mokesčių.
-
-2\. Kredito gavėjas turi teisę kreditą grąžinti nesibaigus jo grąžinimo laikui, tačiau sumoka iki kredito grąžinimo dienos priskaičiuotas palūkanas ir kitus mokesčius.
-
-###### 6.888 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+6.888 straipsnis. Neteko galios nuo 2011 m. balandžio 1 d.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
-###### 6.889 straipsnis. Sutarties nutraukimas kredito davėjo reikalavimu
-
-Kredito davėjas turi teisę nutraukti sutartį, jeigu yra abi šios sąlygos:
-
-1\) mokėjimas yra uždelstas daugiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip dešimt procentų bendros kredito sumos;
-
-2\) nebuvo sumokėta per dvi savaites nuo papildomo pranešimo įteikimo kredito gavėjui.
-
-###### 6.889 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+6.889 straipsnis. Neteko galios nuo 2011 m. balandžio 1 d.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
-###### 6.890 straipsnis. Draudimas priimti vekselius, čekius ir skolos raštus
-
-1\. Kredito davėjui draudžiama priimti įmokas iš kredito gavėjo vekseliais, čekiais ar skolos raštais.
-
-2\. Jeigu kredito davėjas priėmė įmokas šio straipsnio 1 dalyje nustatytomis mokėjimo priemonėmis, jis turi atlyginti kredito gavėjui visus nuostolius, susijusius su šių mokėjimo priemonių tolesniu naudojimu.
-
-###### 6.890 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+6.890 straipsnis. Neteko galios nuo 2011 m. balandžio 1 d.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1254, 2010-12-23, Žin., 2011, Nr. 1-2 (2011-01-04)*
 
-###### 6.891 straipsnis. Kredito sutartis dėl tam tikro daikto ar paslaugos pirkimo
-
-1\. Jeigu kredito gavėjas ir kredito davėjas sudaro sutartį dėl tam tikrų daiktų ar paslaugų pirkimo finansavimo, o tarp kredito davėjo ir pardavėjo ar paslaugų tiekėjo yra sudaryta sutartis dėl šių daiktų pardavimo ar paslaugų teikimo finansavimo, kai pardavėjas ar paslaugos teikėjas nevykdo arba netinkamai vykdo savo sutartinius įsipareigojimus, kredito gavėjas turi teisę:
-
-1\) sustabdyti savo prievolės pagal kredito sutartį vykdymą;
-
-2\) reikalauti, kad kredito davėjas grąžintų jau sumokėtas įmokas.
-
-2\. Kredito gavėjas gali pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį, tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų sutarties sąlygos nebuvo įvykdytos.
-
-3\. Kredito gavėjas, kurio teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų teises ginančias institucijas.
-
-###### 6.891 straipsnis netenka galios nuo 2011 m. balandžio 1 d.
+6.891 straipsnis. Neteko galios nuo 2011 m. balandžio 1 d.
 
 *Straipsnio pakeitimai:*
 
@@ -18550,6 +18462,14 @@ CIVILINIO KODEKSO 6.886 STRAIPSNIO PAKEITIMO IR 6.887, 6.888, 6.889, 6.890, 6.89
 
 Šis įstatymas įsigalioja 2011 m. balandžio 1 d.
 
+17\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1312, 2011-04-12, Žin., 2011, Nr. 49-2367 (2011-04-28)
+
+CIVILINIO KODEKSO 4.100 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18564,6 +18484,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2011-01-11)
+Redagavo Aušrinė Trapinskienė (2011-04-29)
 
 [email protected]
