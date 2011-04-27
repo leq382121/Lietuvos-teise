@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2011-03-31"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_395588"
+redakcija_nuo: "2011-04-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_397523"
 ---
 
 # Baudžiamasis kodeksas
@@ -742,11 +742,11 @@ VII SKYRIUS
 
 1\) už baudžiamąjį nusižengimą – iki 50 MGL dydžio;
 
-2\) už nesunkų nusikaltimą – iki 100 MGL dydžio;
+2\) už nesunkų nusikaltimą – iki 500 MGL dydžio;
 
-3\) už apysunkį nusikaltimą – iki 200 MGL dydžio;
+3\) už apysunkį nusikaltimą – iki 1 000 MGL dydžio;
 
-4\) už sunkų nusikaltimą – iki 300 MGL dydžio;
+4\) už sunkų nusikaltimą – iki 1 500 MGL dydžio;
 
 5\) už neatsargų nusikaltimą – iki 75 MGL dydžio.
 
@@ -763,6 +763,8 @@ VII SKYRIUS
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-1350, 2011-04-21, Žin., 2011, Nr. 49-2374 (2011-04-28)*
 
 #### 48 straipsnis. Laisvės apribojimas
 
@@ -5564,8 +5566,16 @@ Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
 
 BAUDŽIAMOJO KODEKSO 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, 111 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 104 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR KODEKSO PAPILDYMO 113(1) STRAIPSNIU ĮSTATYMAS
 
+33\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1350, 2011-04-21, Žin., 2011, Nr. 49-2374 (2011-04-28)
+
+BAUDŽIAMOJO KODEKSO 47 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2011-03-31)
+Redagavo Aušrinė Trapinskienė (2011-04-28)
 
 [email protected]
