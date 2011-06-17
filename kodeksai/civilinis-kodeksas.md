@@ -5,7 +5,7 @@ priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
 redakcija_nuo: "2011-06-18"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_401818"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_401802"
 ---
 
 # Civilinis kodeksas
@@ -86,13 +86,9 @@ Kiekvienai iki Civilinio kodekso įsigaliojimo neįvykusiai sąlygai, kurią num
 
 2\. Jeigu Civiliniame kodekse nustatomas trumpesnis ieškinio senaties terminas, jis ir taikomas, tačiau pradedamas skaičiuoti nuo šio kodekso įsigaliojimo dienos, išskyrus atvejus, kai ieškinio senaties terminas yra pasibaigęs ir pagal šio kodekso normas.
 
-###### 11 straipsnis. Civilinio kodekso 2.24 straipsnio ir taisyklių, susijusių su neturtinės žalos atlyginimu, taikymas
+11 straipsnis. Civilinio kodekso 2.24 straipsnio ir taisyklių, susijusių su neturtinės žalos atlyginimu, taikymas
 
-Civilinio kodekso 2.24 straipsnio normos dėl asmens garbės ir orumo gynimo bei šiame kodekse nustatytos taisyklės dėl neturtinės žalos atlyginimo taikomos tiems civiliniams teisiniams santykiams, kurių faktinis pagrindas atsiranda įsigaliojus šiam kodeksui, taip pat tais atvejais, kai civilinių teisinių santykių faktinis pagrindas yra Baudžiamojo kodekso 95 straipsnio 8 dalyje nurodytas nusikaltimas.
-
-*Straipsnio pakeitimai:*
-
-*Nr. XI-1442, 2011-06-09, Žin., 2011, Nr. 74-3546 (2011-06-18)*
+Civilinio kodekso 2.24 straipsnio normos dėl asmens garbės ir orumo gynimo bei šiame kodekse nustatytos taisyklės dėl neturtinės žalos atlyginimo taikomos tiems civiliniams teisiniams santykiams, kurių faktinis pagrindas atsiranda įsigaliojus šiam kodeksui.
 
 ###### 12 straipsnis. Civilinio kodekso 2.27 straipsnio įsigaliojimas
 
@@ -18487,14 +18483,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1441, 2011-06-09, Žin., 2011, Nr. 74-3545 (2011-06-18)
 
 CIVILINIO KODEKSO 1.134 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-
-19\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XI-1442, 2011-06-09, Žin., 2011, Nr. 74-3546 (2011-06-18)
-
-CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
