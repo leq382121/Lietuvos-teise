@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2011-04-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_397625"
+redakcija_nuo: "2011-06-18"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_401818"
 ---
 
 # Civilinis kodeksas
@@ -86,9 +86,13 @@ Kiekvienai iki Civilinio kodekso įsigaliojimo neįvykusiai sąlygai, kurią num
 
 2\. Jeigu Civiliniame kodekse nustatomas trumpesnis ieškinio senaties terminas, jis ir taikomas, tačiau pradedamas skaičiuoti nuo šio kodekso įsigaliojimo dienos, išskyrus atvejus, kai ieškinio senaties terminas yra pasibaigęs ir pagal šio kodekso normas.
 
-11 straipsnis. Civilinio kodekso 2.24 straipsnio ir taisyklių, susijusių su neturtinės žalos atlyginimu, taikymas
+###### 11 straipsnis. Civilinio kodekso 2.24 straipsnio ir taisyklių, susijusių su neturtinės žalos atlyginimu, taikymas
 
-Civilinio kodekso 2.24 straipsnio normos dėl asmens garbės ir orumo gynimo bei šiame kodekse nustatytos taisyklės dėl neturtinės žalos atlyginimo taikomos tiems civiliniams teisiniams santykiams, kurių faktinis pagrindas atsiranda įsigaliojus šiam kodeksui.
+Civilinio kodekso 2.24 straipsnio normos dėl asmens garbės ir orumo gynimo bei šiame kodekse nustatytos taisyklės dėl neturtinės žalos atlyginimo taikomos tiems civiliniams teisiniams santykiams, kurių faktinis pagrindas atsiranda įsigaliojus šiam kodeksui, taip pat tais atvejais, kai civilinių teisinių santykių faktinis pagrindas yra Baudžiamojo kodekso 95 straipsnio 8 dalyje nurodytas nusikaltimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1442, 2011-06-09, Žin., 2011, Nr. 74-3546 (2011-06-18)*
 
 ###### 12 straipsnis. Civilinio kodekso 2.27 straipsnio įsigaliojimas
 
@@ -1562,7 +1566,13 @@ Ieškinio senatis netaikoma:
 
 2\) indėlininkų reikalavimams išmokėti indėlius, padėtus į banką ar kitas kredito įstaigas;
 
-3\) kitų įstatymų nustatytais atvejais ir kitiems reikalavimams.
+3\) reikalavimams atlyginti dėl Baudžiamojo kodekso 95 straipsnio 8 dalyje nurodytų nusikaltimų atsiradusią turtinę ir neturtinę žalą;
+
+4\) kitų įstatymų nustatytais atvejais ir kitiems reikalavimams.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1441, 2011-06-09, Žin., 2011, Nr. 74-3545 (2011-06-18)*
 
 ###### 1.135 straipsnis. Ieškinio senaties taikymas papildomiems reikalavimams
 
@@ -18470,6 +18480,22 @@ Nr. XI-1312, 2011-04-12, Žin., 2011, Nr. 49-2367 (2011-04-28)
 
 CIVILINIO KODEKSO 4.100 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+18\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1441, 2011-06-09, Žin., 2011, Nr. 74-3545 (2011-06-18)
+
+CIVILINIO KODEKSO 1.134 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+
+19\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1442, 2011-06-09, Žin., 2011, Nr. 74-3546 (2011-06-18)
+
+CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18484,6 +18510,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2011-04-29)
+Redagavo Aušrinė Trapinskienė (2011-06-20)
 
 [email protected]
