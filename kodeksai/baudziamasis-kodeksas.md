@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2011-07-05"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_403207"
+redakcija_nuo: "2011-07-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_404447"
 ---
 
 # Baudžiamasis kodeksas
@@ -690,7 +690,7 @@ VII SKYRIUS
 
 4\. Juridiniams asmenims skiriamos bausmės šio kodekso specialiosios dalies straipsnių sankcijose nenurodomos. Teismas, skirdamas bausmę juridiniam asmeniui, vadovaujasi šio straipsnio 1 dalyje nustatytu bausmių sąrašu.
 
-#### 44 straipsnis. Viešųjų teisių atėmimas. (neteko galios nuo 2011-07-05)
+44 straipsnis. Neteko galios nuo 2011-07-05
 
 *Straipsnio pakeitimai:*
 
@@ -698,7 +698,7 @@ VII SKYRIUS
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
-#### 45 straipsnis. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas. (neteko galios nuo 2011-07-05)
+45 straipsnis. Neteko galios nuo 2011-07-05
 
 *Straipsnio pakeitimai:*
 
@@ -1786,7 +1786,21 @@ e) per penkiolika metų, kai paskirta laisvės atėmimo bausmė viršija dešimt
 
 2\. Atsižvelgiant į teistumą, gali būti varžomos tik tos piliečių teisės ir laisvės, kurių apribojimą numato Lietuvos Respublikos įstatymai.
 
-3\. Turinčiais teistumą laikomi: 1) asmenys, kuriems bausmės vykdymas buvo atidėtas, – laikotarpiu, kuriam buvo atidėtas bausmės vykdymas; 2) asmenys, nuteisti už neatsargius nusikaltimus, – bausmės atlikimo laikotarpiu;3) asmenys, nuteisti už tyčinius nusikaltimus ir realiai atlikę paskirtą bausmę, – bausmės atlikimo laikotarpiu ir po bausmės atlikimo arba atleidimo nuo bausmės atlikimo: a) trejus metus, jeigu jie nuteisti už nesunkų ar apysunkį nusikaltimą; b) penkerius metus, jeigu jie nuteisti už sunkų nusikaltimą; c) aštuonerius metus, jeigu jie nuteisti už labai sunkų nusikaltimą; d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
+3\. Turinčiais teistumą laikomi:
+
+1\) asmenys, kuriems bausmės vykdymas buvo atidėtas, – laikotarpiu, kuriam buvo atidėtas bausmės vykdymas;
+
+2\) asmenys, nuteisti už neatsargius nusikaltimus, – bausmės atlikimo laikotarpiu;
+
+3\) asmenys, nuteisti už tyčinius nusikaltimus ir realiai atlikę paskirtą bausmę, – bausmės atlikimo laikotarpiu ir po bausmės atlikimo arba atleidimo nuo bausmės atlikimo:
+
+a) trejus metus, jeigu jie nuteisti už nesunkų ar apysunkį nusikaltimą;
+
+b) penkerius metus, jeigu jie nuteisti už sunkų nusikaltimą;
+
+c) aštuonerius metus, jeigu jie nuteisti už labai sunkų nusikaltimą;
+
+d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
 
 4\. Nepilnamečiams, nuteistiems už šio straipsnio 3 dalies 3 punkte numatytus nusikaltimus, teistumo terminai po bausmės atlikimo ar atleidimo nuo bausmės atlikimo mažinami per pusę.
 
@@ -5236,11 +5250,37 @@ baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
 baudžiamas bauda arba areštu.
 
+**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
+
+#### 314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas
+
+1\. Karo prievolininkas, vengęs šaukimo į privalomąją karo tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,
+
+baudžiamas areštu arba laisvės atėmimu iki trejų metų.
+
+2\. Karo prievolininkas, vengęs šaukimo į privalomąją karo tarnybą, jeigu nebuvo požymių, nurodytų šio straipsnio 1 dalyje, padarė baudžiamąjį nusižengimą ir
+
+baudžiamas bauda arba areštu.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
+
 #### 315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas
 
 Šauktinis ar aktyviojo rezervo karys, vengęs šaukimo į karo tarnybą karo padėties metu,
 
 baudžiamas laisvės atėmimu iki penkerių metų.
+
+**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
+
+#### 315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas
+
+Karo prievolininkas, vengęs šaukimo į karo tarnybą karo padėties metu, baudžiamas laisvės atėmimu iki penkerių metų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
 #### 316 straipsnis. Vengimas atlikti karo tarnybą
 
@@ -5373,6 +5413,18 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 1\. Karys yra Lietuvos Respublikos pilietis, atliekantis privalomąją (pradinę ar aktyviajame rezerve), profesinę ar savanorių karo tarnybą.
 
 2\. Šauktinis yra karo prievolininkas, Karo prievolės įstatymo nustatyta tvarka ir būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar alternatyviosios tarnybos ir nuo jos neatleistas.
+
+**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
+
+#### 330 straipsnis. Sąvokų išaiškinimas
+
+1\. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.
+
+2\. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
 Lietuvos Respublikos
 
@@ -5730,8 +5782,18 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 BAUDŽIAMOJO KODEKSO 7, 42, 67, 68, 74, 123(1), 125, 126, 134, 142, 144, 176, 177, 204, 205, 210, 211, 213, 220, 223, 225, 226, 227, 228, 228(1), 229, 230, 253(1), 255, 257, 263, 268, 278, 281, 297, 308(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 68(1), 68(2) STRAIPSNIAIS IR 44, 45 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
+35\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
+
+BAUDŽIAMOJO KODEKSO 314, 315 IR 330 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2011-07-05)
+Redagavo Aušrinė Trapinskienė (2011-08-04)
 
 [email protected]
