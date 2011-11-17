@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2011-10-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_409741"
+redakcija_nuo: "2011-11-18"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_411870"
 ---
 
 # Civilinis kodeksas
@@ -368,7 +368,7 @@ PATVIRTINTAS
 
 2000 m. liepos 18 d.
 
-įstatymu Nr.VIII-1864
+įstatymu Nr. VIII-1864
 
 Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
 
@@ -419,10 +419,6 @@ PIRMOJI KNYGA
 3\. Įgyvendinant Europos Sąjungos teisės aktus, kituose įstatymuose gali būti nustatytos kitokios, negu nustato šis kodeksas, civilinius teisinius santykius reglamentuojančios normos. Tokiu atveju šis kodeksas taikomas tiek, kiek kiti įstatymai nenustato kitaip.
 
 4\. Vyriausybės nutarimai ir kitų valstybės institucijų teisės aktai civilinius santykius gali reglamentuoti tik tiek, kiek įstatymų nustatyta. Jeigu Vyriausybės ar kitos valstybės institucijos teisės aktas prieštarauja šio kodekso ar kito įstatymo normoms, taikomos kodekso ar kito įstatymo normos.
-
-5\. Teismas turi teisę pripažinti negaliojančiu Civiliniam kodeksui ar kitam įstatymui prieštaraujantį teisės aktą ar jo dalį, jeigu šio akto ir Konstitucijos ar įstatymų atitikimo kontrolė neįeina į Konstitucinio Teismo kompetenciją. Teismas, pripažinęs tokį teisės aktą negaliojančiu, sprendimo nuorašą per tris dienas privalo nusiųsti teisės aktą priėmusiai institucijai ar pareigūnui. Įsiteisėjęs teismo sprendimas skelbiamas „Valstybės žiniose“.
-
-**5 dalies redakcija nuo 2011 m. spalio 1 d.:**
 
 5\. Teismas turi teisę pripažinti negaliojančiu Civiliniam kodeksui ar kitam įstatymui prieštaraujantį teisės aktą ar jo dalį, jeigu šio akto ir Konstitucijos ar įstatymų atitikimo kontrolė neįeina į Konstitucinio Teismo kompetenciją. Teismas, pripažinęs tokį teisės aktą negaliojančiu, sprendimo nuorašą per tris dienas privalo nusiųsti teisės aktą priėmusiai institucijai ar pareigūnui. Įsiteisėjęs teismo sprendimas skelbiamas teisės aktams oficialiai skelbti nustatyta tvarka.
 
@@ -955,10 +951,6 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 ###### 1.65 straipsnis. Valios išreiškimas viešu skelbimu
 
 1\. Įstatymų ar sutarties nustatytais atvejais asmuo turi teisę išreikšti savo valią viešu skelbimu šio straipsnio nustatyta tvarka (viešas įgaliojimas, viešas įgaliojimo panaikinimas ir kt.).
-
-2\. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje ir pagrindiniuose Lietuvos Respublikos dienraščiuose Civilinio proceso kodekso nustatyta viešo teismo pranešimų ir šaukimų skelbimo tvarka. Teismas prireikus gali nustatyti ir kitokią asmens valios viešo skelbimo tvarką.
-
-**2 dalies redakcija nuo 2011 m. spalio 1 d.:**
 
 2\. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje (jeigu toks yra) ir viename iš nacionalinių Lietuvos Respublikos laikraščių, o sutartyje numatytais atvejais – sutartyje nurodytame interneto tinklalapyje. Teismas prireikus gali nustatyti ir kitokią asmens valios viešo skelbimo tvarką.
 
@@ -3303,12 +3295,6 @@ BENDROSIOS NUOSTATOS
 *Įstatymas papildytas straipsniu:*
 
 *Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
-
-###### 2.139 straipsnis. Supaprastintas įgaliojimo patvirtinimas
-
-Įgaliojimą, kurį fizinis asmuo duoda korespondencijai (konkrečiai –siunčiamiems pinigams ir siuntiniams) gauti, taip pat darbo užmokesčiui ir kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms gauti, gali patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių namų savininkų bendrijos, kurios name gyvena asmuo, pirmininkas arba esančio tolimajame plaukiojime jūrų laivo kapitonas.
-
-**Straipsnio redakcija nuo 2011 m. spalio 1 d.:**
 
 ###### 2.139 straipsnis. Supaprastintas įgaliojimo patvirtinimas
 
@@ -9140,10 +9126,6 @@ Jeigu testamentas saugomas daugiau kaip trisdešimt metų, sauganti įstaiga pri
 
 1\. Pradėjęs tvarkyti palikimą, testamento vykdytojas ar palikimo administratorius privalo nedelsdamas sudaryti palikimo apyrašą, kur įvardijamas palikimą sudarantis turtas, palikėjo kreditorinis ir debitorinis įsiskolinimas. Įpėdinis, pareiškęs norą, turi teisę dalyvauti sudarant turto apyrašą.
 
-2\. Testamento vykdytojas ar palikimo administratorius savo nuožiūra turi teisę, o įpėdinio reikalavimu privalo teismo prašyti palikimo apyrašo sudarymą perduoti teismo antstoliui.
-
-**2 dalies redakcija nuo 2011 m. lapkričio 1 d.:**
-
 2\. Testamento vykdytojas ar palikimo administratorius savo nuožiūra turi teisę, o įpėdinio reikalavimu privalo prašyti antstolio sudaryti palikimo apyrašą. Testamento vykdytojas ar palikimo administratorius į antstolį kreipiasi, gavęs notaro išduotą vykdomąjį pavedimą dėl palikimo apyrašo sudarymo.
 
 3\. Palikimo apyrašo sudarymo išlaidos padengiamos iš palikimo lėšų.
@@ -9220,10 +9202,6 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 
 1\. Kad įgytų palikimą, įpėdinis turi jį priimti. Neleidžiama palikimą priimti iš dalies arba su sąlyga ar išlygomis.
 
-2\. Įpėdinis laikomas priėmusiu palikimą, kai jis faktiškai pradėjo paveldimą turtą valdyti, kreipėsi į palikimo atsiradimo vietos apylinkės teismą dėl turto apyrašo sudarymo arba kai įpėdinis padavė palikimo atsiradimo vietos notarui pareiškimą apie palikimo priėmimą.
-
-**2 dalies redakcija nuo 2011 m. lapkričio 1 d.:**
-
 2\. Įpėdinis laikomas priėmusiu palikimą, kai jis faktiškai pradėjo paveldimą turtą valdyti arba padavė palikimo atsiradimo vietos notarui pareiškimą dėl palikimo priėmimo.
 
 3\. Šiame straipsnyje nurodyti veiksmai turi būti atliekami per tris mėnesius nuo palikimo atsiradimo dienos.
@@ -9231,10 +9209,6 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 4\. Asmenys, kuriems paveldėjimo teisė atsiranda tik tuo atveju, kai kiti įpėdiniai palikimo nepriima, gali pareikšti sutikimą priimti palikimą per tris mėnesius nuo teisės priimti palikimą atsiradimo dienos.
 
 5\. Palikimas, kurį paveldi įpėdiniai, gimę po palikimo atsiradimo, priimamas per tris mėnesius nuo jų gimimo dienos.
-
-6\. Notaras ar teismas per tris darbo dienas nuo palikimo priėmimo dienos privalo pranešti Centrinei hipotekos įstaigai apie palikimo priėmimą.
-
-**6 dalies redakcija nuo 2011 m. lapkričio 1 d.:**
 
 6\. Notaras per tris darbo dienas nuo palikimo priėmimo dienos privalo pranešti Centrinei hipotekos įstaigai apie palikimo priėmimą.
 
@@ -9250,12 +9224,6 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 
 ###### 5.52 straipsnis. Įpėdinio, kuris priėmė palikimą pradėjęs turtą valdyti arba padavęs pareiškimą notarui, atsakomybė už palikėjo skolas
 
-Įpėdinis, kuris priėmė palikimą turto valdymo perėmimu arba padavęs pareiškimą notarui, už palikėjo skolas atsako visu savo turtu, išskyrus šiame kodekse numatytus atvejus. Jeigu nurodytu palikimo priėmimo būdu palikimą priėmė keletas įpėdinių, visi jie už palikėjo skolas atsako solidariai visu savo turtu.
-
-**Straipsnio redakcija nuo 2011 m. lapkričio 1 d.:**
-
-###### 5.52 straipsnis. Įpėdinio, kuris priėmė palikimą pradėjęs turtą valdyti arba padavęs pareiškimą notarui, atsakomybė už palikėjo skolas
-
 1\. Įpėdinis, kuris priėmė palikimą turto valdymo perėmimu arba padavęs pareiškimą notarui, už palikėjo skolas atsako visu savo turtu, išskyrus šiame kodekse numatytus atvejus. Jeigu šioje dalyje nurodytu palikimo priėmimo būdu palikimą priėmė keletas įpėdinių, visi jie už palikėjo skolas atsako solidariai visu savo turtu.
 
 2\. Jeigu įpėdinis notarui pateiktame pareiškime dėl palikimo priėmimo nurodo, kad palikimą pageidauja priimti pagal turto apyrašą, turto apyrašas sudaromas ir įpėdinio atsakomybė už palikėjo skolas nustatoma šio kodekso 5.53 ir 5.54 straipsniuose nustatyta tvarka.
@@ -9263,32 +9231,6 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1484, 2011-06-21, Žin., 2011, Nr. 85-4130 (2011-07-13)*
-
-###### 5.53 straipsnis. Palikimo priėmimas pagal apyrašą
-
-1\. Įpėdinis, priėmęs palikimą pagal teismo antstolio sudarytą apyrašą, už palikėjo skolas atsako tik paveldėtu turtu. Jeigu bent vienas įpėdinis priėmė palikimą pagal apyrašą, tai ir visi kiti įpėdiniai laikomi priėmusiais palikimą pagal apyrašą.
-
-2\. Dėl tokio apyrašo sudarymo priimantis palikimą įpėdinis arba įpėdiniai kreipiasi į palikimo atsiradimo vietos apylinkės teismą, o teismas apyrašą sudaryti paveda teismo antstoliui.
-
-3\. Turto apyrašo sudarymo terminą nustato teismas. Šis terminas negali būti ilgesnis nei vienas mėnuo. Tik tais atvejais, kai paveldimas turtas yra keliose vietose arba yra daug palikėjo kreditorių, apyrašo sudarymo terminas negali būti ilgesnis nei trys mėnesiai.
-
-4\. Įpėdinis privalo pateikti visus duomenis, reikalingus palikėjo turto apyrašui sudaryti.
-
-5\. Apyraše turi būti:
-
-1\) visas daiktų, sudarančių palikimą, sąrašas, nurodant jų vertę ir aplinkybes, reikalingas jų vertei nustatyti;
-
-2\) įvardijamos visos žinomos skolinės palikėjo teisės ir pareigos, nurodant palikėjo kreditorius ir skolininkus.
-
-6\. Palikimo apyrašą pasirašo teismo antstolis ir įpėdinis, dalyvavęs sudarant apyrašą. Apyrašo gale turi būti įpėdinio pasirašytas paliudijimas, tolygus priesaikai, kad apyraše nurodytas visas įpėdiniui žinomas palikėjo turtas, visi palikėjo skoliniai reikalavimai ir skolinės pareigos.
-
-7\. Įpėdinis (įpėdiniai), po palikimo apyrašo sudarymo sužinojęs apie neįtrauktą į apyrašą turtą arba skolines teises ir pareigas, privalo apie tai pranešti teismui per tris darbo dienas nuo šių aplinkybių sužinojimo dienos, kad teismo antstolis papildytų apyrašą.
-
-8\. Palikimo apyrašą sudaryti gali pareikalauti ir palikėjo kreditoriai. Palikėjo kreditoriai turi teisę patys dalyvauti sudarant palikimo apyrašą arba įgalioti kitą asmenį dalyvauti sudarant palikimo apyrašą.
-
-9\. Teismas privalo leisti susipažinti su palikimo apyrašu kiekvienam, kuris įrodo teisėtą interesą susipažinti su apyrašu.
-
-**Straipsnio redakcija nuo 2011 m. lapkričio 1 d.:**
 
 ###### 5.53 straipsnis. Palikimo priėmimas pagal turto apyrašą
 
@@ -9317,14 +9259,6 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1484, 2011-06-21, Žin., 2011, Nr. 85-4130 (2011-07-13)*
-
-###### 5.54 straipsnis. Neteisingas apyrašas
-
-1\. Jeigu sudarant palikimo apyrašą įpėdinis (įpėdiniai) dėl savo kaltės nurodė ne visą turtą sudarantį palikimą, nuslėpė palikėjo skolininkus, jo iniciatyva į palikimo sudėtį buvo įrašyta nesanti skola, jis nepapildė apyrašo, tai šis įpėdinis (įpėdiniai) už palikėjo skolas atsako visu savo turtu. Šios pasekmės įpėdiniui atsiranda ir tuo atveju, kai jis neįvykdo pareigos, nustatytos šio kodekso 5.53 straipsnio 4 dalyje.
-
-2\. Jeigu į palikimo apyrašą ne visas turtas įrašytas ne dėl įpėdinio kaltės, teismas skiria terminą apyrašui papildyti.
-
-**Straipsnio redakcija nuo 2011 m. lapkričio 1 d.:**
 
 ###### 5.54 straipsnis. Neteisingas apyrašas
 
@@ -9389,10 +9323,6 @@ Neveiksnių asmenų vardu palikimą priima jų tėvai arba globėjai. Ribotai ve
 2\. Palikimo atsisakymas turi tas pačias pasekmes kaip ir palikimo nepriėmimas.
 
 3\. Įpėdinis atsisako palikimo, paduodamas pareiškimą palikimo atsiradimo vietos notarui.
-
-4\. Neleidžiama atsisakyti palikimo, jeigu įpėdinis padavė palikimo atsiradimo vietos notarui pareiškimą, kad jis priima palikimą arba prašo išduoti jam paveldėjimo teisės liudijimą, arba kreipėsi į palikimo atsiradimo vietos apylinkės teismą dėl turto apyrašo sudarymo.
-
-**4 dalies redakcija nuo 2011 m. lapkričio 1 d.:**
 
 4\. Neleidžiama atsisakyti palikimo, jeigu įpėdinis padavė palikimo atsiradimo vietos notarui pareiškimą, kad jis priima palikimą arba prašo išduoti jam paveldėjimo teisės liudijimą.
 
@@ -10584,13 +10514,17 @@ Trečiasis asmuo gali pagal sutartį su kreditoriumi perimti skolininko pareigas
 
 ###### 6.116 straipsnis. Skolos perkėlimas pagal skolininko ir skolos perėmėjo sutartį
 
-1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
+1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka, jeigu kituose įstatymuose, reglamentuojančiuose bankų ir bankų sistemos stabilumą ir patikimumą, nenustatyta kitaip. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
 
 2\. Kreditorius savo sutikimą perkelti skolą skolininkui gali duoti iš anksto. Išankstinio sutikimo kreditorius neturi teisės atšaukti, išskyrus atvejus, kai tokią teisę išankstiniame sutikime buvo nurodęs.
 
 3\. Jeigu kreditorius neduoda sutikimo perkelti skolą, laikoma, kad skola neperkelta. Jeigu skolininkas ir skolos perėmėjas nustato kreditoriui terminą, per kurį turi būti duotas sutikimas, tai sutikimas gali būti duodamas per tą terminą. Jeigu per nustatytą terminą sutikimas negaunamas, laikoma, kad kreditorius nesutinka leisti perkelti skolą.
 
 4\. Kol kreditorius nepareiškia savo sutikimo ar nesutikimo, prisiimantis skolą asmuo atsako skolininkui už prievolės įvykdymą kreditoriui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1710, 2011-11-17, Žin., 2011, Nr. 139-6550 (2011-11-18)*
 
 ###### 6.117 straipsnis. Skolos, kurios grąžinimas užtikrintas įkeitimu (hipoteka), perkėlimas
 
@@ -18822,6 +18756,14 @@ CIVILINIO KODEKSO 1.1, 6.350, 6.366, 6.367, 6.369, 6.370 STRAIPSNIŲ PAKEITIMO I
 
 **Šio įstatymo nuostatos dėl sutarčių pabaigos, nepaisant jų sudarymo momento, taikomos sutartims, kurios galioja ir pasibaigia įsigaliojus šiam įstatymui.**
 
+23\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1710, 2011-11-17, Žin., 2011, Nr. 139-6550 (2011-11-18)
+
+CIVILINIO KODEKSO 6.116 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -18836,6 +18778,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2011-10-28)
+Redagavo Aušrinė Trapinskienė (2011-11-18)
 
 [email protected]
