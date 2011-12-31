@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2011-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_404447"
+redakcija_nuo: "2012-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_416520"
 ---
 
 # Baudžiamasis kodeksas
@@ -13,6 +13,8 @@ redakcija_nuo: "2011-07-13"
 Įstatymas skelbtas: Žin., 2000, Nr. 89-2741
 
 Neoficialus Įstatymo tekstas
+
+**Aktuali Kodekso redakcija nuo 2012-01-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -49,6 +51,8 @@ PATVIRTINTAS
 2000 m. rugsėjo 26 d.
 
 įstatymu Nr. VIII-1968
+
+**Aktuali Kodekso redakcija nuo 2012-01-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -162,7 +166,7 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 13\) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (259–269 straipsniai);
 
-14\) nusikaltimus aplinkai (270, 270(¹), 271, 272, 274 straipsniai).
+14\) nusikaltimus aplinkai (270, 270¹, 270², 271, 272, 274 straipsniai).
 
 *Straipsnio pakeitimai:*
 
@@ -173,6 +177,8 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 *Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)(papildyta naujais 6-8 punktais)*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 #### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus
 
@@ -4300,7 +4306,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 #### 256 straipsnis. Neteisėtas disponavimas branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais
 
-1\. Tas, kas pagrobė ar kitaip neteisėtai įgijo, gamino, gabeno, laikė, panaudojo ar suardė bet kokio pavidalo ir bet kokios fizinės būsenos branduolines ar radioaktyviąsias medžiagas arba kitus jonizuojančiosios spinduliuotės šaltinius,
+1\. Tas, kas pagrobė ar kitaip neteisėtai įgijo, gamino, importavo, eksportavo, gabeno, laikė, saugojo, apdorojo, panaudojo, suardė, pašalino ar kitaip neteisėtai tvarkė bet kokio pavidalo ir bet kokios fizinės būsenos branduolines ar radioaktyviąsias medžiagas arba kitus jonizuojančiosios spinduliuotės šaltinius,
 
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
@@ -4317,6 +4323,8 @@ baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 **256(¹) straipsnis. Grasinimas panaudoti ar kitaip paveikti arba neteisėtai įgyti branduolines ar radioaktyviąsias medžiagas arba kitus jonizuojančiosios spinduliuotės šaltinius**
 
@@ -4550,33 +4558,31 @@ XXXVIII SKYRIUS
 
 **NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI APLINKAI IR ŽMONIŲ SVEIKATAI**
 
-#### 270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo taisyklių pažeidimas
+#### 270 straipsnis. Aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisyklių pažeidimas
 
-1\. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo taisykles, jeigu tai sukėlė pavojų daugelio žmonių gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos gyvūnijai, augmenijai ar atsirasti kitų sunkių padarinių aplinkai,
+1\. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių aplinkai,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką, jeigu dėl to buvo padaryta didelės žalos gyvūnijai, augmenijai ar atsirado kitų sunkių padarinių aplinkai,
+2\. Tas, kas padarė šio straipsnio 1 dalyje nurodytą veiką arba sistemingai pažeidinėjo teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi darbai, priežiūros ar naudojimo taisykles, jeigu dėl to buvo padaryta didelės žalos orui, žemei, vandeniui, gyvūnams ar augalams ar atsirado kitų sunkių padarinių aplinkai,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-3\. Tas, kas pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo taisykles, jeigu dėl to buvo padaryta nedidelės žalos gyvūnijai, augmenijai ar atsirado kitų nesunkių padarinių aplinkai, padarė baudžiamąjį nusižengimą ir
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
-
-4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
-
-5\. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
+4\. Šiame straipsnyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
-**270(¹) straipsnis. Neteisėta prekyba ozono sluoksnį ardančiomis medžiagomis**
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
-1\. Tas, kas neteisėtai pardavė ar kitaip realizavo ozono sluoksnį ardančias medžiagas,
+#### 270¹ straipsnis. Neteisėtas disponavimas ozono sluoksnį ardančiomis medžiagomis ar jų mišiniais
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+1\. Tas, kas neteisėtai gamino, importavo, eksportavo, naudojo ar pateikė rinkai ozono sluoksnį ardančias medžiagas ar jų mišinius,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -4584,15 +4590,39 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
-#### 271 straipsnis. Saugomų teritorijų ar saugomų gamtos objektų sunaikinimas ar suniokojimas
+*Straipsnio pakeitimai:*
 
-1\. Tas, kas sunaikino ar suniokojo valstybinį parką, rezervatą, draustinį, kraštovaizdžio ar kitą valstybės saugomą gamtinę teritoriją ar gamtos objektą,
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
+
+#### 270² straipsnis. Neteisėtas atliekų gabenimas per Lietuvos Respublikos valstybės sieną
+
+1\. Tas, kas neturėdamas leidimo ar kitaip pažeisdamas teisės aktų reikalavimus, per Lietuvos Respublikos valstybės sieną gabeno penkiasdešimt tonų arba didesnį kiekį skirtų naudoti arba šalinti nepavojingų atliekų,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Tas, kas neturėdamas leidimo ar kitaip pažeisdamas teisės aktų reikalavimus, per Lietuvos Respublikos valstybės sieną gabeno penkiasdešimt tonų arba didesnį kiekį skirtų naudoti arba šalinti pavojingų atliekų,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
+
+#### 271 straipsnis. Saugomų teritorijų ar gamtos paveldo objektų sunaikinimas ar suniokojimas
+
+1\. Tas, kas sunaikino ar suniokojo valstybinį parką, rezervatą, draustinį, ar kitą valstybės saugomą gamtinę teritoriją, joje esančią saugomą natūralią ar rūšies buveinę, ar gamtos paveldo teritorinį kompleksą, kurio apsaugos tikslams įsteigta ši teritorija, ar gamtos paveldo objektą,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 2\. Šio straipsnio 1 dalyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 #### 271¹ straipsnis. Statybą reglamentuojančių teisės aktų reikalavimų pažeidimas
 
@@ -4714,7 +4744,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
 
-1\) Į Lietuvos raudonąją knygą įrašytų saugomų gyvūnų, augalų ir grybų rūšių sąraše nurodytų ir 0(Ex), 1(E), 2(V) kategorijoms priskirtų saugomų rūšių laukiniai gyvūnai, augalai ir grybai;
+1\) Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąraše nurodytų ir 0(Ex), 1(E), 2(V) kategorijoms priskirtų saugomų rūšių laukiniai gyvūnai, augalai ir grybai;
 
 2\) 1996 m. gruodžio 9 d. Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą A ir B prieduose nurodytų saugomų rūšių laukiniai gyvūnai ir augalai;
 
@@ -4725,6 +4755,10 @@ Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
 *Įstatymas papildytas straipsniu:*
 
 *Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 ### XXXIX SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI TRANSPORTO EISMO SAUGUMUI
 
@@ -5242,18 +5276,6 @@ XLVI skyrius
 
 #### 314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas
 
-1\. Šauktinis, vengęs eilinio šaukimo į privalomąją karo tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą, suklastodamas dokumentus ar kitokia apgaule,
-
-baudžiamas areštu arba laisvės atėmimu iki trejų metų.
-
-2\. Šauktinis, vengęs šaukimo į privalomąją karo tarnybą, jeigu nebuvo požymių, nurodytų šio straipsnio 1 dalyje, padarė baudžiamąjį nusižengimą ir
-
-baudžiamas bauda arba areštu.
-
-**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
-
-#### 314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas
-
 1\. Karo prievolininkas, vengęs šaukimo į privalomąją karo tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,
 
 baudžiamas areštu arba laisvės atėmimu iki trejų metų.
@@ -5265,14 +5287,6 @@ baudžiamas bauda arba areštu.
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
-
-#### 315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas
-
-Šauktinis ar aktyviojo rezervo karys, vengęs šaukimo į karo tarnybą karo padėties metu,
-
-baudžiamas laisvės atėmimu iki penkerių metų.
-
-**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
 
 #### 315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas
 
@@ -5410,14 +5424,6 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 #### 330 straipsnis. Sąvokų išaiškinimas
 
-1\. Karys yra Lietuvos Respublikos pilietis, atliekantis privalomąją (pradinę ar aktyviajame rezerve), profesinę ar savanorių karo tarnybą.
-
-2\. Šauktinis yra karo prievolininkas, Karo prievolės įstatymo nustatyta tvarka ir būdais iki nustatyto amžiaus neatlikęs privalomosios pradinės ar alternatyviosios tarnybos ir nuo jos neatleistas.
-
-**Straipsnio redakcija nuo 2011 m. rugsėjo 1 d.:**
-
-#### 330 straipsnis. Sąvokų išaiškinimas
-
 1\. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.
 
 2\. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
@@ -5474,6 +5480,8 @@ priedas
 
 20\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
 
+21\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -5493,6 +5501,8 @@ priedas
 *Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)*
 
 *Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
+
+*Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 \_______________
 
@@ -5792,8 +5802,18 @@ BAUDŽIAMOJO KODEKSO 314, 315 IR 330 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
 
+36\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
+
+BAUDŽIAMOJO KODEKSO 7, 256, 270, 270(1), 271, 277(1) STRAIPSNIŲ PAKEITIMO, KODEKSO PRIEDO PAPILDYMO IR KODEKSO PAPILDYMO 270(2) STRAIPSNIU ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2011-08-04)
+Redagavo Aušrinė Trapinskienė (2012-01-09)
 
 [email protected]
