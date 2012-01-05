@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_416520"
+redakcija_nuo: "2012-01-06"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_416521"
 ---
 
 # Baudžiamasis kodeksas
@@ -13,8 +13,6 @@ redakcija_nuo: "2012-01-01"
 Įstatymas skelbtas: Žin., 2000, Nr. 89-2741
 
 Neoficialus Įstatymo tekstas
-
-**Aktuali Kodekso redakcija nuo 2012-01-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -51,8 +49,6 @@ PATVIRTINTAS
 2000 m. rugsėjo 26 d.
 
 įstatymu Nr. VIII-1968
-
-**Aktuali Kodekso redakcija nuo 2012-01-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -4974,6 +4970,18 @@ baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
 *Nr. X-61, 2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)*
 
+#### 292¹ straipsnis. Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbas
+
+1\. Darbdavys ar jo įgaliotas asmuo, versliškai įdarbinęs Lietuvos Respublikoje nelegaliai esančius trečiųjų šalių piliečius arba įdarbinęs penkis ar daugiau Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių pilietį ypatingai išnaudojamo darbo sąlygomis, arba įdarbinęs Lietuvos Respublikoje nelegaliai esantį trečiųjų šalių nepilnametį pilietį,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Įstatymas papildytas straipsniu:*
+
+*Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)*
+
 #### 293 straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten jiems pasilikti arba palikti be pagalbos organizavimas
 
 1\. Tas, kas organizavo Lietuvos Respublikos piliečius ar nuolatinius gyventojus keliauti į užsienį prašytis prieglobsčio ar ten nelegaliai dirbti, ar dėl kitų priežasčių nelegaliai pasilikti užsienyje arba apgaulingai žadėdamas legalų statusą užsienyje,
@@ -5482,6 +5490,8 @@ priedas
 
 21\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
 
+22\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -5503,6 +5513,8 @@ priedas
 *Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
 
 *Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
+
+*Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)*
 
 \_______________
 
@@ -5811,6 +5823,14 @@ Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
 BAUDŽIAMOJO KODEKSO 7, 256, 270, 270(1), 271, 277(1) STRAIPSNIŲ PAKEITIMO, KODEKSO PRIEDO PAPILDYMO IR KODEKSO PAPILDYMO 270(2) STRAIPSNIU ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
+
+37\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)
+
+BAUDŽIAMOJO KODEKSO PAPILDYMO 292(1) STRAIPSNIU IR KODEKSO PRIEDO PAPILDYMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
