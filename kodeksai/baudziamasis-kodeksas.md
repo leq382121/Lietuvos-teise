@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-01-06"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_416521"
+redakcija_nuo: "2012-01-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_416522"
 ---
 
 # Baudžiamasis kodeksas
@@ -774,6 +774,10 @@ VII SKYRIUS
 
 1\) be teismo ar bausmę vykdančios institucijos žinios nekeisti gyvenamosios vietos;
 
+**1 punkto redakcija nuo 2012-07-01:**
+
+1\) be bausmę vykdančios institucijos žinios nekeisti gyvenamosios vietos;
+
 2\) vykdyti teismo nustatytus įpareigojimus ir laikytis teismo nustatytų draudimų;
 
 3\) nustatyta tvarka atsiskaityti, kaip vykdo draudimus ir įpareigojimus.
@@ -813,6 +817,8 @@ VII SKYRIUS
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 49 straipsnis. Areštas
 
@@ -1070,6 +1076,10 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 1\. Jeigu nuteistasis, neatlikęs paskirtos bausmės, padaro naują nusikalstamą veiką arba naują nusikalstamą veiką bausmės vykdymo atidėjimo laikotarpiu padaro asmuo, kuriam bausmės vykdymas atidėtas, arba naują nusikalstamą veiką neatliktos bausmės laikotarpiu padaro asmuo, lygtinai atleistas nuo bausmės prieš terminą, teismas, paskyręs bausmę už naują nusikaltimą ar baudžiamąjį nusižengimą, bausmes subendrina. Skirdamas subendrintą bausmę, teismas gali bausmes visiškai ar iš dalies sudėti.
 
+**1 dalies redakcija nuo 2012-07-01:**
+
+1\. Jeigu nuteistasis, neatlikęs paskirtos bausmės, padaro naują nusikalstamą veiką arba naują nusikalstamą veiką bausmės vykdymo atidėjimo laikotarpiu padaro asmuo, kuriam bausmės vykdymas atidėtas, teismas, paskyręs bausmę už naują nusikaltimą ar baudžiamąjį nusižengimą, bausmes subendrina. Skirdamas subendrintą bausmę, teismas gali bausmes visiškai ar iš dalies sudėti.
+
 2\. Kai bausmės visiškai sudedamos, prie nauju nuosprendžiu paskirtos bausmės pridedama visa neatliktos bausmės dalis.
 
 3\. Kai bausmės iš dalies sudedamos, prie nauju nuosprendžiu paskirtos bausmės pridedama neatliktos bausmės dalis. Jeigu neatliktos bausmės dalis yra didesnė, tai prie jos pridedama nauju nuosprendžiu paskirtos bausmės dalis.
@@ -1077,6 +1087,10 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 4\. Kai bausmė skiriama vadovaujantis šio straipsnio 1 dalimi, subendrinta bausmė negali viršyti dvidešimt penkerių metų laisvės atėmimo, o jeigu skiriama kitos rūšies bausmė, - šio kodekso nustatyto tos rūšies bausmės maksimalaus dydžio.
 
 5\. Jeigu už vieną iš padarytų nusikaltimų buvo paskirta laisvės atėmimo iki gyvos galvos bausmė, bausmės subendrinamos apėmimo būdu ir subendrinta bausmė yra laisvės atėmimas iki gyvos galvos.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 65 straipsnis. Bausmių sudėjimo ir keitimo taisyklės
 
@@ -1150,6 +1164,30 @@ IX SKYRIUS
 
 10\) išplėstinis turto konfiskavimas.
 
+**2 dalies redakcija nuo 2012-07-01:**
+
+2\. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš pataisos įstaigos Lietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios baudžiamojo poveikio priemonės:
+
+1\) uždraudimas naudotis specialia teise;
+
+2\) viešųjų teisių atėmimas;
+
+3\) teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas;
+
+4\) turtinės žalos atlyginimas ar pašalinimas;
+
+5\) nemokami darbai;
+
+6\) įmoka į nukentėjusių nuo nusikaltimų asmenų fondą;
+
+7\) turto konfiskavimas;
+
+8\) draudimas prisiartinti prie nukentėjusio asmens;
+
+9\) dalyvavimas smurtinį elgesį keičiančiose programose;
+
+10\) išplėstinis turto konfiskavimas.
+
 3\. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, draudimas prisiartinti prie nukentėjusio asmens, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme.
 
 4\. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
@@ -1168,7 +1206,9 @@ IX SKYRIUS
 
 *Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
-*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)(papildyta naujais 2 dalies 2-3 punktais)*
+*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 68 straipsnis. Uždraudimas naudotis specialia teise
 
@@ -1184,9 +1224,9 @@ IX SKYRIUS
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
-*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)(papildyta 4 dalimi)*
+*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
-**\*68¹ straipsnis. Viešųjų teisių atėmimas**
+#### 68¹ straipsnis. Viešųjų teisių atėmimas
 
 1\. Viešųjų teisių atėmimas yra teisės būti išrinktam ar paskirtam į valstybės ar savivaldybių institucijų ir įstaigų, įmonių ar nevalstybinių organizacijų renkamas ar skiriamas pareigas atėmimas.
 
@@ -1196,13 +1236,13 @@ IX SKYRIUS
 
 4\. Viešųjų teisių atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
 
-*Papildyta straipsniu:*
+**Pastaba. Baudžiamojo kodekso 68¹ straipsnyje numatyta baudžiamojo poveikio priemonė – viešųjų teisių atėmimas– skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo Nr. XI-1472 įsigaliojimo.**
+
+*Kodeksas papildytas straipsniu:*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
-Pastaba: Baudžiamojo kodekso 68¹ straipsnyje numatyta baudžiamojo poveikio priemonė – viešųjų teisių atėmimas– skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo Nr. XI-1472 įsigaliojimo.
-
-**\*68² straipsnis. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas**
+#### 68² straipsnis. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas
 
 1\. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą teismas skiria tais atvejais, kai asmuo nusikalstamą veiką padaro darbinės ar profesinės veiklos srityje arba kai teismas, atsižvelgdamas į padarytos nusikalstamos veikos pobūdį, padaro išvadą, kad asmeniui negalima palikti teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla.
 
@@ -1210,11 +1250,11 @@ Pastaba: Baudžiamojo kodekso 68¹ straipsnyje numatyta baudžiamojo poveikio pr
 
 3\. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
 
-*Papildyta straipsniu:*
+**Pastaba. Baudžiamojo kodekso 68² straipsnyje numatyta baudžiamojo poveikio priemonė – teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo Nr. XI-1472 įsigaliojimo.**
+
+*Kodeksas papildytas straipsniu:*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
-
-Pastaba: Baudžiamojo kodekso 68² straipsnyje numatyta baudžiamojo poveikio priemonė – teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo Nr. XI-1472 įsigaliojimo.
 
 #### 69 straipsnis. Turtinės žalos atlyginimas ar pašalinimas
 
@@ -1288,7 +1328,7 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 
 *Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)*
 
-**\*72³ straipsnis. Išplėstinis turto konfiskavimas**
+#### 72³ straipsnis. Išplėstinis turto konfiskavimas
 
 1\. Išplėstinis turto konfiskavimas yra kaltininko turto ar jo dalies, neproporcingos kaltininko teisėtoms pajamoms, paėmimas valstybės nuosavybėn, kai yra pagrindas manyti, kad turtas gautas nusikalstamu būdu.
 
@@ -1315,8 +1355,6 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 5\. Kai konfiskuotinas visas turtas arba jo dalis yra paslėpta, suvartota, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismas iš kaltininko ar kitų šio straipsnio 3 dalyje nurodytų asmenų išieško konfiskuotino turto ar jo dalies vertę atitinkančią pinigų sumą.
 
 6\. Teismas, skirdamas išplėstinį turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto ar jo dalies vertę pinigais.
-
-**\*Pastaba. 72³ straipsnyje numatytas išplėstinis turto konfiskavimas taikomas tik turtui, kurį baudžiamajame įstatyme uždraustą veiką padaręs asmuo įgijo po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
 
 *Kodeksas papildytas straipsniu:*
 
@@ -1376,6 +1414,42 @@ X SKYRIUS
 
 4\) padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje numatytas taisykles.
 
+**75 straipsnio redakcija nuo 2012-07-01:**
+
+#### 75 straipsnis. Bausmės vykdymo atidėjimas
+
+1\. Asmeniui, nuteistam laisvės atėmimu už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus ne daugiau kaip ketveriems metams arba ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+
+2\. Atidėdamas bausmės vykdymą, teismas paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) pareigas:
+
+1\) atsiprašyti nukentėjusio asmens;
+
+2\) teikti nukentėjusiam asmeniui pagalbą, kol šis gydosi;
+
+3\) gydytis priklausomybės ligas, kai nuteistasis sutinka;
+
+4\) auklėti ir prižiūrėti savo nepilnamečius vaikus, rūpintis jų sveikata, išlaikyti juos;
+
+5\) pradėti dirbti arba mokytis, tęsti darbą ar mokslą;
+
+6\) dalyvauti elgesio pataisos programoje;
+
+7\) neišeiti iš namų tam tikru laiku, jeigu tai nesusiję su darbu arba mokymusi;
+
+8\) neišvykti už gyvenamosios vietos miesto (rajono) ribų be nuteistojo priežiūrą vykdančios institucijos leidimo;
+
+9\) nesilankyti tam tikrose vietose arba nebendrauti su tam tikrais asmenimis ar asmenų grupėmis;
+
+10\) nevartoti psichiką veikiančių medžiagų;
+
+11\) neturėti, nenaudoti, neįsigyti tam tikrų daiktų arba neužsiimti tam tikra veikla.
+
+3\. Teismas asmeniui jo ar kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti kitas baudžiamajame įstatyme nenumatytas pareigas, kurios, teismo nuomone, turėtų teigiamos įtakos nuteistojo elgesiui.
+
+4\. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 2 ir 3 dalyse numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti.
+
+5\. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.
+
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
@@ -1383,6 +1457,8 @@ X SKYRIUS
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 76 straipsnis. Atleidimas nuo bausmės dėl ligos
 
@@ -1425,6 +1501,8 @@ d) ne mažiau kaip vieną trečdalį paskirtos bausmės už neatsargų arba nesu
 5\. Jeigu asmuo, lygtinai atleistas nuo laisvės atėmimo bausmės prieš terminą, be pateisinamų priežasčių neįvykdo teismo paskirtų įpareigojimų arba pažeidinėja viešąją tvarką, girtauja ar padaro kitų teisės pažeidimų, už kuriuos jam ne mažiau kaip du kartus buvo taikytos administracinės nuobaudos ar drausminio poveikio priemonės, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu įspėja nuteistąjį, kad gali būti panaikintas lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą. Jeigu įspėtas nuteistasis toliau nevykdo teismo paskirtų įpareigojimų ar daro teisės pažeidimus, teismas nuteistojo elgesį kontroliuojančios institucijos teikimu priima sprendimą panaikinti lygtinį atleidimą nuo laisvės atėmimo bausmės prieš terminą ir vykdyti neatliktą bausmės dalį.
 
 6\. Jeigu asmuo, lygtinai atleistas nuo laisvės atėmimo bausmės prieš terminą, arba asmuo, kuriam laisvės atėmimo bausmė pakeista švelnesne, per neatliktos bausmės laiką padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje numatytas taisykles.
+
+#### 77 straipsnis netenka galios nuo 2012-07-01.
 
 *Straipsnio pakeitimai:*
 
@@ -1480,6 +1558,22 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 
 6\) atidavimas į specialią auklėjimo įstaigą.
 
+**1 dalies redakcija nuo 2012-07-01:**
+
+1\. Nepilnamečiui, padariusiam baudžiamąjį nusižengimą ar nusikaltimą ir atleistam nuo baudžiamosios atsakomybės ar bausmės, taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš pataisos įstaigų Lietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios auklėjamojo poveikio priemonės:
+
+1\) įspėjimas;
+
+2\) turtinės žalos atlyginimas arba jos pašalinimas;
+
+3\) nemokami auklėjamojo pobūdžio darbai;
+
+4\) atidavimas tėvams ar kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, ugdyti ir prižiūrėti;
+
+5\) elgesio apribojimas;
+
+6\) atidavimas į specialią auklėjimo įstaigą.
+
 2\. Teismas nepilnamečiui gali paskirti ne daugiau kaip tris tarpusavyje suderintas auklėjamojo poveikio priemones.
 
 3\. (neteko galios).
@@ -1489,6 +1583,8 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 83 straipsnis. Įspėjimas
 
@@ -1553,6 +1649,18 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 4\. Nepilnametis privalo nustatyta tvarka atsiskaityti apie įpareigojimų ir draudimų vykdymą.
 
 5\. Nepilnamečio elgesio apribojimas gali būti skiriamas nepilnamečiui kaip savarankiška poveikio priemonė ar su kitomis auklėjamojo poveikio priemonėmis. Ši priemonė negali būti skiriama, jeigu nepilnametis atiduodamas į specialią auklėjimo įstaigą.
+
+**Straipsnis papildomas nauja 4 dalimi, buvusios 4 ir 5 dalys laikomos atitinkamai 5 ir 6 dalimis nuo 2012-07-01:**
+
+4\. Teismas nepilnamečiui jo ar kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti kitus baudžiamajame įstatyme nenumatytus įpareigojimus ar draudimus, kurie, teismo nuomone, turėtų teigiamos įtakos nepilnamečio elgesiui.
+
+5\. Nepilnametis privalo nustatyta tvarka atsiskaityti apie įpareigojimų ir draudimų vykdymą.
+
+6\. Nepilnamečio elgesio apribojimas gali būti skiriamas nepilnamečiui kaip savarankiška poveikio priemonė ar su kitomis auklėjamojo poveikio priemonėmis. Ši priemonė negali būti skiriama, jeigu nepilnametis atiduodamas į specialią auklėjimo įstaigą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 88 straipsnis. Atidavimas į specialią auklėjimo įstaigą
 
@@ -1632,11 +1740,23 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 
 4\) padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64, 90 ir 91 straipsniuose numatytas taisykles.
 
+**92 straipsnio redakcija nuo 2012-07-01:**
+
+#### 92 straipsnis. Bausmės vykdymo atidėjimas nepilnamečiui
+
+1\. Nepilnamečiui, nuteistam laisvės atėmimu už vieną ar kelis neatsargius nusikaltimus arba laisvės atėmimu ne daugiau kaip penkeriems metams už vieną ar kelis tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+
+2\. Atidėdamas bausmės vykdymą, teismas nepilnamečiui paskiria vieną ar kelias tarpusavyje suderintas šio kodekso 82 straipsnyje numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą. Kartu teismas nustato laiką, per kurį nepilnametis turi įvykdyti auklėjamojo poveikio priemones.
+
+3\. Bausmės vykdymo atidėjimo nepilnamečiams vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.
+
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 #### 93 straipsnis. Nepilnamečio atleidimas nuo baudžiamosios atsakomybės
 
@@ -1675,6 +1795,12 @@ b) ne mažiau kaip du trečdalius paskirtos bausmės už sunkų ar labai sunkų 
 4\. Jeigu asmuo, lygtinai atleistas nuo laisvės atėmimo bausmės prieš terminą, be pateisinamų priežasčių neįvykdo teismo paskirtų įpareigojimų arba pažeidžia paskirtus draudimus, teismas asmens elgesį kontroliuojančios institucijos teikimu jį įspėja, kad gali būti panaikintas lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą. Jeigu įspėtas asmuo toliau nevykdo teismo paskirtų įpareigojimų arba pažeidinėja paskirtus draudimus, teismas to asmens elgesį kontroliuojančios institucijos teikimu priima sprendimą panaikinti lygtinį atleidimą nuo laisvės atėmimo bausmės prieš terminą ir vykdyti neatliktą bausmės dalį.
 
 5\. Jeigu asmuo, kuris lygtinai atleistas nuo laisvės atėmimo bausmės prieš terminą arba kuriam laisvės atėmimo bausmė pakeista švelnesne, per neatliktos bausmės laiką padaro naują nusikalstamą veiką, teismas skiria jam bausmę pagal šio kodekso 64 straipsnyje nustatytas taisykles.
+
+#### 94 straipsnis netenka galios nuo 2012-07-01.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
 
 XII SKYRIUS
 
@@ -2604,7 +2730,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 5\. Šio straipsnio 1 dalyje nurodyti veiksmai nelaikomi nusikaltimu, jeigu tarp veiksmų dalyvių nėra didelio amžiaus, dvasinės ir fizinės brandos skirtumo.
 
-*Įstatymas papildytas straipsniu:*
+*Kodeksas papildytas straipsniu:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
@@ -4428,9 +4554,9 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
-#### 263 straipsnis. Narkotinių ar psichotropinių medžiagų vagystė, prievartavimas arba
+#### 263 straipsnis. Narkotinių ar psichotropinių medžiagų vagystė, prievartavimas
 
-**kitoks neteisėtas užvaldymas**
+**arba kitoks neteisėtas užvaldymas**
 
 1\. Tas, kas pavogė, užvaldė apgaule (sukčiavimas) arba pasisavino jam patikėtas ar jo žinioje buvusias narkotines ar psichotropines medžiagas,
 
@@ -4748,7 +4874,7 @@ Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
 
 4\) 1979 m. balandžio 2 d. Tarybos direktyvos 79/409/EEB dėl laukinių paukščių apsaugos I priede nurodyti ir šios direktyvos 4 straipsnio 2 dalyje nurodyti laukiniai paukščiai.
 
-*Įstatymas papildytas straipsniu:*
+*Kodeksas papildytas straipsniu:*
 
 *Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)*
 
@@ -4978,7 +5104,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-*Įstatymas papildytas straipsniu:*
+*Kodeksas papildytas straipsniu:*
 
 *Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)*
 
@@ -5831,6 +5957,16 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)
 
 BAUDŽIAMOJO KODEKSO PAPILDYMO 292(1) STRAIPSNIU IR KODEKSO PRIEDO PAPILDYMO ĮSTATYMAS
+
+38\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
+
+BAUDŽIAMOJO KODEKSO 48, 64, 67, 75, 82, 87, 92 STRAIPSNIŲ PAKEITIMO IR 77, 94 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 
 \*\*\* Pabaiga \*\*\*
 
