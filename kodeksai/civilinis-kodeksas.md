@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2012-01-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_417616"
+redakcija_nuo: "2012-04-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_422256"
 ---
 
 # Civilinis kodeksas
@@ -2152,9 +2152,13 @@ BENDROSIOS NUOSTATOS
 
 2\. Jeigu juridinis asmuo yra bankrutuojantis ar likviduojamas, apie tai taip pat turi būti pažymima šio straipsnio 1 dalyje nurodytuose dokumentuose.
 
-3\. Jeigu juridinis asmuo yra pridėtinės vertės mokesčio mokėtojas, tai mokėtojo kodas turi būti taip pat pažymimas šio straipsnio 1 dalyje nurodytuose dokumentuose.
+3\. Neteko galios nuo 2012-04-14
 
 4\. Jei šio straipsnio 1 dalyje nurodytuose dokumentuose yra minimas juridinio asmens kapitalas, tai turi būti nurodomas įstatinis kapitalas ir apmokėto įstatinio kapitalo dydis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-1953, 2012-03-29, Žin., 2012, Nr. 44-2146 (2012-04-14)*
 
 ###### 2.45 straipsnis. Juridinio asmens dalyvis
 
@@ -19426,6 +19430,14 @@ CIVILINIO KODEKSO 4.127, 4.170, 4.171, 4.172, 4.173, 4.174, 4.175, 4.176, 4.177,
 
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 
+25\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-1953, 2012-03-29, Žin., 2012, Nr. 44-2146 (2012-04-14)
+
+CIVILINIO KODEKSO 2.44 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19440,6 +19452,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2012-01-20)
+Redagavo Aušrinė Trapinskienė (2012-04-16)
 
 [email protected]
