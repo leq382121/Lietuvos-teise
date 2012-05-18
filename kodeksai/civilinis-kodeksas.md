@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2012-04-14"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_422256"
+redakcija_nuo: "2012-05-19"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_425010"
 ---
 
 # Civilinis kodeksas
@@ -362,9 +362,7 @@ b) iki 2001 m. spalio 1 d. – hipotekos registrą;
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 
-RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS
-
-PATVIRTINTAS
+RESPUBLIKOS PREZIDENTAS VALDAS ADAMKUS PATVIRTINTAS
 
 2000 m. liepos 18 d.
 
@@ -1044,11 +1042,21 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 1\. Notarine forma turi būti sudaromi:
 
+**Dalies redakcija iki 2013-03-01**
+
 1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai;
+
+**Dalies redakcija nuo 2013-03-01**
+
+1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai, išskyrus bankroto proceso metu sudaromus nekilnojamojo daikto perleidimo sandorius, jeigu šiame kodekse nenustatyta kitaip;
 
 2\) vedybų sutartys (ikivedybinė ir povedybinė);
 
 3\) kiti sandoriai, kuriems šis kodeksas nustato privalomą notarinę formą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2001, 2012-05-10, Žin., 2012, Nr. 57-2824 (2012-05-19)*
 
 ###### 1.75 straipsnis. Teisinė sandorių registracija
 
@@ -7182,11 +7190,29 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\. Namo, buto ar kitos patalpos savininkas neturi teisės perduoti bendrosios dalinės nuosavybės, numatytos šio straipsnio 1 dalyje, savo dalies, taip pat atlikti kitų veiksmų, dėl kurių ta dalis perduodama atskirai nuo nuosavybės teisės į butą ar kitą patalpą, išskyrus atvejus, kai perduodama bendrąja daline nuosavybe esančio daikto, kuris gali būti ar, jį pertvarkius, galės būti naudojamas kaip atskiras daiktas ir toks jo naudojimas netrukdys naudoti butų ar kitų patalpų pagal paskirtį, dalis.
 
+**Dalių redakcija iki 2013-01-01**
+
 3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui išlaikyti ir išsaugoti, mokėti mokesčius, rinkliavas ir kitas įmokas, taip pat reguliariai daryti atskaitymus kaupti lėšas, kurios bus skiriamos namui atnaujinti.
 
 4\. Šio kodekso 4.79 straipsnyje nustatytos taisyklės taikomos ir tais atvejais, kai kitiems asmenims butų ir kitų patalpų, esančių namuose, savininkai parduoda bendrąja daline nuosavybe (palėpės, rūsio patalpos ir pan.) turimą visą ar ne visą dalį, priklausančią proporcingai jų turimai nuosavybės teise patalpai. Jeigu parduodama dalis bendrosios nuosavybės teise turimo daikto, kuris yra ar gali būti naudojamas tenkinant ne viso namo, o tik atskiroje jo dalyje (laiptinė ir pan.) esančių patalpų savininkų poreikius, nepažeidžiant name esančių patalpų savininkų teisių, tai apie dalies, turimos bendrosios nuosavybės teise, pardavimą turi būti pranešta toje namo dalyje esančių patalpų savininkams ir tik jiems leidžiama pasinaudoti pirmenybės teise ją pirkti.
 
 5\. Buto ir kitų patalpų savininkui priklausanti bendrosios dalinės nuosavybės dalis yra lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
+
+**Dalių redakcija nuo 2013-01-01**
+
+3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui (statiniui) išlaikyti ir išsaugoti, įstatymuose nustatyta tvarka mokėti mokesčius, rinkliavas ir kitas įmokas.
+
+4\. Butų ir kitų patalpų savininkai taip pat privalo reguliariai kaupti lėšas, kurios bus skiriamos namui (statiniui) atnaujinti pagal privalomuosius statinių naudojimo ir priežiūros reikalavimus. Šios lėšos yra butų ir kitų patalpų savininkų bendroji dalinė nuosavybė. Į šias lėšas negali būti nukreiptas išieškojimas pagal atskiro buto ir kitų patalpų savininko prievoles. Perleidus butą ar kitas patalpas naujam savininkui, su kaupiamosiomis lėšomis susijusios teisės ir prievolės atitenka naujam savininkui. Lėšų kaupimo, jų dydžio apskaičiavimo, sukauptų lėšų apsaugos tvarką nustato Vyriausybė. Ginčus dėl kaupiamųjų lėšų sprendžia teismas.
+
+5\. Lėšų, skirtų pastatų atnaujinimui (modernizavimui), kaupimą reglamentuoja įstatymai.
+
+6\. Šio kodekso 4.79 straipsnyje nustatytos taisyklės taikomos ir tais atvejais, kai kitiems asmenims butų ir kitų patalpų, esančių namuose, savininkai parduoda bendrąja daline nuosavybe (palėpės, rūsio patalpos ir pan.) turimą visą ar ne visą dalį, priklausančią proporcingai jų turimai nuosavybės teise patalpai. Jeigu parduodama dalis bendrosios nuosavybės teise turimo daikto, kuris yra ar gali būti naudojamas tenkinant ne viso namo, o tik atskiroje jo dalyje (laiptinė ir pan.) esančių patalpų savininkų poreikius, nepažeidžiant name esančių patalpų savininkų teisių, tai apie dalies, turimos bendrosios nuosavybės teise, pardavimą turi būti pranešta toje namo dalyje esančių patalpų savininkams ir tik jiems leidžiama pasinaudoti pirmenybės teise ją pirkti.
+
+7\. Buto ir kitų patalpų savininkui priklausanti bendrosios dalinės nuosavybės dalis yra lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
 
 ###### 4.83 straipsnis. Butų ir kitų patalpų savininkų teisės ir pareigos naudojantis bendrąja daline nuosavybe
 
@@ -7198,13 +7224,27 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\) reikalauti iš kitų butų ir kitų patalpų savininkų (naudotojų), kad gyvenamojo namo bendrojo naudojimo objektų valdymas ir naudojimas atitiktų bendrąsias buto ir kitų patalpų savininkų (naudotojų) teises ir teisėtus interesus. Teisėtais buto ir kitų patalpų savininkų (naudotojų) interesais laikoma gyvenamojo namo vidaus tvarkos taisyklių nustatymas, tinkama bendrojo naudojimo objektų priežiūra ir išlaikymas, gyvenamojo namo priežiūros ūkinio ir finansinio plano parengimas, lėšų kaupimas bendrojo naudojimo objektams atnaujinti.
 
+**Dalių redakcija iki 2013-01-01**
+
 3\. Buto ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį.
 
 4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimta administratoriaus ar butų ir kitų patalpų savininkų susirinkimo sprendimo šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
 
+**Dalių redakcija nuo 2013-01-01**
+
+3\. Butų ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį, arba šio kodekso 4.84 straipsnyje nustatyta tvarka pasirenka bendrojo naudojimo objektų administratorių. Pavyzdinę jungtinės veiklos sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija. Butų ir kitų patalpų savininkų bendrijų valdymo organų, jungtinės veiklos sutartimi įgaliotų asmenų ir šio kodekso 4.84 straipsnyje nustatyta tvarka paskirtų bendrojo naudojimo objektų administratorių veiklos, susijusios su įstatymų ir kitų teisės aktų jiems priskirtų funkcijų vykdymu, priežiūrą ir kontrolę atlieka savivaldybės.
+
+4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimtas butų ir kitų patalpų savininkų susirinkimo sprendimas šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
+
 5\. Buto ir kitų patalpų savininkas (naudotojas) privalo leisti įgaliotiems asmenims remontuoti ar kitaip tvarkyti jo bute ir kitose patalpose esančią bendrojo naudojimo mechaninę, elektros, techninę ir kitokią įrangą.
 
 6\. Butų ir kitų patalpų savininkai turi teisę į bendrojo naudojimo objektų duodamas pajamas proporcingai jų daliai bendrojoje dalinėje nuosavybėje.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
+
+**Straipsnio redakcija iki 2013-01-01**
 
 ###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
 
@@ -7220,6 +7260,42 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 6\. Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV skyriaus normos.
 
+**Straipsnio redakcija nuo 2013-01-01**
+
+###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
+
+1\. Jeigu butų ir kitų patalpų savininkai neįsteigia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos arba nesudaro jungtinės veiklos sutarties, taip pat jei bendrija likviduota arba nutraukta jungtinės veiklos sutartis, skiriamas bendrojo naudojimo objektų administratorius.
+
+2\. Sprendimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo priima butų ir kitų patalpų savininkai, o jų pasirinktą administratorių skiria savivaldybės vykdomoji institucija. Jeigu butų ir kitų patalpų savininkai nepasirenka administratoriaus, sprendimą dėl administratoriaus skyrimo priima savivaldybės vykdomoji institucija. Bendrojo naudojimo objektų administratoriaus atrankos ir skyrimo tvarką nustato Vyriausybė.
+
+3\. Butų ir kitų patalpų savininkų balsavimą raštu rengia ar susirinkimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo šaukia savivaldybės vykdomoji institucija šio kodekso 4.85 straipsnyje nustatyta tvarka.
+
+4\. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija gauna šio namo gyventojų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas šiam daugiabučiam namui pratęsiamas kitų penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai balsų dauguma turi teisę priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių ir nesuėjus penkerių metų terminui.
+
+5\. Bendrojo naudojimo objektų administratorius turtą administruoja šio kodekso 4.240 straipsnio pagrindu. Bendrojo naudojimo objektų administratoriai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir apimtimi skelbia informaciją apie savo veiklą.
+
+6\. Bendrojo naudojimo objektų administratorių civilinė atsakomybė už fiziniams ir juridiniams asmenims padarytą žalą, vykdant administravimo funkcijas, draudžiama civilinės atsakomybės draudimu.
+
+7\. Bendrojo naudojimo objektų administratoriais negali būti šilumos, elektros energijos, dujų, geriamojo vandens tiekėjai, asmenys, teikiantys atliekų vežimo paslaugas, liftų nuolatinės priežiūros paslaugas (išskyrus namus, kuriuose nėra liftų), jeigu jie dirba tos pačios savivaldybės teritorijoje, taip pat kiti asmenys, tiesiogiai ar netiesiogiai susiję su išvardytais asmenimis pagal Konkurencijos įstatymą. Šis draudimas bendrojo naudojimo objektų administratoriui netaikomas administruojant turtą, esantį gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 100 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip.
+
+8\. Bendrojo naudojimo objektų administratorius administruoja bendrojo naudojimo objektus pagal Vyriausybės patvirtintus nuostatus.
+
+9\. Maksimalaus bendrojo naudojimo objektų administravimo tarifo apskaičiavimo tvarką nustato savivaldybės taryba. Administravimo išlaidas apmoka butų ir kitų patalpų savininkai proporcingai jų daliai bendrojoje dalinėje nuosavybėje.
+
+10\. Administravimas pasibaigia šio kodekso 4.250 straipsnyje nustatytais pagrindais, taip pat įregistravus gyvenamojo namo butų ir kitų patalpų savininkų bendrijos įstatus arba sudarius jungtinės veiklos sutartį.
+
+11\. Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV skyriaus normos.
+
+12\. Šio straipsnio 5 ir 6 dalių normos mutatis mutandis taikomos ir bendrojo naudojimo objektų administratoriams, veikiantiems pagal su daugiabučio namo butų ir kitų patalpų savininkų bendrija arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyviais sudarytas sutartis dėl bendrojo naudojimo objektų administravimo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
+
+Pastaba: 4.84 straipsnio 2, 3, 4 ir 7 dalių nuostatos, išskyrus 4 dalies nuostatas dėl butų ir kitų patalpų savininkų teisės visais atvejais priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių, taikomos po šio įstatymo įsigaliojimo skiriamiems bendrojo naudojimo objektų administratoriams. Iki šio įstatymo įsigaliojimo neterminuotam laikui paskirti bendrojo naudojimo objektų administratoriai savo veiklą vykdo iki 2014 m. liepos 1 d. Iki 2014 m. liepos 1 d. turi būti paskirti šio įstatymo nustatyta tvarka ir šio įstatymo reikalavimus atitinkantys bendrojo naudojimo objektų administratoriai.
+
+**Straipsnio redakcija iki 2013-01-01**
+
 ###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
 
 1\. Sprendimai dėl bendrojo naudojimo objektų valdymo ir naudojimo priimami butų ir kitų patalpų savininkų balsų dauguma, jeigu butų ir kitų patalpų savininkų bendrijos įstatuose ar jungtinės veiklos sutartyje nenumatyta kitaip. Kiekvieno buto ir kitų patalpų savininkas turi vieną balsą. Jeigu butas ir kitos patalpos nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
@@ -7231,6 +7307,32 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 4\. Butų ir kitų patalpų savininkų sprendimai skelbiami viešai ir galioja visiems butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti butų ir kitų patalpų savininkų bei trečiųjų asmenų teisių ir teisėtų interesų, išskyrus šio kodekso ir kitų įstatymų nustatytus atvejus.
 
 5\. Butų ir kitų patalpų savininkų sprendimai gali būti priimti ir nesušaukus susirinkimo, bet jiems raštu pareiškus apie savo sprendimą. Balsavimo raštu tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+**Straipsnio redakcija nuo 2013-01-01**
+
+###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
+
+1\. Sprendimai dėl bendrojo naudojimo objektų valdymo ir naudojimo, taip pat dėl naujų bendrojo naudojimo objektų sukūrimo ir disponavimo jais klausimų, priimami butų ir kitų patalpų savininkų balsų dauguma, jeigu įstatymuose nenustatyta kitaip. Kiekvieno buto ir kitų patalpų savininkas turi vieną balsą. Jeigu butas ar kita patalpa nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
+
+2\. Jeigu šiame straipsnyje nustatyta tvarka sušaukus butų ir kitų patalpų savininkų susirinkimą nesusirenka sprendimui priimti pakankamas butų ir kitų patalpų savininkų skaičius, pakartotiniame susirinkime, kuris šaukiamas pagal tą pačią darbotvarkę ne anksčiau kaip po dviejų savaičių, sprendimai priimami susirinkime dalyvavusių balsų dauguma, bet ne mažiau kaip 1/4 visų butų ir kitų patalpų savininkų balsų, išskyrus sprendimus dėl lėšų skolinimosi, dėl naujų bendrojo naudojimo objektų sukūrimo ir disponavimo jais klausimų bei kitus įstatymuose nustatytus sprendimus, kuriems priimti reikalinga butų ir kitų patalpų savininkų balsų dauguma.
+
+3\. Sprendimai dėl atskirų bendrojo naudojimo objektų, kurie pagal butų ir kitų patalpų savininkų bendrijos, jungtinės veiklos sutarties dalyvių arba bendrojo naudojimo objektų administratoriaus sudarytą bendrojo naudojimo objektų aprašą naudojami tenkinti ne viso gyvenamojo namo, o tik atskiroje jo dalyje esančių butų ir kitų patalpų savininkų poreikius, nepažeidžiant name esančių butų ir kitų patalpų savininkų teisių ir butų ir kitų patalpų savininkų susirinkimo ar balsuojant raštu priimtų sprendimų, valdymo ir naudojimo gali būti priimami tos dalies butų ir kitų patalpų savininkų balsų dauguma, jeigu įstatymuose nenustatyta kitaip, ir yra privalomi tos dalies butų ir kitų patalpų savininkams. Šių dalies butų ir kitų patalpų savininkų susirinkimas šaukiamas vadovaujantis šio straipsnio 4 ir 5 dalyse nurodyta tvarka.
+
+4\. Butų ir kitų patalpų savininkų sprendimai priimami butų ir kitų patalpų savininkų susirinkime, prieš dvi savaites Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskelbus apie susirinkimo sušaukimą ir jo darbotvarkę.
+
+5\. Butų ir kitų patalpų savininkų susirinkimus šaukia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos valdyba (bendrijos pirmininkas) arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo, arba butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administratorius, arba savivaldybės vykdomoji institucija. Taip pat sušaukti susirinkimą gali raštu pareikalauti ne mažiau kaip 1/4 butų ir kitų patalpų savininkų. Jeigu šioje dalyje nurodyti subjektai per vieną mėnesį nuo reikalavimo pateikimo dienos susirinkimo nesušaukia, susirinkimą šaukia 1/4 butų ir kitų patalpų savininkų.
+
+6\. Butų ir kitų patalpų savininkų (ar jų dalies) sprendimai skelbiami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir galioja visiems (ar tos dalies) butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti butų ir kitų patalpų savininkų bei trečiųjų asmenų teisių ir teisėtų interesų, išskyrus šio kodekso ir kitų įstatymų nustatytus atvejus.
+
+7\. Butų ir kitų patalpų savininkų sprendimai gali būti priimti ir nesušaukus susirinkimo, bet jiems raštu pareiškus apie savo sprendimą. Balsavimams raštu taikomi šiame straipsnyje nustatyti kvorumo ir sprendimui priimti reikalingo balsų skaičiaus reikalavimai. Balsavimo raštu tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+8\. Namo bendrojo naudojimo objektų valdytojas (butų ir kitų patalpų savininkų bendrija, jungtinės veiklos sutartimi įgaliotas asmuo arba bendrojo naudojimo objektų administratorius) įgyvendina su bendrąja nuosavybe susijusius butų ir kitų patalpų savininkų sprendimus ir pavedimus, priimtus šiame straipsnyje nustatyta tvarka, atstovaudamas butų ir kitų patalpų savininkams.
+
+9\. Buto ar kitos patalpos savininko teisei apskųsti šiame straipsnyje nustatyta tvarka priimtus butų ir kitų patalpų savininkų sprendimus taikomas 6 mėnesių ieškinio senaties terminas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
 
 ###### 4.86 straipsnis. Bendraturčių teisės ir pareigos naudojantis bendrąja jungtine nuosavybe ir ją išlaikant
 
@@ -13932,13 +14034,23 @@ Viešojo pirkimo–pardavimo sutartims šio kodekso normos taikomos tiek, kiek k
 
 ###### 6.393 straipsnis. Sutarties forma
 
+**Dalies redakcija iki 2013-03-01**
+
 1\. Nekilnojamojo daikto pirkimo–pardavimo sutartis turi būti notarinės formos.
+
+**Dalies redakcija nuo 2013-03-01**
+
+1\. Nekilnojamojo daikto pirkimo–pardavimo sutartis turi būti notarinės formos, išskyrus bankroto proceso metu sudaromas nekilnojamojo daikto pirkimo–pardavimo sutartis.
 
 2\. Formos reikalavimų nesilaikymas sutartį daro negaliojančią.
 
 3\. Prieš trečiuosius asmenis nekilnojamojo daikto pirkimo–pardavimo sutartis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, jei ji įstatymų nustatyta tvarka įregistruota viešame registre.
 
 4\. Nuosavybės teisė į nekilnojamąjį daiktą pirkėjui pereina nuo daikto perdavimo. Šis faktas turi būti įformintas šio kodekso 6.398 straipsnio nustatyta tvarka. Jeigu viena šalis vengia įregistruoti nuosavybės teisės perėjimo faktą, tai kitos šalies prašymu teismas gali priimti sprendimą dėl sutarties įregistravimo. Šiuo atveju sutartis registruojama teismo sprendimo pagrindu. Šalis, nepagrįstai vengusi įregistruoti nuosavybės teisės perėjimą, turi atlyginti kitai šaliai dėl to patirtus nuostolius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2001, 2012-05-10, Žin., 2012, Nr. 57-2824 (2012-05-19)*
 
 ###### 6.394 straipsnis.Teisės į žemės sklypą
 
@@ -19438,7 +19550,25 @@ Nr. XI-1953, 2012-03-29, Žin., 2012, Nr. 44-2146 (2012-04-14)
 
 CIVILINIO KODEKSO 2.44 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
-\*\*\* Pabaiga \*\*\*
+26\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2001, 2012-05-10, Žin., 2012, Nr. 57-2824 (2012-05-19)
+
+CIVILINIO KODEKSO 1.74 IR 6.393 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. kovo 1 d.
+
+27\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
+
+CIVILINIO KODEKSO 4.82, 4.83, 4.84, 4.85 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 
 **Konstitucinio Teismo nutarimai:**
 
@@ -19452,6 +19582,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2012-04-16)
+Redagavo Aušra Bodin (2012-05-22)
 
 [email protected]
