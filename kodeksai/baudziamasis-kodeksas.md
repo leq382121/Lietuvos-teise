@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-07-04"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_430115"
+redakcija_nuo: "2012-07-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_430120"
 ---
 
 # Baudžiamasis kodeksas
@@ -2434,23 +2434,31 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 #### 147 straipsnis. Prekyba žmonėmis
 
-1\. Tas, kas pardavė, pirko ar kitaip perleido arba įgijo asmenį, arba verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba sumokėdamas pinigus ar suteikdamas kitokią turtinę naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo būtų įtrauktas į prostituciją ar būtų pelnomasi iš šio asmens prostitucijos arba jis būtų išnaudojamas pornografijai ar priverstiniam darbui, baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
+1\. Tas, kas pardavė, pirko, kitaip perleido ar įgijo, verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba priimdamas ar sumokėdamas pinigus, arba gaudamas ar suteikdamas kitokią naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo, nesvarbu, ar jis sutiko, būtų išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai ar kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitais išnaudojimo tikslais,
 
-2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau nukentėjusiems asmenims, arba dalyvaudamas organizuotoje grupėje, arba siekdamas įgyti nukentėjusio asmens organą, audinį arba ląstelių, baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
+baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau nukentėjusiems asmenims arba sukeldamas pavojų nukentėjusio asmens gyvybei, arba dalyvaudamas organizuotoje grupėje, arba žinodamas ar siekdamas, kad būtų paimtas nukentėjusio asmens organas, audinys ar ląstelės, arba būdamas valstybės tarnautojas ar viešojo administravimo funkcijas atliekantis asmuo ir vykdydamas įgaliojimus,
+
+baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
+
+3\. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo priverstas tiesiogiai padaryti dėl jam padarytos šiame straipsnyje numatytos veikos.
+
+4\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
-**147(¹) straipsnis. Išnaudojimas priverstiniam darbui**
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
-1\. Tas, kas panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas žmogaus priklausomumu neteisėtai vertė jį dirbti tam tikrą darbą,
+#### 147¹ straipsnis. Išnaudojimas priverstiniam darbui ar paslaugoms
+
+1\. Tas, kas panaudodamas fizinį smurtą, grasinimus, apgaulę arba kitus šio kodekso 147 straipsnyje nurodytus būdus neteisėtai vertė žmogų dirbti tam tikrą darbą ar teikti tam tikras paslaugas, įskaitant elgetavimą,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką versdamas žmogų dirbti vergovės ar kitokiomis nežmoniškomis sąlygomis,
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką versdamas žmogų dirbti ar teikti paslaugas vergijos ar kitokiomis nežmoniškomis sąlygomis,
 
 baudžiamas areštu arba laisvės atėmimu iki aštuonerių metų.
 
@@ -2459,6 +2467,24 @@ baudžiamas areštu arba laisvės atėmimu iki aštuonerių metų.
 *Kodeksas papildytas straipsniu:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
+
+#### 147² straipsnis. Naudojimasis asmens priverstiniu darbu ar paslaugomis
+
+1\. Tas, kas naudojosi žmogaus darbu ar teikiamomis paslaugomis, įskaitant prostituciją, žinodamas ar turėdamas ir galėdamas žinoti, kad asmuo šį darbą dirba ar šias paslaugas teikia dėl to, kad jam išnaudojimo tikslais buvo panaudotas fizinis smurtas, grasinimai, apgaulė arba kiti šio kodekso 147 straipsnyje nurodyti būdai,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2\. Asmuo, kuris padarė šiame straipsnyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu jis iki jo pripažinimo įtariamuoju savanoriškai apie tai pranešė teisėsaugos institucijai ir aktyviai bendradarbiavo nustatant nuo prekybos žmonėmis (147 straipsnis) ar vaiko pirkimo arba pardavimo (157 straipsnis) nukentėjusį asmenį ir išaiškinant kurią nors iš šių nusikalstamų veikų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
 #### 148 straipsnis. Žmogaus veiksmų laisvės varžymas
 
@@ -2636,15 +2662,23 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 157 straipsnis. Vaiko pirkimas arba pardavimas
 
-1\. Tas, kas siūlė pirkti ar kitaip įgyti vaiką arba pardavė, pirko ar kitaip perleido arba įgijo vaiką, arba verbavo, gabeno ar laikė nelaisvėje vaiką žinodamas arba siekdamas, kad jis būtų įtrauktas į prostituciją ar būtų pelnomasi iš jo prostitucijos arba jis būtų išnaudojamas pornografijai ar priverstiniam darbui, baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
+1\. Tas, kas siūlė pirkti, kitaip įgyti, pardavė, pirko, kitaip perleido, įgijo, verbavo, gabeno arba laikė nelaisvėje vaiką žinodamas ar siekdamas, kad, neatsižvelgiant į vaiko sutikimą, jis būtų neteisėtai įvaikintas, išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai, kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitiems išnaudojimo tikslams,
 
-2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau vaikų arba mažamečiui, arba dalyvaudamas organizuotoje grupėje, arba siekdamas įgyti nukentėjusio asmens organą, audinį arba ląstelių, baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
+baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau vaikų arba mažamečiui, arba sukeldamas pavojų nukentėjusio asmens gyvybei, arba dalyvaudamas organizuotoje grupėje, arba žinodamas ar siekdamas, kad būtų paimtas nukentėjusio asmens organas, audinys ar ląstelės, arba būdamas valstybės tarnautojas ar viešojo administravimo funkcijas atliekantis asmuo ir vykdydamas įgaliojimus,
+
+baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
+
+3\. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo tiesiogiai priverstas padaryti dėl jam padarytos šiame straipsnyje numatytos veikos.
+
+4\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
 #### 158 straipsnis. Vaiko palikimas
 
@@ -5092,13 +5126,17 @@ baudžiamas laisvės atėmimu iki šešerių metų.
 
 *Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)*
 
-#### 303 straipsnis. Antspaudo, spaudo ar dokumento sunaikinimas arba paslėpimas
+#### 303 straipsnis. Antspaudo, spaudo ar dokumento sunaikinimas, sugadinimas arba paslėpimas
 
-1\. Tas, kas sunaikino ar paslėpė fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar griežtos atskaitomybės blanką, jeigu dėl to buvo padaryta didelės žalos,
+1\. Tas, kas sunaikino, sugadino ar paslėpė fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar griežtos atskaitomybės blanką, jeigu dėl to buvo padaryta didelės žalos,
 
 baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
 #### 304 straipsnis. Melagingos informacijos pateikimas siekiant įgyti dokumentą
 
@@ -5480,6 +5518,8 @@ priedas
 
 22\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
 
+23\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -5504,7 +5544,7 @@ priedas
 
 *Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)*
 
-\_______________
+*Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
 **Pakeitimai:**
 
@@ -5839,6 +5879,14 @@ Nr. XI-2105, 2012-06-21, Žin., 2012, Nr. 78-4027 (2012-07-04)
 BAUDŽIAMOJO KODEKSO 201 IR 212 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
+
+40\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)
+
+BAUDŽIAMOJO KODEKSO 147, 147(1), 157, 303 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 147(2) STRAIPSNIU ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
