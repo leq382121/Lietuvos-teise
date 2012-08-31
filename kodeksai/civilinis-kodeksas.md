@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2012-05-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_424997"
+redakcija_nuo: "2012-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_430479"
 ---
 
 # Civilinis kodeksas
@@ -19,6 +19,8 @@ Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus s
 Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
 
 VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+**Aktuali kodekso redakcija nuo 2012-09-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -373,6 +375,8 @@ Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus s
 Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
 
 VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+**Aktuali kodekso redakcija nuo 2012-09-01**
 
 LIETUVOS RESPUBLIKOS
 
@@ -1016,7 +1020,7 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 1\) fizinių asmenų sandoriai, kai sandorio suma sudarymo metu yra didesnė kaip penki tūkstančiai litų, išskyrus sandorius, kurie ir įvykdomi sudarymo metu;
 
-2\) juridinių asmenų steigimo sandoriai;
+2\) juridinių asmenų steigimo sandoriai, išskyrus ūkinių bendrijų steigimo sandorius, kurie turi būti sudaromi notarine forma;
 
 3\) prekių pirkimo-pardavimo išsimokėtinai sutartys;
 
@@ -1038,15 +1042,17 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 3\. Šalys susitarimu gali nustatyti papildomų rašytinės sandorio formos reikalavimų (tam tikrų asmenų parašų buvimas, dokumento antspaudavimas, specialios formos dokumento surašymas ir t. t.) bei numatyti tokių papildomų reikalavimų nesilaikymo teisines pasekmes. Kai šalys šių reikalavimų nesilaiko, sandoris laikomas nesudarytu, jeigu šalių susitarimu nenustatyta ko kita.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
 ###### 1.74 straipsnis. Notarinė sandorių forma
 
 1\. Notarine forma turi būti sudaromi:
 
-**Dalies redakcija iki 2013-03-01**
-
 1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai;
 
-**Dalies redakcija nuo 2013-03-01**
+**1 punkto redakcija nuo 2013-03-01:**
 
 1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai, išskyrus bankroto proceso metu sudaromus nekilnojamojo daikto perleidimo sandorius, jeigu šiame kodekse nenustatyta kitaip;
 
@@ -2242,7 +2248,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 3\. Kai juridinis asmuo negali įvykdyti prievolės dėl juridinio asmens dalyvio nesąžiningų veiksmų, juridinio asmens dalyvis atsako pagal juridinio asmens prievolę savo turtu subsidiariai.
 
-4\. Juridiniai asmenys skirstomi į ribotos ir neribotos civilinės atsakomybės asmenis. Jeigu prievolėms įvykdyti neužtenka neribotos civilinės atsakomybės juridinio asmens turto, už jo prievoles atsako juridinio asmens dalyvis. Neribotos civilinės atsakomybės juridiniai asmenys yra individuali (personalinė) įmonė ir ūkinė bendrija.
+4\. Juridiniai asmenys skirstomi į ribotos ir neribotos civilinės atsakomybės asmenis. Jeigu prievolėms įvykdyti neužtenka neribotos civilinės atsakomybės juridinio asmens turto, už jo prievoles atsako juridinio asmens dalyvis, jeigu įstatymai nenustato kitaip.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 2.51 straipsnis. Juridinio asmens veiklos laikotarpis
 
@@ -2660,7 +2670,7 @@ JURIDINIO ASMENS ORGANAI
 
 1\. Juridinių asmenų organų kompetenciją ir funkcijas nustato atitinkamos teisinės formos juridinius asmenis reglamentuojantys įstatymai ir juridinio asmens steigimo dokumentai.
 
-2\. Kiekvienas juridinis asmuo turi turėti vienasmenį ar kolegialų valdymo organą ir dalyvių susirinkimą, jeigu steigimo dokumentuose ir juridinių asmenų veiklą reglamentuojančiuose įstatymuose nenumatyta kitokia organų struktūra. Atskiras juridinių asmenų teisines formas reglamentuojantys įstatymai gali nustatyti, kad valdymo organas ir dalyvių susirinkimas gali būti vienu juridinio asmens organu.
+2\. Kiekvienas juridinis asmuo turi turėti vienasmenį ar kolegialų valdymo organą ir dalyvių susirinkimą, jeigu steigimo dokumentuose ir juridinių asmenų veiklą reglamentuojančiuose įstatymuose nenumatyta kitokia organų struktūra. Atskiras juridinių asmenų teisines formas reglamentuojantys įstatymai gali nustatyti, kad valdymo organas ir dalyvių susirinkimas yra vienas juridinio asmens organas, jeigu taip nurodyta juridinio asmens steigimo dokumente.
 
 3\. Valdymo organas atsako už juridinio asmens dalyvių susirinkimo sušaukimą, pranešimą juridinio asmens dalyviams apie esminius įvykius, turinčius reikšmės juridinio asmens veiklai, juridinio asmens veiklos organizavimą, juridinio asmens dalyvių apskaitą, veiksmus, nurodytus šio kodekso 2.4 straipsnio 3 dalyje, jei kitaip nenumatyta atskirų juridinių asmenų veiklą reglamentuojančiuose įstatymuose.
 
@@ -2669,6 +2679,8 @@ JURIDINIO ASMENS ORGANAI
 *Straipsnio pakeitimai:*
 
 *Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 2.83 straipsnis. Sandoriai, sudaryti pažeidžiant privačiojo juridinio asmens valdymo organų kompetenciją
 
@@ -3036,87 +3048,129 @@ Likviduojamas juridinis asmuo gali sudaryti tik tuos sandorius, kurie yra susij�
 
 IX SKYRIUS
 
-PRIVERSTINIS AKCIJŲ (DALIŲ, PAJŲ) PARDAVIMAS
+PRIVERSTINIS AKCIJŲ (TEISIŲ, PAJŲ) PARDAVIMAS
 
-###### 2.115 straipsnis. Priverstinio akcijų (dalių, pajų) pardavimo turinys
+*Skyriaus pavadinimas keistas:*
 
-1\. Šio kodekso 2.116 straipsnyje išvardyti juridinio asmens dalyviai turi teisę kreiptis į teismą reikalaudami, kad juridinio asmens akcijos (dalys, pajai), priklausančios juridinio asmens dalyviui, kurio veiksmai prieštarauja juridinio asmens veiklos tikslams ir kai negalima pagrįstai manyti, kad tie veiksmai ateityje pasikeis, būtų parduotos juridinio asmens dalyviui, kuris kreipiasi.
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
-2\. Ieškinio pareiškimas dėl priverstinio akcijų (dalių, pajų) pardavimo paduodamas apygardos teismui pagal juridinio asmens buveinę. Teismas privalo pranešti juridiniam asmeniui, kurio akcijos (dalys, pajai) turėtų būti priverstinai parduodamos, apie ieškinio padavimą ir sprendimus.
+###### 2.115 straipsnis. Priverstinio akcijų (teisių, pajų) pardavimo turinys
+
+1\. Šio kodekso 2.116 straipsnyje išvardyti juridinio asmens dalyviai turi teisę kreiptis į teismą reikalaudami, kad juridinio asmens dalyvio teisės, juridinio asmens akcijos (pajai), priklausančios juridinio asmens dalyviui (toliau – akcijos (teisės, pajai), kurio veiksmai prieštarauja juridinio asmens veiklos tikslams ir kai negalima pagrįstai manyti, kad tie veiksmai ateityje pasikeis, būtų parduotos juridinio asmens dalyviui, kuris kreipiasi.
+
+2\. Ieškinys dėl priverstinio akcijų (teisių, pajų) pardavimo pareiškiamas apygardos teismui pagal juridinio asmens buveinę. Teismas privalo pranešti juridiniam asmeniui, kurio akcijos (teisės, pajai) turėtų būti priverstinai parduodamos, apie ieškinio pareiškimą ir sprendimus.
 
 3\. Šalys dėl šių bylų gali bylinėtis tik privalomai dalyvaujant advokatui.
 
-4\. Juridinio asmens dalyvis, padavęs ieškinį dėl priverstinio pardavimo, privalo kreiptis į kitus juridinio asmens dalyvius siūlydamas būti bendraieškiais.
+4\. Juridinio asmens dalyvis, pareiškęs ieškinį dėl priverstinio pardavimo, privalo kreiptis į kitus juridinio asmens dalyvius siūlydamas būti bendraieškiais.
 
-###### 2.116 straipsnis. Asmenys, turintys teisę kreiptis dėl priverstinio akcijų (dalių, pajų) pardavimo
+*Straipsnio pakeitimai:*
 
-1\. Teisę kreiptis dėl priverstinio akcijų (dalių, pajų) pardavimo turi šie privataus juridinio asmens dalyviai:
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
+###### 2.116 straipsnis. Asmenys, turintys teisę kreiptis dėl priverstinio akcijų (teisių, pajų) pardavimo
+
+1\. Teisę kreiptis dėl priverstinio akcijų (teisių, pajų) pardavimo turi šie privataus juridinio asmens dalyviai:
 
 1\) vienas ar keli uždarosios akcinės bendrovės akcininkai, kurių turimų akcijų nominali vertė ne mažesnė kaip 1/3 įstatinio kapitalo;
 
-2\) vienas ar keli ūkinės bendrijos nariai, kurių dalys sudaro ne mažiau kaip 1/3 viso į bendrąją dalinę nuosavybę sujungto turto dalių;
+2\) vienas ar keli ūkinės bendrijos dalyviai, kurių įnašai sudaro ne mažiau kaip 1/3 visų įnašų į bendriją;
 
-3\) vienas ar keli žemės ūkio bendrovės arba kooperatinės bendrovės nariai, kurių pajus sudaro ne mažiau kaip 1/3 visų pajų.
+3\) vienas ar keli žemės ūkio bendrovės arba kooperatinės bendrovės nariai, kurių pajus sudaro ne mažiau kaip 1/3 visų pajų;
 
-2\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (dalių, pajų) pardavimo esant šio kodekso 2.115 straipsnyje nurodytoms aplinkybėms, jeigu juridinio asmens steigimo dokumentai ar jo dalyvių sudarytos sutartys nustato kitokias priverstinio akcijų (dalių, pajų) pardavimo taisykles ir šios gali būti taikomos.
+4\) vienas ar keli mažosios bendrijos nariai, kurių įnašai sudaro ne mažiau kaip 1/3 visų įnašų į mažąją bendriją.
 
-3\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (dalių, pajų) pardavimo, jeigu jį kontroliuoja juridinis asmuo, kurio akcijos (dalys, pajai) turėtų būti priverstinai parduodamos.
+2\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (teisių, pajų) pardavimo esant šio kodekso 2.115 straipsnyje nurodytoms aplinkybėms, jeigu juridinio asmens steigimo dokumentai ar jo dalyvių sudarytos sutartys nustato kitokias priverstinio akcijų (teisių, pajų) pardavimo taisykles ir šios gali būti taikomos.
 
-4\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (dalių, pajų) pardavimo, jeigu jis pats yra juridinis asmuo, kurio akcijos (dalys, pajai) turėtų būti priverstinai perduodamos.
+3\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (teisių, pajų) pardavimo, jeigu jį kontroliuoja juridinis asmuo, kurio akcijos (teisės, pajai) turėtų būti priverstinai parduodamos.
 
-###### 2.117 straipsnis. Akcijų (dalių, pajų) perleidimo ribojimai
+4\. Juridinio asmens dalyvis neturi teisės kreiptis dėl priverstinio akcijų (teisių, pajų) pardavimo, jeigu jis pats yra juridinis asmuo, kurio akcijos (teisės, pajai) turėtų būti priverstinai perduodamos.
 
-1\. Nuo teismo sprendimo dėl priverstinio akcijų (dalių, pajų) pardavimo priėmimo dienos atsakovas be ieškovo sutikimo neturi teisės parduoti ar kitaip perleisti akcijas (dalis, pajus), jas įkeisti ar kitaip suvaržyti teises į jas, taip pat perleisti ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu teismas nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje nurodytus veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda.
+*Straipsnio pakeitimai:*
 
-2\. Nuo teismo sprendimo įsiteisėjimo dienos atsakovas neturi teisės parduoti, išskyrus pagal šį skirsnį, ar kitaip perleisti akcijas (dalis, pajus), jas įkeisti, ar kitaip suvaržyti teises į jas, taip pat perleisti ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu teismas nenutaria kitaip.
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
+###### 2.117 straipsnis. Akcijų (teisių, pajų) perleidimo ribojimai
+
+1\. Nuo teismo sprendimo dėl priverstinio akcijų (teisių, pajų) pardavimo priėmimo dienos atsakovas be ieškovo sutikimo neturi teisės parduoti ar kitaip perleisti akcijas (teises, pajus), jas įkeisti ar kitaip suvaržyti teises į jas, taip pat perleisti ar kitaip apriboti teises ar akcijų (pajų) suteikiamas teises, jeigu teismas nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje nurodytus veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda.
+
+2\. Nuo teismo sprendimo įsiteisėjimo dienos atsakovas neturi teisės parduoti, išskyrus pagal šį skirsnį, ar kitaip perleisti akcijas (teises, pajus), jas įkeisti, ar kitaip suvaržyti teises į jas, taip pat perleisti ar kitaip apriboti teises ar akcijų (pajų) suteikiamas teises, jeigu teismas nenutaria kitaip.
 
 3\. Jeigu ieškovas reikalauja, sprendimą priėmęs teismas gali uždrausti atsakovui naudotis balsavimo teise be teismo ar ieškovo sutikimo.
 
 4\. Šio straipsnio 1 ir 3 dalyse nustatyti draudimai galioja nepaisant teismo sprendimo apskundimo.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
 ###### 2.118 straipsnis. Ekspertų paskyrimas
 
-1\. Teismas, patenkinęs ieškinį, turi paskirti ekspertus, kurie nustatytų akcijų (dalių, pajų) kainą.
+1\. Teismas, patenkinęs ieškinį, turi paskirti ekspertus, kurie nustatytų akcijų (teisių, pajų) kainą.
 
-2\. Ekspertai turi pradėti dirbti tik po to, kai teismo sprendimas įsiteisėja. Ekspertai privalo pateikti teismui ir šalims rašytinę ataskaitą dėl akcijų (dalių, pajų) kainos.
+2\. Ekspertai turi pradėti dirbti tik po to, kai teismo sprendimas įsiteisėja. Ekspertai privalo pateikti teismui ir šalims rašytinę ataskaitą dėl akcijų (teisių, pajų) kainos.
 
 3\. Šio kodekso 2.127–2.130 straipsniai turi būti taikomi mutatis mutandis.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
 ###### 2.119 straipsnis. Kainos nustatymas
 
-1\. Kai ekspertai pateikia ataskaitą dėl akcijų (dalių, pajų) kainos, teismas turi priimti nutartį dėl kainos nustatymo ir nustatyti, kas apmoka ekspertų darbą bei kitas jų išlaidas. Teismas gali nuspręsti, kad tokias išlaidas apmoka juridinis asmuo.
+1\. Kai ekspertai pateikia ataskaitą dėl akcijų (teisių, pajų) kainos, teismas turi priimti nutartį dėl kainos nustatymo ir nustatyti, kas apmoka ekspertų darbą bei kitas jų išlaidas. Teismas gali nuspręsti, kad tokias išlaidas apmoka juridinis asmuo.
 
 2\. Dėl teismo nutarties, nustatančios kainą, gali būti duodamas atskiras skundas.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
+
 ###### 2.120 straipsnis. Priverstinio pardavimo tvarka
 
-1\. Kai įsiteisėja teismo nutartis dėl kainos nustatymo, atsakovas per dvi savaites turi perduoti ieškovo nuosavybėn akcijas (dalis, pajus), o ieškovas turi priimti akcijas (dalis, pajus) ir sumokėti nustatytą kainą. Kaina turi būti sumokama perduodant ieškovo nuosavybėn akcijas. Perdavimas atliekamas juridinio asmens, kurio akcijos (dalys, pajai) perduodamos, buveinėje arba kitoje ieškovo ir atsakovo sutartoje vietoje.
+1\. Kai įsiteisėja teismo nutartis dėl kainos nustatymo, atsakovas per dvi savaites turi perduoti ieškovo nuosavybėn akcijas (pajus), o ieškovas turi priimti akcijas (pajus) ir sumokėti nustatytą kainą. Kaina turi būti sumokama perduodant ieškovo nuosavybėn akcijas (pajus). Perdavimas atliekamas juridinio asmens, kurio akcijos (pajai) perduodamos, buveinėje arba kitoje ieškovo ir atsakovo sutartoje vietoje.
 
-2\. Jeigu atsakovas nevykdo pareigos perduoti akcijas (dalis, pajus), juridinis asmuo turi perduoti akcijas (dalis, pajus) atsakovo vardu ir išduoti ieškovui dokumentus, liudijančius nuosavybės teisę į priverstinai parduodamas akcijas (dalis, pajus), o atitinkamus atsakovo dokumentus pripažinti negaliojančiais ir apie tai viešai paskelbti teisės aktų nustatytame šaltinyje. Ieškovas, gavęs dokumentus, patvirtinančius nuosavybės teisę į akcijas (dalis, pajus), sumoka kainą į notaro, banko ar kitos kredito įstaigos depozitinę sąskaitą.
+2\. Jeigu priverstinai parduodamos teisės, per dvi savaites nuo teismo nutarties dėl kainos nustatymo įsiteisėjimo ieškovas atsakovui turi sumokėti nustatytą kainą. Sumokėjusio nustatytą kainą ieškovo įnašas padidinamas atsakovo įnašo dydžiu, o juridinis asmuo turi išduoti ieškovui jo įnašo padidėjimą liudijančius dokumentus.
 
-3\. Jeigu ieškovų buvo keletas, priverstinai parduodamos akcijos (dalys, pajai) paskirstomos kiek įmanoma proporcingiau ieškovų turimoms juridinio asmens akcijoms (dalims, pajams).
+3\. Jeigu atsakovas nevykdo pareigos perduoti akcijas (pajus), juridinis asmuo turi perduoti akcijas (pajus) atsakovo vardu ir išduoti ieškovui dokumentus, liudijančius nuosavybės teisę į priverstinai parduodamas akcijas (pajus), o atitinkamus atsakovo dokumentus pripažinti negaliojančiais ir apie tai viešai paskelbti teisės aktų nustatytame šaltinyje. Ieškovas, gavęs dokumentus, patvirtinančius nuosavybės teisę į akcijas (pajus), sumoka kainą į notaro, banko ar kitos kredito įstaigos depozitinę sąskaitą.
+
+4\. Jeigu ieškovų buvo keletas, priverstinai parduodamos akcijos (pajai) paskirstomos kiek įmanoma proporcingiau ieškovų turimoms juridinio asmens akcijoms (pajams). Jeigu priverstinai parduodamos teisės, ieškovų įnašai padidinami atsakovo įnašo dydžiu kiek įmanoma proporcingiau kiekvieno ieškovo įnašo dydžiui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 2.121 straipsnis. Priverstinio pardavimo tvarka, kai yra pirmenybės teisė
 
-1\. Jeigu kiti juridinio asmens dalyviai ar asmenys turi pirmenybės teisę įsigyti priverstinai parduodamas akcijas (dalis, pajus), juridinis asmuo, gavęs įsiteisėjusią teismo nutartį dėl kainos nustatymo, privalo pasiūlyti akcijas (dalis, pajus) įsigyti tokiems asmenims už teismo nustatytą kainą. Įsiteisėjus teismo sprendimui dėl priverstinio akcijų (dalių, pajų) pardavimo, atsakovas privalo pranešti juridiniam asmeniui apie asmenis, turinčius pirmenybės teisę įsigyti priverstinai parduodamų akcijų (dalių, pajų) pagal ieškovo sudarytas sutartis.
+1\. Jeigu kiti juridinio asmens dalyviai ar asmenys turi pirmenybės teisę įsigyti priverstinai parduodamas akcijas (teises, pajus), juridinis asmuo, gavęs įsiteisėjusią teismo nutartį dėl kainos nustatymo, privalo pasiūlyti akcijas (teises, pajus) įsigyti tokiems asmenims už teismo nustatytą kainą. Įsiteisėjus teismo sprendimui dėl priverstinio akcijų (teisių, pajų) pardavimo, atsakovas privalo pranešti juridiniam asmeniui apie asmenis, turinčius pirmenybės teisę įsigyti priverstinai parduodamų akcijų (teisių, pajų) pagal ieškovo sudarytas sutartis.
 
 2\. Asmenys, gavę iš juridinio asmens pasiūlymą įgyvendinti pirmenybės teisę, privalo per trisdešimt dienų raštu priimti arba atmesti pasiūlymą. Jei asmuo neatsako į aukščiau nurodytą pasiūlymą, laikoma, kad pasiūlymas yra nepriimtas.
 
-3\. Pasibaigus trisdešimties dienų terminui, juridinis asmuo privalo pranešti ieškovui ir atsakovui, kiek akcijų (dalių, pajų) yra akceptuota. Gavęs šį pranešimą, atsakovas privalo perduoti akcijas pranešime nurodytiems asmenims, o likusias pagal šio kodekso 2.120 straipsnį – ieškovui. Akcijas (dalis, pajus) perkantys akcininkai privalo atsiskaityti už jas vadovaudamiesi šio kodekso 2.120 straipsniu. Jeigu pirmenybės teisę turintys asmenys laiku neatsiskaito už akcijas (dalis, pajus), akcijos (dalys, pajai) turi būti perduodamos ieškovui.
+3\. Pasibaigus trisdešimties dienų terminui, juridinis asmuo privalo pranešti ieškovui ir atsakovui, kiek akcijų (pajų) yra akceptuota arba ar yra akceptuotos teisės. Gavęs šį pranešimą, atsakovas privalo perduoti akcijas (pajus) pranešime nurodytiems asmenims, o likusias akcijas (pajus) pagal šio kodekso 2.120 straipsnį – ieškovui. Akcijas (teises, pajus) perkantys akcininkai ar kiti juridinių asmenų dalyviai privalo atsiskaityti už jas vadovaudamiesi šio kodekso 2.120 straipsniu. Jeigu pirmenybės teisę turintys asmenys laiku neatsiskaito už akcijas (teises, pajus), akcijos (teisės, pajai) turi būti perduodamos ieškovui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 2.122 straipsnis. Balsavimo teisės perleidimas
 
-1\. Šio kodekso 2.116 straipsnyje išvardyti asmenys turi teisę kreiptis į teismą reikalaudami, kad balsavimo teisė būtų grąžinta akcijų (dalių, pajų) savininkui, jeigu balsavimo teisė yra perleista kitam asmeniui, kurio veiksmai prieštarauja juridinio asmens tikslams, ir negalima pagrįstai manyti, kad veiksmai ateityje pasikeis.
+1\. Šio kodekso 2.116 straipsnyje išvardyti asmenys turi teisę kreiptis į teismą reikalaudami, kad balsavimo teisė būtų grąžinta akcijų (teisių, pajų) savininkui, jeigu balsavimo teisė yra perleista kitam asmeniui, kurio veiksmai prieštarauja juridinio asmens tikslams, ir negalima pagrįstai manyti, kad veiksmai ateityje pasikeis.
 
-2\. Akcijų (dalių, pajų) savininkas įgyja balsavimo teisę nuo teismo sprendimo įsiteisėjimo.
+2\. Akcijų (teisių, pajų) savininkas įgyja balsavimo teisę nuo teismo sprendimo įsiteisėjimo.
 
-3\. Šiuo atveju šio kodekso 2.115 straipsnio 2 ir 3 dalys, 2.116 straipsnis, 2.117 straipsnio 3 dalis taikomi mutatis mutandis.
+*Straipsnio pakeitimai:*
 
-2.123 straipsnis. Priverstinis akcijų (dalių, pajų) pardavimas dėl negalėjimo tinkamai įgyvendinti teises
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
-1\. Jei šio kodekso 2.116 straipsnyje išvardyti juridinio asmens dalyviai negali tinkamai įgyvendinti savo, kaip juridinio asmens dalyvio, teises dėl kito juridinio asmens dalyvio veiksmų ir negalima pagrįstai manyti, kad tokie veiksmai ateityje pasibaigs, jie gali pareikšti teismui ieškinį reikalaudami, kad juridinio asmens dalyvis, dėl kurio veiksmų negalima tinkamai įgyvendinti teisių, nupirktų iš jų akcijas (dalis, pajus). Šiuo atveju šio kodekso 2.115 straipsnio 2 ir 3 dalys ir 2.116–2.121 straipsniai taikomi mutatis mutandis.
+2.123 straipsnis. Priverstinis akcijų (teisių, pajų) pardavimas dėl negalėjimo tinkamai įgyvendinti teises
 
-2\. Juridinio asmens dalyvis, iš kurio reikalaujama, kad jis nupirktų ieškovo akcijas (dalis, pajus), privalo kreiptis į kitus juridinio asmens dalyvius ir siūlyti būti bendraatsakoviais.
+1\. Jei šio kodekso 2.116 straipsnyje išvardyti juridinio asmens dalyviai negali tinkamai įgyvendinti savo, kaip juridinio asmens dalyvio, teises dėl kito juridinio asmens dalyvio veiksmų ir negalima pagrįstai manyti, kad tokie veiksmai ateityje pasibaigs, jie gali pareikšti teismui ieškinį reikalaudami, kad juridinio asmens dalyvis, dėl kurio veiksmų negalima tinkamai įgyvendinti teisių, nupirktų iš jų akcijas (teises, pajus). Šiuo atveju šio kodekso 2.115 straipsnio 2 ir 3 dalys ir 2.116–2.121 straipsniai taikomi mutatis mutandis.
+
+2\. Juridinio asmens dalyvis, iš kurio reikalaujama, kad jis nupirktų ieškovo akcijas (teises, pajus), privalo kreiptis į kitus juridinio asmens dalyvius ir siūlyti būti bendraatsakoviais.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 X SKYRIUS
 
@@ -3132,15 +3186,21 @@ JURIDINIO ASMENS VEIKLOS TYRIMAS
 
 1\) vienas ar keli akcininkai, kurių turimų ar valdomų akcijų nominali vertė yra ne mažesnė kaip 1/10 įstatinio kapitalo;
 
-2\) vienas ar keli ūkinės bendrijos nariai, kurių dalys sudaro ne mažiau kaip 1/10 visų dalių;
+2\) vienas ar keli ūkinės bendrijos dalyviai, kurių įnašai sudaro ne mažiau kaip 1/10 visų įnašų į bendriją;
 
-3\) vienas ar keli žemės ūkio bendrovės ar kooperatinės bendrovės (kooperatyvo) nariai, kurių pajai sudaro ne mažiau kaip 1/10 visų pajų;
+3\) vienas ar keli mažosios bendrijos nariai, kurių įnašai sudaro ne mažiau kaip 1/10 visų įnašų į mažąją bendriją;
 
-4\) juridinio asmens dalyviai, išskyrus šio kodekso 2.35 ir 2.37 straipsniuose nurodytų juridinių asmenų ir šios dalies 1, 2 ir 3 punktuose nurodytų asmenų dalyvius, turintys ne mažiau kaip 1/5 visų balsų;
+4\) vienas ar keli žemės ūkio bendrovės ar kooperatinės bendrovės (kooperatyvo) nariai, kurių pajai sudaro ne mažiau kaip 1/10 visų pajų;
 
-5\) asmenys, taip pat ir juridinio asmens dalyviai, kuriems pagal steigimo dokumentus ar sudarytus su juridiniais asmenimis sandorius tokia teisė suteikta.
+5\) juridinio asmens dalyviai, išskyrus šio kodekso 2.35 ir 2.37 straipsniuose nurodytų juridinių asmenų ir šios dalies 1, 2, 3 ir 4 punktuose nurodytų asmenų dalyvius, turintys ne mažiau kaip 1/5 visų balsų;
+
+6\) asmenys, taip pat ir juridinio asmens dalyviai, kuriems pagal steigimo dokumentus ar sudarytus su juridiniais asmenimis sandorius tokia teisė suteikta.
 
 2\. Prokuroras, gindamas viešuosius interesus, tarp jų ir kai juridinio asmens, jo valdymo organų ar jų narių veikla prieštarauja visuomenės interesams, taip pat turi teisę kreiptis dėl juridinio asmens veiklos tyrimo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 2.126 straipsnis. Pareiškimo padavimas
 
@@ -7190,11 +7250,29 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\. Namo, buto ar kitos patalpos savininkas neturi teisės perduoti bendrosios dalinės nuosavybės, numatytos šio straipsnio 1 dalyje, savo dalies, taip pat atlikti kitų veiksmų, dėl kurių ta dalis perduodama atskirai nuo nuosavybės teisės į butą ar kitą patalpą, išskyrus atvejus, kai perduodama bendrąja daline nuosavybe esančio daikto, kuris gali būti ar, jį pertvarkius, galės būti naudojamas kaip atskiras daiktas ir toks jo naudojimas netrukdys naudoti butų ar kitų patalpų pagal paskirtį, dalis.
 
+**Dalių redakcija iki 2013-01-01**
+
 3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui išlaikyti ir išsaugoti, mokėti mokesčius, rinkliavas ir kitas įmokas, taip pat reguliariai daryti atskaitymus kaupti lėšas, kurios bus skiriamos namui atnaujinti.
 
 4\. Šio kodekso 4.79 straipsnyje nustatytos taisyklės taikomos ir tais atvejais, kai kitiems asmenims butų ir kitų patalpų, esančių namuose, savininkai parduoda bendrąja daline nuosavybe (palėpės, rūsio patalpos ir pan.) turimą visą ar ne visą dalį, priklausančią proporcingai jų turimai nuosavybės teise patalpai. Jeigu parduodama dalis bendrosios nuosavybės teise turimo daikto, kuris yra ar gali būti naudojamas tenkinant ne viso namo, o tik atskiroje jo dalyje (laiptinė ir pan.) esančių patalpų savininkų poreikius, nepažeidžiant name esančių patalpų savininkų teisių, tai apie dalies, turimos bendrosios nuosavybės teise, pardavimą turi būti pranešta toje namo dalyje esančių patalpų savininkams ir tik jiems leidžiama pasinaudoti pirmenybės teise ją pirkti.
 
 5\. Buto ir kitų patalpų savininkui priklausanti bendrosios dalinės nuosavybės dalis yra lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
+
+**Dalių redakcija nuo 2013-01-01**
+
+3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui (statiniui) išlaikyti ir išsaugoti, įstatymuose nustatyta tvarka mokėti mokesčius, rinkliavas ir kitas įmokas.
+
+4\. Butų ir kitų patalpų savininkai taip pat privalo reguliariai kaupti lėšas, kurios bus skiriamos namui (statiniui) atnaujinti pagal privalomuosius statinių naudojimo ir priežiūros reikalavimus. Šios lėšos yra butų ir kitų patalpų savininkų bendroji dalinė nuosavybė. Į šias lėšas negali būti nukreiptas išieškojimas pagal atskiro buto ir kitų patalpų savininko prievoles. Perleidus butą ar kitas patalpas naujam savininkui, su kaupiamosiomis lėšomis susijusios teisės ir prievolės atitenka naujam savininkui. Lėšų kaupimo, jų dydžio apskaičiavimo, sukauptų lėšų apsaugos tvarką nustato Vyriausybė. Ginčus dėl kaupiamųjų lėšų sprendžia teismas.
+
+5\. Lėšų, skirtų pastatų atnaujinimui (modernizavimui), kaupimą reglamentuoja įstatymai.
+
+6\. Šio kodekso 4.79 straipsnyje nustatytos taisyklės taikomos ir tais atvejais, kai kitiems asmenims butų ir kitų patalpų, esančių namuose, savininkai parduoda bendrąja daline nuosavybe (palėpės, rūsio patalpos ir pan.) turimą visą ar ne visą dalį, priklausančią proporcingai jų turimai nuosavybės teise patalpai. Jeigu parduodama dalis bendrosios nuosavybės teise turimo daikto, kuris yra ar gali būti naudojamas tenkinant ne viso namo, o tik atskiroje jo dalyje (laiptinė ir pan.) esančių patalpų savininkų poreikius, nepažeidžiant name esančių patalpų savininkų teisių, tai apie dalies, turimos bendrosios nuosavybės teise, pardavimą turi būti pranešta toje namo dalyje esančių patalpų savininkams ir tik jiems leidžiama pasinaudoti pirmenybės teise ją pirkti.
+
+7\. Buto ir kitų patalpų savininkui priklausanti bendrosios dalinės nuosavybės dalis yra lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
 
 ###### 4.83 straipsnis. Butų ir kitų patalpų savininkų teisės ir pareigos naudojantis bendrąja daline nuosavybe
 
@@ -7206,13 +7284,27 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\) reikalauti iš kitų butų ir kitų patalpų savininkų (naudotojų), kad gyvenamojo namo bendrojo naudojimo objektų valdymas ir naudojimas atitiktų bendrąsias buto ir kitų patalpų savininkų (naudotojų) teises ir teisėtus interesus. Teisėtais buto ir kitų patalpų savininkų (naudotojų) interesais laikoma gyvenamojo namo vidaus tvarkos taisyklių nustatymas, tinkama bendrojo naudojimo objektų priežiūra ir išlaikymas, gyvenamojo namo priežiūros ūkinio ir finansinio plano parengimas, lėšų kaupimas bendrojo naudojimo objektams atnaujinti.
 
+**Dalių redakcija iki 2013-01-01**
+
 3\. Buto ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį.
 
 4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimta administratoriaus ar butų ir kitų patalpų savininkų susirinkimo sprendimo šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
 
+**Dalių redakcija nuo 2013-01-01**
+
+3\. Butų ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį, arba šio kodekso 4.84 straipsnyje nustatyta tvarka pasirenka bendrojo naudojimo objektų administratorių. Pavyzdinę jungtinės veiklos sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija. Butų ir kitų patalpų savininkų bendrijų valdymo organų, jungtinės veiklos sutartimi įgaliotų asmenų ir šio kodekso 4.84 straipsnyje nustatyta tvarka paskirtų bendrojo naudojimo objektų administratorių veiklos, susijusios su įstatymų ir kitų teisės aktų jiems priskirtų funkcijų vykdymu, priežiūrą ir kontrolę atlieka savivaldybės.
+
+4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimtas butų ir kitų patalpų savininkų susirinkimo sprendimas šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
+
 5\. Buto ir kitų patalpų savininkas (naudotojas) privalo leisti įgaliotiems asmenims remontuoti ar kitaip tvarkyti jo bute ir kitose patalpose esančią bendrojo naudojimo mechaninę, elektros, techninę ir kitokią įrangą.
 
 6\. Butų ir kitų patalpų savininkai turi teisę į bendrojo naudojimo objektų duodamas pajamas proporcingai jų daliai bendrojoje dalinėje nuosavybėje.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
+
+**Straipsnio redakcija iki 2013-01-01**
 
 ###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
 
@@ -7228,6 +7320,42 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 6\. Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV skyriaus normos.
 
+**Straipsnio redakcija nuo 2013-01-01**
+
+###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
+
+1\. Jeigu butų ir kitų patalpų savininkai neįsteigia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos arba nesudaro jungtinės veiklos sutarties, taip pat jei bendrija likviduota arba nutraukta jungtinės veiklos sutartis, skiriamas bendrojo naudojimo objektų administratorius.
+
+2\. Sprendimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo priima butų ir kitų patalpų savininkai, o jų pasirinktą administratorių skiria savivaldybės vykdomoji institucija. Jeigu butų ir kitų patalpų savininkai nepasirenka administratoriaus, sprendimą dėl administratoriaus skyrimo priima savivaldybės vykdomoji institucija. Bendrojo naudojimo objektų administratoriaus atrankos ir skyrimo tvarką nustato Vyriausybė.
+
+3\. Butų ir kitų patalpų savininkų balsavimą raštu rengia ar susirinkimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo šaukia savivaldybės vykdomoji institucija šio kodekso 4.85 straipsnyje nustatyta tvarka.
+
+4\. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija gauna šio namo gyventojų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas šiam daugiabučiam namui pratęsiamas kitų penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai balsų dauguma turi teisę priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių ir nesuėjus penkerių metų terminui.
+
+5\. Bendrojo naudojimo objektų administratorius turtą administruoja šio kodekso 4.240 straipsnio pagrindu. Bendrojo naudojimo objektų administratoriai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir apimtimi skelbia informaciją apie savo veiklą.
+
+6\. Bendrojo naudojimo objektų administratorių civilinė atsakomybė už fiziniams ir juridiniams asmenims padarytą žalą, vykdant administravimo funkcijas, draudžiama civilinės atsakomybės draudimu.
+
+7\. Bendrojo naudojimo objektų administratoriais negali būti šilumos, elektros energijos, dujų, geriamojo vandens tiekėjai, asmenys, teikiantys atliekų vežimo paslaugas, liftų nuolatinės priežiūros paslaugas (išskyrus namus, kuriuose nėra liftų), jeigu jie dirba tos pačios savivaldybės teritorijoje, taip pat kiti asmenys, tiesiogiai ar netiesiogiai susiję su išvardytais asmenimis pagal Konkurencijos įstatymą. Šis draudimas bendrojo naudojimo objektų administratoriui netaikomas administruojant turtą, esantį gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 100 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip.
+
+8\. Bendrojo naudojimo objektų administratorius administruoja bendrojo naudojimo objektus pagal Vyriausybės patvirtintus nuostatus.
+
+9\. Maksimalaus bendrojo naudojimo objektų administravimo tarifo apskaičiavimo tvarką nustato savivaldybės taryba. Administravimo išlaidas apmoka butų ir kitų patalpų savininkai proporcingai jų daliai bendrojoje dalinėje nuosavybėje.
+
+10\. Administravimas pasibaigia šio kodekso 4.250 straipsnyje nustatytais pagrindais, taip pat įregistravus gyvenamojo namo butų ir kitų patalpų savininkų bendrijos įstatus arba sudarius jungtinės veiklos sutartį.
+
+11\. Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV skyriaus normos.
+
+12\. Šio straipsnio 5 ir 6 dalių normos mutatis mutandis taikomos ir bendrojo naudojimo objektų administratoriams, veikiantiems pagal su daugiabučio namo butų ir kitų patalpų savininkų bendrija arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyviais sudarytas sutartis dėl bendrojo naudojimo objektų administravimo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
+
+Pastaba: 4.84 straipsnio 2, 3, 4 ir 7 dalių nuostatos, išskyrus 4 dalies nuostatas dėl butų ir kitų patalpų savininkų teisės visais atvejais priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių, taikomos po šio įstatymo įsigaliojimo skiriamiems bendrojo naudojimo objektų administratoriams. Iki šio įstatymo įsigaliojimo neterminuotam laikui paskirti bendrojo naudojimo objektų administratoriai savo veiklą vykdo iki 2014 m. liepos 1 d. Iki 2014 m. liepos 1 d. turi būti paskirti šio įstatymo nustatyta tvarka ir šio įstatymo reikalavimus atitinkantys bendrojo naudojimo objektų administratoriai.
+
+**Straipsnio redakcija iki 2013-01-01**
+
 ###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
 
 1\. Sprendimai dėl bendrojo naudojimo objektų valdymo ir naudojimo priimami butų ir kitų patalpų savininkų balsų dauguma, jeigu butų ir kitų patalpų savininkų bendrijos įstatuose ar jungtinės veiklos sutartyje nenumatyta kitaip. Kiekvieno buto ir kitų patalpų savininkas turi vieną balsą. Jeigu butas ir kitos patalpos nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
@@ -7239,6 +7367,32 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 4\. Butų ir kitų patalpų savininkų sprendimai skelbiami viešai ir galioja visiems butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti butų ir kitų patalpų savininkų bei trečiųjų asmenų teisių ir teisėtų interesų, išskyrus šio kodekso ir kitų įstatymų nustatytus atvejus.
 
 5\. Butų ir kitų patalpų savininkų sprendimai gali būti priimti ir nesušaukus susirinkimo, bet jiems raštu pareiškus apie savo sprendimą. Balsavimo raštu tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+**Straipsnio redakcija nuo 2013-01-01**
+
+###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
+
+1\. Sprendimai dėl bendrojo naudojimo objektų valdymo ir naudojimo, taip pat dėl naujų bendrojo naudojimo objektų sukūrimo ir disponavimo jais klausimų, priimami butų ir kitų patalpų savininkų balsų dauguma, jeigu įstatymuose nenustatyta kitaip. Kiekvieno buto ir kitų patalpų savininkas turi vieną balsą. Jeigu butas ar kita patalpa nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
+
+2\. Jeigu šiame straipsnyje nustatyta tvarka sušaukus butų ir kitų patalpų savininkų susirinkimą nesusirenka sprendimui priimti pakankamas butų ir kitų patalpų savininkų skaičius, pakartotiniame susirinkime, kuris šaukiamas pagal tą pačią darbotvarkę ne anksčiau kaip po dviejų savaičių, sprendimai priimami susirinkime dalyvavusių balsų dauguma, bet ne mažiau kaip 1/4 visų butų ir kitų patalpų savininkų balsų, išskyrus sprendimus dėl lėšų skolinimosi, dėl naujų bendrojo naudojimo objektų sukūrimo ir disponavimo jais klausimų bei kitus įstatymuose nustatytus sprendimus, kuriems priimti reikalinga butų ir kitų patalpų savininkų balsų dauguma.
+
+3\. Sprendimai dėl atskirų bendrojo naudojimo objektų, kurie pagal butų ir kitų patalpų savininkų bendrijos, jungtinės veiklos sutarties dalyvių arba bendrojo naudojimo objektų administratoriaus sudarytą bendrojo naudojimo objektų aprašą naudojami tenkinti ne viso gyvenamojo namo, o tik atskiroje jo dalyje esančių butų ir kitų patalpų savininkų poreikius, nepažeidžiant name esančių butų ir kitų patalpų savininkų teisių ir butų ir kitų patalpų savininkų susirinkimo ar balsuojant raštu priimtų sprendimų, valdymo ir naudojimo gali būti priimami tos dalies butų ir kitų patalpų savininkų balsų dauguma, jeigu įstatymuose nenustatyta kitaip, ir yra privalomi tos dalies butų ir kitų patalpų savininkams. Šių dalies butų ir kitų patalpų savininkų susirinkimas šaukiamas vadovaujantis šio straipsnio 4 ir 5 dalyse nurodyta tvarka.
+
+4\. Butų ir kitų patalpų savininkų sprendimai priimami butų ir kitų patalpų savininkų susirinkime, prieš dvi savaites Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka paskelbus apie susirinkimo sušaukimą ir jo darbotvarkę.
+
+5\. Butų ir kitų patalpų savininkų susirinkimus šaukia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos valdyba (bendrijos pirmininkas) arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo, arba butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administratorius, arba savivaldybės vykdomoji institucija. Taip pat sušaukti susirinkimą gali raštu pareikalauti ne mažiau kaip 1/4 butų ir kitų patalpų savininkų. Jeigu šioje dalyje nurodyti subjektai per vieną mėnesį nuo reikalavimo pateikimo dienos susirinkimo nesušaukia, susirinkimą šaukia 1/4 butų ir kitų patalpų savininkų.
+
+6\. Butų ir kitų patalpų savininkų (ar jų dalies) sprendimai skelbiami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir galioja visiems (ar tos dalies) butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti butų ir kitų patalpų savininkų bei trečiųjų asmenų teisių ir teisėtų interesų, išskyrus šio kodekso ir kitų įstatymų nustatytus atvejus.
+
+7\. Butų ir kitų patalpų savininkų sprendimai gali būti priimti ir nesušaukus susirinkimo, bet jiems raštu pareiškus apie savo sprendimą. Balsavimams raštu taikomi šiame straipsnyje nustatyti kvorumo ir sprendimui priimti reikalingo balsų skaičiaus reikalavimai. Balsavimo raštu tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+8\. Namo bendrojo naudojimo objektų valdytojas (butų ir kitų patalpų savininkų bendrija, jungtinės veiklos sutartimi įgaliotas asmuo arba bendrojo naudojimo objektų administratorius) įgyvendina su bendrąja nuosavybe susijusius butų ir kitų patalpų savininkų sprendimus ir pavedimus, priimtus šiame straipsnyje nustatyta tvarka, atstovaudamas butų ir kitų patalpų savininkams.
+
+9\. Buto ar kitos patalpos savininko teisei apskųsti šiame straipsnyje nustatyta tvarka priimtus butų ir kitų patalpų savininkų sprendimus taikomas 6 mėnesių ieškinio senaties terminas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
 
 ###### 4.86 straipsnis. Bendraturčių teisės ir pareigos naudojantis bendrąja jungtine nuosavybe ir ją išlaikant
 
@@ -7545,10 +7699,6 @@ Sandoriais nustatyti servitutus turi teisę tik pats tarnaujančiuoju tampančio
 ###### 4.127 straipsnis. Servituto nustatymo apribojimai
 
 1\. Nustatyti tarnaujančiajam daiktui naują servitutą leidžiama, jeigu tuo nebus pažeidžiamas pirmiau nustatytas servitutas.
-
-2\. Hipotekos tvarka įkeistam nekilnojamajam daiktui nustatyti servitutą leidžiama tik visų kreditorių sutikimu arba teismo sprendimu.
-
-**2 dalies reakcija nuo 2012-07-01:**
 
 2\. Hipotekos tvarka įkeistam nekilnojamajam daiktui nustatyti servitutą leidžiama tik visų kreditorių sutikimu, išskyrus atvejus, kai servitutas nustatomas įstatymu, administraciniu aktu arba teismo sprendimu.
 
@@ -7958,16 +8108,6 @@ Pirmasis skirsnis
 
 **BendrOSIOS nuostatOS**
 
-###### 4.170 straipsnis. Hipotekos sąvoka
-
-1\. Hipoteka – esamo ar būsimo skolinio įsipareigojimo įvykdymą užtikrinantis nekilnojamojo daikto įkeitimas, kai įkeistas daiktas neperduodamas kreditoriui.
-
-2\. Susitarimas perduoti įkeičiamą ar įkeistą daiktą kreditoriui negalioja.
-
-3\. Hipoteka neatima iš daikto savininko teisės valdyti, naudoti įkeistą daiktą bei juo disponuoti atsižvelgiant į hipotekos kreditoriaus teises. Paskesnis įkeisto daikto įkeitimas leidžiamas, jeigu hipotekos sutartyje (lakšte) nenumatyta kitaip.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
 ###### 4.170 straipsnis. Hipotekos sąvoka ir subjektai
 
 1\. Hipoteka – daiktinė teisė į svetimą nekilnojamąjį daiktą, kuria užtikrinamas esamos ar būsimos turtinės prievolės įvykdymas, kai įkeistas turtas neperduodamas kreditoriui.
@@ -7985,34 +8125,6 @@ Pirmasis skirsnis
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.171 straipsnis. Hipotekos objektas
-
-1\. Hipotekos objektu gali būti atskiri viešame registre registruojami, iš civilinės apyvartos neišimti nekilnojamieji daiktai, kurie gali būti pateikti parduoti viešose varžytynėse. Nekilnojamojo daikto hipoteka neapima iš šio daikto gaunamų pajamų.
-
-2\. Kai įkeičiamas pagrindinis daiktas, laikoma, kad yra įkeičiami ir esantys bei būsimi daikto savininko valia prijungti ar dėl gamtinių įvykių prie pagrindinio daikto prisijungę priklausiniai.
-
-3\. Kai įkeičiamas nekilnojamasis daiktas, kuriam naudoti pagal paskirtį reikalingi kilnojamieji daiktai, laikoma, kad hipotekos objektu tampa ir tokiam daiktui naudoti pagal paskirtį reikalingi kilnojamieji daiktai, įskaitant ir tuos, kurie taps įkaito davėjo nuosavybe ateityje, jeigu kitaip dėl kilnojamųjų daiktų įkeitimo (neįkeitimo) nebuvo nustatyta hipotekos sutartyje ar įkeičiamo nekilnojamojo daikto savininko vienašaliame pareiškime įkeisti daiktą.
-
-4\. Įkeičiamas gali būti tik apdraustas daiktas, išskyrus žemę.
-
-5\. Nekilnojamojo daikto hipoteka apima ir šio daikto draudimo atlyginimą.
-
-6\. Norint įkeisti tam pačiam savininkui priklausančio daikto dalį, toji dalis turi būti tiksliai apibrėžta ir įregistruota viešame registre kaip atskiras objektas.
-
-7\. Įkeičiant statinius, kartu turi būti įkeistas ir žemės sklypas, ant kurio stovi statiniai, arba šio žemės sklypo nuomos (panaudos) teisė.
-
-8\. Daiktas, priklausantis bendrosios nuosavybės teise, gali būti įkeistas tik visų bendraturčių sutikimu. Įkeičiant bendrosios dalinės nuosavybės dalį, kitų bendraturčių sutikimas nereikalingas, tačiau įkeičiamoji dalis turi būti tiksliai nustatyta bendraturčių sudaryta ir notaro patvirtinta naudojimosi daiktu tvarkos nustatymo sutartimi.
-
-9\. Daikto įkeitimas netrukdo perleisti jo kito asmens nuosavybėn. Perleidžiant įkeistą daiktą nuosavybėn kitam asmeniui, hipoteka seka paskui daiktą.
-
-10\. Įkeisto daikto savininkas neturi teisės sunaikinti, sužaloti daiktą ar kitaip sumažinti jo vertę, išskyrus daikto normalų nusidėvėjimą ar vertės sumažėjimą naudojant jį būtinojo reikalingumo atveju. Pažeidus šiuos reikalavimus, hipotekos kreditorius gali reikalauti, kad būtų pradėtas išieškojimas iš įkeisto daikto prieš terminą.
-
-11\. Priverstinės hipotekos objektu turi būti parenkamas toks daiktas, kurį pardavus būtų visiškai patenkinti kreditoriaus reikalavimai, o skolininkas nukentėtų kuo mažiau.
-
-12\. Įkeičiant žemę, kaip priklausiniai įkeičiami ir ant jos esantys statiniai, jei hipotekos sutartyje nenustatyta kitaip. Jeigu įkeičiant žemę statiniai neįkeičiami, pardavus įkeistą žemę varžytynėse, statinių savininkas įgyja teisę į žemės servitutą. Jei varžytynėse parduodamas įkeistas žemės sklypas, ant kurio stovi kitam asmeniui (ne žemės savininkui) nuosavybės teise priklausantys statiniai, įsigijusiam varžytynėse žemę asmeniui pereina buvusio žemės savininko teisės ir pareigos, kurias turėjo statinių savininkas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.171 straipsnis. Hipotekos objektas
 
@@ -8044,10 +8156,6 @@ Pirmasis skirsnis
 
 1\. Padalijus įkeistą nekilnojamąjį daiktą, hipotekos reikalavimas nedalijamas ir lieka galioti visiems po padalijimo suformuotiems nekilnojamiesiems daiktams. Susitarimas dėl hipotekos reikalavimo padalijimo negalioja.
 
-2\. Po nekilnojamojo daikto padalijimo suformuotų nekilnojamųjų daiktų, priklausančių nuosavybės teise skirtingiems savininkams, pardavimo varžytynėse eilė nustatoma daikto padalijimo momentu daikto savininkų rašytiniu susitarimu. Jei daikto savininkų rašytinio susitarimo nėra, po padalijimo suformuotų nekilnojamųjų daiktų pardavimo varžytynėse eilę nustato hipotekos teisėjas.
-
-**2 dalies redakcija nuo 2012-07-01:**
-
 2\. Po nekilnojamojo daikto padalijimo suformuotų nekilnojamųjų daiktų, priklausančių nuosavybės teise skirtingiems savininkams, pardavimo varžytynėse eilė nustatoma daikto padalijimo momentu daikto savininkų rašytiniu susitarimu. Jeigu nekilnojamojo daikto savininkų rašytinio susitarimo nėra, po padalijimo suformuotų nekilnojamųjų daiktų pardavimo varžytynėse eilę nustato antstolis, atsižvelgdamas į kreditoriaus siūlymus ir skolininkų interesus.
 
 *Straipsnio pakeitimai:*
@@ -8058,23 +8166,11 @@ Pirmasis skirsnis
 
 1\. Įkeisti nekilnojamieji daiktai gali būti sujungti tik gavus kreditorių, kurių reikalavimų tenkinimo eilė po sujungimo pasikeis, rašytinį sutikimą.
 
-2\. Sujungus kelis įkeistus nekilnojamuosius daiktus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį daiktą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal prašymų įregistruoti hipoteką įregistravimo datą.
-
-**2 dalies redakcija nuo 2012-07-01:**
-
 2\. Sujungus kelis įkeistus nekilnojamuosius daiktus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį daiktą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal hipotekos įregistravimo Hipotekos registre laiką.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.174 straipsnis. Hipoteka užtikrinami įvykdymai ir išieškojimai
-
-1\. Hipoteka užtikrinamas pagrindinio reikalavimo įvykdymas, iš šio reikalavimo atsirandančių palūkanų, netesybų bei teismo išlaidų, susijusių su hipotekos vykdymu, išieškojimas.
-
-2\. Hipoteka užtikrintas pagrindinis reikalavimas, iš šio reikalavimo atsirandančios palūkanos ir netesybos gali būti padidinami, taip pat skolinio įsipareigojimo įvykdymo terminas gali būti trumpinamas arba pratęsiamas daugiau nei paskesnės eilės kreditorių tik gavus paskesnės eilės kreditorių rašytinį sutikimą.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.174 straipsnis. Hipoteka užtikrinami reikalavimai
 
@@ -8087,24 +8183,6 @@ Pirmasis skirsnis
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.175 straipsnis. Hipotekos rūšys
-
-1\. Gali būti registruojama priverstinė ir sutartinė hipoteka. Priverstinės hipotekos nustatymo tvarką nustato Civilinio proceso kodeksas.
-
-2\. Priverstinė hipoteka atsiranda įstatymo arba teismo sprendimo pagrindu šiais atvejais:
-
-1\) valstybės reikalavimams, kylantiems iš mokestinių bei valstybinio socialinio draudimo teisinių santykių, užtikrinti;
-
-2\) reikalavimams, susijusiems su statinių statybomis ar rekonstrukcija, užtikrinti;
-
-3\) pagal teismo sprendimą patenkintiems turtiniams reikalavimams užtikrinti;
-
-4\) kitais šio kodekso numatytais atvejais.
-
-3\. Sutartinė hipoteka gali būti paprastoji, jungtinė, svetimo turto, maksimalioji, bendroji bei sąlyginė.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.175 straipsnis. Hipotekos rūšys
 
@@ -8144,12 +8222,6 @@ Pirmasis skirsnis
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
-###### 4.176 straipsnis. Hipotekos nustatymas valstybės reikalavimams, kylantiems iš mokestinių teisinių santykių, užtikrinti
-
-Valstybės reikalavimams, kylantiems iš mokestinių bei valstybinio socialinio draudimo teisinių santykių, užtikrinti hipoteka nustatoma valstybinės mokesčių inspekcijos, muitinės ar valstybinio socialinio draudimo institucijos prašymu, kuriame nurodomas daiktas, kuriam nustatoma hipoteka, skolininku esantis daikto savininkas, hipotekos nustatymo pagrindas, hipotekos terminas ir reikalavimo suma. Kartu su prašymu pateikiami jame nurodytus duomenis patvirtinantys dokumentai.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
 ###### 4.176 straipsnis. Priverstinės hipotekos nustatymas valstybės reikalavimams, atsirandantiems iš mokesčių ir valstybinio socialinio draudimo teisinių santykių, užtikrinti
 
 Valstybės reikalavimams, atsirandantiems iš mokesčių ir valstybinio socialinio draudimo teisinių santykių, užtikrinti hipoteka nustatoma mokesčių administratoriaus ar Valstybinio socialinio draudimo fondo administravimo įstaigos sprendimu. Šiame sprendime nurodomas daiktas, kuriam nustatoma priverstinė hipoteka, skolininkas – šio daikto savininkas, priverstinės hipotekos nustatymo pagrindas, priverstinės hipotekos terminas ir reikalavimo suma.
@@ -8159,14 +8231,6 @@ Valstybės reikalavimams, atsirandantiems iš mokesčių ir valstybinio socialin
 *Nr. IX-2172, 2004-04-27, Žin., 2004, Nr. 72-2495 (2004-04-30)*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.177 straipsnis. Hipotekos nustatymas reikalavimams, susijusiems su statinių statybomis ar rekonstrukcija, užtikrinti
-
-1\. Asmenų, susijusių su statinių statybomis ar rekonstrukcija, reikalavimams užtikrinti hipoteka gali būti nustatoma tik registruotam statiniui.
-
-2\. Hipoteka nustatoma rangovo, projektuotojo, medžiagų tiekėjo ar finansavusio asmens prašymu ne vėliau kaip per trisdešimt dienų nuo statybų ar rekonstrukcijos darbų užbaigimo. Prašyme nurodomas statinys, kuriam nustatoma hipoteka, skolininku esantis daikto savininkas, hipotekos nustatymo pagrindas, hipotekos terminas ir reikalavimo suma. Kartu su prašymu pateikiami jame nurodytus duomenis patvirtinantys dokumentai.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.177 straipsnis. Įmonės hipoteka
 
@@ -8186,23 +8250,11 @@ Valstybės reikalavimams, atsirandantiems iš mokesčių ir valstybinio socialin
 
 ###### 4.178 straipsnis. Hipotekos nustatymas pagal teismo sprendimą patenkintiems reikalavimams užtikrinti
 
-Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu gali būti įregistruota skolininko daikto hipoteka. Teismo sprendime turi būti nurodyta: hipoteka užtikrinama reikalavimo suma, hipotekos terminas, daiktas, kuris registruojamas hipotekos registre, ir šio daikto savininkas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.178 straipsnis. Hipotekos nustatymas pagal teismo sprendimą patenkintiems reikalavimams užtikrinti
-
 Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu šio kodekso nustatytais atvejais ir Civilinio proceso kodekso numatyta tvarka gali būti nustatyta priverstinė skolininko daikto hipoteka.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.179 straipsnis. Paprastoji hipoteka
-
-Paprastoji hipoteka – vieno konkretaus nuosavybės teise priklausančio nekilnojamojo daikto įkeitimas, norint apsaugoti vieno konkretaus įsipareigojimo įvykdymą.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.179 straipsnis. Paprastoji hipoteka
 
@@ -8214,23 +8266,11 @@ Paprastoji hipoteka – vieno konkretaus skolininkui nuosavybės teise priklausa
 
 ###### 4.180 straipsnis. Jungtinė hipoteka
 
-Jungtinė hipoteka – kelių nuosavybės teise priklausančių nekilnojamųjų daiktų įkeitimas vienu metu, norint apsaugoti vieno konkretaus įsipareigojimo įvykdymą.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.180 straipsnis. Jungtinė hipoteka
-
 Jungtinė hipoteka – kelių tam pačiam asmeniui nuosavybės teise priklausančių nekilnojamųjų daiktų įkeitimas vienu hipotekos sandoriu norint apsaugoti vieno konkretaus įsipareigojimo įvykdymą.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.181 straipsnis. Svetimo daikto hipoteka
-
-Svetimo daikto hipoteka – nuosavybės teise priklausančio nekilnojamojo daikto įkeitimas, norint apsaugoti kito asmens skolinio įsipareigojimo įvykdymą.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.181 straipsnis. Svetimo daikto hipoteka
 
@@ -8246,20 +8286,6 @@ Svetimo daikto hipoteka – nuosavybės teise priklausančio nekilnojamojo daikt
 
 ###### 4.182 straipsnis. Maksimalioji hipoteka
 
-1\. Maksimalioji hipoteka – nekilnojamojo daikto įkeitimas, kai susitariama tik dėl maksimalios įsipareigojimų apsaugojimo įkeičiamu daiktu sumos ir dėl paskolos naudojimo srities. Maksimalioji hipoteka registruojama ne ilgesniam kaip penkerių metų laikotarpiui.
-
-2\. Pasibaigus penkerių metų laikotarpiui, skolos dydis fiksuojamas hipotekos registre, ir hipoteka pradeda veikti kaip paprastoji. Vėliau prisiimtų skolinių įsipareigojimų ši hipoteka neapsaugo. Jeigu skolos dydžio fiksavimo data hipotekos sutartyje nenustatyta, hipotekos kreditorius gali reikalauti skolos dydį fiksuoti bet kuriuo momentu, bet ne anksčiau kaip praėjus trejiems metams nuo hipotekos įregistravimo dienos.
-
-3\. Skolos dydis fiksuojamas, kai kiti kreditoriai reikalauja parduoti įkeistą daiktą iš varžytynių, įkeistas daiktas areštuojamas, skolininkas arba kreditorius paskelbiami nemokiais ar jie likviduojami, kreditorius ar skolininkas miršta, jeigu jų turto paveldėtojai neperregistruoja hipotekos savo vardu per šešis mėnesius nuo palikimo atsiradimo dienos.
-
-4\. Skolos dydžio fiksavimas panaikinamas, jei kreditoriai atšaukia reikalavimą parduoti daiktą iš varžytynių, jei panaikinamas nekilnojamojo daikto areštas arba atšaukiamas skolininko ar kreditoriaus likvidavimas.
-
-5\. Maksimali įsipareigojimų apsaugojimo suma negali būti didinama be toliau eilėje esančių to paties daikto hipotekos kreditorių sutikimo.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.182 straipsnis. Maksimalioji hipoteka
-
 1\. Maksimalioji hipoteka – nekilnojamojo daikto įkeitimas, kai hipotekos sandoryje nurodoma tik maksimali įkeičiamu daiktu užtikrinamų įsipareigojimų apsaugojimo suma. Hipotekos sandoryje privalo būti nurodyta, kad tai yra maksimaliosios hipotekos sandoris.
 
 2\. Maksimaliosios hipotekos skolos dydžio fiksavimo data gali būti nustatyta šalių susitarimu. Vėliau prisiimtų skolinių įsipareigojimų ši hipoteka neapsaugo. Hipotekos kreditoriaus prašymu skolos dydį taip pat fiksuoja antstolis išieškojimo procedūros metu.
@@ -8272,10 +8298,6 @@ Svetimo daikto hipoteka – nuosavybės teise priklausančio nekilnojamojo daikt
 
 ###### 4.183 straipsnis. Bendroji hipoteka
 
-1\. Bendroji hipoteka – keleto atskiriems savininkams priklausančių nekilnojamųjų daiktų įkeitimas, norint apsaugoti vieną skolinį įsipareigojimą.
-
-**1 dalies redakcija nuo 2012-07-01:**
-
 1\. Bendroji hipoteka – kelių atskiriems savininkams priklausančių nekilnojamųjų daiktų įkeitimas norint apsaugoti vieną skolinį įsipareigojimą.
 
 2\. Bendrąja hipoteka įkeisto daikto savininkas, norėdamas šį daiktą įkeisti dar kartą, turi gauti rašytinį visų kitų bendrąja hipoteka įkeistų daiktų savininkų sutikimą.
@@ -8285,16 +8307,6 @@ Svetimo daikto hipoteka – nuosavybės teise priklausančio nekilnojamojo daikt
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.184 straipsnis. Sąlyginė hipoteka
-
-1\. Sąlyginė hipoteka – daikto įkeitimas, norint apsaugoti skolinio įsipareigojimo įvykdymą, jeigu susitariama, kad hipoteka įsigalios nuo sutartyje numatytos sąlygos įvykdymo momento arba kad hipoteka galios tik iki to momento, kol bus vykdoma sutartyje numatyta sąlyga. Sąlyga gali būti nustatoma tiek kreditoriui, tiek skolininkui.
-
-2\. Kol sąlyga, lemianti hipotekos įsigaliojimą, neįvykdyta, hipoteką suinteresuotos šalies prašymu gali bet kuriuo momentu hipotekos teisėjas panaikinti.
-
-3\. Jeigu sąlyga, lemianti hipotekos pasibaigimą, nebevykdoma, suinteresuota šalis turi teisę kreiptis į hipotekos teisėją ir reikalauti, kad hipoteka būtų baigta.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.184 straipsnis. Sąlyginė hipoteka
 
@@ -8309,20 +8321,6 @@ Svetimo daikto hipoteka – nuosavybės teise priklausančio nekilnojamojo daikt
 Antrasis skirsnis
 
 **Hipotekos įregistravimas**
-
-###### 4.185 straipsnis. Hipotekos įforminimas ir įregistravimas
-
-1\. Hipotekos sutartis, įkeičiamo daikto savininko vienašalis pareiškimas įkeisti daiktą, taip pat prašymas įregistruoti priverstinę hipoteką įforminami surašant hipotekos lakštą. Jeigu hipoteka sutartinė, hipotekos lakštą tvirtina notaras.
-
-2\. Hipotekos sutartį (lakštą) pasirašo skolininkas, kreditorius ir įkeičiamo daikto savininkas (kai skolininkas ir daikto savininkas ne tas pats asmuo). Jeigu daiktas įkeičiamas vienašaliu jo savininko pareiškimu, hipotekos lakštą pasirašo tik įkeičiamo daikto savininkas. Jeigu hipoteka priverstinė, hipotekos lakštą pasirašo kreditorius.
-
-3\. Hipoteka registruojama hipotekos registre hipotekos teisėjo sprendimu, pateikus hipotekos lakštą įkeisto daikto buvimo vietos hipotekos įstaigai.
-
-4\. Hipotekos pakeitimai įrašomi hipotekos lakšte ir registruojami hipotekos registre ta pačia tvarka kaip ir hipoteka.
-
-5\. Hipotekos registro duomenys yra vieši ir laikomi teisingais bei išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.185 straipsnis. Hipotekos įforminimas ir įregistravimas
 
@@ -8344,16 +8342,6 @@ Antrasis skirsnis
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
-###### 4.186 straipsnis. Hipotekos lakšto turinys
-
-1\. Hipotekos lakšte turi būti nurodoma: sudarymo vieta ir data, skolininkas, kreditorius ir įkeičiamo daikto savininkas (kai skolininkas ir daikto savininkas ne tas pats asmuo), jų gyvenamoji vieta (buveinė), įkeičiamas daiktas, jo įkainojimas ir buvimo vieta, įkeitimu užtikrinta prievolė, jos konkretus arba maksimalus dydis (kai hipoteka sutartinė) ir įvykdymo terminas. Prievolės dydis hipotekos lakšte nurodomas įskaitant palūkanas. Jeigu hipoteka priverstinė, hipotekos lakšte nurodomas jos nustatymo pagrindas.
-
-2\. Hipotekos lakšte gali būti papildomai nurodyti ir kiti duomenys.
-
-3\. Jeigu hipotekos lakštą surašo įkeičiamo daikto savininkas vienašališkai, kreditorius gali būti nenurodytas. Šiuo atveju surašomas pareikštinis hipotekos lakštas, kuris jo turėtojo pageidavimu bet kuriuo momentu gali būti įformintas vardiniu hipotekos lakštu.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
 ###### 4.186 straipsnis. Hipotekos sandorio turinys
 
 1\. Hipotekos sandoryje turi būti nurodyta: sandorio sudarymo vieta, data ir laikas, skolininkas, kreditorius ir įkaito davėjas (kai skolininkas ir įkaito davėjas ne tas pats asmuo), jų gyvenamoji vieta (buveinė), hipotekos objektas, hipoteka užtikrinta prievolė (prievolės) ir jos (jų) konkretus ar maksimalus dydis, prievolės įvykdymo terminas, hipotekos sandorio originalo egzempliorių skaičius ir subjektai, kuriems sandorio sudarymo metu perduodami originalo egzemplioriai. Įmonės hipotekos, sąlyginės hipotekos ir maksimaliosios hipotekos sandoriuose privalo būti nurodyta hipotekos rūšis. Sąlyginės hipotekos sandoryje nurodoma sąlyga, su kuria siejamas hipotekos galiojimas.
@@ -8372,12 +8360,6 @@ Antrasis skirsnis
 
 ###### 4.187 straipsnis. Hipotekos įsigaliojimo momentas
 
-Hipoteka įsigalioja nuo jos įregistravimo hipotekos registre momento, kai viešame registre įrašomi atitinkami įrašai.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.187 straipsnis. Hipotekos įsigaliojimo momentas
-
 1\. Sutartinė hipoteka šalims galioja nuo hipotekos sandorio sudarymo momento, jeigu hipotekos sandoryje nenustatyta kitaip.
 
 2\. Prieš sąžiningus trečiuosius asmenis hipotekos sandoris gali būti naudojamas tik tuo atveju, kai hipoteka Hipotekos registro nuostatų nustatyta tvarka įregistruota Hipotekos registre.
@@ -8387,12 +8369,6 @@ Hipoteka įsigalioja nuo jos įregistravimo hipotekos registre momento, kai vie�
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.188 straipsnis. Hipotekos lakšto ir hipotekos registro duomenų neatitikimas
-
-Jeigu hipotekos lakšto tekstas nesutampa su hipotekos registro įrašu, sprendžiamąją galią turi hipotekos registro įrašas. Šiuo atveju dėl hipotekos registro tvarkymo įstaigos kaltės patirtą žalą sąžiningam lakšto turėtojui atlygina valstybė įstatymų nustatyta tvarka.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.188 straipsnis. Hipotekos sandorio ir Hipotekos registro duomenų neatitikimas
 
@@ -8405,18 +8381,6 @@ Kai hipotekos sandorio tekstas nesutampa su Hipotekos registro duomenimis, spren
 Trečiasis skirsnis
 
 **Hipotekos perleidimas ir įkeitimas**
-
-###### 4.189 straipsnis. Hipotekos reikalavimo perleidimas
-
-1\. Kreditorius hipotekos reikalavimą ar jo dalį gali perleisti kitam asmeniui, jeigu hipotekos sutartyje nenumatyta kitaip. Hipotekos reikalavimas perleidžiamas laikantis taisyklių, nustatytų šio kodekso šeštosios knygos normose, reglamentuojančiose reikalavimo teisės perleidimą.
-
-2\. Hipotekos reikalavimas perleidžiamas perduodant hipotekos lakštą indosamentu (hipotekos lakšto turėtojo įrašu, kuriuo hipotekos lakštas perduodamas kitam asmeniui). Jeigu perleidžiama hipotekos reikalavimo dalis, hipotekos lakšte nurodoma, kuris iš kreditorių saugo hipotekos lakštą.
-
-3\. Indosamentas turi būti įrašytas hipotekos lakšte, nurodant asmenį, kuriam perleidžiamas hipotekos reikalavimas, pasirašytas indosanto (hipotekos lakšto turėtojo) ir įregistruotas hipotekos registre.
-
-4\. Hipotekos reikalavimo perleidimas (hipotekos lakšto indosamentas) registruojamas hipotekos registre ta pačia tvarka kaip ir hipoteka.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.189 straipsnis. Hipotekos reikalavimo ir hipotekos teisės perleidimas
 
@@ -8434,25 +8398,11 @@ Trečiasis skirsnis
 
 ###### 4.190 straipsnis. Hipotekos kreditoriaus teisė perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės kitam hipotekos kreditoriui
 
-Kai daiktas įkeistas kelis kartus, bet kuris hipotekos kreditorius gali perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės kitam to paties skolininko hipotekos kreditoriui. Tai įrašoma abiejuose hipotekos lakštuose. Jeigu kreditoriaus, perleidžiančio savo eilės pirmumą, reikalavimo suma yra mažesnė nei perėmėjo, būtinas tolesnės nei perleidėjo ir pirmesnės nei perėmėjo eilės kreditorių notarine tvarka patvirtintas sutikimas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.190 straipsnis. Hipotekos kreditoriaus teisė perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės kitam hipotekos kreditoriui
-
 Kai daiktas įkeistas kelis kartus, bet kuris hipotekos kreditorius gali perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės kitam hipotekos kreditoriui. Šiuo atveju daromi abiejų hipotekos sandorių pakeitimai. Kai hipotekos kreditoriaus, perleidžiančio savo eilės pirmumą, reikalavimo suma yra mažesnė už perėmėjo reikalavimo sumą, būtinas tolesnės negu perleidėjo ir pirmesnės nei perėmėjo eilės kreditorių notarine tvarka patvirtintas sutikimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.191 straipsnis. Hipotekos reikalavimo įkeitimas
-
-1\. Hipotekos kreditorius gali įkeisti hipotekos reikalavimą gaunamai ar gautai paskolai apsaugoti tik tada, kai skolos grąžinimo terminas nėra ilgesnis už hipotekos lakšte nurodytą skolos grąžinimo terminą.
-
-2\. Hipotekos reikalavimas įkeičiamas šalių susitarimu, tai įrašant hipotekos lakšte, ir įsigalioja nuo šio susitarimo įregistravimo hipotekos registre. Susitarimas įforminamas kilnojamojo daikto įkeitimo lakštu.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.191 straipsnis. Hipotekos reikalavimo įkeitimas
 
@@ -8465,16 +8415,6 @@ Jeigu hipotekos sandoryje nenustatyta kitaip, hipotekos kreditorius gali įkeist
 Ketvirtasis skirsnis
 
 **Skolos išieškojimas hipotekos kreditoriaus naudai**
-
-###### 4.192 straipsnis. Hipotekos kreditoriaus teisė kreiptis dėl skolos išieškojimo
-
-1\. Jei per hipotekos lakšte nustatytą terminą skolininkas įsipareigojimo neįvykdo, hipotekos kreditorius gali įgyvendinti savo teises kreipdamasis į hipotekos teisėją ir prašydamas, kad įkeistas daiktas būtų parduotas iš viešųjų varžytynių ir iš gautų pinigų visiškai atlyginta jam priklausanti suma, kurią jis turi teisę gauti pirmiau už kitus kreditorius, arba kad jam būtų suteikta teisė pradėti administruoti įkeistą daiktą.
-
-2\. Pagal hipotekos kreditoriaus kreipimąsi hipotekos teisėjui areštavus įkeistą daiktą ir įspėjus apie tai įkeisto daikto savininką, įkeisto daikto savininkas netenka teisės perleisti daiktą kitiems asmenims, taip pat įkeisti, išnuomoti, kitaip suvaržyti teisę į daiktą arba mažinti jo vertę.
-
-3\. Jeigu įkeistas daiktas buvo perduotas hipotekos kreditoriui administruoti ir jį administruojant paaiškėjo, kad negalima patenkinti hipoteka apsaugoto reikalavimo, hipotekos kreditorius gali kreiptis į hipotekos teisėją dėl įkeisto daikto pardavimo iš varžytynių.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.192 straipsnis. Hipotekos kreditoriaus teisė kreiptis dėl skolos išieškojimo ir vykdomojo įrašo atlikimas
 
@@ -8500,8 +8440,6 @@ Ketvirtasis skirsnis
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
-**Kodeksas papildomas 4.192¹ straipsniu nuo 2012-07-01:**
-
 ###### 4.192¹ straipsnis. Skolos išieškojimo iš įmonės hipoteka įkeisto turto ypatumai
 
 1\. Kai išieškoma pagal įmonės hipotekos sandorį, įmonei gali būti nustatomas turto administravimas. Turto administravimą nustato antstolis Civilinio proceso kodekso nustatyta tvarka. Turto administratoriumi skiriamas hipotekos kreditorius arba kitas asmuo hipotekos kreditoriaus sutikimu.
@@ -8517,18 +8455,6 @@ Ketvirtasis skirsnis
 *Kodeksas papildytas straipsniu:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.193 straipsnis. Hipotekos kreditoriaus teisė patenkinti savo reikalavimą iš įkeisto daikto
-
-1\. Jei pardavus įkeistą daiktą varžytynėse gaunama mažesnė suma, nei priklauso kreditoriui, jis turi teisę reikalauti išieškoti iš kito skolininko turto bendra įstatymų nustatyta tvarka.
-
-2\. Jeigu daiktas įkeistas kelis kartus, hipotekos kreditorių reikalavimai patenkinami pagal jų prašymų įregistruoti hipoteką padavimo laiką eilės tvarka. Anksčiau padavęs prašymą įregistruoti hipoteką hipotekos kreditorius gali būti įpareigotas atlyginti vėliau padavusio prašymą įregistruoti hipoteką hipotekos kreditoriaus nuostolius, jeigu, paraginus pastarajam, anksčiau padavęs prašymą įregistruoti hipoteką hipotekos kreditorius neprotingai delsė įgyvendinti savo teises.
-
-3\. Jeigu įkeistas daiktas paimamas visuomenės poreikiams ar konfiskuojamas, hipotekos kreditoriaus reikalavimą patenkina atitinkamai naujasis daikto valdytojas ar valstybė, bet ne daugiau nei yra įkeisto daikto vertė.
-
-4\. Jeigu įkeistas daiktas pereina valstybės ar savivaldybės nuosavybėn paveldėjimo teise ar įkeistas bešeimininkis daiktas perduodamas teismo sprendimu valstybės arba savivaldybės nuosavybėn, hipotekos kreditoriaus reikalavimą patenkina valstybė ar savivaldybė, bet ne daugiau nei yra įkeisto daikto vertė.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.193 straipsnis. Hipotekos kreditoriaus teisė patenkinti savo reikalavimą iš įkeisto daikto
 
@@ -8558,8 +8484,6 @@ Ketvirtasis skirsnis
 
 2\. Pardavus jungtine hipoteka įkeistus daiktus viešose varžytynėse, skola išieškoma iš visų parduotų daiktų vienu metu, o parduoti galima tik tiek, kiek reikia kreditoriaus reikalavimui patenkinti.
 
-**Kodeksas papildomas 4.192⁴ straipsniu nuo 2012-07-01:**
-
 ###### 4.194¹ straipsnis. Skolininko (įkaito davėjo) interesų garantijos
 
 1\. Skolininkas (įkaito davėjas) turi teisę bet kuriuo metu nuo prievolės įvykdymo termino pabaigos iki hipotekos objekto realizavimo momento panaikinti hipoteką tinkamai įvykdydamas hipoteka užtikrintą prievolę.
@@ -8578,14 +8502,6 @@ Ketvirtasis skirsnis
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
-###### 4.195 straipsnis. Skolos išieškojimas pardavus svetimo daikto hipoteka įkeistą daiktą
-
-1\. Įkeisto daikto savininkas atsako už skolininko įsipareigojimo įvykdymą tik įkeistu savo daiktu.
-
-2\. Jeigu įkeisto daikto savininkas įvykdė skolininko įsipareigojimą arba jeigu jo daiktas buvo parduotas iš viešųjų varžytynių, jis įgyja į skolininką atgręžtinio reikalavimo teisę dėl sumokėtos sumos ar dėl daikto praradimo patirtų nuostolių atlyginimo.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
 ###### 4.195 straipsnis. Skolos išieškojimas iš svetimo daikto hipoteka įkeisto daikto
 
 1\. Įkeisto daikto savininkas atsako už skolininko įsipareigojimo įvykdymą tik įkeistu savo daiktu. Įkaito davėjas tampa su skolininku subsidiariai atsakingas nuo hipoteka užtikrintos prievolės neįvykdymo dienos.
@@ -8601,20 +8517,6 @@ Ketvirtasis skirsnis
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
 ###### 4.196 straipsnis. Teisė reikalauti patenkinti hipoteka apsaugotą reikalavimą prieš terminą
-
-1\. Hipotekos kreditorius turi teisę reikalauti patenkinti hipoteka apsaugotą reikalavimą prieš terminą ta pačia tvarka, kaip ir suėjus skolos grąžinimo terminui, jeigu:
-
-1\) kiti kreditoriai įstatymų numatytais atvejais reikalauja parduoti įkeistą daiktą iš varžytynių;
-
-2\) skolininkas mirė;
-
-3\) pradėta skolininko ar įkeisto daikto savininko (ne fizinio asmens) bankroto procedūra arba priimtas sprendimas jį likviduoti;
-
-4\) įkeisto daikto vertė sumažėjo, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo daikto vertė, kai šios įsipareigojimo dalies nepadengė gauta draudimo suma;
-
-5\) įkeisto daikto draudimo sutartis nutraukta prieš terminą arba, pasibaigus draudimo sutarčiai, daiktas nebeapdraudžiamas.
-
-**1 dalies redakcija nuo 2012-07-01:**
 
 1\. Hipotekos kreditorius turi teisę reikalauti patenkinti hipoteka užtikrintą reikalavimą prieš terminą ir kreiptis į notarą dėl vykdomojo įrašo atlikimo ta pačia tvarka, kaip ir suėjus skolos grąžinimo terminui, kai:
 
@@ -8639,26 +8541,6 @@ Ketvirtasis skirsnis
 Penktasis skirsnis
 
 Hipotekos PABAIGA
-
-###### 4.197 straipsnis. Hipotekos pasibaigimo pagrindai ir momentas
-
-1\. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų hipotekų.
-
-2\. Įkeisto daikto savininkas ar skolininkas gali reikalauti, kad hipoteka būtų baigta, jeigu:
-
-1\) yra įvykdytas skolinis įsipareigojimas;
-
-2\) daiktui panaikinama hipoteka;
-
-3\) hipotekos kreditorius arba hipotekos kreditoriaus buvimo vieta nežinoma dešimt metų nuo skolos mokėjimo termino pabaigos.
-
-3\. Hipoteka gali baigtis hipotekos kreditoriaus ir skolininko susitarimu ar kai hipotekos kreditorius hipotekos atsisako.
-
-4\. Jeigu suėjus skolos grąžinimo terminui hipotekos kreditorius atsisako priimti hipoteka užtikrintos prievolės dalyką, skolininkas gali įmokėti atitinkamą sumą į hipotekos įstaigos depozito sąskaitą. Įmokėjus visą skolos sumą į depozito sąskaitą, hipoteka baigiasi.
-
-5\. Hipotekos pasibaigimo momentas yra jos išregistravimo iš hipotekos registro momentas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.197 straipsnis. Hipotekos pabaigos pagrindai
 
@@ -8696,14 +8578,6 @@ Hipotekos PABAIGA
 
 ###### 4.198 straipsnis. Įkeitimo sąvoka
 
-1\. Įkeitimas – tai esamo ar būsimo skolinio įsipareigojimo įvykdymą užtikrinantis kilnojamojo daikto ar turtinių teisių įkeitimas, kai įkeitimo objektas perduodamas kreditoriui, trečiajam asmeniui ar paliekamas įkaito davėjui. Įkaito davėjui paliktas įkeitimo objektas gali būti užrakinamas, užantspauduojamas ar pažymimas ženklais, rodančiais jo įkeitimą.
-
-2\. Pagal įkeitimą kreditorius (įkaito turėtojas) turi teisę, skolininkui neįvykdžius įkeitimu užtikrintos prievolės, patenkinti savo reikalavimą iš įkeisto daikto vertės pirmiau už kitus kreditorius.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.198 straipsnis. Įkeitimo sąvoka
-
 1\. Įkeitimas – daiktinė teisė į svetimą kilnojamąjį turtą ir turtines teises, kuria užtikrinamas esamo ar būsimo turtinio įsipareigojimo įvykdymas.
 
 2\. Įkeitimo objektas gali būti perduodamas kreditoriui, trečiajam asmeniui arba paliekamas valdyti įkaito davėjui. Įkeitimo objekto perdavimu taip pat laikomas prekinio ar nuosavybės vertybinio popieriaus perdavimas kreditoriui, kitoks teisės valdyti įkeitimo objektą suteikimas, įskaitant įrašų banko sąskaitose ar vertybiniuose popieriuose atlikimą.
@@ -8717,14 +8591,6 @@ Hipotekos PABAIGA
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.199 straipsnis. Įkeitimo atsiradimo pagrindai
-
-1\. Įkeitimas atsiranda pagal sutartį arba įstatymą. Jeigu įkeitimas atsiranda pagal įstatymą, tai įstatyme turi būti nurodyta, koks būtent turtas yra įkeičiamas.
-
-2\. Priverstiniam įkeitimui (kai įkeitimas atsiranda įstatymo ar teismo sprendimo pagrindu) mutatis mutandis taikomos šios knygos normos, reglamentuojančios priverstinę hipoteką.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.199 straipsnis. Įkeitimo atsiradimo pagrindai
 
@@ -8742,16 +8608,6 @@ Hipotekos PABAIGA
 
 ###### 4.200 straipsnis. Įkeitimu užtikrinami reikalavimai
 
-1\. Įkeitimu gali būti užtikrintas bet kurios piniginės prievolės įvykdymas.
-
-2\. Įkeitimas yra pagrindinės prievolės išvestinė prievolė. Įkaito turėtojo teisės yra išvestinės iš jo, kaip kreditoriaus, teisių ir šių teisių įgyvendinimas priklauso nuo įkeitimu užtikrintos prievolės likimo.
-
-3\. Jeigu ko kita nenurodyta sutartyje arba įstatyme, įkeitimu užtikrinamas toks reikalavimas, koks yra jo patenkinimo momentu, įskaitant palūkanas, netesybas, nuostolius, padarytus dėl prievolės įvykdymo termino praleidimo, taip pat būtinas išieškojimo išlaidas, kurios padengiamos pirmiausiai.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.200 straipsnis. Įkeitimu užtikrinami reikalavimai
-
 1\. Įkeitimu gali būti užtikrintas bet kurios esamos ar būsimos turtinės prievolės įvykdymas.
 
 2\. Įkeitimu užtikrinamas pagrindinio reikalavimo įvykdymas ir iš šio reikalavimo atsirandančių palūkanų išieškojimas. Įkeitimo sandorio šalys įkeitimo sandoryje gali susitarti, kad netesybos ir kreditoriaus nuostoliai, patirti dėl įkeitimu užtikrintos prievolės įvykdymo termino praleidimo, užtikrinami maksimaliuoju įkeitimu.
@@ -8759,22 +8615,6 @@ Hipotekos PABAIGA
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.201 straipsnis. Įkeitimo objektas
-
-1\. Įkeitimo objektu gali būti kilnojamieji daiktai ir turtinės teisės.
-
-2\. Įkeitimo objektu negali būti tokie daiktai, į kuriuos pagal galiojančius įstatymus negali būti nukreipiamas išieškojimas, taip pat kilnojamieji daiktai, įkeisti kartu su nekilnojamuoju daiktu šio kodekso 4.171 straipsnio 3 dalyje nustatyta tvarka.
-
-3\. Jeigu įstatymai ar sutartis nenustato ko kita, daikto įkeitimas apima ir daikto priklausinius bei neatskirtus vaisius.
-
-4\. Daikto atsitiktinio žuvimo ar sugedimo rizika tenka įkaito davėjui, jeigu įstatymai ar sutartis nenustato ko kita.
-
-5\. Įstatymo numatytais atvejais įkeitimo objektu taip pat gali būti daiktai, kurie taps įkaito davėjo nuosavybe ateityje. Išieškojimas į tokius daiktus gali būti nukreiptas tik įkaito davėjui įgijus šiuos daiktus nuosavybės teise.
-
-6\. Įkeisti daiktą, kuris yra bendroji nuosavybė, galima tik rašytiniu visų bendraturčių sutikimu.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.201 straipsnis. Įkeitimo objektas
 
@@ -8791,12 +8631,6 @@ Hipotekos PABAIGA
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.202 straipsnis. Prekių atsargų, esančių apyvartoje, įkeitimas
-
-Įkaito davėjas, įkeitęs esančias apyvartoje prekių atsargas (prekes, žaliavas, pusgaminius, pagamintą produkciją), turi teisę keisti įkeistų prekių atsargų sudėtį ir formą su sąlyga, kad nemažės bendra jų vertė. Kai įkeistos prekės parduodamos įkaito davėjui vykdant jo steigimo dokumentuose nustatytą veiklą, prekių įkeitimas išnyksta, o įkaito davėjo įsigytos naujos prekių atsargos tampa įkeitimo objektu šių prekių įsigijimo nuosavybėn momentu.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.202 straipsnis. Turtinių kompleksų įkeitimas
 
@@ -8815,16 +8649,6 @@ Hipotekos PABAIGA
 1\. Įkaito davėjas įkaito turėtojo (turėtojų) sutikimu gali pakeisti individualiais požymiais apibūdintą daiktą, kuris yra įkeitimo objektas, kitu dar nė karto neįkeistu daiktu.
 
 2\. Šio straipsnio 1 dalyje nurodytu atveju pirmesnio daikto įkeitimas panaikinamas po to, kai įforminamas naujo daikto įkeitimas.
-
-###### 4.204 straipsnis. Turtinės teisės, kaip įkeitimo objektas
-
-1\. Įkeitimo objektu gali būti teisės į žemę, mišką, kitus daiktus, t. y. naudojimo teisė, nuomos teisė ir kitos turtinės teisės, išskyrus teises, susijusias su įkeičiamo daikto savininko asmenybe, taip pat teises, kurias perleisti draudžia įstatymai ar sutartis.
-
-2\. Įstatymų numatytais atvejais įkeitimo objektu taip pat gali būti turtinės teisės, kurias įkaito davėjas įgis ateityje.
-
-3\. Kai įkeičiamą turtinę teisę patvirtina vertybiniai popieriai ar specialūs dokumentai, jie perduodami įkaito turėtojui, jeigu įstatymai ar šalių susitarimas nenustato kitaip.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.204 straipsnis. Turtinės teisės, kaip įkeitimo objektas
 
@@ -8848,12 +8672,6 @@ Hipotekos PABAIGA
 
 1\. Įkaito davėju gali būti ir pats skolininkas, ir trečiasis asmuo.
 
-2\. Įkaito davėjas turi būti įkeičiamojo daikto savininkas arba asmuo, kuriam priklauso turtinė teisė, esanti įkeitimo objektu, išskyrus atvejus, kada įstatymas nustato, kad įkeitimo objektas gali būti įgytas įkaito davėjo nuosavybėn ateityje.
-
-3\. Turtinė teisė, priklausanti keliems asmenims, gali būti įkeista tik jų visų rašytiniu sutikimu.
-
-**2 ir 3 dalių redakcija nuo 2012-07-01:**
-
 2\. Įkaito davėjas turi būti įkeičiamo objekto savininkas arba asmuo, kuriam priklauso turtinė teisė, esanti įkeitimo objektu, išskyrus atvejus, kai įkeitimo sandoryje nustatyta, kad įkeitimo objektą įkaito davėjas įgis ateityje. Turto patikėjimo teise daiktą valdantis patikėtinis turi teisę įkeisti šį turtą tik tais atvejais, kai įstatymuose arba sandoryje, kurių pagrindu atsiranda turto patikėjimo teisė, yra numatyta teisė įkeisti patikėjimo teise valdomą turtą. Įstatymuose, teismo sprendime ar sandoryje gali būti nustatyta kito asmens turto administratoriaus teisė įkeisti turtą.
 
 3\. Turtinė teisė, priklausanti keliems asmenims, gali būti įkeista tik jų visų sutikimu. Šiuo atveju įkeitimo sandorį pasirašo visi šie asmenys.
@@ -8865,10 +8683,6 @@ Hipotekos PABAIGA
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
 
 ###### 4.207 straipsnis. Įkeitimo teisės išlikimas, įkeistojo daikto nuosavybės teisei perėjus kitam asmeniui
-
-1\. Įkeistojo daikto nuosavybės teisei perėjus iš įkaito davėjo kitam asmeniui, įkeitimo teisė lieka galioti, kai įkeitimo objektas buvo perduotas įkaito turėtojui arba kai įkeitimo lakštas buvo įregistruotas hipotekos registre, jeigu įstatymai nenustato kitaip. Ši taisyklė taip pat taikoma ir tais atvejais, kai įkeitimo objektas yra turtinės teisės.
-
-**1 dalies redakcija nuo 2012-07-01:**
 
 1\. Įkeistojo daikto nuosavybės teisei perėjus iš įkaito davėjo kitam asmeniui, įkeitimas lieka galioti, kai įkeitimo objektas buvo perduotas įkaito turėtojui arba kai įkeitimo sandoris buvo įregistruotas Hipotekos registre, jeigu įstatymuose ar įkeitimo sandoryje nenustatyta kitaip. Ši taisyklė taip pat taikoma ir tais atvejais, kai įkeitimo objektas yra turtinės teisės.
 
@@ -8884,20 +8698,6 @@ Hipotekos PABAIGA
 
 2\. Jeigu įkaito davėjas pažeidžia įkeisto daikto saugojimo sąlygas, vengia pateikti sužalotą daiktą arba pateikti žuvusio daikto likučius, kreditorius turi teisę pareikalauti įvykdyti įkeitimu užtikrintą prievolę prieš terminą.
 
-###### 4.209 straipsnis. Įkeitimo sutarties ir įkeitimo objekto savininko vienašalio pareiškimo forma
-
-1\. Kai įkeitimo objektas perduodamas įkaito turėtojui, sudaroma rašytinė įkeitimo sutartis. Įkeitimo sutartis gali būti sudaroma kaip atskira sutartis, arba susitarimas dėl įkeitimo gali būti įtrauktas į sutartį, iš kurios kyla pagrindinė prievolė.
-
-2\. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimo sutartis ir įkeitimo objekto savininko vienašalis pareiškimas įkeisti daiktus ar turtines teises įforminami surašant įkeitimo lakštą, kuris tvirtinamas notaro ir registruojamas hipotekos registre.
-
-3\. Šio straipsnio 1 ir 2 dalyse numatytų taisyklių nesilaikymas įkeitimo sutartį daro negaliojančia.
-
-4\. Įkeitimo sutartį (lakštą) pasirašo įkaito davėjas, skolininkas, kreditorius ir asmuo, kuriam perduotas įkeitimo objektas. Jeigu įkeitimo objektas įkeičiamas vienašaliu jo savininko pareiškimu, įkeitimo lakštą pasirašo tik įkaito davėjas.
-
-5\. Daiktų įkeitimas gali būti atliekamas perduodant kreditoriui dokumentus, suteikiančius teisę į tą daiktą (konosamentus ir kt.).
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
 ###### 4.209 straipsnis. Įkeitimo sandorio forma
 
 1\. Kai įkeitimo objektas perduodamas kreditoriui, sudaromas rašytinis įkeitimo sandoris. Rašytinės formos nesilaikymas įkeitimo sandorį daro negaliojantį.
@@ -8911,14 +8711,6 @@ Hipotekos PABAIGA
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.210 straipsnis. Įkeitimo sutarties (lakšto) turinys
-
-1\. Įkeitimo sutartyje (lakšte) turi būti nurodoma: sudarymo vieta ir data, įkaito davėjas, skolininkas, kreditorius ir asmuo, kuriam perduotas įkeitimo objektas, jų gyvenamoji vieta (buveinė), įkeičiamo daikto (turtinės teisės) aprašymas, įkainojimas ir buvimo vieta, įkeitimu užtikrinta prievolė (įskaitant palūkanas), jos konkretus arba maksimalus dydis ir įvykdymo terminas.
-
-2\. Įkeitimo sutartyje (lakšte) gali būti papildomai nurodyti ir kiti duomenys.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.210 straipsnis. Įkeitimo sandorio turinys
 
@@ -8936,10 +8728,6 @@ Hipotekos PABAIGA
 
 ###### 4.211 straipsnis. Paskesnis įkeitimas
 
-1\. Jeigu pirmesniu įkeitimu daiktas nebuvo perduotas įkaito turėtojui ir jeigu ko kita nenumato įkeitimo lakštas, yra leidžiamas paskesnis įkeitimas, kai įkeitimo objektas įkaito turėtojui neperduodamas. Tokiais atvejais ankstesnis įkeitimas lieka galioti.
-
-**1 dalies redakcija nuo 2012-07-01:**
-
 1\. Jeigu pirmesniu įkeitimo sandoriu daiktas nebuvo perduotas įkaito turėtojui ir įkeitimo sandoryje nenustatyta kitaip, leidžiamas paskesnis įkeitimas. Šiais atvejais ankstesnis įkeitimas lieka galioti.
 
 2\. Įkaito davėjas privalo pranešti kiekvienam kreditoriui apie visus pirmesnius ir paskesnius įkeitimus, taip pat įkeitimu užtikrintas prievoles ir jų dydį. Įkaito davėjas privalo atlyginti nuostolius, kuriuos patiria bet kuris iš kreditorių dėl šios pareigos neįvykdymo.
@@ -8950,14 +8738,6 @@ Hipotekos PABAIGA
 
 ###### 4.212 straipsnis. Įkeitimo pirmumas
 
-1\. Jeigu dėl to paties įkeitimo objekto yra įregistruoti keli įkeitimo lakštai, pirmumas suteikiamas reikalavimui, kuris yra užtikrintas pagal anksčiau paduotą prašymą įregistruotu įkeitimo lakštu.
-
-2\. Kreditoriaus, kuriam įkeitimo teisė atsirado vėliau, reikalavimas tenkinamas tik atlyginus įkeisto daikto pardavimo išlaidas ir visiškai patenkinus ankstesnio kreditoriaus reikalavimus.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.212 straipsnis. Įkeitimo pirmumas
-
 1\. Kai dėl to paties įkeitimo objekto yra sudaryti keli įkeitimo sandoriai, pirmumo teisę turi anksčiau sudarytu sandoriu užtikrintas reikalavimas.
 
 2\. Kai dėl to paties įkeitimo objekto yra sudaryti keli įkeitimo sandoriai, įregistruoti Hipotekos registre, pirmumo teisę turi anksčiau Hipotekos registre įregistruotu įkeitimo sandoriu užtikrintas reikalavimas.
@@ -8965,12 +8745,6 @@ Hipotekos PABAIGA
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.213 straipsnis. Įkeitimo teisės atsiradimas
-
-Įkeitimo teisė atsiranda nuo įkeitimo sutarties sudarymo momento, kai įkeistas daiktas perduodamas kreditoriui. Kai įkeistas daiktas paliekamas įkaito davėjui ar perduodamas trečiajam asmeniui, įkeitimo teisė atsiranda nuo įkeitimo įregistravimo hipotekos registre momento.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.213 straipsnis. Įkeitimo įsigaliojimas
 
@@ -8984,12 +8758,6 @@ Hipotekos PABAIGA
 
 ###### 4.214 straipsnis. Asmens, kuriam perduotas įkeistas daiktas, pareigos
 
-Asmuo, kuriam perduotas įkeistas daiktas, privalo jį tinkamai laikyti. Jis atsako už šio daikto išsaugojimą, jeigu neįrodo, kad daiktas prarastas arba sužalotas ne dėl jo kaltės. Šis asmuo neturi teisės naudotis įkeistu daiktu, jeigu ko kita nenustato įstatymas arba sutartis.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.214 straipsnis. Asmens, kuriam perduotas įkeistas daiktas, pareigos
-
 Asmuo, kuriam perduotas įkeistas daiktas, privalo jį tinkamai laikyti. Jis atsako už šio daikto išsaugojimą, jeigu neįrodo, kad daiktas prarastas arba sužalotas ne dėl jo kaltės. Šis asmuo neturi teisės naudotis įkeistu daiktu, jeigu įstatymuose arba įkeitimo sandoryje nenustatyta kitaip.
 
 *Straipsnio pakeitimai:*
@@ -8999,14 +8767,6 @@ Asmuo, kuriam perduotas įkeistas daiktas, privalo jį tinkamai laikyti. Jis ats
 ###### 4.215 straipsnis. Įkeisto daikto išreikalavimas
 
 Jeigu įkeistas daiktas nustojo būti valdomas įkaito turėtojo, įkaito davėjo ar trečiojo asmens, kurio jis buvo valdomas, daiktą gali išreikalauti ir įkaito turėtojas ar trečiasis asmuo pagal šio kodekso 4.95–4.97 straipsnius.
-
-4.216 straipsnis. Teisės nukreipti išieškojimą į įkeitimo objektą atsiradimas
-
-1\. Įkaito turėtojas įgyja teisę nukreipti išieškojimą į įkeitimo objektą, jeigu, suėjus prievolės įvykdymo terminui, prievolė nėra įvykdyta, tačiau ne anksčiau kaip praėjus dvidešimčiai dienų po prievolės įvykdymo termino pabaigos. Šalių susitarimu gali būti nustatytas kitoks, tačiau ne trumpesnis kaip dešimties dienų, lengvatinis terminas.
-
-2\. Kreditorius turi teisę reikalauti, kad įkeitimu užtikrinta prievolė būtų įvykdyta prieš terminą, jeigu: į įkeistąjį daiktą nukreipia išieškojimą kitas asmuo; miršta įkaito davėjas arba pradedama įkaito davėjo (juridinio asmens) likvidavimo procedūra; įkeistas daiktas žuvo arba daugiau kaip trisdešimčia procentų sumažėjo jo vertė dėl priežasčių, nepriklausančių nuo įkaito davėjo; įkaito davėjas trukdo kreditoriui tikrinti įkeisto daikto būklę; pažeidžiamos sutarties sąlygos dėl paskesnio įkeitimo arba jeigu įkaito davėjas pažeidė kitas sutarties sąlygas ar atliko veiksmus, dėl kurių gali sumažėti įkeisto daikto vertė ar išieškojimas gali tapti neįmanomas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.216 straipsnis. Teisės nukreipti išieškojimą į įkeitimo objektą atsiradimas
 
@@ -9028,22 +8788,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 
 ###### 4.219 straipsnis. Įkeistų daiktų išieškojimo tvarka
 
-1\. Kai skolininkas neįvykdo įkeitimo užtikrintos prievolės, kreditoriaus reikalavimas patenkinamas iš įkeistojo daikto vertės, jeigu ko kita nenustato įstatymas ar sutartis.
-
-2\. Kreditorius privalo raštu įspėti skolininką ir įkaito davėją (kai įkaito davėjas yra ne skolininkas), kad neįvykdžius įkeitimu užtikrintos prievolės per šio kodekso 4.216 straipsnyje nustatytą terminą, bus pradėtas išieškojimas. Jeigu įkeitimas įregistruotas hipotekos registre, rašytinis įspėjimas skolininkui įteikiamas per hipotekos įstaigą, kuri privalo apie tai informuoti kitus hipotekos registre įrašytus asmenis, turinčius teisę į daiktą, į kurį nukreipiamas išieškojimas.
-
-3\. Įkaito davėjas, gavęs įspėjimą dėl daikto išieškojimo, neturi teisės jo parduoti, išnuomoti ar kitaip suvaržyti teisės į jį. Įkeistas daiktas turi būti perduotas kreditoriui. Šiuo atveju kreditoriui taikoma 4.215 straipsnyje nustatyta tvarka.
-
-4\. Jeigu įkaito davėjas neperduoda kreditoriui įkeisto daikto, kreditorius gali kreiptis į hipotekos teisėją su prašymu areštuoti įkeistą daiktą ir perduoti jam.
-
-5\. Kreditorius parduoda įkeistą daiktą kreditoriaus, skolininko ir įkaito davėjo (kai įkaito davėjas yra ne skolininkas) sutartu būdu arba bendru sutarimu įkeistas daiktas perduodamas kreditoriaus nuosavybėn, o nesutarus – parduodamas aukcione. Jeigu daiktas įkeistas kelis kartus, jis gali būti perduotas vieno iš kreditorių nuosavybėn tik visiems kreditoriams susitarus. Kreditorius įkeistus vertybinius popierius realizuoja įstatymų nustatyta tvarka. Pardavus įkeistą daiktą, gautos lėšos pervedamos į hipotekos įstaigos depozitą ir paskirstomos Civilinio proceso kodekso nustatyta tvarka.
-
-6\. Jeigu sumos, gautos pardavus įkeistą daiktą, neužtenka įkaito turėtojo reikalavimui visiškai patenkinti, tai, jeigu įstatyme ar sutartyje nenurodyta kitaip, įkaito turėtojas turi teisę išieškoti trūkstamą sumą iš skolininko kito turto. Šiuo atveju įkaito turėtojas neturi pirmenybės prieš kitus kreditorius.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.219 straipsnis. Įkeistų daiktų išieškojimo tvarka
-
 1\. Kai skolininkas neįvykdo įkeitimu užtikrintos prievolės, kreditoriaus reikalavimas patenkinamas iš įkeistojo daikto vertės, jeigu įstatymuose ar sandoryje nenustatyta kitaip.
 
 2\. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, arba priverstinio įkeitimo nustatymo atveju išieškojimas iš įkeitimu užtikrinto turto vykdomas mutatis mutandis taikant išieškojimo iš hipoteka užtikrinto turto tvarką reglamentuojančias šio kodekso nuostatas.
@@ -9060,14 +8804,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 
 ###### 4.220 straipsnis. Įkeistų turtinių teisių realizavimas
 
-1\. Jeigu įkeitimo objektas yra turtinės teisės, tai įkeitimo objektas realizuojamas perleidžiant kreditoriui įkaito davėjo reikalavimus, kylančius iš įkeistos teisės, arba reikalavimo dalį, atitinkančią skolinio įsipareigojimo dydį, jeigu skolinis įsipareigojimas mažesnis už reikalavimo teisę.
-
-2\. Kreditorius įgyja teisę reikalauti perduoti jam įkeistą teisę nuo to momento, kai jis įgyja teisę nukreipti išieškojimą į įkeitimo objektą.
-
-**Straipsnio redakcija nuo 2012-07-01:**
-
-###### 4.220 straipsnis. Įkeistų turtinių teisių realizavimas
-
 1\. Kai įkeitimo objektas yra turtinės teisės, įkeitimo objektas realizuojamas perleidžiant kreditoriui iš įkeistos turtinės teisės atsirandančius įkaito davėjo reikalavimus ar jų dalį, atitinkančią skolinio įsipareigojimo dydį, arba perduodant kreditoriui teisę administruoti turtines teises ir iš gautų lėšų tenkinti savo reikalavimą.
 
 2\. Kreditorius įgyja teisę reikalauti perduoti jam įkeistą turtinę teisę arba įkeistos turtinės teisės administravimą nuo to momento, kai jis įgyja teisę nukreipti išieškojimą į įkeitimo objektą.
@@ -9075,14 +8811,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-###### 4.221 straipsnis. Kreditoriaus reikalavimo iš įkeistų lėšų, esančių įkaito davėjo banko sąskaitoje, tenkinimo tvarka
-
-1\. Kai prievolės įvykdymui užtikrinti buvo įkeistos lėšos, esančios įkaito davėjo banko sąskaitoje, įteikus skolininkui įspėjimą dėl išieškojimo, įkaito davėjo rašytiniu pareiškimu, o jei jis nesutinka, hipotekos teisėjo sprendimu, kreditoriui perduodama teisė tvarkyti įkaito davėjo banko sąskaitą.
-
-2\. Patenkinus reikalavimą iš įkaito davėjo sąskaitoje esančių ir į ją įplaukiančių lėšų, kreditoriaus teisė tvarkyti įkaito davėjo sąskaitą pasibaigia ir kreditorius privalo grąžinti įkaito davėjui įkeitimo lakštą su įrašu, kad reikalavimas patenkintas.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.221 straipsnis. Kreditoriaus reikalavimo iš įkeistų lėšų, esančių įkaito davėjo banko sąskaitoje, tenkinimo tvarka
 
@@ -9103,10 +8831,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 ###### 4.223 straipsnis. Įkeitimu užtikrinto reikalavimo ar iš įkeitimo atsiradusios reikalavimo teisės perleidimas
 
 1\. Sutartis dėl įkeitimu užtikrinto reikalavimo ar jo dalies perleidimo turi būti sudaroma laikantis taisyklių, nustatytų šio kodekso šeštosios knygos normose, nustatančiose reikalavimo teisės perleidimą. Apie reikalavimo perleidimą turi būti pranešama skolininkui, o jeigu įkaito davėjas yra trečiasis asmuo, – tai ir įkaito davėjui.
-
-2\. Iš registruoto įkeitimo atsiradusi reikalavimo teisė perleidžiama perduodant įkeitimo lakštą indosamentu. Reikalavimo teisės perleidimas registruojamas hipotekos registre ta pačia tvarka kaip ir įkeitimas.
-
-**2 dalies redakcija nuo 2012-07-01:**
 
 2\. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo šios teisės perleidimo įregistravimo momento. Kai įkeitimo objektas perduodamas kreditoriui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo įkeitimo objekto valdymo perleidimo naujajam kreditoriui.
 
@@ -9132,8 +8856,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 
 2\. Kai įkeistas turtas priverstinai parduodamas kreditoriaus, kuriam turtas įkeistas, reikalavimu, visi turto įkeitimai panaikinami.
 
-**Straipsnis papildomas 3 ir 4 dalimis nuo 2012-07-01:**
-
 3\. Pasibaigęs įkeitimas, kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, išregistruojamas iš Hipotekos registro. Kreditoriaus, skolininko arba turto savininko prašymas dėl įkeitimo pabaigos pateikiamas notarui, o šis duomenis apie įkeitimo pabaigą perduoda Hipotekos registrui.
 
 4\. Įkeitimo atsinaujinimui mutatis mutandis taikomos hipotekos atsinaujinimą reglamentuojančios šios knygos nuostatos.
@@ -9150,8 +8872,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 
 3\. Įkaito davėjas turi teisę reikalauti, kad kreditorius atlygintų jo patirtus nuostolius, atsiradusius kreditoriui vykdant išieškojimą, taip pat nuostolius, kurie atsirado kreditoriui netinkamai laikant įkeitimo dalyką ar jį priverstinai pardavus.
 
-**Straipsnis papildomas 4, 5, 6 ir 7 dalimis nuo 2012-07-01:**
-
 4\. Kreditorius privalo išieškojimą vykdyti kuo ekonomiškiau ir negali nepagrįstai praturtėti skolininko (įkaito davėjo) sąskaita.
 
 5\. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas (įkaito davėjas) turi teisę perleisti įkeistą turtą kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko (įkaito davėjo) pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka įkeitimu užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį.
@@ -9163,12 +8883,6 @@ Jeigu įkaito turėtojo reikalavimą visiškai patenkina trečiasis asmuo, tai j
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
-
-4.226 straipsnis. Įkeitimo teisės pabaiga pinigus deponavus
-
-Jeigu įkaito turėtojas nesutinka priimti įkeitimu užtikrintos piniginės prievolės dalyko, įkaito davėjas gali įmokėti atitinkamą sumą į notaro, banko ar kitos kredito įstaigos depozitinę sąskaitą, o kai įkeitimas įregistruotas hipotekos registre, - į hipotekos įstaigos depozitinę sąskaitą. Deponavus visą skolos sumą, įkeitimo teisė baigiasi.
-
-**Straipsnio redakcija nuo 2012-07-01:**
 
 ###### 4.226 straipsnis. Įkeitimo pabaiga pinigus deponavus
 
@@ -9481,10 +9195,6 @@ Juridinių faktų įvykimą patvirtinantys dokumentai, kuriais remiantis šie ju
 ###### 4.256 straipsnis. Prašymai įregistruoti daiktus, teisių į juos suvaržymus, daiktines teises ar juridinius faktus
 
 1\. Asmuo, norintis įregistruoti daiktą, teisių į jį suvaržymus, daiktines teises ar juridinius faktus, viešo registro tvarkytojui paduoda nustatytos formos prašymą.
-
-2\. Prašymą įregistruoti daiktą ir nuosavybės teises į jį paduoda daiktą įgijęs asmuo, o registruojant daiktines teises į svetimą daiktą, taip pat teisių į daiktus suvaržymus – šių teisių turėtojas arba asmuo, suinteresuotas jų įregistravimu. Prašymą įregistruoti juridinius faktus paduoda įgaliota institucija ar suinteresuotas jų įregistravimu asmuo. Prašymą asmuo paduoda pats arba per savo atstovą, turintį įstatymų nustatyta tvarka išduotą įgaliojimą.
-
-**2 dalies redakcija nuo 2012-07-01:**
 
 2\. Prašymą įregistruoti daiktą ir nuosavybės teises į jį paduoda daiktą įgijęs asmuo, o registruojant daiktines teises į svetimą daiktą, taip pat teisių į daiktus suvaržymus, – šių teisių turėtojas, suinteresuotas jų įregistravimu asmuo arba notaras. Prašymą įregistruoti juridinius faktus paduoda įgaliota institucija ar suinteresuotas jų įregistravimu asmuo. Prašymą asmuo paduoda pats arba per savo atstovą, turintį įstatymų nustatyta tvarka išduotą įgaliojimą.
 
@@ -18808,11 +18518,15 @@ Patikėtinis turi teisę į sutartyje nustatytą atlyginimą ir būtinų išlaid
 
 1\. Jungtinės veiklos (partnerystės) sutartimi du ar daugiau asmenų (partnerių), kooperuodami savo turtą, darbą ar žinias, įsipareigoja veikti bendrai tam tikram, neprieštaraujančiam įstatymui tikslui arba tam tikrai veiklai.
 
-2\. Jungtinės veiklos sutartimi taip pat kuriamos ūkinės bendrijos.
+2\. (Neteko galios nuo 2012-09-01)
 
 3\. Jeigu jungtinės veiklos tikslas nėra susijęs su pelno siekimu, jungtinės veiklos sutartis vadinama asociacijos sutartimi.
 
 4\. Jungtinės veiklos (partnerystės) sutartis turi būti rašytinė, o įstatymo numatytais atvejais – notarinės formos. Jeigu sutarties formos reikalavimų nesilaikoma, sutartis tampa negaliojanti.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)*
 
 ###### 6.970 straipsnis. Partnerių įnašai
 
@@ -19466,6 +19180,28 @@ CIVILINIO KODEKSO 1.74 IR 6.393 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2013 m. kovo 1 d.
 
+27\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
+
+CIVILINIO KODEKSO 4.82, 4.83, 4.84, 4.85 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. sausio 1 d.
+
+28\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)
+
+CIVILINIO KODEKSO 1.73, 2.50, 2.82, 2.115, 2.116, 2.117, 2.118, 2.119, 2.120, 2.121, 2.122, 2.123, 2.125, 6.969 STRAIPSNIŲ IR ANTROSIOS KNYGOS II DALIES IX SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2012 m. rugsėjo 1 d.
+
+\*\*\* Pabaiga \*\*\*
+
 **Konstitucinio Teismo nutarimai:**
 
 1\.
@@ -19478,6 +19214,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2012-05-22)
+Redagavo Aušrinė Trapinskienė (2012-07-20)
 
 [email protected]
