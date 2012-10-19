@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_430120"
+redakcija_nuo: "2012-10-20"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_435558"
 ---
 
 # Baudžiamasis kodeksas
@@ -507,6 +507,22 @@ V SKYRIUS
 3\. Jeigu, veikdamas pagal nusikalstamą veiką imituojančio elgesio modelį ar vykdydamas kitą teisėsaugos institucijos užduotį, asmuo peržengė šios užduoties ribas, jis atsako pagal baudžiamąjį įstatymą, tačiau bausmė gali būti švelninama remiantis šio kodekso 59 straipsniu.
 
 4\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
+
+**32 straipsnio redakcija nuo 2013-01-01:**
+
+#### 32 straipsnis. Teisėsaugos institucijos užduoties vykdymas
+
+1\. Asmuo neatsako pagal šį kodeksą, jeigu jis teisėtai atliko nusikalstamą veiką imituojančius veiksmus.
+
+2\. Asmuo neatsako pagal baudžiamąjį įstatymą, jeigu jis nusikalstamo susivienijimo ar organizuotos grupės veikloje ir jos daromose nusikalstamose veikose dalyvavo vykdydamas teisėsaugos institucijos kitą teisėtą užduotį ir neperžengė šios užduoties ribų.
+
+3\. Jeigu, atlikdamas nusikalstamą veiką imituojančius veiksmus ar vykdydamas kitą teisėsaugos institucijos užduotį, asmuo peržengė šios užduoties ribas, jis atsako pagal baudžiamąjį įstatymą, tačiau bausmė gali būti švelninama remiantis šio kodekso 59 straipsniu.
+
+4\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat kriminalinės žvalgybos subjektai.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2241, 2012-10-02, Žin., 2012, Nr. 122-6100 (2012-10-20)*
 
 #### 33 straipsnis. Įsakymo vykdymas
 
@@ -3428,22 +3444,6 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
-#### 201 straipsnis. Neteisėtas namų gamybos stiprių alkoholinių gėrimų, nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių) ir aparatų jiems gaminti gaminimas, laikymas, gabenimas ar realizavimas
-
-1\. Tas, kas turėdamas tikslą realizuoti neteisėtai gamino, laikė, gabeno namų gamybos stiprius alkoholinius gėrimus, nedenatūruotą, denatūruotą ar techninį etilo alkoholį, jų skiedinius (mišinius) arba juos realizavo, arba gamino, laikė, gabeno ar realizavo aparatus namų gamybos stipriems alkoholiniams gėrimams gaminti,
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-2\. Tas, kas turėdamas tikslą realizuoti neteisėtai pagamino, laikė, gabeno penkiasdešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų, nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių) arba juos realizavo,
-
-baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
-
-3\. Tas, kas neturėdamas tikslo realizuoti neteisėtai pagamino, laikė, gabeno dešimt arba daugiau litrų namų gamybos stiprių alkoholinių gėrimų arba nedenatūruoto, denatūruoto ar techninio etilo alkoholio, jų skiedinių (mišinių), padarė baudžiamąjį nusižengimą ir
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
-
-**Straipsnio redakcija nuo 2012-09-01:**
-
 #### 201 straipsnis. Neteisėtas naminių stiprių alkoholinių gėrimų, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) ir aparatų jiems gaminti gaminimas, laikymas, gabenimas ar realizavimas
 
 1\. Tas, kas turėdamas tikslą realizuoti neteisėtai gamino, laikė, gabeno naminius stiprius alkoholinius gėrimus, nedenatūruotą ar denatūruotą etilo alkoholį, jų skiedinius (mišinius) arba juos realizavo, arba gamino, laikė, gabeno ar realizavo aparatus naminiams stipriems alkoholiniams gėrimams gaminti,
@@ -3603,10 +3603,6 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 1\. Šiame skyriuje nurodyta didelė turtinė žala yra 150 MGL dydžio sumą viršijanti žala.
 
 2\. Šio skyriaus 199, 199¹, 199² ir 200 straipsniuose nurodytų daiktų (prekių) vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
-
-3\. Šio skyriaus 201 straipsnyje nurodyti namų gamybos stiprūs alkoholiniai gėrimai yra alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų.
-
-**3 dalies redakcija nuo 2012-09-01:**
 
 3\. Šio skyriaus 201 straipsnyje nurodyti naminiai stiprūs alkoholiniai gėrimai yra alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų.
 
@@ -4142,11 +4138,17 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 3\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
 
+**3 dalies redakcija nuo 2013-01-01:**
+
+3\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat kriminalinės žvalgybos subjektai.
+
 4\. Šiame skyriuje numatytas turtas yra didelės vertės, kai jo vertė viršija 250 MGL dydžio sumą.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XI-2241, 2012-10-02, Žin., 2012, Nr. 122-6100 (2012-10-20)*
 
 XXXV SKYRIUS
 
@@ -5888,8 +5890,18 @@ Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)
 
 BAUDŽIAMOJO KODEKSO 147, 147(1), 157, 303 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 147(2) STRAIPSNIU ĮSTATYMAS
 
+41\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2241, 2012-10-02, Žin., 2012, Nr. 122-6100 (2012-10-20)
+
+BAUDŽIAMOJO KODEKSO 32 IR 248 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2012-07-16)
+Redagavo Aušrinė Trapinskienė (2012-10-24)
 
 [email protected]
