@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-10-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_435558"
+redakcija_nuo: "2012-11-17"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_437555"
 ---
 
 # Baudžiamasis kodeksas
@@ -2872,9 +2872,25 @@ Tas, kas naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu 
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
+**Straipsnio redakcija nuo 2013-01-01:**
+
+#### 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
+
+1\. Tas, kas naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu trukdė asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume arba organizavo trukdymą asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
+
+baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
 *Straipsnio pakeitimai:*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
 
 #### 173 straipsnis. Rinkimų ar referendumo dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento panaudojimas
 
@@ -2886,6 +2902,24 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas laisvės atėmimu iki trejų metų.
 
+**Straipsnio redakcija nuo 2013-01-01:**
+
+#### 173 straipsnis. Rinkimų ar referendumo dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento panaudojimas
+
+1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus suklastojo rinkėjų sąrašą, turinčių teisę dalyvauti referendume piliečių sąrašą, balsų skaičiavimo protokolą, rinkimų ar referendumo biuletenį, pagamino didelį kiekį rinkimų ar referendumo netikrų biuletenių arba panaudojo suklastotą ar netikrą rinkimų ar referendumo dokumentą, arba organizavo šių dokumentų klastojimą, gaminimą arba naudojimą,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
+
+baudžiamas laisvės atėmimu iki penkerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
+
 #### 174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
 
 1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus neteisingai suskaičiavo ir užfiksavo rinkėjų ar referendume dalyvavusių piliečių balsus,
@@ -2896,6 +2930,24 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
+**Straipsnio redakcija nuo 2013-01-01:**
+
+#### 174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
+
+1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus neteisingai suskaičiavo ir užfiksavo rinkėjų ar referendume dalyvavusių piliečių balsus arba organizavo neteisingą balsų skaičiavimą arba fiksavimą,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
+
+baudžiamas areštu, arba bauda, arba laisvės atėmimu iki penkerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
+
 #### 175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas,
 
 **pagrobimas arba paslėpimas**
@@ -2904,9 +2956,21 @@ Tas, kas sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių te
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
+**Straipsnio redakcija nuo 2013-01-01:**
+
+#### 175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas, pagrobimas arba paslėpimas
+
+1\. Tas, kas sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių teisę dalyvauti referendume piliečių sąrašą, rinkimų ar referendumo biuletenį ar balsų skaičiavimo protokolą, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams, arba organizavo šių dokumentų naikinimą, gadinimą, grobimą arba slėpimą,
+
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
 
 ### XXVII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS SOCIALINĖMS TEISĖMS
 
@@ -5900,8 +5964,18 @@ BAUDŽIAMOJO KODEKSO 32 IR 248 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 
+42\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
+
+BAUDŽIAMOJO KODEKSO 172, 173, 174, 175 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2012-10-24)
+Redagavo Aušrinė Trapinskienė (2012-11-19)
 
 [email protected]
