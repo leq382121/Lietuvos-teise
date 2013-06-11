@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2012-11-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_437555"
+redakcija_nuo: "2013-06-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_450648"
 ---
 
 # Baudžiamasis kodeksas
@@ -256,6 +256,18 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 5\. Jeigu Europos arešto orderis išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui paskirtos su laisvės atėmimu susijusios bausmės vykdymo, o ši bausmė buvo paskirta jam nedalyvaujant ir nepranešus apie bylos nagrinėjimo vietą bei laiką, Lietuvos Respublikos pilietis ar užsienietis perduodamas tik tuo atveju, kai Europos arešto orderį išdavusi valstybė užtikrina, kad šio asmens prašymu byla bus išnagrinėta (peržiūrėta) ir nuosprendis priimtas jam dalyvaujant.
 
+**Dalies redakcija nuo 2013-07-01:**
+
+5\. Jeigu Europos arešto orderis išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui paskirtos su laisvės atėmimu susijusios bausmės vykdymo, o jis asmeniškai nedalyvavo nagrinėjant bylą teisme ir buvo priimtas sprendimas paskirti su laisvės atėmimu susijusią bausmę, Lietuvos Respublikos pilietis ar užsienietis gali būti neperduodamas, išskyrus atvejus, kai Europos arešto orderyje nurodyta, kad pagal Europos arešto orderį išdavusios Europos Sąjungos valstybės narės nacionalinės teisės aktuose nustatytus proceso reikalavimus:
+
+1\) asmeniui laiku buvo asmeniškai įteiktas teismo šaukimas arba asmuo kitomis priemonėmis gavo oficialią informaciją apie numatytą bylos nagrinėjimo teisme laiką ir vietą tokiu būdu, kad akivaizdu, jog jis žinojo apie numatytą bylos nagrinėjimą teisme, taip pat asmuo buvo informuotas, kad sprendimas gali būti priimtas, nors jis neatvyks į bylos nagrinėjimą teisme, arba
+
+2\) asmuo, žinodamas apie numatomą bylos nagrinėjimą teisme, įgaliojo savo pasirinktą ar valstybės paskirtą gynėją jį ginti bylos nagrinėjimo teisme metu ir tas gynėjas iš tiesų šį asmenį gynė bylos nagrinėjimo teisme metu, arba
+
+3\) asmeniui įteikus sprendimą ir jį aiškiai informavus apie teisę į bylos persvarstymą arba teisę paduoti apeliacinį skundą, kuriuos nagrinėjant šis asmuo turi teisę dalyvauti ir kurie suteikia galimybę bylą, įskaitant naujus įrodymus, pakartotinai nagrinėti iš esmės, o po šio proceso pirminis sprendimas gali būti panaikintas, asmuo aiškiai nurodė, kad jis neginčija sprendimo, arba per nustatytą laikotarpį nepareikalavo persvarstyti bylą ar nepadavė apeliacinio skundo, arba
+
+4\) tuo atveju, kai sprendimas asmeniui nebuvo asmeniškai įteiktas, tačiau Europos arešto orderyje patvirtinama, kad po asmens perdavimo šis sprendimas bus nedelsiant asmeniškai įteiktas ir šis asmuo bus aiškiai informuotas apie teisę į bylos persvarstymą arba teisę paduoti apeliacinį skundą, kuriuos nagrinėjant šis asmuo turės teisę dalyvauti ir kurie suteikia galimybę bylą, įskaitant naujus įrodymus, pakartotinai nagrinėti iš esmės, o po šio proceso pirminis sprendimas galės būti panaikintas, taip pat kad asmuo bus informuotas apie laikotarpį, per kurį jis turi reikalauti persvarstyti bylą arba paduoti apeliacinį skundą, kaip nurodyta Europos arešto orderyje.
+
 6\. Jeigu Europos arešto orderis išduotas dėl nusikalstamos veikos, už kurią Europos arešto orderį išdavusios valstybės įstatymai numato laisvės atėmimo iki gyvos galvos bausmę, Lietuvos Respublikos pilietis ar užsienietis perduodamas su sąlyga, kad Europos arešto orderį išdavusios valstybės įstatymai numato galimybę nuteistajam ne vėliau kaip atlikus dvidešimt metų laisvės atėmimo bausmės kreiptis dėl atleidimo nuo bausmės ar jos sušvelninimo.
 
 7\. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra.
@@ -263,6 +275,10 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 *Kodeksas papildytas straipsniu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-345, 2013-05-30, Žin., 2013, Nr. 62-3057 (2013-06-12)*
 
 III SKYRIUS
 
@@ -497,18 +513,6 @@ V SKYRIUS
 2\. Asmuo, savo veiksmais sudaręs pavojingą situaciją, gali pasiremti būtinojo reikalingumo nuostatomis tik tuo atveju, jeigu pavojinga situacija sudaryta dėl neatsargumo.
 
 3\. Asmuo negali pateisinti pareigos nevykdymo būtinojo reikalingumo nuostatomis, jeigu jis dėl profesijos, pareigų ar kitų aplinkybių privalo veikti didesnio pavojaus sąlygomis.
-
-#### 32 straipsnis. Teisėsaugos institucijos užduoties vykdymas
-
-1\. Asmuo neatsako pagal šį kodeksą, jeigu jis teisėtai veikė pagal nusikalstamą veiką imituojančio elgesio modelį.
-
-2\. Asmuo neatsako pagal baudžiamąjį įstatymą, jeigu jis nusikalstamo susivienijimo ar organizuotos grupės veikloje ir jos daromose nusikalstamose veikose dalyvavo vykdydamas teisėsaugos institucijos kitą teisėtą užduotį ir neperžengė šios užduoties ribų.
-
-3\. Jeigu, veikdamas pagal nusikalstamą veiką imituojančio elgesio modelį ar vykdydamas kitą teisėsaugos institucijos užduotį, asmuo peržengė šios užduoties ribas, jis atsako pagal baudžiamąjį įstatymą, tačiau bausmė gali būti švelninama remiantis šio kodekso 59 straipsniu.
-
-4\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
-
-**32 straipsnio redakcija nuo 2013-01-01:**
 
 #### 32 straipsnis. Teisėsaugos institucijos užduoties vykdymas
 
@@ -2868,14 +2872,6 @@ XXVI SKYRIUS
 
 #### 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
 
-Tas, kas naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu trukdė asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume,
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
-
-**Straipsnio redakcija nuo 2013-01-01:**
-
-#### 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
-
 1\. Tas, kas naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu trukdė asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume arba organizavo trukdymą asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
@@ -2891,18 +2887,6 @@ baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
-
-#### 173 straipsnis. Rinkimų ar referendumo dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento panaudojimas
-
-1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus suklastojo rinkėjų sąrašą, turinčių teisę dalyvauti referendume piliečių sąrašą, balsų skaičiavimo protokolą, rinkimų ar referendumo biuletenį, pagamino didelį kiekį rinkimų ar referendumo netikrų biuletenių arba panaudojo suklastotą ar netikrą rinkimų ar referendumo dokumentą,
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams,
-
-baudžiamas laisvės atėmimu iki trejų metų.
-
-**Straipsnio redakcija nuo 2013-01-01:**
 
 #### 173 straipsnis. Rinkimų ar referendumo dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento panaudojimas
 
@@ -2922,18 +2906,6 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 #### 174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
 
-1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus neteisingai suskaičiavo ir užfiksavo rinkėjų ar referendume dalyvavusių piliečių balsus,
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams,
-
-baudžiamas areštu arba laisvės atėmimu iki trejų metų.
-
-**Straipsnio redakcija nuo 2013-01-01:**
-
-#### 174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
-
 1\. Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus neteisingai suskaičiavo ir užfiksavo rinkėjų ar referendume dalyvavusių piliečių balsus arba organizavo neteisingą balsų skaičiavimą arba fiksavimą,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
@@ -2947,16 +2919,6 @@ baudžiamas areštu, arba bauda, arba laisvės atėmimu iki penkerių metų.
 *Straipsnio pakeitimai:*
 
 *Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
-
-#### 175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas,
-
-**pagrobimas arba paslėpimas**
-
-Tas, kas sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių teisę dalyvauti referendume piliečių sąrašą, rinkimų ar referendumo biuletenį ar balsų skaičiavimo protokolą, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo rezultatams,
-
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
-
-**Straipsnio redakcija nuo 2013-01-01:**
 
 #### 175 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas, pagrobimas arba paslėpimas
 
@@ -4199,10 +4161,6 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 1\. Artimieji giminaičiai yra tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys, seneliai ir vaikaičiai.
 
 2\. Nusikaltimą padariusio asmens šeimos nariai yra kartu su juo gyvenantys tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai, taip pat nusikaltimą padariusio asmens sutuoktinis arba asmuo, su kuriuo nusikaltimą padaręs asmuo bendrai gyvena neįregistravęs santuokos (partnerystė), sutuoktinio tėvai.
-
-3\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
-
-**3 dalies redakcija nuo 2013-01-01:**
 
 3\. Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir prokuratūros įstaigos, taip pat kriminalinės žvalgybos subjektai.
 
@@ -5586,6 +5544,16 @@ priedas
 
 23\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
 
+**Priedas papildomas nauju 21 punktu, buvusieji 21, 22, 23 punktai laikomi atitinkamai 22, 23, 24 punktais nuo 2013-07-01:**
+
+21\. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+
+22\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+
+23\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+
+24\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -5611,6 +5579,8 @@ priedas
 *Nr. XI-1917, 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)*
 
 *Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
+
+*Nr. XII-345, 2013-05-30, Žin., 2013, Nr. 62-3057 (2013-06-12)*
 
 **Pakeitimai:**
 
@@ -5974,8 +5944,18 @@ BAUDŽIAMOJO KODEKSO 172, 173, 174, 175 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTA
 
 Šis įstatymas įsigalioja 2013 m. sausio 1 d.
 
+43\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-345, 2013-05-30, Žin., 2013, Nr. 62-3057 (2013-06-12)
+
+BAUDŽIAMOJO KODEKSO 9(1) STRAIPSNIO IR KODEKSO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2013 m. liepos 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2012-11-19)
+Redagavo Aušrinė Trapinskienė (2013-06-12)
 
 [email protected]
