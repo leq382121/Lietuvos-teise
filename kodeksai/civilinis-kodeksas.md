@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2013-06-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_452482"
+redakcija_nuo: "2013-07-09"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_453234"
 ---
 
 # Civilinis kodeksas
@@ -1045,10 +1045,6 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 ###### 1.74 straipsnis. Notarinė sandorių forma
 
 1\. Notarine forma turi būti sudaromi:
-
-1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai;
-
-**1 punkto redakcija nuo 2013-03-01:**
 
 1\) daiktinių teisių į nekilnojamąjį daiktą perleidimo ir daiktinių teisių bei nekilnojamojo daikto suvaržymo sandoriai, išskyrus bankroto proceso metu sudaromus nekilnojamojo daikto perleidimo sandorius, jeigu šiame kodekse nenustatyta kitaip;
 
@@ -5592,6 +5588,20 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 3\. Materialinį išlaikymą savo nepilnamečiams vaikams privalo teikti abu tėvai proporcingai savo turtinei padėčiai.
 
+###### 3.192¹ straipsnis. Tėvų pareiga išlaikyti savo vaikus, sulaukusius pilnametystės
+
+1\. Tėvai, turintys galimybę, privalo išlaikyti savo vaikus, sulaukusius pilnametystės, kurie mokosi pagal vidurinio ugdymo programą ar pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą ir yra ne vyresni negu 24 metų ir kuriems būtina materialinė parama, atsižvelgiant į vaikų, sulaukusių pilnametystės, turtinę padėtį, gaunamas pajamas, galimybę patiems gauti pajamų ir kitas svarbias aplinkybes. Tėvai neprivalo išlaikyti vaikų, sulaukusių pilnametystės, kurie siekia ne pirmojo aukštojo išsilavinimo ar profesinės kvalifikacijos.
+
+2\. Jeigu vaiko, sulaukusio pilnametystės, tėvai (ar vienas iš jų) nevykdo pareigos materialiai išlaikyti savo vaiką, vaikas turi teisę kreiptis į teismą dėl išlaikymo priteisimo.
+
+3\. Teismas, priimdamas sprendimą dėl išlaikymo priteisimo ir nustatydamas išlaikymo dydį, atsižvelgia į vaiko ir jo tėvų šeiminę bei turtinę padėtį, taip pat kitas bylai svarbias aplinkybes.
+
+4\. Vaikų, sulaukusių pilnametystės, išlaikymo tvarkai mutatis mutandis taikomi šio kodekso 3.192, 3.193, 3.194, 3.196, 3.197, 3.198, 3.199, 3.200, 3.201, 3.208 straipsniai.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-396, 2013-06-20, Žin., 2013, Nr. 73-3654 (2013-07-09)*
+
 ###### 3.193 straipsnis. Tėvų susitarimas dėl savo nepilnamečių vaikų išlaikymo
 
 1\. Nepilnamečių vaikų tėvai, nutraukdami santuoką bendru sutarimu (šio kodekso 3.51 straipsnis) arba pradėdami gyventi skyrium (šio kodekso 3.73 straipsnis), sudaro sutartį, kurioje numato tarpusavio pareigas materialiai išlaikant savo nepilnamečius vaikus, taip pat tokio išlaikymo tvarką, dydį ir formas. Šią sutartį tvirtina teismas (šio kodekso 3.53 straipsnis).
@@ -5606,7 +5616,7 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 2\. Išlaikymas taip pat priteisiamas, jeigu tėvai, nutraukdami santuoką ar pradėdami gyventi skyrium, nesusitarė dėl savo nepilnamečių vaikų išlaikymo šios knygos nustatyta tvarka.
 
-\*3. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas, arba kai vaikui būtina parama, jis mokosi vidurinių, aukštųjų ar profesinių mokyklų dieniniuose skyriuose ir yra ne vyresnis negu 24 metų.
+3\. Išlaikymą teismas priteisia, kol vaikas sulaukia pilnametystės, išskyrus atvejus, kai vaikas yra nedarbingas dėl invalidumo, kuris jam nepilnamečiui nustatytas.
 
 4\. Priteisto išlaikymo išieškojimas nutraukiamas, jeigu:
 
@@ -5620,8 +5630,6 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 
 5\. Kai asmuo, iš kurio buvo priteistas išlaikymas, mirė, išlaikymo pareiga pereina jo įpėdiniams, kiek leidžia paveldimas turtas, nesvarbu, koks palikimo priėmimo būdas pagal šio kodekso penktosios knygos normas.
 
-\*Pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.194 straipsnio 3 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, Nr. 171-6319) ta apimtimi, kuria nustatyta, kad teismas visais atvejais privalo priteisti tėvų (ar vieno iš jų) išlaikymą paramos reikalingam, vidurinį išsilavinimą jau įgijusiam, aukštosios ar profesinės mokyklos dieniniame skyriuje besimokančiam ir ne vyresniam negu 24 metų pilnamečiam asmeniui, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
-
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2571, 2004-11-11, Žin., 2004, Nr. 171-6319 (2004-11-26)*
@@ -5629,6 +5637,8 @@ Vaikų ir tėvų tarpusavio išlaikymo pareigos
 *Lietuvos Respublikos Konstitucinis Teismas, Nutarimas*
 
 *2007-06-07, Žin., 2007, Nr. 65-2529 (2007-06-12)*
+
+*Nr. XII-396, 2013-06-20, Žin., 2013, Nr. 73-3654 (2013-07-09)*
 
 ###### 3.195 straipsnis. Išlaikymo pareiga atskyrus vaikus nuo tėvų
 
@@ -7248,16 +7258,6 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\. Namo, buto ar kitos patalpos savininkas neturi teisės perduoti bendrosios dalinės nuosavybės, numatytos šio straipsnio 1 dalyje, savo dalies, taip pat atlikti kitų veiksmų, dėl kurių ta dalis perduodama atskirai nuo nuosavybės teisės į butą ar kitą patalpą, išskyrus atvejus, kai perduodama bendrąja daline nuosavybe esančio daikto, kuris gali būti ar, jį pertvarkius, galės būti naudojamas kaip atskiras daiktas ir toks jo naudojimas netrukdys naudoti butų ar kitų patalpų pagal paskirtį, dalis.
 
-**Dalių redakcija iki 2013-01-01**
-
-3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui išlaikyti ir išsaugoti, mokėti mokesčius, rinkliavas ir kitas įmokas, taip pat reguliariai daryti atskaitymus kaupti lėšas, kurios bus skiriamos namui atnaujinti.
-
-4\. Šio kodekso 4.79 straipsnyje nustatytos taisyklės taikomos ir tais atvejais, kai kitiems asmenims butų ir kitų patalpų, esančių namuose, savininkai parduoda bendrąja daline nuosavybe (palėpės, rūsio patalpos ir pan.) turimą visą ar ne visą dalį, priklausančią proporcingai jų turimai nuosavybės teise patalpai. Jeigu parduodama dalis bendrosios nuosavybės teise turimo daikto, kuris yra ar gali būti naudojamas tenkinant ne viso namo, o tik atskiroje jo dalyje (laiptinė ir pan.) esančių patalpų savininkų poreikius, nepažeidžiant name esančių patalpų savininkų teisių, tai apie dalies, turimos bendrosios nuosavybės teise, pardavimą turi būti pranešta toje namo dalyje esančių patalpų savininkams ir tik jiems leidžiama pasinaudoti pirmenybės teise ją pirkti.
-
-5\. Buto ir kitų patalpų savininkui priklausanti bendrosios dalinės nuosavybės dalis yra lygi jam nuosavybės teise priklausančių patalpų naudingojo ploto ir gyvenamojo namo naudingojo ploto santykiui.
-
-**Dalių redakcija nuo 2013-01-01**
-
 3\. Butų ir kitų patalpų savininkai privalo proporcingai savo daliai apmokėti išlaidas namui (statiniui) išlaikyti ir išsaugoti, įstatymuose nustatyta tvarka mokėti mokesčius, rinkliavas ir kitas įmokas.
 
 4\. Butų ir kitų patalpų savininkai taip pat privalo reguliariai kaupti lėšas, kurios bus skiriamos namui (statiniui) atnaujinti pagal privalomuosius statinių naudojimo ir priežiūros reikalavimus. Šios lėšos yra butų ir kitų patalpų savininkų bendroji dalinė nuosavybė. Į šias lėšas negali būti nukreiptas išieškojimas pagal atskiro buto ir kitų patalpų savininko prievoles. Perleidus butą ar kitas patalpas naujam savininkui, su kaupiamosiomis lėšomis susijusios teisės ir prievolės atitenka naujam savininkui. Lėšų kaupimo, jų dydžio apskaičiavimo, sukauptų lėšų apsaugos tvarką nustato Vyriausybė. Ginčus dėl kaupiamųjų lėšų sprendžia teismas.
@@ -7282,14 +7282,6 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 
 2\) reikalauti iš kitų butų ir kitų patalpų savininkų (naudotojų), kad gyvenamojo namo bendrojo naudojimo objektų valdymas ir naudojimas atitiktų bendrąsias buto ir kitų patalpų savininkų (naudotojų) teises ir teisėtus interesus. Teisėtais buto ir kitų patalpų savininkų (naudotojų) interesais laikoma gyvenamojo namo vidaus tvarkos taisyklių nustatymas, tinkama bendrojo naudojimo objektų priežiūra ir išlaikymas, gyvenamojo namo priežiūros ūkinio ir finansinio plano parengimas, lėšų kaupimas bendrojo naudojimo objektams atnaujinti.
 
-**Dalių redakcija iki 2013-01-01**
-
-3\. Buto ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį.
-
-4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimta administratoriaus ar butų ir kitų patalpų savininkų susirinkimo sprendimo šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
-
-**Dalių redakcija nuo 2013-01-01**
-
 3\. Butų ir kitų patalpų savininkai (naudotojai) bendrojo naudojimo objektus privalo valdyti, tinkamai prižiūrėti, remontuoti ar kitaip tvarkyti. Daugiabučio namo bendrojo naudojimo objektams valdyti butų ir kitų patalpų savininkai steigia butų ir kitų patalpų savininkų bendriją arba sudaro jungtinės veiklos sutartį, arba šio kodekso 4.84 straipsnyje nustatyta tvarka pasirenka bendrojo naudojimo objektų administratorių. Pavyzdinę jungtinės veiklos sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija. Butų ir kitų patalpų savininkų bendrijų valdymo organų, jungtinės veiklos sutartimi įgaliotų asmenų ir šio kodekso 4.84 straipsnyje nustatyta tvarka paskirtų bendrojo naudojimo objektų administratorių veiklos, susijusios su įstatymų ir kitų teisės aktų jiems priskirtų funkcijų vykdymu, priežiūrą ir kontrolę atlieka savivaldybės.
 
 4\. Buto ir kitų patalpų savininkas (naudotojas) neprivalo apmokėti išlaidų, dėl kurių jis nėra davęs sutikimo ir kurios nesusijusios su įstatymų ir kitų teisės aktų nustatytais privalomaisiais statinių naudojimo ir priežiūros reikalavimais arba dėl kurių nėra priimtas butų ir kitų patalpų savininkų susirinkimo sprendimas šio kodekso 4.84 ir 4.85 straipsniuose nustatyta tvarka.
@@ -7301,24 +7293,6 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 *Straipsnio pakeitimai:*
 
 *Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
-
-**Straipsnio redakcija iki 2013-01-01**
-
-###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
-
-1\. Jeigu butų ir kitų patalpų savininkai neįsteigia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos arba nesudaro jungtinės veiklos sutarties, taip pat jei bendrija likviduota arba nutraukta jungtinės veiklos sutartis, skiriamas bendrojo naudojimo objektų administratorius.
-
-2\. Administratorių skiria savivaldybės meras (valdyba) arba jo (jos) įgaliotas atstovas. Administratorius administruoja turtą šio kodekso 4.240 straipsnio pagrindu.
-
-3\. Administratorius veikia pagal savivaldybės mero (valdybos) patvirtintus nuostatus. Pavyzdinius butų ir kitų patalpų bendrosios nuosavybės administravimo nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
-
-4\. Administravimo išlaidas apmoka butų ir kitų patalpų savininkai proporcingai jų daliai bendrojoje dalinėje nuosavybėje.
-
-5\. Administravimas pasibaigia šio kodekso 4.250 straipsnyje nustatytais pagrindais, taip pat įregistravus gyvenamojo namo butų ir kitų patalpų savininkų bendrijos įstatus arba sudarius jungtinės veiklos sutartį.
-
-6\. Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV skyriaus normos.
-
-**Straipsnio redakcija nuo 2013-01-01**
 
 ###### 4.84 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administravimas, kai šie savininkai neįsteigę bendrijos arba nesudarę jungtinės veiklos sutarties
 
@@ -7351,22 +7325,6 @@ Kiekvienas bendraturtis turi teisę perleisti kitam asmeniui nuosavybėn, išnuo
 *Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)*
 
 Pastaba: 4.84 straipsnio 2, 3, 4 ir 7 dalių nuostatos, išskyrus 4 dalies nuostatas dėl butų ir kitų patalpų savininkų teisės visais atvejais priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių, taikomos po šio įstatymo įsigaliojimo skiriamiems bendrojo naudojimo objektų administratoriams. Iki šio įstatymo įsigaliojimo neterminuotam laikui paskirti bendrojo naudojimo objektų administratoriai savo veiklą vykdo iki 2014 m. liepos 1 d. Iki 2014 m. liepos 1 d. turi būti paskirti šio įstatymo nustatyta tvarka ir šio įstatymo reikalavimus atitinkantys bendrojo naudojimo objektų administratoriai.
-
-**Straipsnio redakcija iki 2013-01-01**
-
-###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
-
-1\. Sprendimai dėl bendrojo naudojimo objektų valdymo ir naudojimo priimami butų ir kitų patalpų savininkų balsų dauguma, jeigu butų ir kitų patalpų savininkų bendrijos įstatuose ar jungtinės veiklos sutartyje nenumatyta kitaip. Kiekvieno buto ir kitų patalpų savininkas turi vieną balsą. Jeigu butas ir kitos patalpos nuosavybės teise priklauso keliems savininkams, jiems jų susitarimu atstovauja vienas asmuo, kuris turi vieną balsą.
-
-2\. Butų ir kitų patalpų savininkų sprendimai priimami butų ir kitų patalpų savininkų susirinkime, prieš dvi savaites viešai paskelbus jo darbotvarkę.
-
-3\. Butų ir kitų patalpų savininkų susirinkimus šaukia gyvenamojo namo butų ir kitų patalpų savininkų bendrijos valdyba (bendrijos pirmininkas) arba butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo, arba butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės administratorius.
-
-4\. Butų ir kitų patalpų savininkų sprendimai skelbiami viešai ir galioja visiems butų ir kitų patalpų savininkams, taip pat tiems savininkams, kurie įgijo nuosavybės teises į butus ir kitas patalpas po šių sprendimų priėmimo. Sprendimai negali apriboti butų ir kitų patalpų savininkų bei trečiųjų asmenų teisių ir teisėtų interesų, išskyrus šio kodekso ir kitų įstatymų nustatytus atvejus.
-
-5\. Butų ir kitų patalpų savininkų sprendimai gali būti priimti ir nesušaukus susirinkimo, bet jiems raštu pareiškus apie savo sprendimą. Balsavimo raštu tvarką nustato Vyriausybė ar jos įgaliota institucija.
-
-**Straipsnio redakcija nuo 2013-01-01**
 
 ###### 4.85 straipsnis. Butų ir kitų patalpų savininkų bendrosios dalinės nuosavybės teisės įgyvendinimas
 
@@ -13648,12 +13606,6 @@ Viešojo pirkimo–pardavimo sutartims šio kodekso normos taikomos tiek, kiek k
 
 ###### 6.393 straipsnis. Sutarties forma
 
-**Dalies redakcija iki 2013-03-01**
-
-1\. Nekilnojamojo daikto pirkimo–pardavimo sutartis turi būti notarinės formos.
-
-**Dalies redakcija nuo 2013-03-01**
-
 1\. Nekilnojamojo daikto pirkimo–pardavimo sutartis turi būti notarinės formos, išskyrus bankroto proceso metu sudaromas nekilnojamojo daikto pirkimo–pardavimo sutartis.
 
 2\. Formos reikalavimų nesilaikymas sutartį daro negaliojančią.
@@ -18550,7 +18502,7 @@ Patikėtinis turi teisę į sutartyje nustatytą atlyginimą ir būtinų išlaid
 
 1\. Jungtinės veiklos (partnerystės) sutartimi du ar daugiau asmenų (partnerių), kooperuodami savo turtą, darbą ar žinias, įsipareigoja veikti bendrai tam tikram, neprieštaraujančiam įstatymui tikslui arba tam tikrai veiklai.
 
-2\. (Neteko galios nuo 2012-09-01)
+2\. Neteko galios nuo 2012-09-01.
 
 3\. Jeigu jungtinės veiklos tikslas nėra susijęs su pelno siekimu, jungtinės veiklos sutartis vadinama asociacijos sutartimi.
 
@@ -18986,8 +18938,6 @@ priedas
 
 *Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)*
 
-\______________
-
 **Pakeitimai:**
 
 1\.
@@ -19250,6 +19200,16 @@ Nr. XII-365, 2013-06-13, Žin., 2013, Nr. 68-3406 (2013-06-28)
 
 CIVILINIO KODEKSO 2.38 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+31\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-396, 2013-06-20, Žin., 2013, Nr. 73-3654 (2013-07-09)
+
+CIVILINIO KODEKSO PAPILDYMO 3.192(1) STRAIPSNIU IR 3.194 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+\*\*\* Pabaiga \*\*\*
+
 **Konstitucinio Teismo nutarimai:**
 
 1\.
@@ -19262,6 +19222,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2013-07-01)
+Redagavo Aušrinė Trapinskienė (2013-07-09)
 
 [email protected]
