@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2013-07-09"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_453234"
+redakcija_nuo: "2013-07-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_453522"
 ---
 
 # Civilinis kodeksas
@@ -2164,9 +2164,13 @@ BENDROSIOS NUOSTATOS
 
 4\. Jei šio straipsnio 1 dalyje nurodytuose dokumentuose yra minimas juridinio asmens kapitalas, tai turi būti nurodomas įstatinis kapitalas ir apmokėto įstatinio kapitalo dydis.
 
+5\. Dokumentas privalo būti patvirtintas juridinio asmens antspaudu tik tais atvejais, kai pareiga turėti antspaudą nustatyta juridinio asmens steigimo dokumentuose arba įstatymuose.
+
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1953, 2012-03-29, Žin., 2012, Nr. 44-2146 (2012-04-14)*
+
+*Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)*
 
 ###### 2.45 straipsnis. Juridinio asmens dalyvis
 
@@ -9502,13 +9506,17 @@ Jeigu testatorius dėl fizinių trūkumų, ligos ar kitokių priežasčių negal
 
 1\) testamentą perdavė pats testatorius, pareikšdamas, kad testamente išreikšta jo paskutinė valia;
 
-2\) testamentas perduotas užklijuotame voke, vokas antspauduotas priimančios įstaigos antspaudu ir ant voko pasirašė testatorius bei testamentą priimantis asmuo;
+2\) testamentas perduotas užklijuotame voke, panaudotos voko apsaugos nuo pažeidimų priemonės ir ant voko pasirašė testatorius bei testamentą priimantis asmuo;
 
-3\) apie testamento priėmimą saugoti surašytas aktas, kuriame nurodyta, kad nepažeisti šio straipsnio 2 dalies 1 ir 2 punktų reikalavimai, taip pat aprašyta voko išvaizda, antspaudai, nurodyti testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data, vieta bei rūšis, priėmėjo pareigos, vardas ir pavardė. Aktą pasirašė testatorius ir testamentą saugoti priėmęs pareigūnas. Akto kopija išduodama testatoriui.
+3\) apie testamento priėmimą saugoti surašytas aktas, kuriame nurodyta, kad nepažeisti šio straipsnio 2 dalies 1 ir 2 punktų reikalavimai, taip pat aprašytos voko išvaizda, voko apsaugos nuo pažeidimų priemonės, nurodyti testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data, vieta bei rūšis, priėmėjo pareigos, vardas ir pavardė. Aktą pasirašė testatorius ir testamentą saugoti priėmęs pareigūnas. Akto kopija išduodama testatoriui.
 
 3\. Priimtas testamentas saugomas priėmusios įstaigos seife. Testatorius bet kada gali testamentą atsiimti. Testamentą galima išduoti testatoriaus atstovui pagal specialų testatoriaus įgaliojimą.
 
 4\. Jeigu asmeninis testamentas nebuvo perduotas saugoti šio straipsnio nustatyta tvarka, jis po testatoriaus mirties ne vėliau kaip per vienerius metus turi būti pateiktas teismui patvirtinti. Šiuo atveju galioja tik teismo patvirtintas testamentas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)*
 
 ###### 5.32 straipsnis. Testamentų registras
 
@@ -9520,9 +9528,13 @@ Jeigu testatorius dėl fizinių trūkumų, ligos ar kitokių priežasčių negal
 
 ###### 5.33 straipsnis. Testamento paskelbimas
 
-1\. Kai tik palikimo atsiradimo vietos notaras sužino apie testatoriaus mirtį, paskiria testamento paskelbimo dieną ir apie ją pranešama žinomiems įpėdiniams bei kitiems suinteresuotiems asmenims. Jeigu vokas su testamentu buvo antspauduotas, reikia surašyti protokolą ir jame pažymėti, ar nepažeisti vokas ir antspaudai. Jeigu yra keli testamentai, skelbiami visi testamentai.
+1\. Kai tik palikimo atsiradimo vietos notaras sužino apie testatoriaus mirtį, paskiria testamento paskelbimo dieną ir apie ją pranešama žinomiems įpėdiniams bei kitiems suinteresuotiems asmenims. Jeigu vokas su testamentu buvo apsaugotas voko apsaugos nuo pažeidimų priemonėmis, reikia surašyti protokolą ir jame pažymėti, ar nepažeisti vokas ir jo apsaugos nuo pažeidimų priemonės. Jeigu yra keli testamentai, skelbiami visi testamentai.
 
 2\. Notaras, paskelbęs testamentą, privalo imtis priemonių nustatyti įpėdinių ir kitų suinteresuotų asmenų, nedalyvavusių paskelbiant testamentą, gyvenamąją vietą ir kiek įmanoma greičiau pranešti jiems apie testamento turinį.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)*
 
 ###### 5.34 straipsnis. Testamento saugojimo terminas
 
@@ -18712,13 +18724,17 @@ Draudimo sutartimi viena šalis (draudikas) įsipareigoja už sutartyje nustatyt
 
 10\) įrašas, kad draudėjas yra supažindintas su draudimo rūšies taisyklėmis ir jam yra įteikta jų kopija;
 
-11\) draudiko įgalioto sudaryti draudimo sutartį asmens parašas ir draudiko antspaudas ar jų faksimilės;
+11\) draudiko įgalioto sudaryti draudimo sutartį asmens parašas ir draudiko antspaudas, kai pareiga turėti antspaudą nustatyta draudiko steigimo dokumentuose, ar jų faksimilės;
 
 12\) draudimo liudijimo (poliso) išdavimo data.
 
 2\. Draudimo liudijimų (polisų) registracijos ir apsaugos tvarką nustato įstatymai.
 
 3\. Jeigu draudimo liudijimas (polisas) neatitinka draudėjo rašytinio prašymo turinio, o sutartis buvo sudaryta akceptuojant draudėjo pasiūlymą sudaryti sutartį, pirmenybė suteikiama draudėjo rašytiniam prašymui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)*
 
 ###### 6.992 straipsnis. Draudimo sutarties sudarymas pagal standartines sąlygas
 
@@ -19208,6 +19224,14 @@ Nr. XII-396, 2013-06-20, Žin., 2013, Nr. 73-3654 (2013-07-09)
 
 CIVILINIO KODEKSO PAPILDYMO 3.192(1) STRAIPSNIU IR 3.194 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
+32\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)
+
+CIVILINIO KODEKSO 2.44, 5.31, 5.33 IR 6.991 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19222,6 +19246,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2013-07-09)
+Redagavo Aušrinė Trapinskienė (2013-07-15)
 
 [email protected]
