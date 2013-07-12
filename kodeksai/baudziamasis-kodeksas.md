@@ -5,7 +5,7 @@ priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
 redakcija_nuo: "2013-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453631"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453629"
 ---
 
 # Baudžiamasis kodeksas
@@ -2368,21 +2368,15 @@ baudžiamas areštu arba laisvės atėmimu iki vienerių metų.
 
 baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė savo artimajam giminaičiui ar šeimos nariui,
-
-baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
-
-3\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
+2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
 
 baudžiamas laisvės atėmimu iki dvejų metų.
 
-4\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr. 76*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 141 straipsnis. Sąvokų išaiškinimas
 
@@ -2440,15 +2434,13 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas laisvės atėmimu iki ketverių metų.
 
-3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 ### XX skyrius – Nusikaltimai žmogaus laisvEI
 
@@ -2526,15 +2518,13 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 XXI SKYRIUS
 
@@ -2558,15 +2548,13 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 150 straipsnis. Seksualinis prievartavimas
 
@@ -2586,7 +2574,7 @@ baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
@@ -2595,8 +2583,6 @@ baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151 straipsnis. Privertimas lytiškai santykiauti
 
@@ -2608,15 +2594,13 @@ baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
 baudžiamas laisvės atėmimu iki penkerių metų.
 
-3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 4\. Už šio straipsnio 2 dalyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
@@ -2786,11 +2770,7 @@ XXIV SKYRIUS
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
-
-*Straipsnio pakeitimai:*
-
-*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
+2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 #### 166 straipsnis. Asmens susižinojimo neliečiamumo pažeidimas
 
@@ -6095,14 +6075,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)
 
 BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-
-47\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
-
-BAUDŽIAMOJO KODEKSO 140, 145, 148, 149, 150, 151, 165 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
