@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2013-06-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_450648"
+redakcija_nuo: "2013-07-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453631"
 ---
 
 # Baudžiamasis kodeksas
@@ -152,17 +152,13 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 8\) papirkimą (227 straipsnis);
 
-9\) teroro aktą (250 straipsnis);
+9\) teroristinius ir su teroristine veikla susijusius nusikaltimus (252¹ straipsnio 1 ir 2 dalys);
 
-10\) orlaivio, laivo ar stacionarios platformos kontinentiniame šelfe užgrobimą (251 straipsnis);
+10\) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais (256, 256¹ ir 257 straipsniai);
 
-11\) žmogaus pagrobimą įkaitu (252 straipsnis);
+11\) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (259–269 straipsniai);
 
-12\) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais (256, 256(¹) ir 257 straipsniai);
-
-13\) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (259–269 straipsniai);
-
-14\) nusikaltimus aplinkai (270, 270¹, 270², 271, 272, 274 straipsniai).
+12\) nusikaltimus aplinkai (270, 270¹, 270², 271, 272, 274 straipsniai).
 
 *Straipsnio pakeitimai:*
 
@@ -175,6 +171,8 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)(papildyta naujais 6-8 punktais)*
 
 *Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
 
 #### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus
 
@@ -253,10 +251,6 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 4\) nusikalstama veika padaryta Lietuvos valstybės teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais;
 
 5\) Europos arešto orderyje trūksta informacijos, reikalingos sprendimui dėl asmens perdavimo priimti, ir Europos arešto orderį išdavusi valstybė per nustatytą terminą jos nepateikia.
-
-5\. Jeigu Europos arešto orderis išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui paskirtos su laisvės atėmimu susijusios bausmės vykdymo, o ši bausmė buvo paskirta jam nedalyvaujant ir nepranešus apie bylos nagrinėjimo vietą bei laiką, Lietuvos Respublikos pilietis ar užsienietis perduodamas tik tuo atveju, kai Europos arešto orderį išdavusi valstybė užtikrina, kad šio asmens prašymu byla bus išnagrinėta (peržiūrėta) ir nuosprendis priimtas jam dalyvaujant.
-
-**Dalies redakcija nuo 2013-07-01:**
 
 5\. Jeigu Europos arešto orderis išduotas dėl Lietuvos Respublikos piliečiui ar užsieniečiui paskirtos su laisvės atėmimu susijusios bausmės vykdymo, o jis asmeniškai nedalyvavo nagrinėjant bylą teisme ir buvo priimtas sprendimas paskirti su laisvės atėmimu susijusią bausmę, Lietuvos Respublikos pilietis ar užsienietis gali būti neperduodamas, išskyrus atvejus, kai Europos arešto orderyje nurodyta, kad pagal Europos arešto orderį išdavusios Europos Sąjungos valstybės narės nacionalinės teisės aktuose nustatytus proceso reikalavimus:
 
@@ -440,13 +434,15 @@ IV SKYRIUS
 
 2\. Bendrininkų grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria nusikalstamą veiką daryti, tęsti ar užbaigti, jei bent du iš jų yra vykdytojai.
 
-3\. Organizuota grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria daryti kelis nusikaltimus arba vieną sunkų ar labai sunkų nusikaltimą ir kiekvienas grupės narys, darydamas nusikaltimą, atlieka tam tikrą užduotį ar turi skirtingą vaidmenį.
+3\. Organizuota grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria daryti kelis nusikaltimus arba vieną apysunkį, sunkų ar labai sunkų nusikaltimą ir kiekvienas grupės narys, darydamas nusikaltimą, atlieka tam tikrą užduotį ar turi skirtingą vaidmenį.
 
-4\. Nusikalstamas susivienijimas yra tada, kai bendrai nusikalstamai veiklai – vienam ar keliems sunkiems ar labai sunkiems nusikaltimams daryti – susivienija trys ar daugiau asmenų, kuriuos sieja pastovūs tarpusavio ryšiai bei vaidmenų ar užduočių pasiskirstymas. Nusikalstamam susivienijimui prilyginama antikonstitucinė grupė ar organizacija bei teroristinė grupė.
+4\. Nusikalstamas susivienijimas yra tada, kai bendrai nusikalstamai veiklai – vienam ar keliems apysunkiams, sunkiems ar labai sunkiems nusikaltimams daryti – susivienija trys ar daugiau asmenų, kuriuos sieja pastovūs tarpusavio ryšiai bei vaidmenų ar užduočių pasiskirstymas. Nusikalstamam susivienijimui prilyginama antikonstitucinė grupė ar organizacija bei teroristinė grupė.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
 
 #### 26 straipsnis. Bendrininkų baudžiamoji atsakomybė
 
@@ -1103,6 +1099,16 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
+
+#### 64¹ straipsnis. Bausmės skyrimas bylą išnagrinėjus supaprastinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą
+
+1\. Baudžiamąją bylą išnagrinėjus pagreitinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą, taip pat kai baudžiamoji byla baigiama teismo baudžiamuoju įsakymu, nuteistajam skiriama bausmė, kuri tuo pačiu nuosprendžiu sumažinama vienu trečdaliu.
+
+2\. Šio straipsnio 1 dalyje nustatyta taisyklė taikoma tik tais atvejais, kai asmuo prisipažįsta esąs kaltas.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)*
 
 #### 65 straipsnis. Bausmių sudėjimo ir keitimo taisyklės
 
@@ -2362,15 +2368,21 @@ baudžiamas areštu arba laisvės atėmimu iki vienerių metų.
 
 baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
+2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė savo artimajam giminaičiui ar šeimos nariui,
+
+baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+3\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
 
 baudžiamas laisvės atėmimu iki dvejų metų.
 
-3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+4\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr. 76*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 141 straipsnis. Sąvokų išaiškinimas
 
@@ -2428,13 +2440,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas laisvės atėmimu iki ketverių metų.
 
-3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 ### XX skyrius – Nusikaltimai žmogaus laisvEI
 
@@ -2512,13 +2526,15 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 XXI SKYRIUS
 
@@ -2542,13 +2558,15 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 150 straipsnis. Seksualinis prievartavimas
 
@@ -2568,7 +2586,7 @@ baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
@@ -2577,6 +2595,8 @@ baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151 straipsnis. Privertimas lytiškai santykiauti
 
@@ -2588,13 +2608,15 @@ baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
 baudžiamas laisvės atėmimu iki penkerių metų.
 
-3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 4\. Už šio straipsnio 2 dalyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
@@ -2764,7 +2786,11 @@ XXIV SKYRIUS
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 166 straipsnis. Asmens susižinojimo neliečiamumo pažeidimas
 
@@ -2974,7 +3000,7 @@ XXVIII skyrius
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį,
+2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, ryšių kabelių kanalų sistemą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį, arba pagrobė strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį,
 
 baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.
 
@@ -2995,6 +3021,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 179 straipsnis. Neteisėtas naudojimasis energija ir ryšių paslaugomis
 
@@ -3158,7 +3186,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
+2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino, išardė ar sugadino strateginę arba svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
 
 baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
@@ -3171,6 +3199,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 188 straipsnis. Turto sunaikinimas ar sugadinimas dėl neatsargumo
 
@@ -3220,11 +3250,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-**\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
-
 *Kodeksas papildytas straipsniu:*
 
-*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+*\*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+
+\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
 
 #### 190 straipsnis. Turto vertės išaiškinimas
 
@@ -4200,43 +4230,65 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
-#### 250 straipsnis. Teroro aktas
+#### 249¹ straipsnis. Grupių, kurių tikslas – daryti teroristinius nusikaltimus, kūrimas ir veikla
 
-1\. Tas, kas žmonių gyvenamojoje, darbo, susibūrimo ar viešojoje vietoje padėjo sprogmenų siekdamas sukelti sprogimą, sprogdino arba padegė,
+1\. Tas, kas kūrė organizuotą grupę, kurios tikslas – daryti teroristinius nusikaltimus, arba jai vadovavo ar dalyvavo šios grupės veikloje,
 
-baudžiamas laisvės atėmimu iki dešimties metų.
+baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus, jeigu tai sutrikdė nukentėjusiojo sveikatą arba dėl to buvo sunaikinta ar sugadinta transporto priemonė arba statinys ar statinyje buvusi įranga,
-
-baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
-
-3\. Tas, kas sprogdino, padegė arba kitaip sunaikino ar sugadino pastatą ar įrenginį, jeigu tai sukėlė pavojų daugelio žmonių gyvybei ar sveikatai, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus,
+2\. Tas, kas dalyvavo teroristinės grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje,
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
-4\. Tas, kas padarė šio straipsnio 3 dalyje numatytus veiksmus, jeigu tai buvo nukreipta prieš strateginės reikšmės objektą arba dėl to atsirado sunkių padarinių,
+3\. Tas, kas dalyvavo šaunamaisiais ginklais, sprogmenimis, sprogstamosiomis, radioaktyviosiomis, biologinėmis ar cheminėmis kenksmingomis medžiagomis, preparatais ar mikroorganizmais ginkluotos teroristinės grupės veikloje,
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-5\. Tas, kas kūrė bendrininkų arba organizuotą grupę šiame straipsnyje numatytiems veiksmams atlikti arba dalyvavo jos veikloje, taip pat finansavo arba teikė materialinę ar kitokią paramą tokiai grupei,
+4\. Tas, kas kūrė šio straipsnio 2 ar 3 dalyje numatytą teroristinę grupę arba jai vadovavo,
 
-baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
+baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-6\. Tas, kas kūrė teroristinę grupę, kurios tikslas – šiame straipsnyje numatytais veiksmais bauginti žmones arba neteisėtai reikalauti iš valstybės, jos institucijos ar tarptautinės organizacijos atlikti tam tikrus veiksmus arba susilaikyti nuo jų, arba dalyvavo jos veikloje, taip pat finansavo arba teikė materialinę ar kitokią paramą tokiai grupei,
+5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų.
+*Kodeksas papildytas straipsniu:*
 
-7\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+#### 250 straipsnis. Teroro aktas
+
+1\. Tas, kas teroristiniais tikslais gamino, įgijo, laikė, gabeno, perdavė ar kitaip disponavo šaunamuoju ginklu, šaudmenimis, sprogmenimis, sprogstamosiomis, branduolinėmis ar radioaktyviosiomis medžiagomis, kitais jonizuojančiosios spinduliuotės šaltiniais, taip pat tas, kas teroristiniais tikslais kūrė, gamino, įgijo, laikė, gabeno, perdavė ar kitaip disponavo cheminiu ar biologiniu ginklu arba cheminio ar biologinio ginklo gamybai naudojamomis cheminėmis medžiagomis ar jų pirmtakais, mikroorganizmais, kitomis biologinėmis medžiagomis ar toksinais,
+
+baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+2\. Tas, kas teroristiniais tikslais sukėlė potvynį arba sutrikdė vandens, energijos ar kitų išteklių tiekimą, arba sprogdino, padegė arba kitaip dideliu mastu naikino ar gadino turtą, arba pažeidė didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos ar elektroninių duomenų saugumą, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus, jeigu dėl to atsirado ar galėjo atsirasti sunkių padarinių, taip pat tas, kas teroristiniais tikslais nesunkiai sutrikdė sveikatą vienam ar daugiau žmonių arba sukėlė pavojų daugelio žmonių gyvybei ar sveikatai,
+
+baudžiamas laisvės atėmimu iki dešimties metų.
+
+3\. Tas, kas teroristiniais tikslais sunkiai sutrikdė sveikatą vienam ar daugiau žmonių,
+
+baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
+
+4\. Tas, kas teroristiniais tikslais nužudė vieną ar daugiau žmonių,
+
+baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+5\. Tas, kas padarė šio straipsnio 2, 3 ar 4 dalyje numatytą veiką, jeigu ji buvo nukreipta prieš strateginę reikšmę nacionaliniam saugumui turintį objektą arba dėl to atsirado labai sunkių padarinių,
+
+baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+6\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
-**250(¹) straipsnis. Terorizmo kurstymas**
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
 
-1\. Tas, kas viešais pareiškimais žodžiu, raštu ar panaudodamas visuomenės informavimo priemonę skatino ar kurstė teroro aktą ar kitus su terorizmu susijusius nusikaltimus arba niekino teroro aukas,
+#### 250¹ straipsnis. Teroristinių nusikaltimų kurstymas
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+1\. Tas, kas viešai skatino ar kurstė daryti teroristinius nusikaltimus arba niekino šių nusikaltimų aukas,
+
+baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -4244,9 +4296,59 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. IX-2570, 2004-11-11, Žin., 2004, Nr. 171-6318 (2004-11-26)*
 
-251 straipsnis. Orlaivio, laivo arba stacionarios platformos kontinentiniame šelfe
+*Straipsnio pakeitimai:*
 
-užgrobimas
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+#### 250² straipsnis. Verbavimas teroristinei veiklai
+
+1\. Tas, kas verbavo kitą asmenį padaryti teroristinį nusikaltimą ar dalyvauti darant teroristinį nusikaltimą arba dalyvauti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje,
+
+baudžiamas laisvės atėmimu iki septynerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+#### 250³ straipsnis. Grasinimas padaryti teroristinį nusikaltimą
+
+1\. Tas, kas grasino padaryti teroristinį nusikaltimą, jeigu buvo pakankamas pagrindas manyti, kad grasinimas gali būti įvykdytas,
+
+baudžiamas laisvės atėmimu iki penkerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+#### 250⁴ straipsnis. Teroristinės veiklos finansavimas ir rėmimas
+
+1\. Tas, kas tiesiogiai ar netiesiogiai rinko, kaupė arba teikė lėšas ar kitą turtą arba teikė kitokią materialinę paramą kitam asmeniui, žinodamas arba siekdamas, kad šis turtas, parama ar jų dalis būtų panaudota teroristiniam ar su teroristine veikla susijusiam nusikaltimui daryti arba vienam ar keliems teroristams remti,
+
+baudžiamas laisvės atėmimu iki dešimties metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+#### 250⁵ straipsnis. Teroristų rengimas
+
+1\. Tas, kas kitam asmeniui suteikė specialių žinių ar įgūdžių, būtinų teroristiniam nusikaltimui daryti arba dalyvauti darant teroristinį nusikaltimą, žinodamas, kad asmuo suteiktas žinias ar įgūdžius ketina panaudoti teroristiniais tikslais,
+
+baudžiamas laisvės atėmimu iki septynerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+251 straipsnis. Orlaivio, laivo ar kitos viešojo ar krovininio transporto priemonės arba stacionarios platformos kontinentiniame šelfe užgrobimas
 
 1\. Tas, kas užgrobė orlaivį, laivą arba stacionarią platformą kontinentiniame šelfe,
 
@@ -4256,19 +4358,39 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
 
-3\. Tas, kas panaudodamas šaunamąjį ginklą, sprogmenį ar kitą orlaivio arba laivo įgulos ar keleivių arba stacionarioje platformoje kontinentiniame šelfe esančių asmenų gyvybei ar sveikatai pavojingą priemonę užgrobė orlaivį, laivą arba stacionarią platformą kontinentiniame šelfe,
+3\. Tas, kas panaudodamas šaunamąjį ginklą, sprogmenį ar kitą orlaivio, laivo ar kitos viešojo ar krovininio transporto priemonės įgulos ar keleivių arba stacionarioje platformoje kontinentiniame šelfe esančių asmenų gyvybei ar sveikatai pavojingą priemonę užgrobė orlaivį, laivą ar kitą viešojo ar krovininio transporto priemonę arba stacionarią platformą kontinentiniame šelfe,
 
 baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
 
-4\. Tas, kas užgrobė orlaivį, laivą arba stacionarią platformą kontinentiniame šelfe, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių,
+4\. Tas, kas teroristiniais tikslais padarė šio straipsnio 1, 2 ar 3 dalyje numatytą veiką,
 
-baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
+
+5\. Tas, kas padarė šio straipsnio 1, 2, 3 ar 4 dalyje numatytą veiką, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių,
+
+baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+6\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+252¹ straipsnis. Sąvokų išaiškinimas
+
+1\. Teroristiniai nusikaltimai yra šio Kodekso 250 straipsnyje nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso 251 ir 252 straipsniuose nurodyti nusikaltimai.
+
+2\. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 249¹, 250¹, 250², 250³, 250⁴ ir 250⁵ straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą.
+
+3\. Teroristiniai tikslai – siekimas labai įbauginti visuomenę ar jos dalį arba neteisėtai priversti tarptautinę viešąją organizaciją, valstybę ar jos instituciją atlikti bet kokį veiksmą arba susilaikyti nuo jo atlikimo, arba destabilizuoti ar sunaikinti svarbiausius valstybės konstitucinius, politinius, ekonominius ar socialinius darinius ar tarptautinę viešąją organizaciją.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
 
 #### 252 straipsnis. Žmogaus pagrobimas įkaitu
 
@@ -5534,25 +5656,21 @@ priedas
 
 18\. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
 
-19\. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
+19\. 2008 m. spalio 24 d. Tarybos pamatinis sprendimas 2008/841/TVR dėl kovos su organizuotu nusikalstamumu (OL 2008 L 300, p. 42).
 
-20\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
+20\. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
 
-21\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+21\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
 
-22\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+22\. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
 
-23\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+23\. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
 
-**Priedas papildomas nauju 21 punktu, buvusieji 21, 22, 23 punktai laikomi atitinkamai 22, 23, 24 punktais nuo 2013-07-01:**
+24\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
 
-21\. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+25\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
 
-22\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
-
-23\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
-
-24\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+26\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
 
 *Kodeksas papildytas priedu:*
 
@@ -5954,8 +6072,40 @@ BAUDŽIAMOJO KODEKSO 9(1) STRAIPSNIO IR KODEKSO PRIEDO PAKEITIMO IR PAPILDYMO Į
 
 Šis įstatymas įsigalioja 2013 m. liepos 1 d.
 
+44\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO 7, 25, 250, 250(1), 251 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 249(1), 250(2), 250(3), 250(4), 250(5), 252(1) STRAIPSNIAIS ĮSTATYMAS
+
+45\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO PAPILDYMO 64(1) STRAIPSNIU ĮSTATYMAS
+
+46\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+47\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO 140, 145, 148, 149, 150, 151, 165 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2013-06-12)
+Redagavo Aušrinė Trapinskienė (2013-07-17)
 
 [email protected]
