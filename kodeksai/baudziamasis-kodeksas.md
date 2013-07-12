@@ -5,7 +5,7 @@ priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
 redakcija_nuo: "2013-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453629"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453628"
 ---
 
 # Baudžiamasis kodeksas
@@ -2980,7 +2980,7 @@ XXVIII skyrius
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, ryšių kabelių kanalų sistemą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį, arba pagrobė strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį,
+2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį,
 
 baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.
 
@@ -3001,8 +3001,6 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
-
-*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 179 straipsnis. Neteisėtas naudojimasis energija ir ryšių paslaugomis
 
@@ -3166,7 +3164,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino, išardė ar sugadino strateginę arba svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
+2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
 
 baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
@@ -3179,8 +3177,6 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
-
-*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 188 straipsnis. Turto sunaikinimas ar sugadinimas dėl neatsargumo
 
@@ -3230,11 +3226,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
+**\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
+
 *Kodeksas papildytas straipsniu:*
 
-*\*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
-
-\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
+*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
 
 #### 190 straipsnis. Turto vertės išaiškinimas
 
@@ -6067,14 +6063,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)
 
 BAUDŽIAMOJO KODEKSO PAPILDYMO 64(1) STRAIPSNIU ĮSTATYMAS
-
-46\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)
-
-BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
