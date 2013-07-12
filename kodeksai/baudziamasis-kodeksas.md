@@ -5,7 +5,7 @@ priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
 redakcija_nuo: "2013-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453628"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453627"
 ---
 
 # Baudžiamasis kodeksas
@@ -1099,16 +1099,6 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
-
-#### 64¹ straipsnis. Bausmės skyrimas bylą išnagrinėjus supaprastinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą
-
-1\. Baudžiamąją bylą išnagrinėjus pagreitinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą, taip pat kai baudžiamoji byla baigiama teismo baudžiamuoju įsakymu, nuteistajam skiriama bausmė, kuri tuo pačiu nuosprendžiu sumažinama vienu trečdaliu.
-
-2\. Šio straipsnio 1 dalyje nustatyta taisyklė taikoma tik tais atvejais, kai asmuo prisipažįsta esąs kaltas.
-
-*Kodeksas papildytas straipsniu:*
-
-*Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)*
 
 #### 65 straipsnis. Bausmių sudėjimo ir keitimo taisyklės
 
@@ -6055,14 +6045,6 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 
 BAUDŽIAMOJO KODEKSO 7, 25, 250, 250(1), 251 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 249(1), 250(2), 250(3), 250(4), 250(5), 252(1) STRAIPSNIAIS ĮSTATYMAS
-
-45\.
-
-Lietuvos Respublikos Seimas, Įstatymas
-
-Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)
-
-BAUDŽIAMOJO KODEKSO PAPILDYMO 64(1) STRAIPSNIU ĮSTATYMAS
 
 \*\*\* Pabaiga \*\*\*
 
