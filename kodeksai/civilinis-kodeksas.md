@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2013-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_453522"
+redakcija_nuo: "2013-07-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_453924"
 ---
 
 # Civilinis kodeksas
@@ -3360,25 +3360,59 @@ BENDROSIOS NUOSTATOS
 
 4\. Notarine tvarka patvirtintų įgaliojimų registro duomenys tvarkomi Notarine tvarka patvirtintų įgaliojimų registro nuostatų nustatyta tvarka.
 
+**Straipsnio redakcija nuo 2014-01-01:**
+
+###### 2.138¹ straipsnis. Įgaliojimų registras
+
+1\. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai ir šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai turi būti registruojami viešame Įgaliojimų registre. Be to, Įgaliojimų registre šio registro nuostatų nustatyta tvarka gali būti registruojami ir kiti teisės aktuose nustatyti informacinių technologijų priemonėmis sudaryti įgaliojimai, duodami juos įregistruojant Įgaliojimų registre. Duomenis Įgaliojimų registrui pateikia įgaliojimus patvirtinę notarai, Lietuvos Respublikos konsuliniai pareigūnai, šio kodekso 2.138 straipsnio 2 dalyje ir 2.139 straipsnio 2 dalyje nurodyti asmenys ir asmenys, Įgaliojimų registro nuostatų nustatyta tvarka įregistruojantys Įgaliojimų registre kitus teisės aktuose nustatytus informacinių technologijų priemonėmis sudarytus įgaliojimus.
+
+2\. Registruojant šio straipsnio 1 dalyje nurodytus įgaliojimus, Įgaliojimų registrui pateikiami duomenys apie įgaliojimą davusį asmenį, įgaliotinį, įgaliojimą patvirtinusį asmenį (išskyrus atvejus, kai šiame kodekse nustatytais atvejais įgaliojimas neturi būti ir nėra patvirtinamas), įgaliojimo patvirtinimo ir pasibaigimo datas, įgaliojimo turinį ir kiti Įgaliojimų registro nuostatų nustatyti duomenys.
+
+3\. Įgaliojimų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoja – Centrinė hipotekos įstaiga.
+
+4\. Įgaliojimų registro duomenys tvarkomi Įgaliojimų registro nuostatų nustatyta tvarka.
+
 *Įstatymas papildytas straipsniu:*
 
 *Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)*
 
 ###### 2.139 straipsnis. Supaprastintas įgaliojimo patvirtinimas
 
 Įgaliojimą, kurį fizinis asmuo duoda korespondencijai (konkrečiai – siunčiamiems pinigams ir pašto siuntiniams) gauti, taip pat darbo užmokesčiui ir kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms gauti, gali patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių namų savininkų bendrijos, kurios name gyvena fizinis asmuo, pirmininkas, seniūnijos, kuriai priskirtoje teritorijoje gyvena fizinis asmuo, seniūnas arba esančio tolimajame plaukiojime jūrų laivo kapitonas.
 
+**Straipsnio redakcija nuo 2014-01-01:**
+
+###### 2.139 straipsnis. Supaprastintas įgaliojimo patvirtinimas
+
+1\. Įgaliojimą, kurį fizinis asmuo duoda korespondencijai (konkrečiai – siunčiamiems pinigams ir pašto siuntiniams) gauti, taip pat darbo užmokesčiui ir kitoms su darbo santykiais susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms ar viešosioms ir administracinėms paslaugoms gauti, gali patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių namų savininkų bendrijos, kurios name gyvena fizinis asmuo, pirmininkas, seniūnijos, kuriai priskirtoje teritorijoje gyvena fizinis asmuo, seniūnas, esančio tolimajame plaukiojime jūrų laivo kapitonas.
+
+2\. Šio straipsnio 1 dalyje nurodyto įgaliojimo patvirtinti nereikia, jeigu jį informacinių technologijų priemonėmis sudarė fizinis asmuo ir davė jį įregistruodamas Įgaliojimų registre.
+
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1484, 2011-06-21, Žin., 2011, Nr. 85-4130 (2011-07-13)*
+
+*Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)*
 
 ###### 2.140 straipsnis. Juridinio asmens įgaliojimas
 
 1\. Juridinio asmens duodamą įgaliojimą pasirašo jo vadovas ir ant įgaliojimo dedamas to juridinio asmens antspaudas, jeigu jis antspaudą privalo turėti.
 
+**Dalies redakcija nuo 2014-01-01:**
+
+1\. Juridinio asmens duodamą įgaliojimą pasirašo jo vadovas. Ant įgaliojimo, kuris sudaromas ne informacinių technologijų priemonėmis, dedamas to juridinio asmens antspaudas, jeigu jis antspaudą privalo turėti.
+
 2\. Papildomus reikalavimus juridinio asmens duodamam įgaliojimui gali nustatyti įstatymai.
 
 3\. Pelno siekiančių (komercinių) juridinių asmenų įgaliojimams taikomi šio kodekso 2.176–2.185 straipsniai.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)*
 
 ###### 2.141 straipsnis. Įgaliojimu juridiniam asmeniui suteikiamos teisės ir pareigos
 
@@ -3436,6 +3470,10 @@ Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, ats
 
 2\. Duomenys apie įgaliojimo pasibaigimą turi būti pateikti notarine tvarka patvirtintų įgaliojimų registro tvarkymo įstaigai.
 
+**Dalies redakcija nuo 2014-01-01:**
+
+2\. Duomenys apie įgaliojimo pasibaigimą turi būti pateikti Įgaliojimų registro tvarkytojui.
+
 3\. Pasibaigus įgaliojimui, netenka galios ir perįgaliojimas.
 
 4\. Atstovavimo pasibaigimas negali būti panaudotas prieš sąžiningus trečiuosius asmenis, išskyrus atvejus, kai apie atstovavimo pasibaigimo faktą šie asmenys žinojo ar turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
@@ -3443,6 +3481,8 @@ Pasibaigus įgaliojimo terminui ar panaikinus jo galiojimą prieš terminą, ats
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1031, 2010-09-23, Žin., 2010, Nr. 126-6456 (2010-10-26)*
+
+*Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)*
 
 ###### 2.148 straipsnis. Įgaliotojo pareiga pranešti apie įgaliojimo pasibaigimą
 
@@ -9696,9 +9736,9 @@ PALIKIMO PRIĖMIMAS IR ATSAKOMYBĖ UŽ PALIKĖJO SKOLAS
 
 1\. Įpėdinis, priėmęs palikimą pagal antstolio sudarytą turto apyrašą, už palikėjo skolas atsako tik paveldėtu turtu. Jeigu bent vienas įpėdinis priėmė palikimą pagal turto apyrašą, tai ir visi kiti įpėdiniai laikomi priėmusiais palikimą pagal turto apyrašą.
 
-2\. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo.“
+2\. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo.
 
-3\. Turto apyrašą antstolis sudaro ne vėliau kaip per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo. Tais atvejais, kai paveldimas turtas yra keliose vietose arba yra daug palikėjo kreditorių, turto apyrašą antstolis privalo sudaryti ne vėliau kaip per tris mėnesius.
+3\. Turto apyrašą antstolis sudaro ne vėliau kaip per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo. Tais atvejais, kai paveldimas turtas yra keliose vietose arba yra daug palikėjo kreditorių, turto apyrašą antstolisprivalo sudaryti ne vėliau kaip per tris mėnesius.
 
 4\. Įpėdinis privalo pateikti visus duomenis, reikalingus palikėjo turto apyrašui sudaryti.
 
@@ -14828,6 +14868,16 @@ Kai įmonės nuomos sutartis pasibaigia, nuomininkas privalo grąžinti įmonę 
 
 Žemės nuomos sutarties dalykas yra valstybinės žemės arba privačios žemės sklypas (jo dalis), suformuotas pagal žemėtvarkos projektą ar kitą detalų teritorijų planavimo dokumentą ir įstatymų nustatyta tvarka įregistruotas viešame registre.
 
+**Straipsnio redakcija nuo 2014-01-01:**
+
+###### 6.546 straipsnis. Žemės nuomos sutarties dalykas
+
+Žemės nuomos sutarties dalykas yra valstybinės žemės arba privačios žemės sklypas (jo dalis), suformuotas įstatymų nustatyta tvarka ir įregistruotas Nekilnojamojo turto registre.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)*
+
 ###### 6.547 straipsnis. Žemės nuomos sutarties forma
 
 1\. Žemės nuomos sutartis turi būti rašytinė.
@@ -19232,6 +19282,26 @@ Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)
 
 CIVILINIO KODEKSO 2.44, 5.31, 5.33 IR 6.991 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
+33\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-423, 2013-06-27, Žin., 2013, Nr. 76-3840 (2013-07-16)
+
+CIVILINIO KODEKSO 6.546 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas įsigalioja 2014 m. sausio 1 d.
+
+34\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-432, 2013-06-27, Žin., 2013, Nr. 76-3843 (2013-07-16)
+
+CIVILINIO KODEKSO 2.138(1), 2.139, 2.140, 2.147 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 6 straipsnį, įsigalioja 2014 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19246,6 +19316,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2013-07-15)
+Redagavo Aušrinė Trapinskienė (2013-07-24)
 
 [email protected]
