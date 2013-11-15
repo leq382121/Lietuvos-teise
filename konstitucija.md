@@ -4,8 +4,8 @@ rūšis: "Konstitucija"
 priimta: "1992-10-25"
 priėmė: "Piliečių referendumas"
 tar_id: "TAR.47BB952431DA"
-redakcija_nuo: "2006-05-26"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/yNstpNVGmo"
+redakcija_nuo: "2013-11-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA/wpbfJdGiLy"
 ---
 
 # Lietuvos Respublikos Konstitucija
@@ -36,7 +36,7 @@ LIETUVIŲ TAUTA
 
 atgimusios Lietuvos valstybės piliečių valia priima ir skelbia šią
 
-**KONSTITUCIJA**
+**KONSTITUCIJĄ**
 
 ## I SKIRSNIS – LIETUVOS VALSTYBĖ
 
@@ -1150,9 +1150,13 @@ Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės te
 
 Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.
 
+**TAR pastaba. Nuo šio pranešimo oficialaus paskelbimo „Valstybės žiniose“ dienos iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos Seimo 2006 m. balandžio 25 d. priimto Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo (Žin., 2006, Nr. 48-1701) galiojimas.**
+
 *Straipsnio dalies pakeitimai:*
 
 *Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572*
+
+*2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. 113100PPRANRG135946*
 
 ### 126 straipsnis
 
@@ -1435,3 +1439,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572
 
 Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas
+
+10\.
+
+Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas
+
+2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. 113100PPRANRG135946
+
+Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo galiojimo sustabdymo
