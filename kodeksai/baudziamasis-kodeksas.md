@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2013-07-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_453627"
+redakcija_nuo: "2014-01-08"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_465371"
 ---
 
 # Baudžiamasis kodeksas
@@ -144,7 +144,7 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 4\) netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba realizavimą (213 straipsnis);
 
-5\) nusikalstamu būdu įgytų pinigų ar turto legalizavimą (216 straipsnis);
+5\) nusikalstamu būdu gauto turto legalizavimą (216 straipsnis);
 
 6\) kyšininkavimą (225 straipsnis);
 
@@ -168,11 +168,13 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 *Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
-*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)(papildyta naujais 6-8 punktais)*
+*Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
 *Nr. XI-1901, 2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)*
 
 *Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+
+*Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068*
 
 #### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus
 
@@ -1099,6 +1101,16 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)*
+
+#### 64¹ straipsnis. Bausmės skyrimas bylą išnagrinėjus supaprastinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą
+
+1\. Baudžiamąją bylą išnagrinėjus pagreitinto proceso tvarka ar atlikus sutrumpintą įrodymų tyrimą, taip pat kai baudžiamoji byla baigiama teismo baudžiamuoju įsakymu, nuteistajam skiriama bausmė, kuri tuo pačiu nuosprendžiu sumažinama vienu trečdaliu.
+
+2\. Šio straipsnio 1 dalyje nustatyta taisyklė taikoma tik tais atvejais, kai asmuo prisipažįsta esąs kaltas.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)*
 
 #### 65 straipsnis. Bausmių sudėjimo ir keitimo taisyklės
 
@@ -2358,15 +2370,21 @@ baudžiamas areštu arba laisvės atėmimu iki vienerių metų.
 
 baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
+2\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė savo artimajam giminaičiui ar šeimos nariui,
+
+baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+3\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
 
 baudžiamas laisvės atėmimu iki dvejų metų.
 
-3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+4\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr. 76*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 141 straipsnis. Sąvokų išaiškinimas
 
@@ -2424,13 +2442,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas laisvės atėmimu iki ketverių metų.
 
-3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 ### XX skyrius – Nusikaltimai žmogaus laisvEI
 
@@ -2508,13 +2528,15 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 XXI SKYRIUS
 
@@ -2538,13 +2560,15 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 150 straipsnis. Seksualinis prievartavimas
 
@@ -2564,7 +2588,7 @@ baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 
-5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+5\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 6\. Už šio straipsnio 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
 
@@ -2573,6 +2597,8 @@ baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151 straipsnis. Privertimas lytiškai santykiauti
 
@@ -2584,13 +2610,15 @@ baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
 baudžiamas laisvės atėmimu iki penkerių metų.
 
-3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
 4\. Už šio straipsnio 2 dalyje numatytą veiką atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
@@ -2760,7 +2788,11 @@ XXIV SKYRIUS
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+2\. Už šiame straipsnyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
 #### 166 straipsnis. Asmens susižinojimo neliečiamumo pažeidimas
 
@@ -2970,7 +3002,7 @@ XXVIII skyrius
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį,
+2\. Tas, kas atvirai pagrobė svetimą turtą arba pagrobė svetimą turtą įsibrovęs į patalpą, ryšių kabelių kanalų sistemą, saugyklą ar saugomą teritoriją, arba viešoje vietoje pagrobė svetimą turtą iš asmens drabužių, rankinės ar kitokio nešulio (kišenvagystė) arba automobilį, arba pagrobė strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį,
 
 baudžiamas bauda arba areštu, arba laisvės apribojimu, arba laisvės atėmimu iki šešerių metų.
 
@@ -2991,6 +3023,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 179 straipsnis. Neteisėtas naudojimasis energija ir ryšių paslaugomis
 
@@ -3154,7 +3188,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
 
-2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
+2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino, išardė ar sugadino strateginę arba svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
 
 baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
@@ -3167,6 +3201,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)*
 
 #### 188 straipsnis. Turto sunaikinimas ar sugadinimas dėl neatsargumo
 
@@ -3216,11 +3252,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-**\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo (Nr. XI-1199) įsigaliojimo.**
-
 *Kodeksas papildytas straipsniu:*
 
-*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+*\*Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+
+\*Pastaba. Pagal 189¹ straipsnį baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso 189¹ straipsnyje nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
 
 #### 190 straipsnis. Turto vertės išaiškinimas
 
@@ -3704,17 +3740,19 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
-#### 216 straipsnis. Nusikalstamu būdu įgytų pinigų ar turto legalizavimas
+#### 216 straipsnis. Nusikalstamu būdu gauto turto legalizavimas
 
-1\. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens pinigus ar turtą, žinodamas, kad jie įgyti nusikalstamu būdu, atliko su tuo turtu ar pinigais ar jų dalimi susijusias finansines operacijas, sudarė sandorius ar naudojo juos ūkinėje, komercinėje veikloje ar melagingai nurodė, kad tai gauta iš teisėtos veiklos,
+1\. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens turtą, žinodamas, kad jis gautas nusikalstamu būdu, tą turtą įgijo, valdė, naudojo, perdavė jį kitiems asmenims, atliko su tuo turtu susijusias finansines operacijas, sudarė sandorius, naudojo jį ūkinėje, komercinėje veikloje, kitaip jį pertvarkė ar melagingai nurodė, kad tai gauta iš teisėtos veiklos, taip pat tas, kas slėpė savo paties ar kito asmens turto tikrąjį pobūdį, šaltinį, buvimo vietą, disponavimą juo, judėjimą arba nuosavybės ar kitas su tuo turtu susijusias teises, žinodamas, kad tas turtas gautas nusikalstamu būdu,
 
-baudžiamas laisvės atėmimu iki septynerių metų.
+baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
+
+*Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068*
 
 #### 217 straipsnis. Prekyba vertybiniais popieriais pasinaudojant viešai neatskleista informacija
 
@@ -3823,6 +3861,14 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 2\. Tas, kas pagamino, laikė ar realizavo didelį kiekį ar didelės vertės netikrų ar suklastotų pašto ženklų, važiavimo ar kitokių bilietų, banderolių ar kitų oficialių žymėjimo ženklų,
 
 baudžiamas laisvės atėmimu iki ketverių metų.
+
+#### 224¹ straipsnis. Sąvokų išaiškinimas
+
+Šio skyriaus 216 straipsnyje nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas.
+
+*Kodeksas papildytas straipsniu:*
+
+*Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068*
 
 ### XXXIII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VALSTYBĖS TARNYBAI IR VIEŠIESIEMS INTERESAMS
 
@@ -6046,8 +6092,40 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 
 BAUDŽIAMOJO KODEKSO 7, 25, 250, 250(1), 251 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 249(1), 250(2), 250(3), 250(4), 250(5), 252(1) STRAIPSNIAIS ĮSTATYMAS
 
+45\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-499, 2013-07-02, Žin., 2013, Nr. 75-3770 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO PAPILDYMO 64(1) STRAIPSNIU ĮSTATYMAS
+
+46\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-500, 2013-07-02, Žin., 2013, Nr. 75-3771 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO 178 IR 187 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+47\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
+
+BAUDŽIAMOJO KODEKSO 140, 145, 148, 149, 150, 151, 165 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+
+48\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 7 IR 216 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 224(1) STRAIPSNIU ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2013-07-17)
+Redagavo Aušrinė Trapinskienė (2014-02-03)
 
 [email protected]
