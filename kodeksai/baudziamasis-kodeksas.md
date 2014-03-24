@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2014-03-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_467824"
+redakcija_nuo: "2014-03-25"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_467840"
 ---
 
 # Baudžiamasis kodeksas
@@ -158,13 +158,15 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 8\) papirkimą (227 straipsnis);
 
-9\) teroristinius ir su teroristine veikla susijusius nusikaltimus (252¹ straipsnio 1 ir 2 dalys);
+9\) piratavimą (251¹ straipsnis);
 
-10\) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais (256, 256¹ ir 257 straipsniai);
+10\) teroristinius ir su teroristine veikla susijusius nusikaltimus (252¹ straipsnio 1 ir 2 dalys);
 
-11\) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (259–269 straipsniai);
+11\) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais (256, 256¹ ir 257 straipsniai);
 
-12\) nusikaltimus aplinkai (270, 270¹, 270², 271, 272, 274 straipsniai).
+12\) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (259–269 straipsniai);
+
+13\) nusikaltimus aplinkai (270, 270¹, 270², 271, 272, 274 straipsniai).
 
 *Straipsnio pakeitimai:*
 
@@ -182,6 +184,8 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 *Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068*
 
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
 #### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus
 
 1\. Asmuo, padaręs užsienyje nusikaltimus, numatytus šio kodekso 5 ir 6 straipsniuose, atsako pagal baudžiamąjį įstatymą tik tuo atveju, jeigu padaryta veika pripažįstama nusikaltimu ir už jos padarymą baudžiama pagal nusikaltimo padarymo vietos valstybės ir Lietuvos Respublikos baudžiamąjį kodeksą. Jeigu asmuo, padaręs nusikaltimą užsienyje, teisiamas Lietuvos Respublikoje, bet abiejose valstybėse už šį nusikaltimą numatytos skirtingos bausmės, bausmė nusikaltusiam asmeniui skiriama pagal Lietuvos Respublikos įstatymus, tačiau ji negali viršyti nusikaltimo padarymo vietos valstybės baudžiamuosiuose įstatymuose nustatyto maksimalaus dydžio.
@@ -193,6 +197,12 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 2\) buvo atleistas nuo visos ar dalies užsienio valstybės teismo paskirtos bausmės atlikimo;
 
 3\) užsienio valstybės teismo nuosprendžiu buvo išteisintas, atleistas nuo baudžiamosios atsakomybės ar bausmės arba bausmė nebuvo paskirta dėl senaties ar kitais toje valstybėje numatytais teisiniais pagrindais.
+
+3\. Lietuvos Respublikos pilietis ar kitas nuolat Lietuvoje gyvenantis asmuo, užsienyje padarę vieną ar kelis nusikaltimus, numatytus šio kodekso 149 straipsnio 3 ir 4 dalyse, 150 straipsnio 3 ir 4 dalyse, 151 straipsnio 2 dalyje, 151¹, 152¹, 153, 157 straipsniuose, 162 straipsnio 1 dalyje, 307 straipsnio 3 dalyje, 308 straipsnio 3 dalyje, 309 straipsnio 2 ir 3 dalyse, baudžiami nepaisant to, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos valstybės baudžiamąjį įstatymą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 9 straipsnis. Ekstradicija
 
@@ -480,9 +490,13 @@ IV SKYRIUS
 
 3\. Teismas, priimdamas apkaltinamąjį nuosprendį už paskutinį nusikaltimą, atsižvelgęs į kaltininko asmenybę, nusikalstamų ketinimų įvykdymo laipsnį, į dalyvavimo darant nusikaltimus pobūdį ir kitas bylos aplinkybes, asmenį gali pripažinti pavojingu recidyvistu.
 
-4\. Teismas, spręsdamas dėl asmens pripažinimo pavojingu recidyvistu, neatsižvelgia į teistumą už nusikaltimus, kuriuos asmuo padarė būdamas jaunesnis negu aštuoniolika metų, neatsargius nusikaltimus, nusikaltimus, už kuriuos teistumas yra išnykęs ar panaikintas, taip pat užsienyje padarytus nusikaltimus, už kuriuos Lietuvos Respublikos baudžiamieji įstatymai atsakomybės nenumato.
+4\. Teismas, spręsdamas dėl asmens pripažinimo pavojingu recidyvistu, neatsižvelgia į teistumą už nusikaltimus, kuriuos asmuo padarė būdamas jaunesnis negu aštuoniolikos metų, neatsargius nusikaltimus, nusikaltimus, už kuriuos teistumas yra išnykęs ar panaikintas, taip pat užsienyje padarytus nusikaltimus šio kodekso 97 straipsnio 9 dalyje numatytais atvejais.
 
 5\. Asmens pripažinimas pavojingu recidyvistu netenka galios, kai asmens teistumas išnyksta arba panaikinamas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 V SKYRIUS
 
@@ -980,7 +994,7 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 5\) veika padaryta mažamečiui;
 
-6\) veika padaryta asmeniui, kuris dėl ligos, neįgalumo, senatvės ar kitų priežasčių buvo bejėgiškos būklės, be jo prašymo;
+6\) veika padaryta asmeniui, kuris dėl ligos, neįgalumo, senatvės ar kitų priežasčių buvo bejėgiškos būklės, be jo prašymo arba veika padaryta nepilnamečiam asmeniui, pasinaudojus jo priklausomumu ar piktnaudžiaujant pasitikėjimu, autoritetu ar įtaka;
 
 7\) veika padaryta nėščiai moteriai, kai akivaizdu kad ji nėščia;
 
@@ -990,7 +1004,7 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 10\) veika padaryta visuotinai pavojingu būdu arba naudojant sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus;
 
-11\) dėl padarytos veikos atsirado sunkių padarinių;
+11\) dėl padarytos veikos atsirado sunkių padarinių arba kilo reali grėsmė nukentėjusio asmens gyvybei;
 
 12\) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
 
@@ -1001,6 +1015,8 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
 *Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 61 straipsnis. Bausmės skyrimas, kai yra atsakomybę lengvinančių ir (ar) sunkinančių aplinkybių
 
@@ -1724,33 +1740,37 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 
 2\) tarptautinės teisės draudžiamam elgesiui su žmonėmis (100 straipsnis);
 
-3\) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis);
+3\) priverstiniam dingimui (100¹ straipsnis);
 
-4\) civilių trėmimui ar perkėlimui (102 straipsnis);
+4\) tarptautinės humanitarinės teisės saugomų asmenų žudymui (101 straipsnis);
 
-5\) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis);
+5\) civilių trėmimui ar perkėlimui (102 straipsnis);
 
-6\) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
+6\) tarptautinės humanitarinės teisės saugomų asmenų žalojimui, kankinimui ar kitokiam nežmoniškam elgesiui su jais ar jų turto apsaugos pažeidimui (103 straipsnis);
 
-7\) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
+7\) civilių ar karo belaisvių prievartiniam panaudojimui priešo ginkluotosiose pajėgose (105 straipsnis);
 
-8\) agresijai (110 straipsnis);
+8\) saugomų objektų naikinimui ar nacionalinių vertybių grobstymui (106 straipsnis);
 
-9\) draudžiamai karo atakai (111 straipsnis);
+9\) agresijai (110 straipsnis);
 
-10\) uždraustų karo priemonių naudojimui (112 straipsnis);
+10\) draudžiamai karo atakai (111 straipsnis);
 
-11\) aplaidžiam vado pareigų vykdymui (113¹ straipsnis).
+11\) uždraustų karo priemonių naudojimui (112 straipsnis);
+
+12\) aplaidžiam vado pareigų vykdymui (113¹ straipsnis).
 
 *Straipsnio pakeitimai:*
 
-*Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24), atitaisymas skelbtas: Žin., 2003, Nr. 39*
+*Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24), atitaisymas: Žin., 2003, Nr. 39*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
 
 *Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 96 straipsnis. Apkaltinamojo nuosprendžio vykdymo senatis
 
@@ -1782,7 +1802,7 @@ e) per penkiolika metų, kai paskirta laisvės atėmimo bausmė viršija dešimt
 
 #### 97 straipsnis. Teistumas
 
-1\. Turinčiais teistumą laikomi už nusikaltimo padarymą nuteisti asmenys, kuriems įsiteisėjo Lietuvos Respublikos teismo priimtas apkaltinamasis nuosprendis. Į teistumą teismas atsižvelgia skirdamas bausmę už naujos nusikalstamos veikos padarymą, spręsdamas dėl kaltininko atleidimo nuo bausmės ar baudžiamosios atsakomybės, lygtinio atleidimo nuo bausmės prieš terminą ar bausmės pakeitimo švelnesne bausme, taip pat pripažindamas asmenį pavojingu recidyvistu.
+1\. Turinčiais teistumą laikomi už nusikaltimo padarymą nuteisti asmenys, kuriems įsiteisėjo Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo priimtas apkaltinamasis nuosprendis. Turinčiais teistumą taip pat laikomi už nusikaltimo padarymą ne Europos Sąjungos valstybėje narėje nuteisti asmenys, jeigu Lietuvos Respublikos tarptautinių sutarčių pagrindu gauta informacijos, kad jiems įsiteisėjo tos valstybės teismo priimtas apkaltinamasis nuosprendis. Į teistumą teismas atsižvelgia skirdamas bausmę už naujos nusikalstamos veikos padarymą, spręsdamas dėl kaltininko atleidimo nuo bausmės ar baudžiamosios atsakomybės, taip pat pripažindamas asmenį pavojingu recidyvistu.
 
 2\. Atsižvelgiant į teistumą, gali būti varžomos tik tos piliečių teisės ir laisvės, kurių apribojimą numato Lietuvos Respublikos įstatymai.
 
@@ -1812,11 +1832,25 @@ d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
 
 8\. Jeigu turintis teistumą asmuo padaro naują nusikaltimą ar baudžiamąjį nusižengimą, teistumo išnykimo eiga nutrūksta. Šiuo atveju teistumo už ankstesnę nusikalstamą veiką išnykimo terminas pradedamas skaičiuoti nuo bausmės už naują nusikaltimą ar baudžiamąjį nusižengimą atlikimo. Asmuo laikomas teistu už kiekvieną nusikalstamą veiką tol, kol išnyksta teistumas už sunkiausią iš jų.
 
+9\. Teismas, skirdamas bausmę už naujos nusikalstamos veikos padarymą, spręsdamas dėl kaltininko atleidimo nuo bausmės ar baudžiamosios atsakomybės, taip pat pripažindamas asmenį pavojingu recidyvistu, neatsižvelgia į įsiteisėjusį šio straipsnio 1 dalyje nurodytą kitos valstybės teismo priimtą apkaltinamąjį nuosprendį, jeigu:
+
+1\) atsižvelgimas į įsiteisėjusį teismo priimtą apkaltinamąjį nuosprendį pažeistų pagrindines žmogaus teises ir (ar) laisves;
+
+2\) padaryta veika pagal šį kodeksą nelaikoma nusikaltimu;
+
+3\) asmuo nusikalstamos veikos padarymo metu nebuvo sulaukęs amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką;
+
+4\) nepakanka gautos informacijos apie kitos valstybės teismo priimtą apkaltinamąjį nuosprendį ir šią informaciją persiuntusi valstybė per nustatytą terminą jos nepateikia;
+
+5\) yra kitų Lietuvos Respublikos tarptautinėse sutartyse nustatytų pagrindų.
+
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 XIV skyrius
 
@@ -1869,6 +1903,26 @@ baudžiamas laisvės atėmimu nuo penkerių iki dvidešimties metų arba laisvė
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
+
+#### 100¹ straipsnis. Priverstinis dingimas
+
+Tas, kas veikdamas kaip valstybės atstovas arba asmuo ar asmenų grupė, veikiantys valstybės leidimu, palaikymu ar pritarimu, sulaikė, pagrobė asmenį ar kitaip atėmė jo laisvę, kai atsisakoma pripažinti tokį sulaikymą, pagrobimą ar laisvės atėmimą, arba slėpė dingusio asmens likimą ar buvimo vietą,
+
+baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
+#### 100² straipsnis. Vaikų atskyrimas
+
+Tas, kas neteisėtai atskyrė vaikus, žinodamas, kad šie vaikai, jų tėvai ar globėjai nukentėjo nuo šio kodekso 100¹ straipsnyje numatytų nusikalstamų veikų,
+
+baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 101 straipsnis. Tarptautinės humanitarinės teisės saugomų asmenų žudymas
 
@@ -2388,7 +2442,7 @@ baudžiamas laisvės atėmimu iki dvejų metų.
 
 *Straipsnio pakeitimai:*
 
-*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas skelbtas: Žin., 2003, Nr. 76*
+*Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25), atitaisymas: Žin., 2003, Nr. 76*
 
 *Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
@@ -2612,9 +2666,9 @@ baudžiamas laisvės atėmimu nuo trejų iki trylikos metų.
 
 baudžiamas areštu arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas šio straipsnio 1 dalyje numatytus veiksmus atliko nepilnamečiui asmeniui,
+2\. Tas, kas šio straipsnio 1 dalyje numatytus veiksmus atliko nepilnamečiam asmeniui,
 
-baudžiamas laisvės atėmimu iki penkerių metų.
+baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 3\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius.
 
@@ -2626,19 +2680,21 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 *Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)*
 
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
 #### 151¹ straipsnis. Lytinės aistros tenkinimas pažeidžiant nepilnamečio asmens seksualinio apsisprendimo laisvę ir (ar) neliečiamumą
 
 1\. Pilnametis asmuo, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su jaunesniu negu šešiolikos metų asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-2\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+2\. Tas, kas lytiškai santykiavo ar kitaip tenkino lytinę aistrą su nepilnamečiu asmeniu pasiūlęs, pažadėjęs suteikti ar suteikęs jam ar kitam asmeniui už tai pinigų ar kitokios formos atlygį, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas arba kitas asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
+3\. Tėvas, motina, globėjas, rūpintojas ar kitas teisėtas vaiko atstovas ar asmuo, turintis įstatymuose nustatytų įgaliojimų nepilnamečio asmens atžvilgiu, lytiškai santykiavęs ar kitaip tenkinęs lytinę aistrą su tuo nepilnamečiu asmeniu, jeigu nebuvo išžaginimo, seksualinio prievartavimo ar privertimo lytiškai santykiauti požymių,
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -2652,6 +2708,8 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
 
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
 #### 152 straipsnis. Seksualinis priekabiavimas
 
 1\. Tas, kas siekdamas seksualinio bendravimo ar pasitenkinimo vulgariais ar panašiais veiksmais, pasiūlymais ar užuominomis priekabiavo prie pagal tarnybą ar kitaip priklausomo asmens, padarė baudžiamąjį nusižengimą ir
@@ -2660,15 +2718,31 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 2\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
-#### 153 straipsnis. Mažamečio asmens tvirkinimas
+#### 152¹ straipsnis. Jaunesnio negu šešiolikos metų asmens viliojimas
 
-Tas, kas atliko mažamečio asmens tvirkinimo veiksmus,
+1\. Pilnametis asmuo, pasiūlęs jaunesniam negu šešiolikos metų asmeniui susitikti siekdamas lytiškai santykiauti ar kitaip tenkinti lytinę aistrą arba jį išnaudoti pornografinei produkcijai gaminti, jeigu po šio pasiūlymo ėmėsi konkrečių veiksmų, kad susitikimas įvyktų,
 
-baudžiamas laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
+#### 153 straipsnis. Jaunesnio negu šešiolikos metų asmens tvirkinimas
+
+1\. Tas, kas atliko jaunesnio negu šešiolikos metų asmens tvirkinimo veiksmus,
+
+baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-989, 2010-07-02, Žin., 2010, Nr. 86-4540 (2010-07-20)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 ### XXII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS
 
@@ -2760,17 +2834,23 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 162 straipsnis. Vaiko išnaudojimas pornografijai
 
-1\. Tas, kas įtraukė vaiką dalyvauti pornografinio pobūdžio renginiuose arba išnaudojo vaiką pornografinei produkcijai gaminti, arba pelnėsi iš tokios vaiko veiklos,
+1\. Tas, kas verbavo, vertė arba įtraukė vaiką dalyvauti pornografinio pobūdžio renginiuose, arba išnaudojo vaiką tokiems tikslams, arba išnaudojo vaiką pornografinei produkcijai gaminti, arba pelnėsi iš tokios vaiko veiklos,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Tas, kas dalyvavo pornografinio pobūdžio renginyje, į kurį buvo įtrauktas vaikas,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 163 straipsnis. Piktnaudžiavimas tėvų, globėjo ar rūpintojo arba kitų teisėtų vaiko atstovų teisėmis ar pareigomis
 
@@ -4398,6 +4478,30 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 *Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
 
+#### 251¹ straipsnis. Piratavimas
+
+1\. Civilinio laivo ar orlaivio įgulos narys ar keleivis, siekdamas turtinės ar kitokios asmeninės naudos, atviroje jūroje arba kitoje teritorijoje, kurioje negalioja jokios valstybės jurisdikcija, neteisėtai sulaikęs kitą laivą ar orlaivį, asmenį, asmenų grupę ar svetimą turtą, esančius tame laive ar orlaivyje, arba panaudojęs prieš šį asmenį ar asmenų grupę kitokią fizinę ar psichinę prievartą,
+
+baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
+
+2\. Karo laivo, valstybės laivo ar orlaivio įgulos narys, sukėlęs maištą, kurio metu buvo perimta laivo ar orlaivio kontrolė, ar dalyvavęs šiame maište ir padaręs šio straipsnio 1 dalyje numatytą veiką, arba tas, kas padarė šio straipsnio 1 dalyje numatytą veiką panaudodamas šaunamąjį ginklą, sprogmenį ar kitą žmogaus gyvybei ar sveikatai pavojingą įrankį ar priemonę,
+
+baudžiamas laisvės atėmimu nuo šešerių iki dešimties metų.
+
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytas veikas, jeigu dėl to atsirado labai sunkių padarinių,
+
+baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+4\. Tas, kas naudojosi laivu ar orlaiviu, žinodamas, kad juo buvo padarytos šio straipsnio 1, 2 ar 3 dalyje numatytos veikos ir laivo ar orlaivio kontrolė priklauso šias veikas padariusiems asmenims,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
 252¹ straipsnis. Sąvokų išaiškinimas
 
 1\. Teroristiniai nusikaltimai yra šio Kodekso 250 straipsnyje nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso 251 ir 252 straipsniuose nurodyti nusikaltimai.
@@ -5356,9 +5460,9 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas laisvės atėmimu iki šešerių metų.
 
-3\. Tas, kas pelnėsi iš nepilnamečio asmens prostitucijos arba organizavo ar vadovavo nepilnamečio asmens prostitucijai, arba gabeno nepilnametį asmenį jo sutikimu prostitucijai į Lietuvos Respubliką ar iš Lietuvos Respublikos,
+3\. Tas, kas pelnėsi iš nepilnamečio asmens prostitucijos arba organizavo ar vadovavo nepilnamečio asmens prostitucijai, arba kitaip išnaudojo nepilnametį prostitucijos tikslams,
 
-baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5366,21 +5470,29 @@ baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
 
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
 #### 308 straipsnis. Įtraukimas į prostituciją
 
 1\. Tas, kas įtraukė asmenį į prostituciją,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
-2\. Tas, kas įtraukė į prostituciją materialiai, dėl tarnybos ar kitaip priklausomą asmenį arba įtraukė į prostituciją asmenį panaudodamas fizinę ar psichinę prievartą ar apgaulę, arba bet kokiu būdu įtraukė į prostituciją nepilnametį,
+2\. Tas, kas įtraukė į prostituciją materialiai, dėl tarnybos ar kitaip priklausomą asmenį arba įtraukė į prostituciją asmenį panaudodamas fizinę ar psichinę prievartą ar apgaulę,
 
 baudžiamas laisvės atėmimu nuo dvejų iki septynerių metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3\. Tas, kas verbavo, vertė užsiimti prostitucija ar bet kokiu būdu įtraukė į prostituciją nepilnametį asmenį,
+
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 308¹ straipsnis. Draudžiami biomedicininiai tyrimai su žmogumi ar žmogaus embrionu
 
@@ -5404,9 +5516,9 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas pagamino, įsigijo, laikė, demonstravo, reklamavo arba platino pornografinio turinio dalykus, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas,
+2\. Tas, kas pagamino, įgijo, laikė, demonstravo, reklamavo, siūlė arba platino pornografinio turinio dalykus, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, arba pasinaudodamas informacinėmis ir ryšių technologijomis ar kitomis priemonėmis įgijo ar suteikė prieigą prie pornografinio turinio dalykų, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas,
 
-baudžiamas bauda arba laisvės atėmimu iki dvejų metų.
+baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 
 3\. Tas, kas turėdamas tikslą platinti pagamino ar įsigijo arba platino didelį kiekį pornografinio turinio dalykų, kuriuose vaizduojamas mažametis vaikas,
 
@@ -5423,6 +5535,8 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-1992, 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)*
 
 *Nr. X-711, 2006-06-22, Žin., 2006, Nr. 77-2961 (2006-07-14)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 #### 310 straipsnis. Žiaurus elgesys su gyvūnais
 
@@ -5674,21 +5788,25 @@ priedas
 
 18\. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
 
-19\. 2008 m. spalio 24 d. Tarybos pamatinis sprendimas 2008/841/TVR dėl kovos su organizuotu nusikalstamumu (OL 2008 L 300, p. 42).
+19\. 2008 m. liepos 24 d. Tarybos pagrindų sprendimas 2008/675/TVR dėl atsižvelgimo į apkaltinamuosius nuosprendžius Europos Sąjungos valstybėse narėse naujose baudžiamosiose bylose (OL 2008 L 220, p. 32).
 
-20\. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
+20\. 2008 m. spalio 24 d. Tarybos pamatinis sprendimas 2008/841/TVR dėl kovos su organizuotu nusikalstamumu (OL 2008 L 300, p. 42).
 
-21\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
+21\. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
 
-22\. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
+22\. 2008 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2008/913/TVR dėl kovos su tam tikromis rasizmo ir ksenofobijos formomis bei apraiškomis baudžiamosios teisės priemonėmis (OL 2008 L 328, p. 55–58).
 
-23\. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
+23\. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
 
-24\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
+24\. 2009 m. vasario 26 d. Tarybos pamatinis sprendimas 2009/299/TVR, iš dalies keičiantis pamatinius sprendimus 2002/584/TVR, 2005/214/TVR, 2006/783/TVR, 2008/909/TVR ir 2008/947/TVR ir stiprinantis asmenų procesines teises bei skatinantis tarpusavio pripažinimo principo taikymą sprendimams, priimtiems atitinkamam asmeniui asmeniškai nedalyvavus teisminiame nagrinėjime (OL 2009 L 81, p. 24).
 
-25\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+25\. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB, iš dalies keičianti Direktyvą 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2009 L 280, p. 52).
 
-26\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+26\. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+
+27\. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR (OL 2011 L 101, p. 1).
+
+28\. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
 
 *Kodeksas papildytas priedu:*
 
@@ -5717,6 +5835,8 @@ priedas
 *Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)*
 
 *Nr. XII-345, 2013-05-30, Žin., 2013, Nr. 62-3057 (2013-06-12)*
+
+*Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
 
 **Pakeitimai:**
 
@@ -6130,6 +6250,14 @@ Nr. XII-702, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00068
 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 7 IR 216 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 224(1) STRAIPSNIU ĮSTATYMAS
 
+49\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 7, 8, 27, 60, 95, 97, 151, 151-1, 153, 162, 307, 308, 309 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR KODEKSO PAPILDYMO 100-1, 100-2, 152-1, 251-1 STRAIPSNIAIS
+
 \*\*\* Pabaiga \*\*\*
 
 Konstitucinio Teismo nutarimai:
@@ -6144,6 +6272,6 @@ DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO KAI KURIŲ NUOSTATŲ, SUSIJUSIŲ 
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2014-03-20)
+Redagavo Aušrinė Trapinskienė (2014-03-25)
 
 [email protected]
