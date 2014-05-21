@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2014-03-25"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_467840"
+redakcija_nuo: "2014-05-22"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/TAIS_471480"
 ---
 
 # Baudžiamasis kodeksas
@@ -1720,7 +1720,9 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 
 4\. Jeigu nusikalstamą veiką padaręs asmuo pasislėpė nuo ikiteisminio tyrimo ar teismo, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią asmuo sulaikomas arba kurią jis pats atvyksta pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Tačiau apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo to laiko, kai asmuo padarė nusikalstamą veiką, praėjo dvidešimt penkeri metai, o nuo to laiko, kai padarė nusikaltimą, susijusį su tyčiniu kito žmogaus gyvybės atėmimu, – trisdešimt metų ir senaties eiga nenutrūko dėl naujos tyčinės nusikalstamos veikos padarymo.
 
-5\. Bylos nagrinėjimo teisme metu senaties eiga sustoja laikotarpiui, kuriam:
+5\. Jeigu nusikalstamą veiką padaręs asmuo pagal Lietuvos Respublikos įstatymus ar tarptautinės teisės normas turi imunitetą nuo baudžiamosios jurisdikcijos ir nėra gautas kompetentingos institucijos leidimas jį patraukti baudžiamojon atsakomybėn, senaties eiga sustoja. Senaties eiga atsinaujina nuo tos dienos, kurią yra gautas kompetentingos institucijos leidimas nusikalstamą veiką padariusį asmenį patraukti baudžiamojon atsakomybėn arba jis kitaip netenka šioje dalyje nurodyto imuniteto.
+
+6\. Bylos nagrinėjimo teisme metu senaties eiga sustoja laikotarpiui, kuriam:
 
 1\) teismas paskelbia nagrinėjimo teisme pertrauką ar bylos nagrinėjimą atideda dėl kaltinamojo ar jo gynėjo nedalyvavimo;
 
@@ -1730,11 +1732,11 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 
 4\) teismas paskelbia nagrinėjimo teisme pertrauką naujai pakviestam kaltinamojo gynėjui susipažinti su bylos medžiaga.
 
-6\. Šio straipsnio 5 dalyje numatytais atvejais apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo senaties termino pradžios praėjo penkeriais metais ilgesnis terminas, negu numatyta šio straipsnio 1 dalyje.
+7\. Šio straipsnio 5 dalyje numatytais atvejais apkaltinamasis nuosprendis negali būti priimtas, jeigu nuo senaties termino pradžios praėjo penkeriais metais ilgesnis terminas, negu numatyta šio straipsnio 1 dalyje.
 
-7\. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują tyčinę nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas tyčinis nusikaltimas ar baudžiamasis nusižengimas.
+8\. Jeigu asmuo iki šiame straipsnyje nurodytų terminų pabaigos padaro naują tyčinę nusikalstamą veiką, senaties eiga nutrūksta. Šiuo atveju senaties eiga už pirmą nusikalstamą veiką pradedama skaičiuoti nuo tos dienos, kurią buvo padarytas naujas tyčinis nusikaltimas ar baudžiamasis nusižengimas.
 
-8\. Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse:
+9\. Nėra senaties šiems nusikaltimams, numatytiems šiame kodekse:
 
 1\) genocidui (99 straipsnis);
 
@@ -1771,6 +1773,8 @@ f) trisdešimt metų, kai buvo padarytas nusikaltimas, susijęs su tyčiniu kito
 *Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)*
 
 *Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404*
+
+*Nr. XII-892, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05569*
 
 #### 96 straipsnis. Apkaltinamojo nuosprendžio vykdymo senatis
 
@@ -6258,6 +6262,14 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 
 LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 7, 8, 27, 60, 95, 97, 151, 151-1, 153, 162, 307, 308, 309 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR KODEKSO PAPILDYMO 100-1, 100-2, 152-1, 251-1 STRAIPSNIAIS
 
+50\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-892, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05569
+
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO 95 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 Konstitucinio Teismo nutarimai:
@@ -6272,6 +6284,6 @@ DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO KAI KURIŲ NUOSTATŲ, SUSIJUSIŲ 
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2014-03-25)
+Redagavo Aušrinė Trapinskienė (2014-05-22)
 
 [email protected]
