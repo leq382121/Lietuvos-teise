@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2014-01-08"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_465506"
+redakcija_nuo: "2014-06-17"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_474496"
 ---
 
 # Civilinis kodeksas
@@ -742,10 +742,6 @@ Penktasis skirsnis
 
 3\. Sandorių, kurių dalykas yra nekilnojamasis daiktas ar teisės į jį, forma turi atitikti nekilnojamojo daikto buvimo vietos valstybės teisės reikalavimus.
 
-4\. Vartojimo sutarčių, sudarytų šio kodekso 1.39 straipsnio 1 dalyje numatytais atvejais, formai yra taikoma vartotojo nuolatinės gyvenamosios vietos teisė.
-
-**Redakcija nuo 2014-06-13:**
-
 4\. Vartojimo sutarčių formai yra taikoma vartotojo nuolatinės gyvenamosios vietos teisė.
 
 *Straipsnio pakeitimai:*
@@ -754,9 +750,7 @@ Penktasis skirsnis
 
 ###### 1.39 straipsnis. Užsienio teisės taikymo vartojimo sutartims ypatumai
 
-1\. Šiame ir kituose šio kodekso straipsniuose minima vartojimo sutartimi yra laikoma sutartis dėl prekių ar paslaugų įsigijimo, kurią fizinis asmuo (vartotojas) su prekių ar paslaugų pardavėju (tiekėju) sudaro su vartotojo verslu ar profesija nesusijusiu tikslu, t. y. vartotojo asmeniniams, šeimos, namų ūkio poreikiams tenkinti.
-
-**Netenka galios nuo 2014-06-13.**
+1\. Neteko galios nuo 2014-06-13.
 
 2\. Šio kodekso 1.37 straipsnio 1 dalyje numatyta sutarties šalių teisė pasirinkti sutartinei prievolei taikytiną teisę neatima ir neriboja vartotojo teisės ginti savo interesus priemonėmis ir būdais, kuriuos nustato jo nuolatinės gyvenamosios vietos valstybės teisė, jeigu:
 
@@ -11536,63 +11530,7 @@ Kai šalies rašytiniame pranešime, kuris pasiųstas per protingą terminą po 
 
 Jeigu sutarties standartinės sąlygos prieštarauja nestandartinėms, pirmenybė teikiama nestandartinėms, t. y. individualiai šalių aptartoms sąlygoms.
 
-###### 6.188 straipsnis. Vartojimo sutarčių sąlygų ypatumai
-
-1\. Vartotojas turi teisę teismo tvarka reikalauti pripažinti negaliojančiomis sąžiningumo kriterijams prieštaraujančias vartojimo sutarties sąlygas.
-
-2\. Nesąžiningomis laikomos vartojimo sutarčių sąlygos, kurios šalių nebuvo individualiai aptartos, jeigu jos iš esmės pažeidžia šalių teisių ir pareigų pusiausvyrą bei vartotojo teises ir interesus, tai yra:
-
-1\) panaikina arba apriboja pardavėjo ar paslaugų teikėjo civilinę atsakomybę už žalą, padarytą dėl vartotojo gyvybės atėmimo, sveikatos sužalojimo, ar už žalą, padarytą vartotojo turtui;
-
-2\) panaikina arba apriboja vartotojo teises, susijusias su pardavėju, paslaugų teikėju ar kita šalimi tuo atveju, kai pardavėjas ar paslaugų teikėjas visiškai ar iš dalies neįvykdo ar netinkamai įvykdo bet kokius sutartyje numatytus įsipareigojimus;
-
-3\) numato, kad vartotojas privalo vykdyti sutarties sąlygas, o pardavėjo ar paslaugų teikėjo pareiga vykdyti šią sutartį priklauso nuo kitų sąlygų, ir jos įvykdomos tik paties pardavėjo ar paslaugų teikėjo valia;
-
-4\) suteikia teisę pardavėjui ar paslaugų teikėjui negrąžinti vartotojui iš šio gautų sumų, kai vartotojas nusprendžia nesudaryti sutarties ar jos nevykdyti, ir nenumato vartotojo teisės gauti iš pardavėjo ar paslaugų teikėjo tokio pat dydžio sumas, kai šie vienašališkai nutraukia sutartį;
-
-5\) nustato neproporcingai didelę vartotojo civilinę atsakomybę už sutarties neįvykdymą ar netinkamą įvykdymą;
-
-6\) suteikia teisę pardavėjui ar paslaugų teikėjui vienašališkai nutraukti sutartį ar bet kada savo nuožiūra jos atsisakyti, o ši teisė vartotojui nesuteikiama arba pardavėjui ar paslaugų teikėjui suteikiama teisė negrąžinti iš vartotojo iki sutarties įvykdymo gautų sumų, kai pardavėjas ar paslaugų teikėjas vienašališkai nutraukia sutartį ar nuo jos atsisako;
-
-7\) suteikia pardavėjui ar paslaugų teikėjui teisę be pakankamo pagrindo vienašališkai nutraukti neterminuotą sutartį apie numatomą sutarties nutraukimą iš anksto tinkamai neįspėjus vartotojo;
-
-8\) suteikia pardavėjui ar paslaugų teikėjui teisę vienašališkai automatiškai pratęsti terminuotą sutartį arba numato, kad laikas, per kurį vartotojas turi pareikšti savo nuomonę dėl sutarties pratęsimo, yra neprotingai trumpas, arba kad apie savo sutikimą ar nesutikimą pratęsti sutartį vartotojas turi pranešti neprotingai anksti;
-
-9\) įpareigoja vartotoją vykdyti sutarties sąlygas, su kuriomis jis neturėjo realios galimybės susipažinti iki sutarties sudarymo, be teisės jų atsisakyti;
-
-10\) suteikia teisę pardavėjui ar paslaugų teikėjui vienašališkai be sutartyje numatyto ar pakankamo pagrindo keisti sutarties sąlygas;
-
-11\) suteikia teisę pardavėjui ar paslaugų teikėjui be pakankamo pagrindo vienašališkai pakeisti bet kokias prekių ar paslaugų savybes;
-
-12\) suteikia teisę pardavėjui ar paslaugų teikėjui prekių perdavimo ar paslaugų teikimo metu vienašališkai nustatyti jų kainas arba teisę vienašališkai padidinti kainą be vartotojo teisės atsisakyti sutarties, jeigu galutinė kaina yra didesnė už sutartyje nustatytąją. Ši nuostata netaikoma sutartims dėl vertybinių popierių, kitų finansinių dokumentų, taip pat daiktų perleidimo ir paslaugų teikimo, kai kaina yra susijusi su biržų kursų ar indeksų svyravimais ir jos nekontroliuoja pardavėjas ar paslaugų teikėjas, bei užsienio valiutos, kelionės čekių ar užsienio valiuta išreikštų tarptautinių pašto perlaidų pirkimo–pardavimo sutartims;
-
-13\) suteikia teisę pardavėjui ar paslaugų teikėjui vienašališkai spręsti, ar pateikti daiktai arba suteiktos paslaugos atitinka sutarties reikalavimus;
-
-14\) pardavėjui ar paslaugų teikėjui suteikia išimtinę teisę aiškinti sutartį;
-
-15\) riboja pardavėjo ar paslaugų teikėjo pareigą vykdyti jų atstovų prisiimtus įsipareigojimus arba nustato, kad ši pareiga priklauso nuo tam tikrų sąlygų;
-
-16\) įpareigoja vartotoją įvykdyti visus įsipareigojimus pardavėjui ar paslaugų teikėjui net ir tuo atveju, kai šie neįvykdo savųjų arba nevisiškai juos įvykdo;
-
-17\) suteikia teisę pardavėjui ar paslaugų teikėjui be vartotojo sutikimo perleisti savo teises ir prievoles, atsirandančias iš sutarties, kai tai gali sumažinti vartotojui teikiamas garantijas;
-
-18\) panaikina arba suvaržo vartotojo teisę pareikšti ieškinį ar pasinaudoti kitais pažeistų teisių gynimo būdais (reikalauja perduoti spręsti ginčus tik arbitražui, apriboja įrodymų panaudojimą, perkelia įrodinėjimo pareigą vartotojui ir pan.).
-
-3\. Teismas gali pripažinti nesąžiningomis ir kitokias vartojimo sutarties sąlygas, jeigu jos atitinka šio straipsnio 1 ir 2 dalyje nustatytus kriterijus.
-
-4\. Pagal šio straipsnio 2 dalį individualiai neaptartomis laikomos sąlygos, kurių parengimui negalėjo daryti įtakos vartotojas, ypač jeigu tokios sąlygos nustatytos iš anksto pardavėjo ar paslaugų teikėjo parengtoje standartinėje sutartyje. Jeigu iš anksto parengtoje standartinėje sutartyje tam tikros sąlygos buvo aptartos individualiai, šio straipsnio taisyklės taikomos kitoms tokios sutarties sąlygoms. Pareiga įrodyti, kad tam tikra sutarties sąlyga buvo aptarta individualiai, tenka pardavėjui ar paslaugų teikėjui.
-
-5\. Ar sutarties sąlyga nesąžininga, turi būti vertinama atsižvelgiant į sutartyje numatytų prekių ar paslaugų prigimtį bei visas sutarties sudarymo metu buvusias ir jos sudarymui turėjusias įtakos aplinkybes ir visas kitas tos sutarties ar kitos sutarties, nuo kurios ji priklauso, sąlygas. Sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu (t. y. netaikomos šio straipsnio 1 ir 2 dalių normos), jeigu jos išreikštos aiškiai ir suprantamai.
-
-6\. Bet kuri vartojimo sutarties rašytinė sąlyga turi būti išreikšta aiškiai ir suprantamai. Jei kyla abejonių dėl sutarties sąlygų, taikoma šio kodekso 6.193 straipsnio 4 dalyje nustatyta sutarčių aiškinimo taisyklė. Ši taisyklė nėra taikoma kolektyvinio vartotojų interesų gynimo atveju, kai siekiama parengtas standartines sutarčių sąlygas uždrausti tolesniam jų naudojimui.
-
-7\. Kai teismas sutarties sąlygą (sąlygas) pripažįsta nesąžininga, ji negalioja nuo sutarties sudarymo, o likusios sutarties sąlygos šalims lieka privalomos, jeigu tolesnis sutarties vykdymas yra galimas panaikinus nesąžiningas sąlygas.
-
-8\. Vartotojas, kurio interesai pažeidžiami dėl nesąžiningų sąlygų taikymo, turi teisę dėl šio pažeidimo kreiptis ir į vartotojų teises ginančias institucijas.
-
-9\. Vartotojų teises ginančios institucijos turi teisę įstatymų nustatyta tvarka kontroliuoti sutarčių standartines sąlygas ir ginčyti nesąžiningas vartojimo sutarčių sąlygas.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.188 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -11950,9 +11888,11 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 3\. Teismas gali pakeisti sutartį ar atskiras jos sąlygas ir šalies, gavusios pranešimą apie sutarties atsisakymą, prašymu, jeigu ši šalis po pranešimo gavimo nedelsdama apie savo prašymą teismui pranešė kitai šaliai ir pastaroji sutarties dar neatsisakė.
 
-**Papildoma skyriumi galios nuo 2014-06-13:**
+**Papildoma skyriumi nuo 2014-06-13:**
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
+
+*Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638*
 
 **XVIII¹ SKYRIUS**
 
@@ -12164,7 +12104,7 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 3\. Jeigu pagal elektroninėmis priemonėmis sudaromą nuotolinę sutartį vartotojas turi prievolę sumokėti, verslininkas aiškiai, pastebimu būdu ir prieš pat vartotojo užsakymo pateikimą privalo supažindinti vartotoją su šio kodekso 6.228⁷ straipsnio 1 dalies 1, 4, 13 ir 14 punktuose nurodyta informacija. Verslininkas privalo užtikrinti, kad vartotojas, pateikdamas savo užsakymą, aiškiai patvirtintų, kad po užsakymo pateikimo vartotojui atsiranda prievolė sumokėti. Jeigu pateikiant užsakymą reikia paspausti mygtuką ar naudoti panašią funkciją, mygtukas ar panaši funkcija turi būti pažymėti taip, kad būtų lengvai įskaitoma (suprantama), t. y. pateikti tik žodžiai „užsakymas su prievole sumokėti“ ar panaši nedviprasmiška formuluotė, nurodanti, kad pateikus užsakymą vartotojui atsiranda prievolė sumokėti verslininkui. Jeigu verslininkas pažeidžia šį reikalavimą, iš nuotolinės sutarties vartotojui mokėjimo prievolė neatsiranda.
 
-4\. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.288⁷ straipsnio 1 dalies 1, 2, 4, 7 ir 13 punktuose nurodytą informaciją. Kitą šio kodekso 6.288⁷ straipsnio 1 dalyje nurodytą informaciją verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
+4\. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.228⁷ straipsnio 1 dalies 1, 2, 4, 7 ir 13 punktuose nurodytą informaciją. Kitą šio kodekso 6.228⁷ straipsnio 1 dalyje nurodytą informaciją verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
 
 5\. Verslininkas, kuris skambina vartotojui telefonu siekdamas sudaryti nuotolinę sutartį, pokalbio su vartotoju pradžioje privalo atskleisti savo tapatybę (vardą ir pavardę ar pavadinimą) ir, jeigu reikalinga, asmens, kurio vardu jis skambina, tapatybę (vardą ir pavardę ar pavadinimą) ir nurodyti komercinį šio pokalbio tikslą. Jeigu šiuo atveju vartotojas sutinka sudaryti nuotolinę sutartį, verslininkas privalo patvirtinti pasiūlymą vartotojui patvariojoje laikmenoje. Nuotolinė sutartis laikoma sudaryta, kai vartotojas pasirašo pasiūlymą arba išsiunčia verslininkui savo rašytinį sutikimą.
 
@@ -12173,6 +12113,10 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 7\. Įstatymuose gali būti nustatyta ir kitų vartojimo sutarčių sudarymo elektroninėmis priemonėmis reikalavimų.
 
 8\. Kituose įstatymuose negali būti nustatyta jokių papildomų informacijos pateikimo iki sutarties sudarymo reikalavimų, taikomų nuotolinėms sutartims.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16 i. k. 2014-07638*
 
 ###### 6.228⁹ straipsnis. Ne prekybos patalpose sudarytos sutartys
 
@@ -13184,10 +13128,6 @@ Pirkimo–pardavimo sutarties formą nustato sandorių sudarymo formos taisyklė
 
 ###### 6.320 straipsnis. Daiktų atsitiktinio žuvimo ar sugedimo rizika
 
-1\. Jeigu kas kita nenumatyta pirkimo–pardavimo sutartyje, daiktų atsitiktinio žuvimo ar jų sugedimo rizika pereina pirkėjui nuo to momento, nuo kurio pagal įstatymus ar sutartį pardavėjas laikomas tinkamai įvykdžiusiu savo pareigą perduoti daiktus, neatsižvelgiant į nuosavybės teisės perėjimo momentą.
-
-**Redakcija nuo 2014-06-13:**
-
 1\. Jeigu kas kita nenumatyta šiame kodekse arba pirkimo–pardavimo sutartyje, daiktų atsitiktinio žuvimo ar jų sugedimo rizika pereina pirkėjui nuo to momento, nuo kurio pagal įstatymus ar sutartį pardavėjas laikomas tinkamai įvykdžiusiu savo pareigą perduoti daiktus, neatsižvelgiant į nuosavybės teisės perėjimo momentą.
 
 2\. Daiktų, parduotų juos gabenant, atsitiktinio žuvimo ar sugedimo rizika pereina pirkėjui nuo pirkimo–pardavimo sutarties sudarymo, jeigu sutartis ar prekybos papročiai nenumato ko kita.
@@ -13492,18 +13432,6 @@ Pirkimo–pardavimo sutarties formą nustato sandorių sudarymo formos taisyklė
 
 ###### 6.350 straipsnis. Vartojimo pirkimo–pardavimo sutarties samprata
 
-1\. Pagal vartojimo pirkimo–pardavimo sutartį pardavėjas – asmuo, kuris verčiasi prekyba, pardavėjo atstovas įsipareigoja parduoti prekę – kilnojamąjį daiktą pirkėjui – fiziniam asmeniui pastarojo asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su verslu ar profesija, tenkinti, o pirkėjas įsipareigoja sumokėti kainą. Vyriausybė tvirtina mažmeninės prekybos taisykles.
-
-2\. Vartojimo pirkimo–pardavimo sutartyse negali būti sąlygų, pasunkinančių vartotojo (pirkėjo) padėtį arba panaikinančių ar suvaržančių vartotojo (pirkėjo) teisę pareikšti ieškinį pardavėjui dėl sutarties sąlygų pažeidimo.
-
-3\. Pardavėjui draudžiama vykdyti pirkėjui nesąžiningą komercinę veiklą. Nesąžiningos komercinės veiklos rūšis ir atvejus nustato įstatymai.
-
-4\. Kai pardavėjas pažeidžia pirkėjo teises, pirkėjas įstatymų nustatyta tvarka turi teisę kreiptis dėl pažeistų teisių gynimo į vartotojų teises ginančias institucijas ar teismą.
-
-**Redakcija nuo 2014-06-13:**
-
-###### 6.350 straipsnis. Vartojimo pirkimo–pardavimo sutarties samprata
-
 1\. Pagal vartojimo pirkimo–pardavimo sutartį pardavėjas – verslininkas įsipareigoja parduoti prekę pirkėjui – vartotojui, o pirkėjas įsipareigoja sumokėti kainą. Vartojimo sutartis, pagal kurią parduodama prekė ir paslauga, laikoma vartojimo pirkimo–pardavimo sutartimi.
 
 2\. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija tvirtina Mažmeninės prekybos taisykles.
@@ -13523,42 +13451,6 @@ Jeigu įstatymai ar sutartis nenumato ko kita, laikoma, kad vartojimo pirkimo–
 1\. Daiktų nurodymas reklamoje, visiems skirtuose kataloguose ar aprašymuose laikomas viešąją oferta, jeigu yra nurodytos esminės pirkimo–pardavimo sutarties sąlygos.
 
 2\. Daiktų išdėstymas vitrinose, ant prekystalio ar kitose jų pardavimo vietose, taip pat daiktų pavyzdžių demonstravimas arba informacijos apie parduodamus daiktus pateikimas (aprašymai, katalogai, nuotraukos ir kt.) jų pardavimo vietoje laikomi viešąja oferta nepaisant to, ar nurodyta daiktų kaina arba kitos pirkimo–pardavimo sutarties sąlygos, išskyrus atvejus, kai pardavėjas aiškiai ir nedviprasmiškai nurodo, kad tam tikri daiktai nėra skirti parduoti.
-
-###### 6.353 straipsnis. Pardavėjo pareiga informuoti pirkėją
-
-1\. Pardavėjas nurodydamas parduodamo daikto etiketėse ar kitokiu būdu privalo suteikti pirkėjui būtiną, teisingą ir visapusišką informaciją apie parduodamus daiktus: jų kainą (įskaitant visus mokesčius), kokybę, vartojimo būdą ir saugumą, kokybės garantijos terminą, tinkamumo naudoti terminą bei kitas daiktų ir jų naudojimo savybes, atsižvelgiant į daiktų pobūdį, jų paskirtį, vartotojo asmenį bei mažmeninės prekybos reikalavimus. Pardavėjas, pažeidęs šią pareigą, turi atlyginti dėl to pirkėjo patirtus nuostolius.
-
-2\. Informacija apie parduodamus daiktus neturi būti klaidinanti.
-
-3\. Privaloma nurodyti kiekvieno daikto ar vienos rūšies daiktų pardavimo kainą ir to daikto tinkamo standartinio vieneto kainą. Daikto pardavimo kaina ir standartinio vieneto kaina gali būti nenurodyta, kai daiktai:
-
-1\) pateikiami teikiant paslaugas;
-
-2\) parduodami aukcionuose arba tai yra meno dirbiniai ir antikvariniai daiktai.
-
-4\. Daikto standartinio vieneto kaina gali būti nenurodoma:
-
-1\) daiktų, kurių kaina nepriklauso nuo jų svorio ar tūrio;
-
-2\) jeigu ji sutampa su pardavimo kaina;
-
-3\) daiktams ar daiktų grupėms, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
-
-5\. Daiktams, kurie nėra supakuoti ir kurių kiekis nustatomas vartotojo akivaizdoje, turi būti nurodyta tik daikto standartinio vieneto kaina.
-
-6\. Pardavimo kaina ir standartinio vieneto kaina turi būti gerai matoma, lengvai įskaitoma, suprantama ir atskiriama.
-
-7\. Bet kokiu būdu reklamuojant daiktą, jeigu nurodoma pardavimo kaina, turi būti nurodoma daikto standartinio vieneto kaina, išskyrus šio straipsnio 3 ir 4 dalyse nustatytas išimtis.
-
-8\. Pirkėjas turi teisę iki sutarties sudarymo apžiūrėti daiktus ir pareikalauti, kad pardavėjas dalyvaujant pirkėjui patikrintų daiktus arba pademonstruotų, kaip juos naudoti, jeigu tai yra įmanoma atsižvelgiant į daiktų pobūdį ir mažmeninės prekybos taisykles.
-
-9\. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, tai pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o jeigu sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą bei atlyginti kitus nuostolius.
-
-10\. Pardavėjas, nesudaręs galimybės pirkėjui gauti atitinkamą informaciją apie daiktus, atsako už daiktų trūkumus, atsiradusius po daiktų perdavimo pirkėjui, jeigu pirkėjas įrodo, kad trūkumai atsirado dėl to, kad jis neturėjo atitinkamos informacijos.
-
-11\. Lietuvos Respublikoje parduodamų daiktų ženklinimo bei kainų nurodymo taisykles tvirtina Vyriausybė ar jos įgaliota institucija.
-
-**Redakcija nuo 2014-06-13:**
 
 ###### 6.353 straipsnis. Pardavėjo pareiga informuoti pirkėją
 
@@ -13596,11 +13488,7 @@ Jeigu įstatymai ar sutartis nenumato ko kita, laikoma, kad vartojimo pirkimo–
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-###### 6.354 straipsnis. Sutarties sudarymo išlaidos
-
-Vartojimo pirkimo–pardavimo sutarties sudarymo išlaidos tenka pirkėjui tik tuo atveju, jeigu sutarties sudarymo metu pardavėjas jas specialiai ir atskirai aptarė arba nurodė jų apskaičiavimo kriterijus.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.354 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -13622,57 +13510,7 @@ Vartojimo pirkimo–pardavimo sutarties sudarymo išlaidos tenka pirkėjui tik t
 
 3\. Pirkėjas iki daiktų perdavimo turi teisę atsisakyti sutarties pagal daiktų pavyzdžius. Tačiau šiuo atveju pirkėjas privalo atlyginti pardavėjo turėtas būtinas išlaidas, susijusias su sutarties vykdymu iki atsisakymo, jeigu sutartis nenumato ko kita.
 
-###### 6.357 straipsnis. Daiktų pardavimas ne prekybai skirtose patalpose
-
-1\. Daiktų pirkimo–pardavimo sutartis, sudaryta ne prekybai skirtose patalpose, yra sutartis, kurią pardavėjas ir vartotojas sudaro pardavėjo organizuotos išvykos už jo verslo patalpų metu arba pardavėjo vizito į to vartotojo gyvenamąją patalpą, jo darbo, mokymosi ar kitą vietą metu. Šio straipsnio nuostatos mutatis mutandis taikomos ir vartojimo paslaugų sutartims.
-
-2\. Daiktų pardavimo ne prekybai skirtose patalpose taisykles tvirtina Vyriausybė ar jos įgaliota institucija.
-
-3\. Šis straipsnis netaikomas sutartims:
-
-1\) dėl maisto produktų ar kitų kasdieniam vartojimui skirtų daiktų pirkimo–pardavimo ir (arba) pristatymo;
-
-2\) dėl daiktų pirkimo–pardavimo ar paslaugų teikimo, kai pardavėjas ar paslaugų teikėjas atvyksta pagal aiškiai pareikštą vartotojo prašymą, išskyrus atveju, jeigu vartotojui pateikiami kiti daiktai ar paslaugos, nei jis prašė;
-
-3\) dėl draudimo paslaugų teikimo;
-
-4\) dėl vertybinių popierių pirkimo–pardavimo;
-
-5\) dėl daiktų pirkimo–pardavimo ar paslaugų teikimo, kai pagal sudarytą sutartį vartotojas turi mokėti ne daugiau kaip du šimtus litų;
-
-6\) kai buvo sudaryta notarinės formos sutartis.
-
-4\. Pardavėjas, parduodamas daiktą ne prekybai skirtose patalpose, privalo įteikti pirkėjui dokumentą, kuriame turi būti nurodyta:
-
-1\) dokumento įteikimo vartotojui data;
-
-2\) daikto pavadinimas;
-
-3\) daikto kaina, įskaitant visus mokesčius;
-
-4\) pardavėjo pavadinimas ir adresas;
-
-5\) asmens, kurio vardu sutarties atsisakęs vartotojas gali adresuoti savo atsisakymą, pavadinimas (vardas, pavardė);
-
-6\) vartotojo teisė nutraukti sutartį šio straipsnio 6–11 dalyse numatyta tvarka.
-
-5\. Pareiga įrodyti, kad šio straipsnio 4 dalyje nurodytas dokumentas buvo įteiktas vartotojui, tenka pardavėjui.
-
-6\. Pirkėjas turi teisę atsisakyti sutarties (nutraukti sutartį), sudarytos ne prekybai skirtose patalpose, apie tai pranešdamas raštu pardavėjui per septynias dienas nuo šio straipsnio 4 dalyje nurodyto dokumento gavimo dienos. Šios pirkėjo teisės negalima suvaržyti jokiais papildomais įsipareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti. Jeigu šio straipsnio 4 dalyje nurodytas dokumentas pirkėjui nebuvo įteiktas, pirkėjas turi teisę nutraukti sutartį per tris mėnesius nuo sutarties sudarymo dienos.
-
-7\. Šio straipsnio 6 dalyje numatyta teise pirkėjas turi teisę pasinaudoti, jeigu daiktas nebuvo sugadintas ar jo išvaizda iš esmės nepasikeitė. Daikto ar jo pakuotės išvaizdos pakeitimų, kurie buvo būtini norint apžiūrėti gautą daiktą, negalima laikyti esminiais daikto išvaizdos pakeitimais. Kai kyla ginčas dėl daikto išvaizdos, gali būti skiriam ekspertizė. Jos išlaidas atlygina kaltoji šalis.
-
-8\. Pirkėjas negali pasinaudoti šio straipsnio 6 dalyje numatyta teise nutraukti sutartį, jeigu sutartis buvo sudaryta dėl paslaugų, kurios vartotojo sutikimu pradėtos teikti nepasibaigus šio straipsnio 6 dalyje nurodytam terminui.
-
-9\. Pardavėjas, gavęs šio straipsnio 6 dalyje numatytą pranešimą apie sutarties nutraukimą, per penkiolika dienų privalo atsiimti pirkėjo grąžintą daiktą ir grąžinti pirkėjui už daiktą sumokėtą pinigų sumą. Šalys savo prievoles šiuo atveju privalo įvykdyti kartu.
-
-10\. Jeigu pirkėjas šio straipsnio 6 dalyje numatyta tvarka atsisakė sutarties, bet daiktas negali būti grąžintas, nes jis žuvo ar sugedo dėl pirkėjo kaltės, tai pirkėjas turi grąžinti jo vertę ar vertės sumažėjimą. Kai pažeidžiant šio straipsnio 4 dalies reikalavimus pirkėjui nebuvo tinkamai pranešta apie jo teisę atsisakyti sutarties, pirkėjas privalo grąžinti žuvusio ar sugadinto daikto vertę arba jos sumažėjimą tik tuo atveju, jeigu jis nebuvo tiek rūpestingas, koks būtų buvęs rūpestingas turto saugotojas.
-
-11\. Už daikto naudojimą bei kitas paslaugas, suteiktas iki teisės atsisakyti sutarties įgyvendinimo momento, pirkėjas turi sumokėti pagal jų vertę. Tačiau pirkėjas neprivalo atlyginti daikto vertės sumažėjimo dėl jo naudojimo pagal paskirtį.
-
-12\. Šalių susitarimai, neatitinkantys šio straipsnio nuostatų ir pabloginantys vartotojo padėtį, negalioja.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.357 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -13687,16 +13525,6 @@ Vartojimo pirkimo–pardavimo sutarties sudarymo išlaidos tenka pirkėjui tik t
 3\. Jeigu pirkėjui neperduodamas daiktas, už kurį sumokėta, tai pardavėjas pirkėjo reikalavimu nedelsdamas privalo perduoti daiktą arba grąžinti sumokėtą kainą.
 
 4\. Šiame straipsnyje nurodytos taisyklės taikomos ir tais atvejais, kai automatas skirtas pinigams keisti, mokėjimo ženklams įsigyti ar valiutai keisti, jeigu kas kita nenustatyta specialiose taisyklėse.
-
-###### 6.359 straipsnis. Daiktų pardavimas su sąlyga juos pristatyti pirkėjui
-
-1\. Jeigu vartojimo pirkimo–pardavimo sutartis numato, kad daiktai turi būti pristatyti pirkėjui, tai pardavėjas privalo per sutartyje nurodytą terminą pristatyti daiktus į pirkėjo nurodytą vietą, o kai ji nenurodyta, – į pirkėjo gyvenamąją vietą.
-
-2\. Sutartis laikoma įvykdyta nuo daiktų įteikimo pirkėjui, o kai pirkėjo nėra, – nuo jų įteikimo asmeniui, kuris pateikia kvitą ar kitokį dokumentą, patvirtinantį sutarties sudarymą ar daiktų pristatymo įforminimą, jeigu sutartis nenumato ko kita.
-
-3\. Jeigu sutartis nenustato daiktų pristatymo pirkėjui termino, tai daiktai turi būti pristatyti per protingą terminą po to, kai pardavėjas gavo pirkėjo reikalavimą juos pristatyti. Kai daiktai per protingą terminą nepristatomi, pirkėjas turi teisę nutraukti sutartį ir neprivalo mokėti daiktų pristatymo išlaidų, jeigu sutartis nenumato ko kita.
-
-**Redakcija nuo 2014-06-13:**
 
 ###### 6.359 straipsnis. Daiktų pardavimas su sąlyga juos pristatyti pirkėjui
 
@@ -13716,8 +13544,6 @@ Vartojimo pirkimo–pardavimo sutarties sudarymo išlaidos tenka pirkėjui tik t
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-**Papildoma straipsniu nuo 2014-06-13:**
-
 ###### 6.359¹ straipsnis. Rizikos perdavimas
 
 Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir pardavėjas išsiunčia daiktus pirkėjui, daiktų atsitiktinio žuvimo ar sugedimo rizika pereina pirkėjui, kai jis ar jo nurodytas asmuo, išskyrus vežėją, priima daiktus. Jeigu daiktai perduodami vežėjui, kurį pasirinko pirkėjas, o pardavėjas nesiūlė tokio pristatymo, šioje dalyje numatyta rizika pereina pirkėjui, kai daiktai perduodami vežėjui.
@@ -13726,19 +13552,7 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-###### 6.360 straipsnis. Daiktų kaina ir jos mokėjimas
-
-1\. Pirkėjas privalo sumokėti už daiktus pardavėjo nurodytą sutarties sudarymo metu kainą, jeigu ko kita nenumato sutartis ar įstatymai.
-
-2\. Pardavėjui draudžiama vienašališkai didinti daikto kainą po sutarties sudarymo. Jeigu pardavėjas po sutarties sudarymo vienašališkai padidina kainą, tai pirkėjas turi teisę atsisakyti sutarties raštu apie tai pranešdamas pardavėjui, išskyrus atvejus, kai sutartis numato, kad daiktai bus perduoti pirkėjui praėjus daugiau kaip trims mėnesiams po sutarties sudarymo, o pardavėjas turi teisę vienašališkai per šį terminą padidinti daikto kainą.
-
-3\. Kai pirkimo–pardavimo sutartis numato išankstinį mokėjimą už daiktus, o pirkėjas per sutartyje nustatytą terminą nesumoka kainos, laikoma, kad pirkėjas atsisakė sutarties, jeigu sutartyje nenumatyta kas kita.
-
-4\. Jeigu daiktai perkami išsimokėtinai (kreditan), tai pirkėjas turi teisę sumokėti už daiktus iki mokėjimo termino pabaigos.
-
-5\. Kai pirkėjas praleidžia mokėjimo terminus, palūkanos už laiku nesumokėtą sumą neskaičiuojamos.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.360 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -13758,53 +13572,11 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 3\. Pirkėjo reikalavimas pakeisti daiktus tenkinamas, jeigu daiktai nebuvo naudojami, nesugadinti, išsaugotos jų vartojamosios savybės bei nepraradę prekinės išvaizdos ir pirkėjas turi įrodymus, patvirtinančius, kad jis daiktus pirko iš to pardavėjo.
 
-4\. Pagal šio straipsnio nustatytą tvarką nekeičiami ar negrąžinami daiktai nurodomi daiktų grąžinimo ir keitimo taisyklėse. Jas tvirtina Vyriausybė ar jos įgaliota institucija.
-
-**Redakcija nuo 2014-06-13:**
-
 4\. Daiktų keitimo ir grąžinimo tvarka, taip pat nekeičiamų ir negrąžinamų daiktų sąrašas nustatyti Mažmeninės prekybos taisyklėse.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
-
-###### 6.363 straipsnis. Daikto kokybė ir pirkėjo teisės, kai jam parduotas netinkamos kokybės daiktas
-
-1\. Parduodami daiktai turi būti saugūs. Daiktų saugos reikalavimus nustato įstatymai ir kiti teisės aktai. Laikoma, kad pardavėjas visais atvejais garantuoja daiktų kokybę (garantija pagal įstatymą).
-
-2\. Parduodamas daiktas turi būti tinkamos kokybės, t. y. daikto savybės neturi būti blogesnės, nei numatyta tam daiktui taikomame techniniame reglamente (jeigu jis yra) ir daikto pirkimo–pardavimo sutartyje. Draudžiama parduoti daiktus, kurių tinkamumo naudoti terminas pasibaigęs.
-
-3\. Daikto savybės atitinka pirkimo–pardavimo sąlygas, jeigu:
-
-1\) daiktas atitinka daikto gamintojo nurodytus pateikiamų norminių dokumentų reikalavimus;
-
-2\) daiktas tinka naudoti tam, kam tokios rūšies daiktai paprastai naudojami;
-
-3\) daiktas atitinka kokybinius rodiklius, kurių galima tikėtis atsižvelgiant į daikto prigimtį bei daikto gamintojo, jo atstovo ar pardavėjo viešai paskelbtus pareiškimus dėl daikto kokybės.
-
-4\. Pirkėjas, kuriam buvo parduotas netinkamos kokybės daiktas (išskyrus maisto produktus), turintis pardavėjo neaptartų trūkumų, savo pasirinkimu turi teisę per šio kodekso 6.338 straipsnyje nurodytą terminą reikalauti iš pardavėjo:
-
-1\) pakeisti netinkamos kokybės daiktą tinkamos kokybės daiktu;
-
-2\) atitinkamai sumažinti prekės kainą;
-
-3\) per protingą terminą neatlygintinai pašalinti daikto trūkumus;
-
-4\) atlyginti daikto trūkumų pašalinimo išlaidas, jeigu pardavėjui per protingą terminą jų nepašalinus trūkumus pašalino pirkėjas pats ar trečiųjų asmenų padedamas.
-
-5\. Visais atvejais pirkėjas turi teisę į nuostolių, atsiradusių dėl netinkamos kokybės prekės pardavimo, atlyginimą.
-
-6\. Pakeisti techniškai sudėtingą ir brangią prekę pirkėjas turi teisę reikalauti, jeigu tos prekės kokybei nustatyti reikalavimai iš esmės pažeisti.
-
-7\. Jeigu daikto trūkumų negalima pašalinti dėl daikto savybių (maisto prekės, buitinės chemijos prekės ir kt.), tai pirkėjas savo pasirinkimu turi teisę reikalauti pakeisti tokį netinkamos kokybės daiktą tinkamos kokybės daiktu arba atitinkamai sumažinti daikto kainą.
-
-8\. Pirkėjas vietoj šio straipsnio 4–7 dalyse numatytų reikalavimų gali vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą. Šiuo atveju netinkamos kokybės daiktą pardavėjo reikalavimu pirkėjas turi grąžinti pardavėjo sąskaita. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
-
-9\. Išreikalauti sumokėtą kainą pirkėjas šio straipsnio numatytais atvejais gali per dvejų metų ieškinio senaties terminą.
-
-10\. Vartotojų teises ginančios institucijos įstatymų nustatyta tvarka turi teisę savo iniciatyva ginti vartotojų teises, pažeistas dėl netinkamos kokybės daiktų pardavimo.
-
-**Redakcija nuo 2014-06-13:**
 
 ###### 6.363 straipsnis. Daikto kokybė (atitiktis sutarčiai) ir pirkėjo teisės, kai jam parduotas netinkamos kokybės daiktas
 
@@ -13866,83 +13638,13 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 4\. Pirkėjas, grąžindamas prastos kokybės daiktą pardavėjui, turi teisę reikalauti atlyginti nustatytos sutartyje kainos ir kainos, galiojančios jo reikalavimo patenkinimo momentu, o jeigu jo reikalavimo pardavėjas netenkina, – teismo arba kitokios institucijos sprendimo priėmimo momentu, skirtumą.
 
-###### 6.365 straipsnis. Pardavėjo atsakomybė ir prievolės įvykdymas natūra
-
-Jeigu pardavėjas neįvykdo savo prievolės pagal vartojimo pirkimo–pardavimo sutartį, tai nuostolių atlyginimas ar netesybų sumokėjimas neatleidžia pardavėjo nuo prievolės įvykdymo natūra.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.365 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-###### 6.366 straipsnis. Daiktų pardavimas pagal sutartis, sudaromas naudojant ryšio priemones
-
-1\. Daiktų pirkimo–pardavimo sutartis, sudaryta naudojant ryšio priemones, yra pardavėjo ir pirkėjo (vartotojo) sutartis dėl daiktų pardavimo, sudaroma naudojant tik ryšio priemones (vieną ar kelias). Šio straipsnio nuostatos mutatis mutandis taikomos ir vartojimo paslaugų bei kitoms vartojimo sutartims.
-
-2\. Vyriausybė ar jos įgaliota institucija tvirtina daiktų pardavimo ir paslaugų teikimo, kai sutartys sudaromos naudojant ryšio priemones, taisykles.
-
-3\. Šio straipsnio ir šio kodekso 6.367 straipsnio nuostatos netaikomos sutartims, kurios sudaromos:
-
-1\) dėl finansinių paslaugų teikimo;
-
-2\) aukciono būdu;
-
-3\) naudojant pardavimo automatus (šio kodekso 6.358 straipsnis);
-
-4\) viešaisiais mokamais telefonais su telefoninio ryšio paslaugų teikėjais dėl tokių mokamų telefonų naudojimo;
-
-5\) dėl nekilnojamojo daikto statybos, pirkimo–pardavimo arba daiktinių teisių į nekilnojamąjį daiktą.
-
-4\. Šio straipsnio 5, 6, 8, 9 ir 10 dalys ir šio kodekso 6.367 straipsnis netaikomi sutartims, kurios sudaromos:
-
-1\) dėl maisto produktų ar kitų kasdieniam vartojimui skirtų daiktų nuolatinio tiekimo į pirkėjo namus, jo gyvenamąją ar darbo vietą;
-
-2\) dėl apgyvendinimo, transporto, maitinimo ar laisvalaikio paslaugų, kai paslaugų teikėjas įsipareigoja pateikti šias paslaugas tam tikru laiku arba per tam tikrą laikotarpį.
-
-5\. Pardavėjas iki sutarties sudarymo privalo naudojamomis ryšio priemonėmis pateikti pirkėjui tinkamą informaciją, kurioje privalo būti nurodyta:
-
-1\) duomenys apie pardavėją;
-
-2\) daikto pagrindinės savybės;
-
-3\) pardavimo kaina;
-
-4\) daikto pristatymo kaina;
-
-5\) mokėjimo, pristatymo ar atlikimo tvarka;
-
-6\) pirkėjo teisės atsisakyti sutarties pagal šio kodekso 6.367 straipsnio taisykles įgyvendinimo tvarka;
-
-7\) naudojimosi ryšio priemonėmis įkainiai, kai jie skaičiuojami kitaip negu įprasta;
-
-8\) laikotarpis, kurį pasiūlymas ir kaina galioja;
-
-9\) mažiausia sutarties trukmė, kai yra sudaroma sutartis dėl nuolatinio daiktų tiekimo.
-
-6\. Šio straipsnio 5 dalyje nurodytos informacijos komercinis pobūdis turi būti aiškiai ir suprantamai išreikštas ir atitikti naudojamas ryšio priemones. Jeigu kalbama telefonu, pardavėjas privalo aiškiai išdėstyti komercinį pokalbio tikslą.
-
-7\. Be pirkėjo išankstinio sutikimo pardavėjas negali naudoti automatinių telefoninio ryšio priemonių, kuriomis naudojantis nebūtinas asmens dalyvavimas, telefakso. Ryšio priemonės, suteikiančios galimybę bendrauti asmeniškai, gali būti naudojamos tik tuo atveju, jeigu pirkėjas tam neprieštarauja.
-
-8\. Iki sutarties sudarymo, o kai daiktai tiekiami, – iki daiktų pateikimo (jeigu juos pateikia ne pardavėjo įgaliotas trečiasis asmuo) pirkėjas turi gauti informaciją raštu (nebent tokia informacija raštu jau buvo pateikta pirkėjui prieš sutarties sudarymą) apie:
-
-1\) siūlomą daiktą (pavadinimas, pagrindinės savybės);
-
-2\) pardavėją; nurodoma, kur ir kam pirkėjas gali adresuoti bet kokį skundą;
-
-3\) pirkėjo teisės atsisakyti sutarties pagal šio kodekso 6.367 straipsnio taisykles įgyvendinimo tvarką;
-
-4\) mokėjimo, pristatymo ar atlikimo tvarką, pardavėjo teikiamas daikto priežiūros paslaugas ir garantijas, jeigu jos suteikiamos;
-
-5\) sutarties atsisakymo sąlygas, jeigu sutartis neterminuota arba ilgesnė negu vieniems metams.
-
-9\. Pareiga įrodyti, kad šio straipsnio 8 dalyje nustatyta informacija raštu buvo įteikta pirkėjui, tenka pardavėjui.
-
-10\. Pardavėjas turi pateikti daiktus per trisdešimt kalendorinių dienų nuo sutarties sudarymo dienos, jeigu sutartis nenumato ko kita.
-
-11\. Jeigu pardavėjas nevykdo savo sutartinių įsipareigojimų, kadangi negali gauti pirkėjo užsakytų daiktų, jis nedelsdamas apie tai informuoja pirkėją ir kuo greičiau, bet ne vėliau kaip per trisdešimt kalendorinių dienų nuo tos dienos, kurią sužinojo arba turėjo sužinoti, kad negali gauti pirkėjo užsakytų daiktų, grąžina pirkėjui įmokėtas sumas.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.366 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -13950,37 +13652,7 @@ Jeigu pardavėjas neįvykdo savo prievolės pagal vartojimo pirkimo–pardavimo 
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-###### 6.367 straipsnis. Pirkėjo teisė atsisakyti pirkimo–pardavimo sutarties, sudarytos naudojant ryšio priemones
-
-1\. Pirkėjas turi teisę nenurodydamas priežasties atsisakyti pirkimo–pardavimo sutarties, sudarytos naudojant ryšio priemones, pranešdamas apie tai raštu pardavėjui per septynias darbo dienas nuo:
-
-1\) daikto pristatymo dienos, – kai parduodamas daiktas;
-
-2\) sutarties sudarymo dienos, – kai teikiamos paslaugos.
-
-2\. Jeigu šio kodekso 6.366 straipsnio 8 dalyje nurodyta informacija pirkėjui nebuvo įteikta raštu, jis turi teisę atsisakyti sutarties per tris mėnesius nuo daikto pristatymo dienos, kai parduodamas daiktas, arba sutarties sudarymo dienos, kai teikiamos paslaugos. Jeigu šio kodekso 6.366 straipsnio 8 dalyje nurodyta informacija suteikiama pirkėjui per tris mėnesius nuo daikto pristatymo dienos, kai parduodamas daiktas, arba sutarties sudarymo dienos, kai teikiamos paslaugos, jis turi teisę atsisakyti sutarties per septynias darbo dienas nuo minėtos informacijos pateikimo dienos.
-
-3\. Draudžiama šiame straipsnyje numatytą pirkėjo teisę atsisakyti sutarties suvaržyti papildomais įsipareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti, išskyrus šiame straipsnyje numatytus atvejus.
-
-4\. Jeigu sutarties šalys nėra susitarusios kitaip, pirkėjas neturi teisės pasinaudoti šio straipsnio 1 ir 2 dalyse nurodyta teise atsisakyti sutarties, jeigu sutartis buvo sudaryta dėl:
-
-1\) garso ir (ar) vaizdo įrašų (fonogramų, audiovizualinių įrašų) bet kokiose vaizdo ar garso laikmenose, kompiuterių programų tiekimo ir pirkėjas pažeidė pakuotės apsaugas;
-
-2\) laikraščių, žurnalų ar kitų periodinių leidinių tiekimo;
-
-3\) dalyvavimo žaidimuose ir loterijose;
-
-4\) paslaugų teikimo, kai pirkėjo sutikimu sutartis buvo pradėta vykdyti nepasibaigus šio straipsnio 1 dalyje nurodytam septynių darbo dienų terminui;
-
-5\) prekių, kurios buvo gaminamos pagal pirkėjo individualų užsakymą arba yra akivaizdžiai jam pritaikytos, arba kurios dėl savo prigimties po jų pateikimo pirkėjui nebegali būti grąžintos dėl prekinių savybių praradimo (netekimo), yra greitai gendančios arba baigiasi jų galiojimo laikas.
-
-5\. Daiktų pirkimo–pardavimo atveju pirkėjas gali pasinaudoti teise nutraukti sutartį, jeigu daiktas nebuvo sugadintas ar jo išvaizda iš esmės nepasikeitė. Daikto ar jo pakuotės išvaizdos pakeitimai, kurie buvo būtini norint apžiūrėti gautą daiktą, negali būti vertinami kaip esminiai daikto išvaizdos pakeitimai. Kai kyla ginčas dėl daikto išvaizdos, gali būti skiriama ekspertizė. Jos išlaidas apmoka kaltoji šalis.
-
-6\. Jeigu pirkėjas pasinaudoja teise atsisakyti sutarties, kai už daiktą visiškai ar iš dalies sumokama pagal tam tikslui pardavėjo ir pirkėjo arba pardavėjo ir trečiojo asmens sudarytą vartojimo kredito sutartį, tai ta vartojimo kredito sutartis turi būti nutraukiama be jokių papildomų įsipareigojimų pirkėjui.
-
-7\. Pardavėjas, gavęs šio straipsnio 1 dalyje nurodytą pranešimą apie sutarties atsisakymą, per penkiolika dienų privalo atsiimti daiktą ir grąžinti pirkėjui už daiktą sumokėtus pinigus.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+6.367 straipsnis. Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -13988,13 +13660,9 @@ Jeigu pardavėjas neįvykdo savo prievolės pagal vartojimo pirkimo–pardavimo 
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-###### 6.368 straipsnis. Daiktų tiekimas be vartotojo sutikimo
+6.368 straipsnis. Neteko galios nuo 2014-06-13.
 
-1\. Draudžiama tiekti daiktus vartotojui be jo sutikimo, jeigu už juos reikalaujama mokėti.
-
-2\. Jeigu buvo pateikti daiktai be vartotojo sutikimo, vartotojas gali jais naudotis savo nuožiūra neatlygintinai.
-
-**Straipsnis netenka galios nuo 2014-06-13.**
+*Straipsnio pakeitimai:*
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
@@ -14143,18 +13811,6 @@ Viešojo pirkimo–pardavimo sutartys sudaromos konkurso tvarka, išskyrus įsta
 Viešojo pirkimo–pardavimo sutartims šio kodekso normos taikomos tiek, kiek kiti įstatymai nenustato ko kita.
 
 ##### Septintasis skirsnis – Energijos pirkimo–pardavimo sutartys
-
-###### 6.383 straipsnis. Energijos pirkimo–pardavimo sutarties samprata
-
-1\. Pagal energijos (ar energijos išteklių) pirkimo–pardavimo sutartį energijos tiekimo įmonė įsipareigoja patiekti abonentui (vartotojui) per prijungtą energijos tiekimo tinklą sutartyje numatytos rūšies energijos kiekį, o abonentas (vartotojas) įsipareigoja už patiektą energiją sumokėti ir laikytis sutartyje numatyto jos vartojimo režimo, užtikrinti jam priklausančių energijos tiekimo tinklų eksploatavimo saugumą bei naudojamų prietaisų ir įrenginių tvarkingumą.
-
-2\. Energijos pirkimo–pardavimo sutartis sudaroma su abonentu tik tuo atveju, kai jis turi energiją naudojančius įrenginius ar nustatytus techninius reikalavimus atitinkančius vidaus tinklus, kurie yra prijungti prie energijos tiekimo tinklų, ir kai įrengti energijos apskaitos prietaisai. Kai tiesiami nauji energijos tiekimo tinklai, sudaromoms išankstinėms energijos pirkimo–pardavimo sutartims šios dalies reikalavimai netaikomi. Šilumos energijos, karšto ir šalto vandens pirkimo–pardavimo sutartis su buitiniu vartotoju gali būti sudaroma ir tuo atveju, kai nėra tiesioginės šių energijos išteklių apskaitos tarp energijos tiekėjo ir vartotojo.
-
-3\. Energijos pirkimo–pardavimo sutartis yra viešoji sutartis (šio kodekso 6.161 straipsnis).
-
-4\. Kai energijos pirkimo–pardavimo sutartis yra vartojimo sutartis, t. y. abonentas yra fizinis asmuo, kuris energiją perka asmeniniams, savo šeimos ar namų ūkio poreikiams (vartotojas), energijos pirkimo–pardavimo sutarčiai mutatis mutandis taikomas šio kodekso 6.188 straipsnis ir kiti šio kodekso straipsniai, nustatantys vartojimo pirkimo–pardavimo sutarčių ypatumus.
-
-**Redakcija nuo 2014-06-13:**
 
 ###### 6.383 straipsnis. Energijos pirkimo–pardavimo sutarties samprata
 
@@ -14456,12 +14112,6 @@ Daiktų pirkimo–pardavimo išsimokėtinai sutartyje gali būti numatyta pirkė
 
 ###### 6.416 straipsnis. Daiktų pirkimo–pardavimo išsimokėtinai ypatumai, kai pirkėjas yra vartotojas
 
-Jeigu pirkėjas yra vartotojas, tai daiktų pirkimo–pardavimo išsimokėtinai sutarčiai atitinkamai taikomas šio kodekso 6.188 straipsnis ir kitos vartotojų teises ginančios teisės normos.
-
-**Redakcija nuo 2014-06-13:**
-
-###### 6.416 straipsnis. Daiktų pirkimo–pardavimo išsimokėtinai ypatumai, kai pirkėjas yra vartotojas
-
 Daiktų pirkimo–pardavimo išsimokėtinai sutarčiai, kuri yra vartojimo sutartis, taikomos šio kodekso normos, reglamentuojančios vartojimo sutartis.
 
 *Straipsnio pakeitimai:*
@@ -14493,16 +14143,6 @@ Daiktų pirkimo–pardavimo išsimokėtinai sutarčiai, kuri yra vartojimo sutar
 6\. Vertybinių popierių pirkimo–pardavimo su atpirkimo teise sutarties ypatumus nustato atskiri įstatymai.
 
 ##### Dvyliktasis skirsnis – Daiktų pardavimas aukcionO BŪDU
-
-###### 6.419 straipsnis. Daiktų pirkimas–pardavimas aukciono būdu
-
-1\. Daiktų pirkimas–pardavimas aukciono būdu reiškia, kad daiktai siūlomi pirkti keliems asmenims per tarpininką – aukciono vedėją, o sutartis laikoma sudaryta su tuo pirkėju – aukciono dalyviu, kuris pasiūlo didžiausią kainą už parduodamą daiktą.
-
-2\. Aukcionas gali būti savanoriškas arba priverstinis. Varžytynių, kaip priverstinio aukciono, ypatumus nustato Civilinio proceso kodeksas.
-
-3\. Valstybei ir savivaldybėms nuosavybės teise priklausančių daiktų pirkimui–pardavimui aukciono būdu šio skirsnio taisyklės taikomos tiek, kiek kiti įstatymai nenumato ko kita.
-
-**Redakcija nuo 2014-06-13:**
 
 ###### 6.419 straipsnis. Daiktų pirkimas–pardavimas aukciono būdu
 
@@ -16544,16 +16184,6 @@ Antrasis skirsnis
 
 ###### 6.672 straipsnis. Vartojimo rangos sutarties samprata
 
-1\. Pagal vartojimo rangos sutartį rangovas, kuris verčiasi tam tikru verslu, įsipareigoja pagal fizinio asmens (vartotojo) užsakymą atlikti tam tikrą darbą, skirtą tenkinti buitinius ar asmeninius užsakovo ar jo šeimos poreikius, o užsakovas įsipareigoja priimti darbo rezultatą ir už jį sumokėti.
-
-2\. Vartojimo rangos sutarčiai mutatis mutandis taikomos šio kodekso 6.188, 6.350–6.370 straipsniuose nustatytos taisyklės.
-
-3\. Vartojimo rangos santykiams, kurių šio kodekso normos nenustato, taikomi vartotojų teisių gynimo ir kiti su šių teisių gynimu susiję įstatymai.
-
-**Redakcija nuo 2014-06-13:**
-
-###### 6.672 straipsnis. Vartojimo rangos sutarties samprata
-
 1\. Pagal vartojimo rangos sutartį rangovas, kuris yra verslininkas, įsipareigoja pagal užsakovo, kuris yra vartotojas, užsakymą atlikti tam tikrą darbą, skirtą tenkinti buitinius ar asmeninius užsakovo ar jo šeimos poreikius, o užsakovas įsipareigoja priimti darbo rezultatą ir už jį sumokėti.
 
 2\. Vartojimo rangos sutarčiai taikomos šio kodekso normos, reglamentuojančios vartojimo sutartis.
@@ -16919,10 +16549,6 @@ BendrOSIOS nuostatOS
 2\. Šio skyriaus nuostatos taikomos tik tokioms paslaugoms, kai tarp paslaugų teikėjo ir kliento neatsiranda darbo ar kitokių pavaldumo (subordinacijos) santykių.
 
 3\. Šio skyriaus normų nustatytos taisyklės taikomos teikiant audito, konsultacinių, asmens sveikatos priežiūros, veterinarijos, informacijos, mokymo, turizmo ar kitokias atlygintinas paslaugas, išskyrus paslaugas, teikiamas pagal šios knygos XXXIII, XXXIV, XXXVI, XXXVIII, XL, XLI, XLII, XLIV, XLVI, XLVII, L skyriuose nustatytas taisykles.
-
-4\. Kai klientas yra fizinis asmuo vartotojas, paslaugų sutarčiai mutatis mutandis taikomos šio kodekso 6.188, 6.350–6.370 straipsnių taisyklės.
-
-**Redakcija nuo 2014-06-13:**
 
 4\. Vartojimo paslaugų sutarčiai taikomos šio kodekso normos, reglamentuojančios vartojimo sutartis.
 
@@ -19624,18 +19250,6 @@ priedas
 
 **ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI**
 
-2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).
-
-**Redakcija nuo 2014-06-13:**
-
-Lietuvos Respublikos
-
-civilinio kodekso
-
-priedas
-
-**ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI**
-
 1\. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 288).
 
 2\. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 32).
@@ -19964,6 +19578,12 @@ LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šio įstatymo nuostatos taikomos sutartims, sudarytoms įsigaliojus šiam įstatymui.
 
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO NR. XII-700 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19978,6 +19598,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2014-02-05)
+Redagavo Aušra Bodin (2014-06-18)
 
 [email protected]
