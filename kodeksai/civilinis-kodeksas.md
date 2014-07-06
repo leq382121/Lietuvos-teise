@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2014-06-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_474496"
+redakcija_nuo: "2014-07-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_477244"
 ---
 
 # Civilinis kodeksas
@@ -2536,13 +2536,15 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 2\. Kiekvienam juridiniam asmeniui suformuojama atskira byla. Joje kaupiami ir saugomi registrui pateikti dokumentai, jų kopijos, duomenys bei kita informacija, susijusi su tuo juridiniu asmeniu.
 
-3\. Registro teikiami rašytinės formos registro duomenų ir informacijos išrašai turi turėti žymą „išrašas tikras“, o dokumentų kopijos – žymą „kopija tikra“, išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Registro teikiami elektroninės formos registro duomenų ir informacijos išrašai ir dokumentų kopijos netvirtinamos žymomis „išrašas tikras“ („kopija tikra“), išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, reikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią.
+3\. Registro teikiami rašytinės formos registro duomenų ir informacijos išrašai turi turėti žymą „išrašas tikras“, o dokumentų kopijos – žymą „kopija tikra“, išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Registro teikiami elektroninės formos registro duomenų ir informacijos išrašai ir dokumentų kopijos netvirtinami žymomis „išrašas tikras“ („kopija tikra“), išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, reikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią. Apie tai, kad juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią, juridinių asmenų registro tvarkytojas turi nurodyti skelbdamas ir teikdamas šiuos duomenų ir informacijos išrašus ir dokumentų kopijas.
 
 4\. Kiekvienas asmuo juridinių asmenų registro nuostatų nustatyta tvarka turi teisę nedelsiant nemokamai gauti informaciją žodžiu apie juridinio asmens teisinį statusą ir veiklos apribojimus.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+*Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753*
 
 ###### 2.72 straipsnis. Juridinių asmenų registro duomenų paskelbimo būdai ir tvarka
 
@@ -11888,7 +11890,7 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 3\. Teismas gali pakeisti sutartį ar atskiras jos sąlygas ir šalies, gavusios pranešimą apie sutarties atsisakymą, prašymu, jeigu ši šalis po pranešimo gavimo nedelsdama apie savo prašymą teismui pranešė kitai šaliai ir pastaroji sutarties dar neatsisakė.
 
-**Papildoma skyriumi nuo 2014-06-13:**
+*Papildyta skyriumi:*
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
@@ -12116,7 +12118,7 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 *Straipsnio pakeitimai:*
 
-*Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16 i. k. 2014-07638*
+*Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638*
 
 ###### 6.228⁹ straipsnis. Ne prekybos patalpose sudarytos sutartys
 
@@ -13488,7 +13490,7 @@ Jeigu įstatymai ar sutartis nenumato ko kita, laikoma, kad vartojimo pirkimo–
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-6.354 straipsnis. Neteko galios nuo 2014-06-13.
+6.354 straipsnis Neteko galios nuo 2014-06-13.
 
 *Straipsnio pakeitimai:*
 
@@ -19260,6 +19262,8 @@ priedas
 
 5\. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64).
 
+6\. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
+
 *Kodeksas papildytas priedu:*
 
 *Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)*
@@ -19267,6 +19271,8 @@ priedas
 *Priedo pakeitimai:*
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
+
+*Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753*
 
 **Pakeitimai:**
 
@@ -19578,11 +19584,25 @@ LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 Šio įstatymo nuostatos taikomos sutartims, sudarytoms įsigaliojus šiam įstatymui.
 
+Pakeitimas:
+
+34.1.
+
 Lietuvos Respublikos Seimas, Įstatymas
 
 Nr. XII-916, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07638
 
 LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMO NR. XII-700 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+35\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.71 STRAIPSNIO IR PRIEDO PAKEITIMO ĮSTATYMAS
+
+Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2014 m. liepos 7 d.
 
 \*\*\* Pabaiga \*\*\*
 
@@ -19598,6 +19618,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušra Bodin (2014-06-18)
+Redagavo Aušrinė Trapinskienė (2014-07-08)
 
 [email protected]
