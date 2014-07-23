@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2014-07-07"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_477244"
+redakcija_nuo: "2014-07-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_478775"
 ---
 
 # Civilinis kodeksas
@@ -14,11 +14,11 @@ redakcija_nuo: "2014-07-07"
 
 Neoficialus įstatymo tekstas
 
-Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
+*Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.*
 
-Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+*Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)*
 
-VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+*VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS*
 
 LIETUVOS RESPUBLIKOS
 
@@ -121,6 +121,20 @@ Civilinio kodekso antrosios knygos IV skyriaus normos, susijusios su juridinio a
 1\. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pasibaigimą ir pertvarkymą, taikomos juridinių asmenų pasibaigimo ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus.
 
 2\. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+**Redakcija nuo 2015-01-01:**
+
+###### 16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
+
+1\. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pabaigą ir pertvarkymą, taikomos juridinių asmenų pabaigos ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
+
+2\. Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami juridinių asmenų registro nuostatuose nustatyta tvarka.
+
+3\. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460*
 
 ###### 17 straipsnis. Civilinio kodekso 2.79 straipsnio 4 dalies normų įsigaliojimas
 
@@ -2196,6 +2210,14 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų tapatumas turi būti notaro patvirtintas, išskyrus įstatymų nustatytas išimtis.
 
+**Redakcija nuo 2015-01-01:**
+
+5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
+
 ###### 2.47 straipsnis. Juridinio asmens įstatai
 
 1\. Juridinio asmens įstatuose, o jeigu juridinis asmuo neturi įstatų, – steigimo sandoryje arba bendruosiuose nuostatuose, jeigu juridinis asmuo veikia pagal bendruosius nuostatus, arba teisės akte, jei viešasis juridinis asmuo veikia pagal teisės aktą, turi būti nurodyta:
@@ -2480,11 +2502,17 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 4\. Juridinių asmenų registrui pateikiamas įmonės metinių finansinių ataskaitų rinkinys (konsoliduotųjų finansinių ataskaitų rinkinys) ir metinis pranešimas (konsoliduotasis metinis pranešimas) kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kitaip.
 
+**Redakcija nuo 2015-01-01:**
+
+4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino.
+
 5\. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
 
 ###### 2.67 straipsnis. Asmenys, atsakingi už juridinio asmens dokumentų ir registro duomenų pateikimą registro tvarkytojui
 
@@ -2526,9 +2554,45 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 4\. Registro tvarkytojo prašymai dėl juridinio asmens likvidavimo nagrinėjami Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
 
+**Redakcija nuo 2015-01-01:**
+
+###### 2.70 straipsnis. Juridinio asmens likvidavimas juridinių asmenų registro tvarkytojo iniciatyva
+
+1\. Juridinių asmenų registro tvarkytojas turi teisę inicijuoti juridinio asmens likvidavimą, kai yra bent viena iš šių aplinkybių:
+
+1\) juridinis asmuo nepateikė šio kodekso 2.66 straipsnio 4 dalyje nustatytų dokumentų per dvylika mėnesių nuo šiame kodekse ar kituose įstatymuose nustatytų šių dokumentų pateikimo juridinių asmenų registrui terminų pabaigos;
+
+2\) nesuformuoti juridinio asmens valdymo organai ir dėl to jie negali priimti sprendimų ilgiau negu šešis mėnesius;
+
+3\) juridinio asmens valdymo organų narių ilgiau negu šešis mėnesius negalima surasti juridinio asmens buveinėje ir jų adresais, nurodytais juridinių asmenų registre;
+
+4\) juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo;
+
+5\) politinė partija Politinių partijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo.
+
+2\. Kai yra šio straipsnio 1 dalyje numatytos aplinkybės, juridinių asmenų registro tvarkytojas turi išsiųsti pranešimą apie numatomą inicijuoti juridinio asmens likvidavimą į juridinio asmens buveinę ir juridinių asmenų registre nurodytais valdymo organo narių adresais. Tuo atveju, kai nėra galimybės pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiųsti į juridinio asmens buveinę ir (arba) juridinių asmenų registre nurodytais valdymo organo narių adresais, registro tvarkytojas apie numatomą inicijuoti juridinio asmens likvidavimą viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje ir šį pranešimą įteikia kitais juridinių asmenų registro nuostatuose nurodytais būdais.
+
+3\. Jeigu per tris mėnesius nuo pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiuntimo ar viešo paskelbimo juridinis asmuo registro tvarkytojui nepateikia šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nustatytų dokumentų, paneigiančių šio straipsnio 1 dalyje nurodytų aplinkybių buvimą, registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą inicijuoti juridinio asmens likvidavimą ir juridinis asmuo įgyja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+
+4\. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens dalyvis ar valdymo organo narys per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+
+5\. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą.
+
+6\. Jeigu teismas nepriėmė šio straipsnio 4 dalyje nurodyto prašymo ir 5 dalyje nurodyto ieškinio arba teismas inicijuojamo juridinio asmens likvidavimo neatšaukia, juridinių asmenų registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą likviduoti juridinį asmenį ir juridinis asmuo įgyja likviduojamo juridinio asmens statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+
+7\. Juridinį asmenį likviduojant juridinių asmenų registro tvarkytojo iniciatyva, likvidatorius neskiriamas. Juridinių asmenų registro tvarkytojo iniciatyva likviduojamo juridinio asmens valdymo organai netenka įgaliojimų nuo šio straipsnio 6 dalyje nurodyto sprendimo priėmimo. Šiuo atveju juridinių asmenų registro tvarkytojas atlieka šiame straipsnyje ir juridinių asmenų registro nuostatuose nustatytus veiksmus, reikalingus juridiniam asmeniui, likviduojamam juridinių asmenų registro tvarkytojo iniciatyva, išregistruoti.
+
+8\. Pasibaigusio juridinio asmens dalyviai trejus metus yra solidariai atsakingi ir privalo atlyginti žalą, kurią kreditoriai patyrė dėl to, kad juridinis asmuo likviduotas juridinių asmenų registro tvarkytojo iniciatyva dėl juridinio asmens dalyvių nesąžiningų veiksmų.
+
+9\. Šiame straipsnyje nustatyti juridinių asmenų registro tvarkytojo veiksmai gali būti skundžiami teismui įstatymų nustatyta tvarka.
+
 *Straipsnio pakeitimai:*
 
 *Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
+
+*Pastaba. Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašymu atšaukti likvidatorių, jei juridinio asmens likvidavimo procedūros buvo pradėtos Lietuvos Respublikos civilinio kodekso 2.70 straipsnyje nustatyta tvarka iki šio įstatymo (Nr. XII-1064) įsigaliojimo. Atšaukus likvidatorių, juridinis asmuo iš juridinių asmenų registro išregistruojamas juridinių asmenų registro nuostatuose nustatyta tvarka. Nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.*
 
 ###### 2.71 straipsnis. Juridinių asmenų registro viešumas
 
@@ -2595,6 +2659,14 @@ JURIDINIŲ ASMENŲ TEISNUMAS
 1\. Juridinių asmenų teisnumas negali būti apribotas kitaip, kaip tik įstatymų nustatytais pagrindais ir tvarka.
 
 2\. Apriboti pavienio juridinio asmens teisnumą galima tik teismo sprendimu.
+
+**Redakcija nuo 2015-01-01:**
+
+2\. Apriboti pavienio juridinio asmens teisnumą galima tik teismo sprendimu, išskyrus šio kodekso 2.70 straipsnyje nurodytą atvejį.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
 
 ###### 2.76 straipsnis. Diskriminacijos draudimas
 
@@ -2958,6 +3030,10 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 4\) teismo nutartis likviduoti juridinį asmenį šio kodekso 2.70 straipsnyje nurodytais atvejais;
 
+**Redakcija nuo 2015-01-01:**
+
+4\) juridinių asmenų registro tvarkytojo sprendimas likviduoti juridinį asmenį vadovaujantis šio kodekso 2.70 straipsniu;
+
 5\) laikotarpio, kuriam buvo įsteigtas juridinis asmuo, pabaiga;
 
 6\) juridinio asmens dalyvių skaičiaus sumažėjimas mažiau nei įstatymų leidžiamas minimumas, jeigu juridinio asmens dalyvis per šešis mėnesius po tokio sumažėjimo nenutaria juridinio asmens reorganizuoti ar pertvarkyti;
@@ -2967,6 +3043,8 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 *Straipsnio pakeitimai:*
 
 *Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
 
 ###### 2.107 straipsnis. Juridinio asmens dalyvių sprendimas dėl likvidavimo
 
@@ -2978,13 +3056,25 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 1\. Juridinių asmenų dalyviai, kreditorių susirinkimas, juridinių asmenų registro tvarkytojas ar teismas, priėmę sprendimą likviduoti juridinį asmenį, privalo paskirti likvidatorių.
 
+**Redakcija nuo 2015-01-01:**
+
+1\. Juridinių asmenų dalyviai, kreditorių susirinkimas ar teismas, priėmę sprendimą likviduoti juridinį asmenį, privalo paskirti likvidatorių.
+
 2\. Juridinio asmens steigimo dokumentai ar įstatymai gali nustatyti kitokias likvidatoriaus skyrimo taisykles arba nustatyti konkretų likvidatorių. Teismo, kreditorių susirinkimo ar juridinių asmenų registro tvarkytojo šios taisyklės nesaisto.
+
+**Redakcija nuo 2015-01-01:**
+
+2\. Juridinio asmens steigimo dokumentai ar įstatymai gali nustatyti kitokias likvidatoriaus skyrimo taisykles arba nustatyti konkretų likvidatorių. Teismo ir kreditorių susirinkimo šios taisyklės nesaisto.
 
 3\. Likvidatoriumi gali būti turintis reikiamą kvalifikaciją asmuo. Gali būti skiriama keletas likvidatorių. Jei skiriama keletas likvidatorių, yra sudaroma likvidacinė komisija ir vienas iš likvidatorių skiriamas likvidacinės komisijos pirmininku.
 
 4\. Jei likvidavimo pagrindas yra šio kodekso 2.106 straipsnio 5 bei 6 punktai ir juridinio asmens dalyvis nepaskiria likvidatoriaus, juridinio asmens valdymo organai ar juridinio asmens dalyviai, turintys ne mažiau kaip 1/20 visų balsų, taip pat juridinių asmenų registro tvarkytojas turi teisę kreiptis į teismą, kad šis paskirtų likvidatorių.
 
 5\. Jei likvidavimo pagrindas yra šio kodekso 2.106 straipsnio 3 ar 7 punktai, tai iki to laiko, kol juridinio asmens dalyvis paskirs likvidatorių, likvidatoriaus pareigas atlieka Vyriausybės įgaliota institucija. Ši institucija teismo pritarimu turi teisę pavesti likvidatoriaus pareigas atlikti kitam asmeniui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
 
 ###### 2.109 straipsnis. Juridinio asmens likvidatoriaus atšaukimas
 
@@ -19604,6 +19694,36 @@ LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.71 STRAIPSNIO IR PRIEDO PAKEITIMO ĮSTA
 
 Šis įstatymas, išskyrus 3 straipsnį, įsigalioja 2014 m. liepos 7 d.
 
+36\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.46, 2.66, 2.70, 2.75, 2.106 IR 2.108 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+
+Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašymu atšaukti likvidatorių, jei juridinio asmens likvidavimo procedūros buvo pradėtos Lietuvos Respublikos civilinio kodekso 2.70 straipsnyje nustatyta tvarka iki šio įstatymo įsigaliojimo. Atšaukus likvidatorių, juridinis asmuo iš juridinių asmenų registro išregistruojamas juridinių asmenų registro nuostatuose nustatyta tvarka.
+
+Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+
+37\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO NR. VIII-1864 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Juridinių asmenų, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienų metų ieškinio senaties terminą, skaičiuojamą nuo šio įstatymo įsigaliojimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui.
+
+Jeigu kreditoriai nepareiškia ieškinio per šio straipsnio 1 dalyje nustatytą ieškinio senaties terminą, juridinių asmenų, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, likvidatoriai netenka įgaliojimų ir iš juridinių asmenų registro išregistruojami juridinių asmenų registro nuostatuose nustatyta tvarka. Apie tai juridinių asmenų registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+
+Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami per vienus metus nuo šio straipsnio 1 dalyje nurodyto ieškinio senaties termino pabaigos.
+
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19618,6 +19738,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2014-07-08)
+Redagavo Aušrinė Trapinskienė (2014-07-25)
 
 [email protected]
