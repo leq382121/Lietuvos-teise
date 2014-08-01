@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2014-07-24"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_478774"
+redakcija_nuo: "2014-08-02"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/TAIS_479142"
 ---
 
 # Civilinis kodeksas
@@ -14,11 +14,11 @@ redakcija_nuo: "2014-07-24"
 
 Neoficialus įstatymo tekstas
 
-Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.
+*Pastaba. Nuo 2003 m. vasario 25 d., įsigaliojus įstatymui Nr. IX-1327, visus savivaldybės valdybai bei merui kitų įstatymų priskirtus vykdomuosius įgaliojimus iki tų įstatymų pakeitimo įgyvendina savivaldybės administracijos direktorius.*
 
-Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)
+*Nr. IX-1327, 2003-01-28, Žin., 2003, Nr. 17-704 (2003-02-19)*
 
-VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+*VIETOS SAVIVALDOS ĮSTATYMO 3, 5, 6, 11, 12, 14, 15, 16, 17, 18, 20, 21, 28, 29, 30, 31, 33, 49, 50 STRAIPSNIŲ PAKEITIMO IR 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS*
 
 LIETUVOS RESPUBLIKOS
 
@@ -121,6 +121,20 @@ Civilinio kodekso antrosios knygos IV skyriaus normos, susijusios su juridinio a
 1\. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pasibaigimą ir pertvarkymą, taikomos juridinių asmenų pasibaigimo ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus.
 
 2\. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+**Redakcija nuo 2015-01-01:**
+
+###### 16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
+
+1\. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pabaigą ir pertvarkymą, taikomos juridinių asmenų pabaigos ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
+
+2\. Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami juridinių asmenų registro nuostatuose nustatyta tvarka.
+
+3\. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460*
 
 ###### 17 straipsnis. Civilinio kodekso 2.79 straipsnio 4 dalies normų įsigaliojimas
 
@@ -11074,7 +11088,7 @@ Trečiasis asmuo gali pagal sutartį su kreditoriumi perimti skolininko pareigas
 
 ###### 6.116 straipsnis. Skolos perkėlimas pagal skolininko ir skolos perėmėjo sutartį
 
-1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka, jeigu kituose įstatymuose, reglamentuojančiuose bankų ir bankų sistemos stabilumą ir patikimumą, nenustatyta kitaip. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
+1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka, jeigu kituose įstatymuose, reglamentuojančiuose kredito įstaigų ir kredito įstaigų sistemos stabilumą ir patikimumą, nenustatyta kitaip. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
 
 2\. Kreditorius savo sutikimą perkelti skolą skolininkui gali duoti iš anksto. Išankstinio sutikimo kreditorius neturi teisės atšaukti, išskyrus atvejus, kai tokią teisę išankstiniame sutikime buvo nurodęs.
 
@@ -11085,6 +11099,8 @@ Trečiasis asmuo gali pagal sutartį su kreditoriumi perimti skolininko pareigas
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1710, 2011-11-17, Žin., 2011, Nr. 139-6550 (2011-11-18)*
+
+*Nr. XII-1049, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10744*
 
 ###### 6.117 straipsnis. Skolos, kurios grąžinimas užtikrintas įkeitimu (hipoteka), perkėlimas
 
@@ -19694,6 +19710,30 @@ Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašymu atšauk
 
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 
+37\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1066, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10460
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO NR. VIII-1864 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+Juridinių asmenų, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienų metų ieškinio senaties terminą, skaičiuojamą nuo šio įstatymo įsigaliojimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui.
+
+Jeigu kreditoriai nepareiškia ieškinio per šio straipsnio 1 dalyje nustatytą ieškinio senaties terminą, juridinių asmenų, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, likvidatoriai netenka įgaliojimų ir iš juridinių asmenų registro išregistruojami juridinių asmenų registro nuostatuose nustatyta tvarka. Apie tai juridinių asmenų registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+
+Juridiniai asmenys, kurių likvidavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo ir nebaigtos per dešimt metų nuo likviduojamo juridinio asmens statuso įgijimo, iš juridinių asmenų registro išregistruojami per vienus metus nuo šio straipsnio 1 dalyje nurodyto ieškinio senaties termino pabaigos.
+
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
+
+38\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1049, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10744
+
+LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 6.116 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
 \*\*\* Pabaiga \*\*\*
 
 **Konstitucinio Teismo nutarimai:**
@@ -19708,6 +19748,6 @@ DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. L
 
 \*\*\* Pabaiga \*\*\*
 
-Redagavo Aušrinė Trapinskienė (2014-07-25)
+Redagavo Aušrinė Trapinskienė (2014-08-04)
 
 [email protected]
