@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2014-11-14"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/kEQIUTTDUa"
+redakcija_nuo: "2015-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/XqtlXDXAUH"
 ---
 
 # Civilinis kodeksas
@@ -113,14 +113,6 @@ Civilinio kodekso antrosios knygos IV skyriaus normos, susijusios su juridinio a
 1\. Civilinio kodekso antrosios knygos V skyriaus normos, reglamentuojančios juridinių asmenų steigimą, išskyrus šio straipsnio 2 dalyje nustatytas išimtis, taikomos tiems juridiniams asmenims, kurie steigiami įsigaliojus šiam kodeksui.
 
 2\. Civilinio kodekso 2.62 straipsnyje, 2.63 straipsnio 1 dalyje, 2.72 straipsnyje bei kituose Civilinio kodekso antrosios knygos V skyriaus straipsniuose nustatytos taisyklės dėl juridinio asmens registravimo juridinių asmenų registre bei duomenų atskleidimo įsigalioja nuo juridinių asmenų registro veiklos pradžios. Iki juridinių asmenų registro veiklos pradžios juridiniai asmenys registruojami ir jų duomenys atskleidžiami galiojančių įstatymų nustatyta tvarka.
-
-###### 16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
-
-1\. Civilinio kodekso antrosios knygos VIII skyriaus normos, reglamentuojančios juridinių asmenų pasibaigimą ir pertvarkymą, taikomos juridinių asmenų pasibaigimo ir pertvarkymo procedūroms, pradėtoms įsigaliojus šiam kodeksui. Jeigu juridinių asmenų likvidavimo ar reorganizavimo procedūros pradėtos iki Civilinio kodekso įsigaliojimo, šios procedūros yra baigiamos pagal galiojusius įstatymus.
-
-2\. Civilinio kodekso 2.70 straipsnyje ir 2.106 straipsnio 4 punkte numatytos normos dėl juridinio asmens likvidavimo juridinio asmens registro tvarkytojo iniciatyva įsigalioja nuo juridinių asmenų registro veiklos pradžios.
-
-**Redakcija nuo 2015-01-01:**
 
 ###### 16 straipsnis. Civilinio kodekso 2.70 straipsnio ir antrosios knygos VIII skyriaus normų taikymas ir įsigaliojimas
 
@@ -1024,7 +1016,11 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 1\. Paprasta rašytine forma turi būti sudaromi:
 
-1\) fizinių asmenų sandoriai, kai sandorio suma sudarymo metu yra didesnė kaip penki tūkstančiai litų, išskyrus sandorius, kurie ir įvykdomi sudarymo metu;
+1\) fizinių asmenų sandoriai, kai sandorio suma sudarymo metu yra didesnė kaip vienas tūkstantis penki šimtai eurų, išskyrus sandorius, kurie ir įvykdomi sudarymo metu;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 2\) juridinių asmenų steigimo sandoriai, išskyrus ūkinių bendrijų steigimo sandorius, kurie turi būti sudaromi notarine forma;
 
@@ -1060,7 +1056,17 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 2\) vedybų sutartys (ikivedybinė ir povedybinė);
 
-3\) kiti sandoriai, kuriems šis kodeksas nustato privalomą notarinę formą.
+3\) uždarųjų akcinių bendrovių akcijų pirkimo–pardavimo sutartys, kai parduodama 25 procentai ar daugiau uždarosios akcinės bendrovės akcijų arba akcijų pardavimo kaina yra didesnė kaip keturiolika tūkstančių penki šimtai eurų, išskyrus atvejus, kai akcininkų asmeninės vertybinių popierių sąskaitos tvarkomos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka;
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715*
+
+4\) kiti sandoriai, kuriems šis kodeksas nustato privalomą notarinę formą.
+
+*Straipsnio punkto numeracijos pakeitimas:*
+
+*Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715*
 
 *Straipsnio pakeitimai:*
 
@@ -1345,6 +1351,12 @@ Obligacija – tai vertybinis popierius, patvirtinantis jos turėtojo teisę gau
 3\. Įsakomuoju vekseliu (trata) jo davėjas paveda kitam asmeniui, kad šis vekselio sumą sumokėtų jame nurodytam asmeniui.
 
 4\. Paprastuoju vekseliu (solo) jo davėjas pats įsipareigoja sumokėti jame nurodytą sumą.
+
+5\. Vekselis, kurio suma didesnė kaip trys tūkstančiai eurų, turi būti notarinės formos, jeigu vekselio davėjas yra fizinis asmuo arba ūkio subjektas, tvarkantis apskaitą pagal supaprastintos apskaitos taisykles.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715*
 
 ###### 1.106 straipsnis. Konosamentas
 
@@ -2202,10 +2214,6 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 4\. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino.
 
-5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų tapatumas turi būti notaro patvirtintas, išskyrus įstatymų nustatytas išimtis.
-
-**Redakcija nuo 2015-01-01:**
-
 5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
 
 *Straipsnio pakeitimai:*
@@ -2492,10 +2500,6 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
 
-4\. Juridinių asmenų registrui pateikiamas įmonės metinių finansinių ataskaitų rinkinys (konsoliduotųjų finansinių ataskaitų rinkinys) ir metinis pranešimas (konsoliduotasis metinis pranešimas) kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kitaip.
-
-**Redakcija nuo 2015-01-01:**
-
 4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino.
 
 5\. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
@@ -2538,18 +2542,6 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 ###### 2.70 straipsnis. Juridinio asmens likvidavimas juridinių asmenų registro tvarkytojo iniciatyva
 
-1\. Jeigu registre įregistruotas juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo, arba įmonė nepateikė finansinės atskaitomybės dokumentų, kaip numatyta šio kodekso 2.66 straipsnio 4 dalyje, ilgiau nei dvidešimt keturis mėnesius ir juridinio asmens registro tvarkytojui nepranešė apie nepateikimo priežastis, arba valdymo organai negali priimti nutarimų, kadangi nėra kvorumo dėl valdymo organo narių atsistatydinimo ir tai trunka ilgiau nei šešis mėnesius, arba jeigu juridinio asmens valdymo organų narių ilgiau nei šešis mėnesius negalima surasti juridinio asmens buveinėje ir jų adresais, nurodytais juridinių asmenų registre, tai registro tvarkytojas turi teisę inicijuoti juridinio asmens likvidavimą.
-
-2\. Juridinių asmenų registro tvarkytojas turi išsiųsti pranešimą apie numatomą juridinio asmens likvidavimą į juridinio asmens buveinę ir juridinių asmenų registre nurodytais valdymo organo narių adresais bei šį pranešimą paskelbti juridinių asmenų registro nuostatuose nustatytame šaltinyje.
-
-3\. Jeigu per tris mėnesius nuo pranešimo apie numatomą juridinio asmens likvidavimą paskelbimo juridinių asmenų registro tvarkytojas negauna prieštaravimo dėl juridinio asmens likvidavimo, jis kreipiasi į teismą dėl juridinio asmens likvidavimo.
-
-4\. Registro tvarkytojo prašymai dėl juridinio asmens likvidavimo nagrinėjami Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
-
-**Redakcija nuo 2015-01-01:**
-
-###### 2.70 straipsnis. Juridinio asmens likvidavimas juridinių asmenų registro tvarkytojo iniciatyva
-
 1\. Juridinių asmenų registro tvarkytojas turi teisę inicijuoti juridinio asmens likvidavimą, kai yra bent viena iš šių aplinkybių:
 
 1\) juridinis asmuo nepateikė šio kodekso 2.66 straipsnio 4 dalyje nustatytų dokumentų per dvylika mėnesių nuo šiame kodekse ar kituose įstatymuose nustatytų šių dokumentų pateikimo juridinių asmenų registrui terminų pabaigos;
@@ -2560,7 +2552,13 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 4\) juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo;
 
-5\) politinė partija Politinių partijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo.
+5\) politinė partija Politinių partijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
+
+6\) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1225, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14523*
 
 2\. Kai yra šio straipsnio 1 dalyje numatytos aplinkybės, juridinių asmenų registro tvarkytojas turi išsiųsti pranešimą apie numatomą inicijuoti juridinio asmens likvidavimą į juridinio asmens buveinę ir juridinių asmenų registre nurodytais valdymo organo narių adresais. Tuo atveju, kai nėra galimybės pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiųsti į juridinio asmens buveinę ir (arba) juridinių asmenų registre nurodytais valdymo organo narių adresais, registro tvarkytojas apie numatomą inicijuoti juridinio asmens likvidavimą viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje ir šį pranešimą įteikia kitais juridinių asmenų registro nuostatuose nurodytais būdais.
 
@@ -2647,10 +2645,6 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 ###### 2.75 straipsnis. Juridinių asmenų teisnumo apribojimai
 
 1\. Juridinių asmenų teisnumas negali būti apribotas kitaip, kaip tik įstatymų nustatytais pagrindais ir tvarka.
-
-2\. Apriboti pavienio juridinio asmens teisnumą galima tik teismo sprendimu.
-
-**Redakcija nuo 2015-01-01:**
 
 2\. Apriboti pavienio juridinio asmens teisnumą galima tik teismo sprendimu, išskyrus šio kodekso 2.70 straipsnyje nurodytą atvejį.
 
@@ -3014,10 +3008,6 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 3\) teismo priimtas sprendimas likviduoti juridinį asmenį vadovaujantis šio kodekso 2.131 straipsniu;
 
-4\) teismo nutartis likviduoti juridinį asmenį šio kodekso 2.70 straipsnyje nurodytais atvejais;
-
-**Redakcija nuo 2015-01-01:**
-
 4\) juridinių asmenų registro tvarkytojo sprendimas likviduoti juridinį asmenį vadovaujantis šio kodekso 2.70 straipsniu;
 
 5\) laikotarpio, kuriam buvo įsteigtas juridinis asmuo, pabaiga;
@@ -3040,15 +3030,7 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 ###### 2.108 straipsnis. Likvidatoriaus paskyrimas
 
-1\. Juridinių asmenų dalyviai, kreditorių susirinkimas, juridinių asmenų registro tvarkytojas ar teismas, priėmę sprendimą likviduoti juridinį asmenį, privalo paskirti likvidatorių.
-
-**Redakcija nuo 2015-01-01:**
-
 1\. Juridinių asmenų dalyviai, kreditorių susirinkimas ar teismas, priėmę sprendimą likviduoti juridinį asmenį, privalo paskirti likvidatorių.
-
-2\. Juridinio asmens steigimo dokumentai ar įstatymai gali nustatyti kitokias likvidatoriaus skyrimo taisykles arba nustatyti konkretų likvidatorių. Teismo, kreditorių susirinkimo ar juridinių asmenų registro tvarkytojo šios taisyklės nesaisto.
-
-**Redakcija nuo 2015-01-01:**
 
 2\. Juridinio asmens steigimo dokumentai ar įstatymai gali nustatyti kitokias likvidatoriaus skyrimo taisykles arba nustatyti konkretų likvidatorių. Teismo ir kreditorių susirinkimo šios taisyklės nesaisto.
 
@@ -3066,7 +3048,11 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 1\. Juridinio asmens dalyvių paskirtas juridinio asmens likvidatorius gali būti atšauktas paprasta juridinio asmens dalyvių, dalyvaujančių susirinkime, balsų dauguma.
 
-2\. Juridinio asmens dalyviai, kurių balsai sudaro ne mažiau kaip 1/10 visų balsų, kreditorius, turintis ne mažesnę kaip penkiasdešimt tūkstančių litų vertės reikalavimo teisę, arba ne mažiau kaip 1/5 visų juridinio asmens darbuotojų turi teisę kreiptis į teismą prašydami pakeisti likvidatorių, jei šis veikia netinkamai, taip pat nesąžiningai atsiskaito su kreditoriais, juridinio asmens dalyviais, nesąžiningai atlieka kitas pareigas arba pažeidžia juridinio asmens dalyvių, kreditorių ar juridinio asmens darbuotojų teises.
+2\. Juridinio asmens dalyviai, kurių balsai sudaro ne mažiau kaip 1/10 visų balsų, kreditorius, turintis ne mažesnę kaip keturiolikos tūkstančių penkių šimtų eurų vertės reikalavimo teisę, arba ne mažiau kaip 1/5 visų juridinio asmens darbuotojų turi teisę kreiptis į teismą prašydami pakeisti likvidatorių, jei šis veikia netinkamai, taip pat nesąžiningai atsiskaito su kreditoriais, juridinio asmens dalyviais, nesąžiningai atlieka kitas pareigas arba pažeidžia juridinio asmens dalyvių, kreditorių ar juridinio asmens darbuotojų teises.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 ###### 2.110 straipsnis. Likvidatoriaus kompetencija
 
@@ -4028,7 +4014,11 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 
 ###### 3.9 straipsnis. Dovanų grąžinimas
 
-1\. Jeigu santuoka nesudaroma, abi viešo susitarimo tuoktis šalys turi teisę reikalauti viena iš kitos grąžinti viską, ką viena yra gavusi iš kitos kaip dovaną ryšium su būsima santuoka, išskyrus atvejus, kai dovanos vertė neviršija vieno tūkstančio litų ir kai šalis, gavusi dovaną, mirė iki santuokos įregistravimo, ir santuoka nebuvo sudaryta dėl šalies mirties.
+1\. Jeigu santuoka nesudaroma, abi viešo susitarimo tuoktis šalys turi teisę reikalauti viena iš kitos grąžinti viską, ką viena yra gavusi iš kitos kaip dovaną ryšium su būsima santuoka, išskyrus atvejus, kai dovanos vertė neviršija trijų šimtų eurų ir kai šalis, gavusi dovaną, mirė iki santuokos įregistravimo, ir santuoka nebuvo sudaryta dėl šalies mirties.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 2\. Reikalavimams grąžinti dovanas taikomos šio kodekso šeštosios knygos normos, reglamentuojančios santykius, susijusius su nepagrįstu praturtėjimu ar turto gavimu.
 
@@ -6108,7 +6098,11 @@ Visas turtas, kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, g
 
 1\. Neveiksnaus ar ribotai veiksnaus asmens turtą ir jo duodamas pajamas globėjas ar rūpintojas turi naudoti išimtinai neveiksnaus ar ribotai veiksnaus asmens interesais.
 
-2\. Sandoriams, kurių suma didesnė nei penki tūkstančiai litų, sudaryti yra reikalingas išankstinis teismo leidimas.
+2\. Sandoriams, kurių suma didesnė kaip vienas tūkstantis penki šimtai eurų, sudaryti yra reikalingas išankstinis teismo leidimas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 3\. Visais atvejais yra reikalingas išankstinis teismo leidimas, jeigu globėjas nori parduoti, dovanoti ar kitokiu būdu perleisti globotinio nekilnojamąjį daiktą ar daiktines teises, jį išnuomoti, perduoti neatlygintinai naudotis, įkeisti ar kitokiu būdu suvaržyti teises į nekilnojamąjį daiktą ar daiktines teises, taip pat sudaryti bet kokį kitą sandorį, jeigu dėl šio sandorio globotinio turtas sumažėtų ar būtų perleistos ar suvaržytos globotinio daiktinės teisės. Šios taisyklės taip pat taikomos ir tais atvejais, kai rūpintojas ketina duoti sutikimą ribotai veiksniam asmeniui sudaryti analogišką sandorį.
 
@@ -12030,7 +12024,13 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 2\. Prekybos patalpomis laikomos nekilnojamosios patalpos, kuriose verslininkas nuolat verčiasi mažmenine prekyba, ir kilnojamosios patalpos, kuriose verslininkas paprastai verčiasi mažmenine prekyba.
 
-3\. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už 100 litų, netaikomi šis straipsnis, šio kodekso 6.228⁷ ir 6.228¹⁰ straipsniai. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatomas periodinių įmokų mokėjimas, atsižvelgiama į sumą, kurią turi sumokėti vartotojas per metus.
+3\. Ne prekybos patalpose sudarytoms sutartims, kai suma, kurią turi sumokėti vartotojas, yra mažesnė už dvidešimt penkis eurus, netaikomi šis straipsnis, šio kodekso 6.228⁷ ir 6.228¹⁰ straipsniai. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatomas periodinių įmokų mokėjimas, atsižvelgiama į sumą, kurią turi sumokėti vartotojas per metus.
+
+*TAR pastaba. 6.228⁹ straipsnio 3 dalies nuostatos taikomos sutartims, sudarytoms po šio įstatymo įsigaliojimo.*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 4\. Ne prekybos patalpose sudarydamas sutartį, verslininkas privalo suteikti vartotojui šio kodekso 6.228⁷ straipsnio 1 dalyje nurodytą informaciją raštu popieriuje arba vartotojo sutikimu kitoje patvariojoje laikmenoje. Informacija turi būti įskaitoma ir pateikiama aiškia ir suprantama kalba.
 
@@ -12800,7 +12800,11 @@ Jeigu nukentėjęs ar turintis teisę reikalauti žalos atlyginimo asmuo dėl sa
 
 1\) dėl gyvybės atėmimo ar sveikatos sužalojimo atsiradusią žalą, įskaitant neturtinę;
 
-2\) nukentėjusio asmens turtui, kuris yra skirtas ir paprastai buvo naudojamas asmeniniams poreikiams tenkinti, išskyrus patį netinkamos kokybės produktą, padarytą žalą, ne mažesnę kaip 500 eurų atitinkančią sumą pagal įstatymų nustatyta tvarka skelbiamą oficialų euro ir lito santykį. Ši suma netaikoma, kai žala atsirado dėl netinkamos kokybės paslaugų.
+2\) nukentėjusio asmens turtui, kuris yra skirtas ir paprastai buvo naudojamas asmeniniams poreikiams tenkinti, išskyrus patį netinkamos kokybės produktą, padarytą ne mažesnę kaip penkių šimtų eurų žalą. Ši suma netaikoma, kai žala atsirado dėl netinkamos kokybės paslaugų.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 2\. Šio skirsnio nuostatos netaikomos atlyginant branduolinę žalą.
 
@@ -14402,11 +14406,15 @@ Už rentą iki gyvos galvos perduoto turto atsitiktinis žuvimas ar sugadinimas 
 
 ###### 6.469 straipsnis. Dovanojimo sutarties forma
 
-1\. Sutartis, kai dovanojama didesnė kaip penkių tūkstančių litų suma, turi būti rašytinės formos.
+1\. Sutartis, kai dovanojama didesnė kaip vieno tūkstančio penkių šimtų eurų suma, turi būti rašytinės formos.
 
-2\. Nekilnojamojo daikto dovanojimo sutartis, taip pat dovanojimo sutartis, kurios suma didesnė kaip penkiasdešimt tūkstančių litų, turi būti notarinės formos.
+2\. Nekilnojamojo daikto dovanojimo sutartis, taip pat dovanojimo sutartis, kurios suma didesnė kaip keturiolika tūkstančių penki šimtai eurų, turi būti notarinės formos.
 
 3\. Nekilnojamojo daikto ar daiktinės teisės į jį dovanojimo sutartis teisines pasekmes tretiesiems asmenims sukelia tik tuo atveju, jei sutartis įregistruota viešame registre.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 ###### 6.470 straipsnis. Galėjimas dovanoti ir galėjimas priimti dovanas
 
@@ -17456,7 +17464,11 @@ Vežėjo atsakomybė už keleivio gyvybės atėmimą ar sveikatos sužalojimą n
 
 ###### 6.831 straipsnis. Pasaugos sutarties forma
 
-1\. Fizinių asmenų sudaryta pasaugos sutartis turi būti rašytinė, jeigu daikto (daiktų) vertė viršija penkis tūkstančius litų.
+1\. Fizinių asmenų sudaryta pasaugos sutartis turi būti rašytinė, jeigu daikto (daiktų) vertė viršija vieną tūkstantį penkis šimtus eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 2\. Jeigu pasaugos sutartis numato saugotojo pareigą priimti daiktą saugoti ateityje, jis turi būti rašytinė visais atvejais.
 
@@ -17564,7 +17576,11 @@ Pasaugos sutartyje numatytais atvejais priimti saugoti daiktai gali būti sumai�
 
 1\. Pasibaigus pasaugos sutarties terminui, taip pat saugotojo nustatytam terminui, per kurį daiktas turi būti atsiimtas, davėjas privalo nedelsdamas atsiimti saugoti perduotą daiktą.
 
-2\. Jeigu davėjas neatsiima daikto, saugotojas turi teisę, jeigu ko kita nenustato pasaugos sutartis, raštu įspėjęs davėją savarankiškai parduoti saugomą daiktą už saugojimo vietovės rinkos kainą. Jeigu saugomo daikto vertė didesnė nei du tūkstančiai litų, saugotojas turi teisę jį parduoti tik aukciono būdu.
+2\. Jeigu davėjas neatsiima daikto, saugotojas turi teisę, jeigu ko kita nenustato pasaugos sutartis, raštu įspėjęs davėją savarankiškai parduoti saugomą daiktą už saugojimo vietovės rinkos kainą. Jeigu saugomo daikto vertė didesnė kaip šeši šimtai eurų, saugotojas turi teisę jį parduoti tik aukciono būdu.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 3\. Pardavus daiktą gauta suma, atskaičius saugotojui priklausančias sumas, perduodama davėjui.
 
@@ -17848,11 +17864,21 @@ Jeigu įstatymas ar sutartis nustato prekių sandėlio teisę disponuoti saugomo
 
 ###### 6.871 straipsnis. Paskolos sutarties forma
 
-1\. Fizinių asmenų paskolos sutartis turi būti rašytinė, jeigu paskolos suma viršija du tūkstančius litų.
+1\. Fizinių asmenų paskolos sutartis turi būti rašytinė, jeigu paskolos suma viršija šešis šimtus eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1240, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14518*
 
 2\. Jeigu paskolos davėjas yra juridinis asmuo, paskolos sutartis turi būti rašytinė visais atvejais, neatsižvelgiant į paskolos sutarties sumą.
 
 3\. Rašytinės formos reikalavimus atitinka paskolos gavėjo pasirašytas paskolos raštelis arba kitoks skolos dokumentas, patvirtinantis paskolos sutarties dalyko perdavimą paskolos gavėjui.
+
+4\. Jeigu paskolos suma viršija tris tūkstančius eurų ir šis sandoris yra vykdomas grynaisiais pinigais, paskolos sutartis turi būti notarinės formos.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-1091, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12715*
 
 ###### 6.872 straipsnis. Palūkanos
 
@@ -18262,11 +18288,29 @@ Draudžiama apriboti kliento galimybę disponuoti sąskaitoje esančiomis lėšo
 
 1\) lėšų, esančių klientų sąskaitoje, suma sumažėja tiek, kad nesiekia sutartyje nustatytos minimalios sumos, ir per vieną mėnesį nuo banko išsiųsto pranešimo dienos klientas jos nepadidina;
 
-2\) jeigu daugiau kaip metus su kliento sąskaita nebuvo atliekamos jokios operacijos ir jeigu banko sutartis nenustato ko kita.
+2\) daugiau kaip metus kliento sąskaitoje nėra piniginių lėšų ir su kliento sąskaita nebuvo atliekamos jokios operacijos, ir banko sutartis nenustato ko kita.
 
-3\. Lėšų likutis sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
+*Straipsnio punkto pakeitimai:*
 
-4\. Banko sąskaitos sutarties nutraukimas yra pagrindas sąskaitą uždaryti. Banko sąskaitos sutartis galioja iki sąskaitos uždarymo.
+*Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192*
+
+3\. Jeigu yra šio straipsnio 2 dalies 2 punkte nurodytos banko sąskaitos nutraukimo sąlygos, banko sąskaitos sutartis gali būti nutraukta ir tuo atveju, kai yra įregistruotas sąskaitoje esančių piniginių lėšų areštas ar nustatyti kiti disponavimo šiomis lėšomis apribojimai. Bankui nutraukus banko sąskaitos sutartį, piniginių lėšų areštas ar kitas disponavimo jomis apribojimas nustoja galioti ir yra išregistruojamas Lietuvos Respublikos turto arešto aktų registro įstatyme nustatyta tvarka.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192*
+
+4\. Lėšų likutis sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento pareiškimo gavimo dienos. Jeigu klientas nedavė nurodymo pervesti lėšas į kitą sąskaitą, bankas lėšas perveda į banko vidines sąskaitas.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192*
+
+5\. Banko sąskaitos sutarties nutraukimas yra pagrindas sąskaitą uždaryti. Banko sąskaitos sutartis galioja iki sąskaitos uždarymo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192*
 
 ###### 6.928 straipsnis. Bankų sąskaitos
 
@@ -19527,3 +19571,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1294, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16780
 
 Lietuvos Respublikos civilinio kodekso 1.116 straipsnio pakeitimo įstatymas
+
+6\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1453, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21192
+
+Lietuvos Respublikos civilinio kodekso 6.927 straipsnio pakeitimo įstatymas
