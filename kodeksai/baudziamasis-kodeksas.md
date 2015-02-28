@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/WJNMptRPio"
+redakcija_nuo: "2015-03-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/sKomGjnyYi"
 ---
 
 # Baudžiamasis kodeksas
@@ -222,7 +222,11 @@ Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji
 
 8\) yra kitų Lietuvos Respublikos tarptautinėse sutartyse numatytų pagrindų.
 
-4\. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus yra suteiktas prieglobstis, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamąjį įstatymą nebaudžiami ir užsienio valstybėms neišduodami, išskyrus šio kodekso 7 straipsnyje numatytus atvejus.
+4\. Asmenys, kuriems pagal Lietuvos Respublikos įstatymus yra suteiktas prieglobstis arba laikinoji apsauga, už nusikalstamas veikas, dėl kurių jie buvo persekiojami užsienyje, pagal Lietuvos Respublikos baudžiamąjį įstatymą nebaudžiami ir užsienio valstybėms neišduodami, išskyrus šio kodekso 7 straipsnyje numatytus atvejus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1398, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19925*
 
 *Straipsnio pakeitimai:*
 
@@ -6243,3 +6247,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1481, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21142
 
 Lietuvos Respublikos baudžiamojo kodekso 190 straipsnio pakeitimo įstatymas
+
+2\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1398, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19925
+
+Lietuvos Respublikos baudžiamojo kodekso 9 straipsnio pakeitimo įstatymas
