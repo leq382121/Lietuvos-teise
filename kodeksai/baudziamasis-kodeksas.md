@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-03-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/sKomGjnyYi"
+redakcija_nuo: "2015-03-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/JUklUVMicn"
 ---
 
 # Baudžiamasis kodeksas
@@ -470,7 +470,11 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 #### 27 straipsnis. Nusikaltimų recidyvas
 
-1\. Nusikaltimų recidyvas yra tada, kai asmuo, jau teistas už tyčinio nusikaltimo padarymą, jeigu teistumas už jį neišnykęs ar nepanaikintas įstatymų nustatyta tvarka, vėl padaro vieną ar daugiau tyčinių nusikaltimų. Toks asmuo yra recidyvistas.
+1\. Nusikaltimų recidyvas yra tada, kai asmuo, jau teistas už tyčinį nusikaltimą, kurį padarė būdamas pilnametis, ir jeigu teistumas už jį neišnykęs ar nepanaikintas įstatymų nustatyta tvarka, vėl padaro vieną ar daugiau tyčinių nusikaltimų. Toks asmuo yra recidyvistas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 2\. Nusikaltimų recidyvas yra pavojingas, o nusikaltimus padaręs asmuo teismo gali būti pripažintas pavojingu recidyvistu, jeigu šis asmuo:
 
@@ -586,7 +590,11 @@ Padaręs nusikaltimą asmuo gali būti teismo atleistas nuo baudžiamosios atsak
 
 4\) yra pagrindo manyti, kad jis nedarys naujų nusikalstamų veikų.
 
-2\. Šio straipsnio 1 dalyje numatytais pagrindais negali būti atleistas nuo baudžiamosios atsakomybės recidyvistas, pavojingas recidyvistas, taip pat asmuo, kuris anksčiau jau buvo atleistas nuo baudžiamosios atsakomybės kaip susitaikęs su nukentėjusiu asmeniu, jeigu nuo susitaikymo dienos iki naujos veikos padarymo praėjo mažiau nei ketveri metai.
+2\. Šio straipsnio 1 dalyje numatytais pagrindais negali būti atleistas nuo baudžiamosios atsakomybės pavojingas recidyvistas, taip pat asmuo, kuris anksčiau jau buvo atleistas nuo baudžiamosios atsakomybės kaip susitaikęs su nukentėjusiu asmeniu, jeigu nuo susitaikymo dienos iki naujos veikos padarymo praėjo mažiau negu ketveri metai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 3\. Jeigu asmuo, atleistas nuo baudžiamosios atsakomybės pagal šio straipsnio 1 dalį, per vienerius metus padarė baudžiamąjį nusižengimą ar neatsargų nusikaltimą arba be pateisinamų priežasčių nevykdo teismo patvirtinto susitarimo dėl žalos atlyginimo sąlygų ir tvarkos, teismas gali panaikinti sprendimą dėl atleidimo nuo baudžiamosios atsakomybės ir spręsti dėl tokio asmens baudžiamosios atsakomybės už visas padarytas nusikalstamas veikas.
 
@@ -600,7 +608,7 @@ Padaręs nusikaltimą asmuo gali būti teismo atleistas nuo baudžiamosios atsak
 
 #### 39 straipsnis. Atleidimas nuo baudžiamosios atsakomybės, kai yra lengvinančių aplinkybių
 
-Asmuo, padaręs baudžiamąjį nusižengimą arba neatsargų nusikaltimą, teismo motyvuotu sprendimu gali būti atleistas nuo baudžiamosios atsakomybės, jeigu:
+Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį nusikaltimą, teismo motyvuotu sprendimu gali būti atleistas nuo baudžiamosios atsakomybės, jeigu:
 
 1\) jis pirmą kartą padarė nusikalstamą veiką ir
 
@@ -611,6 +619,10 @@ Asmuo, padaręs baudžiamąjį nusižengimą arba neatsargų nusikaltimą, teism
 *Straipsnio pakeitimai:*
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 **39(¹) straipsnis. Atleidimas nuo baudžiamosios atsakomybės, kai asmuo aktyviai padėjo atskleisti organizuotos grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas**
 
@@ -918,15 +930,21 @@ Teismas, skirdamas juridinio asmens likvidavimo bausmę, įpareigoja juridinį a
 
 3\. Jeigu straipsnio sankcijoje numatytos bausmės paskyrimas aiškiai prieštarautų teisingumo principui, teismas, vadovaudamasis bausmės paskirtimi, gali motyvuotai paskirti švelnesnę bausmę.
 
-#### 55 straipsnis. Bausmės skyrimas asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltimą
+#### 55 straipsnis. Bausmės skyrimas asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą
 
-Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltimą, teismas paprastai skiria su laisvės atėmimu nesusijusias bausmes. Skirdamas laisvės atėmimo bausmę, teismas privalo motyvuoti savo sprendimą.
+Asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą, teismas paprastai skiria su laisvės atėmimu nesusijusias bausmes. Skirdamas laisvės atėmimo bausmę, teismas privalo motyvuoti savo sprendimą.
 
-#### 56 straipsnis. Bausmės skyrimas recidyvistui už tyčinio nusikaltimo padarymą
+*Straipsnio pakeitimai:*
 
-1\. Recidyvistui už tyčinio nusikaltimo padarymą teismas paprastai skiria laisvės atėmimo bausmę.
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
-2\. Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu straipsnio sankcijoje už padarytą nusikaltimą nustatytos laisvės atėmimo bausmės vidurkis bausmė. Kitokia bausmė pavojingam recidyvistui gali būti skiriama tik šio kodekso 62 straipsnyje numatytais pagrindais.
+#### 56 straipsnis. Bausmės skyrimas pavojingam recidyvistui už tyčinio nusikaltimo padarymą
+
+Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu straipsnio sankcijoje už padarytą nusikaltimą nustatytos laisvės atėmimo bausmės vidurkis bausmė. Kitokia bausmė pavojingam recidyvistui gali būti skiriama tik šio kodekso 62 straipsnyje numatytais pagrindais.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 #### 57 straipsnis. Bausmės skyrimas už rengimąsi ir pasikėsinimą padaryti nusikalstamą veiką
 
@@ -1002,6 +1020,12 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 12\) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
 
+13\) veiką padarė recidyvistas.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
+
 2\. Skirdamas bausmę, teismas neatsižvelgia į tokią atsakomybę sunkinančią aplinkybę, kuri įstatyme numatyta kaip nusikaltimo sudėties požymis.
 
 *Straipsnio pakeitimai:*
@@ -1052,7 +1076,11 @@ Asmeniui, pirmą kartą teisiamam už nesunkų ar apysunkį tyčinį nusikaltim�
 
 1\) paskirti mažesnę bausmę, negu straipsnio sankcijoje už padarytą nusikalstamą veiką numatyta mažiausia bausmė, arba
 
-2\) paskirti mažesnę bausmę, negu nustatyta šio kodekso 56 straipsnio 2 dalyje, arba
+2\) paskirti mažesnę bausmę, negu nustatyta šio kodekso 56 straipsnyje, arba
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 3\) paskirti švelnesnę bausmės rūšį, negu numatyta straipsnio sankcijoje už padarytą nusikalstamą veiką.
 
@@ -1392,7 +1420,11 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 
 #### 75 straipsnis. Bausmės vykdymo atidėjimas
 
-1\. Asmeniui, nuteistam laisvės atėmimu už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus ne daugiau kaip ketveriems metams arba ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+1\. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis tyčinius nusikaltimus (išskyrus labai sunkius nusikaltimus), teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 2\. Atidėdamas bausmės vykdymą, teismas paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) pareigas:
 
@@ -3096,7 +3128,11 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba lais
 
 2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką ir dėl to kitam asmeniui padarė didelės turtinės žalos,
 
-baudžiamas laisvės atėmimu iki šešerių metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 3\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką ir dėl to kitam asmeniui padarė nedidelės turtinės žalos, padarė baudžiamąjį nusižengimą ir
 
@@ -3252,7 +3288,11 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba lais
 
 2\. Tas, kas sunaikino ar sugadino svetimą turtą visuotinai pavojingu būdu arba išardydamas ar sugadindamas įrenginį ar agregatą, jeigu dėl to galėjo nukentėti žmonės, arba sunaikino, išardė ar sugadino strateginę arba svarbią reikšmę nacionaliniam saugumui turinčių juridinių asmenų infrastruktūrą sudarantį turtą ar jo dalį, arba sunaikino ar sugadino didelės vertės svetimą turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes,
 
-baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
 3\. Tas, kas sunaikino ar sugadino nedidelės vertės svetimą turtą, padarė baudžiamąjį nusižengimą ir
 
@@ -6255,3 +6295,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1398, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19925
 
 Lietuvos Respublikos baudžiamojo kodekso 9 straipsnio pakeitimo įstatymas
+
+3\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
+
+Lietuvos Respublikos baudžiamojo kodekso 27, 38, 39, 55, 56, 60, 62, 75, 179 ir 187 straipsnių pakeitimo įstatymas
