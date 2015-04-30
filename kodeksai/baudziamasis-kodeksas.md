@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-04-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ywDkHFijlD"
+redakcija_nuo: "2015-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/aUdilYqZYP"
 ---
 
 # Baudžiamasis kodeksas
@@ -2458,9 +2458,17 @@ baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba la
 
 3\. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė mažamečiui arba kankindamas nukentėjusį asmenį,
 
-baudžiamas laisvės atėmimu iki dvejų metų.
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-4\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1649, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06588*
+
+4\. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymių.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1649, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06588*
 
 *Straipsnio pakeitimai:*
 
@@ -6349,3 +6357,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 
 Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio ir Kodekso priedo pakeitimo įstatymas
+
+5\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1649, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06588
+
+Lietuvos Respublikos baudžiamojo kodekso 140 straipsnio pakeitimo įstatymas
