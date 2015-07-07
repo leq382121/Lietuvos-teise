@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2015-04-09"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/MURiuFufQa"
+redakcija_nuo: "2015-07-08"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/jkZWyHSdWi"
 ---
 
 # Civilinis kodeksas
@@ -150,7 +150,11 @@ Civilinio kodekso 3.14 straipsnio 2, 3, 4 ir 5 dalyse nustatytos normos dėl san
 
 1\. Civilinio kodekso 3.24, 3.25, 3.304 straipsniuose nustatytos normos dėl bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų oficialios apskaitos taikomos toms santuokoms, kurios sudaromos įsigaliojus šiam kodeksui.
 
-2\. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudarytų santuokų registravimo duomenis religinės bendruomenės ir bendrijos perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos Vyriausybės ir religinių organizacijų susitarimo nustatyta tvarka.
+2\. Nuo Lietuvos Respublikos Konstitucijos įsigaliojimo iki Civilinio kodekso įsigaliojimo bažnyčios (konfesijų) nustatyta tvarka sudaryta santuoka sutuoktinių arba vieno iš jų prašymu įtraukiama į apskaitą, jeigu ši santuoka jos sudarymo metu pagal galiojusį teisinį reguliavimą atitiko santuokos sudarymo sąlygas ir po santuokos sudarymo bažnyčios (konfesijų) nustatyta tvarka nebuvo įregistruota nė vieno iš bažnytiniame santuokos dokumente nurodytų sutuoktinių santuoka civilinės metrikacijos įstaigoje. Tokios santuokos pradžia laikoma bažnytiniame santuokos dokumente nurodyta data. Jeigu santuokos įtraukimo į apskaitą metu vienas iš sutuoktinių yra miręs, civilinės metrikacijos įstaiga įrašo atkurtąjį santuokos sudarymo įrašą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1881, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11082*
 
 ###### 22 straipsnis. Civilinio kodekso trečiosios knygos normų dėl santuokos negaliojimo taikymas
 
@@ -9620,9 +9624,19 @@ Mirus vienam sutuoktiniui, suinteresuotiems įpėdiniams šio kodekso 5.33 strai
 
 2\. Įpėdinis laikomas priėmusiu palikimą, kai jis faktiškai pradėjo paveldimą turtą valdyti arba padavė palikimo atsiradimo vietos notarui pareiškimą dėl palikimo priėmimo.
 
-3\. Šiame straipsnyje nurodyti veiksmai turi būti atliekami per tris mėnesius nuo palikimo atsiradimo dienos.
+3\. Šiame straipsnyje nurodyti veiksmai turi būti atliekami per tris mėnesius nuo palikimo atsiradimo dienos, tačiau šio straipsnio 2 dalyje nurodytos teisinės pasekmės atsiranda tik tokiu atveju, jeigu nėra pirmesnės eilės įpėdinio (įpėdinių) pagal įstatymą ar įpėdinio (įpėdinių) pagal testamentą atliktų veiksmų, kuriais priimtas palikimas.
 
-4\. Asmenys, kuriems paveldėjimo teisė atsiranda tik tuo atveju, kai kiti įpėdiniai palikimo nepriima, gali pareikšti sutikimą priimti palikimą per tris mėnesius nuo teisės priimti palikimą atsiradimo dienos.
+*TAR pastaba. Įstatymo Nr XII-1928 nuostatos dėl veiksmų, kuriais priimamas palikimas, atlikimo termino skaičiavimo taikomos, kai palikimas atsiranda įsigaliojus šiam įstatymui (2015-07-08).*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103*
+
+4\. Neteko galios nuo 2015-07-08
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103*
 
 5\. Palikimas, kurį paveldi įpėdiniai, gimę po palikimo atsiradimo, priimamas per tris mėnesius nuo jų gimimo dienos.
 
@@ -9704,11 +9718,15 @@ Jeigu sudarant turto apyrašą įpėdinis dėl savo kaltės nurodė ne visą tur
 
 Neveiksnių asmenų vardu palikimą priima jų tėvai arba globėjai. Ribotai veiksnūs asmenys palikimą priima tik tėvų arba rūpintojų sutikimu.
 
-###### 5.57 straipsnis. Termino palikimui priimti pratęsimas
+###### 5.57 straipsnis. Palikimo priėmimo termino atnaujinimas
 
-1\. Šio kodekso 5.50 straipsnyje nustatytą palikimui priimti terminą teismas gali pratęsti, jeigu pripažįsta, kad terminas praleistas dėl svarbių priežasčių. Palikimas gali būti priimamas pasibaigus terminui ir be kreipimosi į teismą, jeigu su tuo sutinka visi kiti priėmę palikimą įpėdiniai.
+1\. Šio kodekso 5.50 straipsnyje nustatytą palikimo priėmimo terminą teismas gali atnaujinti, jeigu pripažįsta, kad terminas praleistas dėl svarbių priežasčių. Palikimas gali būti priimamas pasibaigus terminui ir be kreipimosi į teismą, jeigu su tuo sutinka visi kiti priėmę palikimą įpėdiniai.
 
-2\. Šio straipsnio 1 dalyje numatytais atvejais įpėdiniui, praleidusiam terminą palikimui priimti, perduodama iš jam priklausančio, kitų įpėdinių priimto ar perėjusio valstybei turto tik tai, kas išliko natūra, taip pat lėšos, gautos realizavus kitą jam priklausančią turto dalį.
+2\. Šio straipsnio 1 dalyje numatytais atvejais įpėdiniui, praleidusiam palikimo priėmimo terminą, perduodama iš jam priklausančio, kitų įpėdinių priimto ar perėjusio valstybei turto tik tai, kas išliko natūra, taip pat lėšos, gautos realizavus kitą jam priklausančią turto dalį.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103*
 
 ###### 5.58 straipsnis. Teisės priimti palikimą perėjimas
 
@@ -9778,7 +9796,11 @@ Neveiksnių asmenų vardu palikimą priima jų tėvai arba globėjai. Ribotai ve
 
 3\. Šio straipsnio 1 ir 2 dalyse nustatyta palikėjo kreditorių reikalavimų pateikimo tvarka netaikoma reikalavimams, pagrįstiems hipoteka ir įkeitimu, taip pat reikalavimams, susijusiems su paveldimos individualios (personalinės) įmonės ar ūkininko ūkio veikla. Reikalavimai, susiję su paveldimos įmonės ar ūkio veikla, pereina įpėdiniams ir realizuojami pagal palikėjo sudarytus sandorius, išskyrus tuos atvejus, kai paveldima įmonė, kuriai pradedamas bankroto procesas, ar ūkis yra nemokus.
 
-4\. Teismas gali pratęsti šio straipsnio 1 dalyje numatytą terminą, jeigu terminas buvo praleistas dėl svarbių priežasčių ir nuo palikimo atsiradimo dienos nepraėjo daugiau kaip treji metai.
+4\. Teismas gali atnaujinti šio straipsnio 1 dalyje numatytą terminą, jeigu terminas buvo praleistas dėl svarbių priežasčių ir nuo palikimo atsiradimo dienos nepraėjo daugiau kaip treji metai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103*
 
 ###### 5.64 straipsnis. Palikimo apsauga
 
@@ -19591,3 +19613,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1580, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05376
 
 Lietuvos Respublikos civilinio kodekso 6.623 straipsnio pakeitimo įstatymas
+
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1881, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11082
+
+Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. VIII-1864 21 straipsnio pakeitimo įstatymas
+
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1928, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11103
+
+Lietuvos Respublikos civilinio kodekso 5.50, 5.57 ir 5.63 straipsnių pakeitimo įstatymas
