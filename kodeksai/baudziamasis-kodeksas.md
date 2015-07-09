@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-06-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/KBaoQsiGTz"
+redakcija_nuo: "2015-07-10"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ytGwiKgCxw"
 ---
 
 # Baudžiamasis kodeksas
@@ -2806,17 +2806,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 3\. Už šiame straipsnyje numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
-#### 155 straipsnis. Įžeidimas
+155 straipsnis. Neteko galios nuo 2015-07-10
 
-1\. Tas, kas viešai veiksmu, žodžiu ar raštu užgauliai pažemino žmogų,
+*Straipsnio naikinimas:*
 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
-
-2\. Tas, kas neviešai įžeidė žmogų, padarė baudžiamąjį nusižengimą ir
-
-baudžiamas viešaisiais darbais arba bauda, arba areštu.
-
-3\. Už šiame straipsnyje numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
+*Nr. XII-1888, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11179*
 
 ### XXIII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI VAIKUI IR ŠEIMAI
 
@@ -6481,3 +6475,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
 
 Lietuvos Respublikos baudžiamojo kodekso 7, 196, 197, 198-1, 198-2 straipsnių ir priedo pakeitimo ir Kodekso papildymo 270-3 straipsniu įstatymas
+
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1888, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11179
+
+Lietuvos Respublikos baudžiamojo kodekso 155 ir 290 straipsnių pripažinimo netekusiais galios įstatymas
