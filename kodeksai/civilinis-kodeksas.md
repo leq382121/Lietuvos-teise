@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2015-07-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/nDiKyvBnqD"
+redakcija_nuo: "2015-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/xZqfzCFyNg"
 ---
 
 # Civilinis kodeksas
@@ -1825,6 +1825,12 @@ Galėjimas turėti civilines teises ir pareigas (civilinis teisnumas) pripažįs
 7\) sudaryti statinio (buto) statybos ar kapitalinio remonto rangos sutartį;
 
 8\) sudaryti savo turto nuomos ar panaudos sutartį;
+
+9\) įsigyti, laikyti gyvūną.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581*
 
 3\. Teismas gali nustatyti, kad rūpintojo sutikimas taip pat reikalingas sudaryti ir kitiems šio straipsnio 2 dalyje nenumatytiems sandoriams.
 
@@ -19651,3 +19657,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1880, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11206
 
 Lietuvos Respublikos civilinio kodekso 3.298, 3.299 ir 3.302 straipsnių pakeitimo įstatymas
+
+11\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
+
+Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
