@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-07-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ytGwiKgCxw"
+redakcija_nuo: "2015-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ZsnnWvPJkQ"
 ---
 
 # Baudžiamasis kodeksas
@@ -5598,9 +5598,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 310 straipsnis. Žiaurus elgesys su gyvūnais
 
-Tas, kas žiauriai elgėsi su gyvūnu, jeigu dėl to gyvūnas žuvo arba buvo suluošintas, arba kankino gyvūną,
+1\. Tas, kas žiauriai elgėsi su gyvūnu, jį kankino, jeigu dėl to gyvūnas žuvo arba buvo suluošintas,
 
 baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki vienerių metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580*
 
 ### XLV SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI MIRUSIOJO ATMINIMUI
 
@@ -6483,3 +6489,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1888, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11179
 
 Lietuvos Respublikos baudžiamojo kodekso 155 ir 290 straipsnių pripažinimo netekusiais galios įstatymas
+
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580
+
+Lietuvos Respublikos baudžiamojo kodekso 310 straipsnio pakeitimo įstatymas
