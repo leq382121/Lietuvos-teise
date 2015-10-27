@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ZsnnWvPJkQ"
+redakcija_nuo: "2015-10-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/kArASIiMiK"
 ---
 
 # Baudžiamasis kodeksas
@@ -5506,6 +5506,18 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
+#### 306² straipsnis. Transporto priemonės ridos suklastojimas
+
+1\. Tas, kas suklastojo transporto priemonės ridą,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
+
+2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936*
+
 ### XLIV SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
 
 #### 307 straipsnis. Pelnymasis iš kito asmens prostitucijos
@@ -6497,3 +6509,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1830, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10580
 
 Lietuvos Respublikos baudžiamojo kodekso 310 straipsnio pakeitimo įstatymas
+
+10\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
+
+Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
