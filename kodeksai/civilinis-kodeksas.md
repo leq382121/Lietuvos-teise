@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2015-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/xZqfzCFyNg"
+redakcija_nuo: "2015-11-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/eTgKCgiLXL"
 ---
 
 # Civilinis kodeksas
@@ -1042,7 +1042,17 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 9\) taikos sutartys;
 
-10\) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+10\) motorinės transporto priemonės pirkimo–pardavimo sutartys;
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597*
+
+11\) kiti sandoriai, kuriems šis kodeksas ar kiti įstatymai nustato privalomą paprastą rašytinę formą.
+
+*Straipsnio punkto numeracijos pakeitimas:*
+
+*Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597*
 
 2\. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telegrafinio, faksimilinio ryšio ar kitokiais telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
 
@@ -14170,6 +14180,14 @@ Vertybinių popierių ir valiutos pirkimo–pardavimo sutarčių sudarymo ypatum
 
 2\. Pagal pirkimo–pardavimo sutartį su išlyga dėl nuosavybės teisės pirkėjas neturi disponavimo parduodamu daiktu teisės tol, kol neįvykdo sutartyje nurodytų sąlygų.
 
+###### 6.431¹ straipsnis. Motorinės transporto priemonės pirkimo–pardavimo sutartis
+
+Motorinės transporto priemonės pirkimo–pardavimo sutartyje privalo būti nurodyti duomenys apie motorinę transporto priemonę, kurią pardavėjas privalo pagal sutartį perduoti pirkėjui. Pardavėjas pirkimo–pardavimo sutartyje privalo pirkėjui nurodyti (deklaruoti) ridos duomenis, visus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta per laikotarpį, kurį pardavėjas yra motorinės transporto priemonės savininkas, taip pat visus jam žinomus eismo ar kitus įvykius, kuriuose motorinė transporto priemonė buvo apgadinta. Privalomų pirkimo–pardavimo sutartyje nurodyti duomenų apie motorinę transporto priemonę ir jos trūkumus sąrašą tvirtina Vyriausybė arba jos įgaliota institucija.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743*
+
 #### XXIV skyrius – Mainai
 
 ###### 6.432 straipsnis. Mainų sutarties samprata
@@ -19665,3 +19683,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1831, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10581
 
 Lietuvos Respublikos civilinio kodekso 2.11 straipsnio pakeitimo įstatymas
+
+12\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
+
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymas
+
+13\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
+
+Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymo Nr. XII-1851 2 straipsnio pakeitimo įstatymas
