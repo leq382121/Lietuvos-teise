@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2015-10-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/kArASIiMiK"
+redakcija_nuo: "2015-11-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/AHLYaksayS"
 ---
 
 # Baudžiamasis kodeksas
@@ -28,7 +28,7 @@ LIETUVOS RESPUBLIKOS
 
 1\. Lietuvos Respublikos baudžiamasis kodeksas įsigalioja kartu ir tik suderintas su naujais Lietuvos Respublikos baudžiamojo proceso kodeksu ir Lietuvos Respublikos bausmių vykdymo kodeksu.
 
-2\. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu
+2\. Konkreti visų šio straipsnio 1 dalyje nurodytų kodeksų įsigaliojimo data nustatoma atskiru įstatymu.
 
 *Straipsnio pakeitimai:*
 
@@ -4062,7 +4062,17 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 6\. Asmuo, kuris padarė šio straipsnio 1, 3 ar 5 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
 
-7\. Už šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+7\. Šio straipsnio 6 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
+
+8\. Už šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
 *Straipsnio pakeitimai:*
 
@@ -4090,7 +4100,17 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 5\. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
 
-6\. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+6\. Šio straipsnio 5 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
+
+7\. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
 *Straipsnio pakeitimai:*
 
@@ -4146,7 +4166,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 1\. Šiame skyriuje nurodyti valstybės tarnautojai yra valstybės politikai, valstybės pareigūnai, teisėjai, valstybės tarnautojai pagal Valstybės tarnybos įstatymą ir kiti asmenys, kurie, dirbdami ar kitais įstatyme numatytais pagrindais eidami pareigas valstybės ar savivaldybių institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi administracinius įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
 
-2\. Valstybės tarnautojui prilyginamas asmuo, turintis atitinkamus įgaliojimus užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, taip pat oficialūs kandidatai į šias pareigas.
+2\. Valstybės tarnautojui prilyginamas asmuo, kuris atlieka valdžios atstovo funkcijas, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
 3\. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba arba kitais įstatyme numatytais pagrindais eina pareigas viešajame arba privačiajame juridiniame asmenyje ar kitoje organizacijoje arba verčiasi profesine veikla ir turi atitinkamus administracinius įgaliojimus, arba turi teisę veikti šio juridinio asmens ar kitos organizacijos vardu, arba teikia viešąsias paslaugas, taip pat arbitras arba prisiekusysis.
 
@@ -6517,3 +6541,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1987, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16936
 
 Lietuvos Respublikos baudžiamojo kodekso papildymo 306-2 straipsniu įstatymas
+
+11\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711
+
+Lietuvos Respublikos baudžiamojo kodekso 226, 227 ir 230 straipsnių pakeitimo įstatymas
