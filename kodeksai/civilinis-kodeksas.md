@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2015-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/eTgKCgiLXL"
+redakcija_nuo: "2015-12-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/FUAPPnUxGL"
 ---
 
 # Civilinis kodeksas
@@ -10944,7 +10944,11 @@ Trečiasis asmuo gali pagal sutartį su kreditoriumi perimti skolininko pareigas
 
 ###### 6.116 straipsnis. Skolos perkėlimas pagal skolininko ir skolos perėmėjo sutartį
 
-1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka, jeigu kituose įstatymuose, reglamentuojančiuose kredito įstaigų ir kredito įstaigų sistemos stabilumą ir patikimumą, nenustatyta kitaip. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
+1\. Perkelti savo skolą kitam asmeniui skolininkas gali tik tuo atveju, kai kreditorius sutinka, jeigu kituose įstatymuose, reglamentuojančiuose finansų įstaigų ir finansų įstaigų sistemos stabilumą ir patikimumą, nenustatyta kitaip. Sutikimas pareiškiamas tik po to, kai skolininkas ir skolos perėmėjas praneša kreditoriui apie numatomą skolos perkėlimą. Kol toks sutikimas negautas, šalys gali pakeisti ar nutraukti sutartį. Kai gautas kreditoriaus sutikimas, pradinio ir naujojo skolininko sutartis nebegali būti keičiama.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2065, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19178*
 
 2\. Kreditorius savo sutikimą perkelti skolą skolininkui gali duoti iš anksto. Išankstinio sutikimo kreditorius neturi teisės atšaukti, išskyrus atvejus, kai tokią teisę išankstiniame sutikime buvo nurodęs.
 
@@ -19699,3 +19703,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1961, 2015-10-15, paskelbta TAR 2015-10-19, i. k. 2015-15743
 
 Lietuvos Respublikos civilinio kodekso 1.73 straipsnio pakeitimo ir Kodekso papildymo 6.431-1 straipsniu įstatymo Nr. XII-1851 2 straipsnio pakeitimo įstatymas
+
+14\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2065, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19178
+
+Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas
