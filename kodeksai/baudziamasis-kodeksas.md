@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2016-04-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/HwPgSFjRZj"
+redakcija_nuo: "2016-05-25"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/YfmfsVKZPX"
 ---
 
 # Baudžiamasis kodeksas
@@ -2588,9 +2588,13 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 #### 147 straipsnis. Prekyba žmonėmis
 
-1\. Tas, kas pardavė, pirko, kitaip perleido ar įgijo, verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba priimdamas ar sumokėdamas pinigus, arba gaudamas ar suteikdamas kitokią naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo, nesvarbu, ar jis sutiko, būtų išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai ar kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitais išnaudojimo tikslais,
+1\. Tas, kas pardavė, pirko, kitaip perleido ar įgijo, verbavo, gabeno ar laikė nelaisvėje žmogų panaudodamas fizinį smurtą ar grasinimus arba kitaip atimdamas galimybę priešintis, arba pasinaudodamas nukentėjusio asmens priklausomumu ar pažeidžiamumu, arba panaudodamas apgaulę, arba priimdamas ar sumokėdamas pinigus, arba gaudamas ar suteikdamas kitokią naudą asmeniui, kuris faktiškai kontroliuoja nukentėjusį asmenį, jeigu kaltininkas žinojo arba siekė, kad nukentėjęs asmuo, nesvarbu, ar jis sutiko, būtų išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai ar kitoms seksualinio išnaudojimo formoms, priverstinei, fiktyviai santuokai, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitais išnaudojimo tikslais,
 
 baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906*
 
 2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau nukentėjusiems asmenims arba sukeldamas pavojų nukentėjusio asmens gyvybei, arba dalyvaudamas organizuotoje grupėje, arba žinodamas ar siekdamas, kad būtų paimtas nukentėjusio asmens organas, audinys ar ląstelės, arba būdamas valstybės tarnautojas ar viešojo administravimo funkcijas atliekantis asmuo ir vykdydamas įgaliojimus,
 
@@ -2836,9 +2840,13 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 157 straipsnis. Vaiko pirkimas arba pardavimas
 
-1\. Tas, kas siūlė pirkti, kitaip įgyti, pardavė, pirko, kitaip perleido, įgijo, verbavo, gabeno arba laikė nelaisvėje vaiką žinodamas ar siekdamas, kad, neatsižvelgiant į vaiko sutikimą, jis būtų neteisėtai įvaikintas, išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai, kitoms seksualinio išnaudojimo formoms, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitiems išnaudojimo tikslams,
+1\. Tas, kas siūlė pirkti, kitaip įgyti, pardavė, pirko, kitaip perleido, įgijo, verbavo, gabeno arba laikė nelaisvėje vaiką žinodamas ar siekdamas, kad, neatsižvelgiant į vaiko sutikimą, jis būtų neteisėtai įvaikintas, išnaudojamas vergijos ar panašiomis į vergiją sąlygomis, prostitucijai, pornografijai, kitoms seksualinio išnaudojimo formoms, priverstinei, fiktyviai santuokai, priverstiniam darbui ar paslaugoms, įskaitant elgetavimą, nusikalstamai veikai daryti arba kitiems išnaudojimo tikslams,
 
 baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906*
 
 2\. Tas, kas šio straipsnio 1 dalyje numatytą veiką padarė dviem ar daugiau vaikų arba mažamečiui, arba sukeldamas pavojų nukentėjusio asmens gyvybei, arba dalyvaudamas organizuotoje grupėje, arba žinodamas ar siekdamas, kad būtų paimtas nukentėjusio asmens organas, audinys ar ląstelės, arba būdamas valstybės tarnautojas ar viešojo administravimo funkcijas atliekantis asmuo ir vykdydamas įgaliojimus,
 
@@ -6651,3 +6659,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2277, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06428
 
 Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, 284 straipsnių pakeitimo įstatymo Nr. XII-1871 9 straipsnio pakeitimo įstatymas
+
+16\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
+
+Lietuvos Respublikos baudžiamojo kodekso 147 ir 157 straipsnių pakeitimo įstatymas
