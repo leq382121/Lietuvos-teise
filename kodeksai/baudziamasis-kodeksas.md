@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2016-05-25"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/YfmfsVKZPX"
+redakcija_nuo: "2016-06-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/BwpnSaBuqc"
 ---
 
 # Baudžiamasis kodeksas
@@ -3596,7 +3596,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 
 1\. Tas, kas nusikalstamais tikslais ar kitaip neteisėtai gamino, gabeno, importavo, pardavė, suteikė prieigą ar kitaip platino, įgijo ar laikė įrenginius ar programinę įrangą, tiesiogiai skirtus ar pritaikytus daryti nusikalstamas veikas, taip pat slaptažodžius, kodus ar kitokius panašius duomenis, skirtus prisijungti prie informacinės sistemos ar jos dalies,
 
-baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki trejų metų.
+baudžiamas viešaisiais darbais arba bauda, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730*
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5690,7 +5694,11 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba lais
 
 2\. Tas, kas pagamino, įgijo, laikė, demonstravo, reklamavo, siūlė arba platino pornografinio turinio dalykus, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, arba pasinaudodamas informacinėmis ir ryšių technologijomis ar kitomis priemonėmis įgijo ar suteikė prieigą prie pornografinio turinio dalykų, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas,
 
-baudžiamas bauda arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730*
 
 3\. Tas, kas turėdamas tikslą platinti pagamino ar įsigijo arba platino didelį kiekį pornografinio turinio dalykų, kuriuose vaizduojamas mažametis vaikas,
 
@@ -6069,6 +6077,12 @@ priedas
 *Papildyta punktu:*
 
 *Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697*
+
+31\. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
+
+*Papildyta punktu:*
+
+*Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730*
 
 *Kodeksas papildytas priedu:*
 
@@ -6667,3 +6681,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2340, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13906
 
 Lietuvos Respublikos baudžiamojo kodekso 147 ir 157 straipsnių pakeitimo įstatymas
+
+17\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730
+
+Lietuvos Respublikos baudžiamojo kodekso 198-2, 309 straipsnių ir priedo pakeitimo įstatymas
