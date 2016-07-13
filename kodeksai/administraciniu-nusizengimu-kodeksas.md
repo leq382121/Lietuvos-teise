@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2016-05-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/UGYDMPIJLJ"
+redakcija_nuo: "2016-07-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/immGAcmzDM"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -258,7 +258,11 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 
 #### 12 straipsnis. Mažai pavojinga veika
 
-1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 2 ir 3 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 2\. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.
 
@@ -1148,9 +1152,13 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
-5\. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas arba neigiamą poveikį nepilnamečių vystymuisi darančios draudžiamos skelbti viešosios informacijos, susijusios su asmens duomenimis, paskelbimas radijo ir televizijos programose, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose
+5\. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas arba neigiamą poveikį nepilnamečių vystymuisi darančios draudžiamos skelbti viešosios informacijos, susijusios su asmens duomenimis, paskelbimas radijo ir (ar) televizijos programose, atskirose programose, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose
 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -1698,7 +1706,11 @@ užtraukia baudą asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdeš
 
 1\. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose nesilaikymas
 
-užtraukia baudą televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia įspėjimą arba baudą televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2028,15 +2040,19 @@ užtraukia baudą atsakingiems už reklamos skleidimą asmenims nuo vieno šimto
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
 
-#### 146 straipsnis. Reikalavimų reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
+#### 146 straipsnis. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
 
-1\. Reikalavimų reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
+1\. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
 
-užtraukia baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 #### 147 straipsnis. Teisės aktų, reglamentuojančių kvalifikuotus sertifikatus sudarančių sertifikavimo paslaugų teikėjų veiklą, pažeidimas
 
@@ -3238,9 +3254,13 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki penkių šimtų devyniasdešimt eurų.
 
-2\. Duomenų apie pagamintus, importuotus, eksportuotus, parduotus, laikomus, sunaudotus sprogmenis pateikimo taisyklių pažeidimas, duomenų nepateikimas ar klaidingų duomenų pateikimas, taip pat teisės aktuose nustatytos fizinių ir juridinių asmenų, kurių veikla yra susijusi su sprogmenų apyvarta, veiklos vidaus audito tvarkos pažeidimas ir vidaus audito duomenų nepateikimas ar klaidingų duomenų pateikimas Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos
+2\. Duomenų apie pagamintus, įgytus, laikomus, sunaudotus, realizuotus, importuotus, įvežtus į Lietuvos Respubliką, eksportuotus, išvežtus iš Lietuvos Respublikos, vežtus tranzitu per Lietuvos Respublikos teritoriją sprogmenis pateikimo tvarkos pažeidimas, duomenų nepateikimas ar klaidingų duomenų pateikimas, taip pat teisės aktuose nustatytos asmenų, kurių veikla yra susijusi su sprogmenų apyvarta, licencijuojamos veiklos vidaus audito tvarkos pažeidimas ir licencijuojamos veiklos vidaus audito duomenų nepateikimas ar klaidingų duomenų pateikimas sprogmenų civilinės apyvartos kontrolę atliekančioms institucijoms
 
 užtraukia įspėjimą arba baudą nuo vieno šimto penkiasdešimt iki penkių šimtų devyniasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
 
 3\. Sprogmenų apskaitos tvarkos pažeidimas, sprogmenų apskaitos duomenų nepateikimas ar klaidingų duomenų pateikimas valstybinę sprogmenų apyvartos kontrolę atliekantiems pareigūnams, taip pat sprogmenų laikymo ir apsaugos reikalavimų pažeidimas
 
@@ -3272,9 +3292,13 @@ užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eu
 
 užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų, juridinių asmenų vadovams – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų ir kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
-5\. Šio straipsnio 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+5\. Šio straipsnio 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų, juridinių asmenų vadovams – nuo dviejų tūkstančių iki trijų tūkstančių eurų ir kitiems atsakingiems asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 #### 236 straipsnis. Ūkio subjekto aplinkos stebėseną (monitoringą) reglamentuojančių teisės aktų reikalavimų pažeidimas
 
@@ -6054,35 +6078,67 @@ užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkst
 
 #### 356 straipsnis. Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus
 
-1\. Fizinio asmens atliekami statybos darbai, kai nėra teisės aktuose nustatyta tvarka paskirtas (pasamdytas) statinio statybos darbų vadovas ar statinio statybos specialiųjų darbų vadovai,
+Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus, išskyrus šio kodekso 235 straipsnio 3 ir 5 dalyse, 265 straipsnio 5 dalyje, 281 straipsnio 2 dalyje, 314 straipsnio 3 ir 4 dalyse, 350, 351, 352, 353, 354, 355, 356¹, 356², 357, 357¹, 361, 363, 365 straipsniuose, 385 straipsnio 2 ir 4 dalyse, 459 straipsnio 2 ir 6 dalyse, 460 straipsnyje numatytus pažeidimus,
 
-užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia įspėjimą arba baudą nuo penkiasdešimt iki vieno tūkstančio eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+#### 356¹ straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų prievolių nevykdymas įvykus statomo statinio avarijai
+
+1\. Lietuvos Respublikos statybos įstatyme nustatytų prievolių nevykdymas įvykus statomo statinio avarijai
+
+užtraukia baudą statytojui (užsakovui) ir (ar) rangovui nuo šešių šimtų iki vieno tūkstančio vieno šimto šešiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą statytojui (užsakovui) ir (ar) rangovui nuo aštuonių šimtų septyniasdešimt iki vieno tūkstančio septynių šimtų keturiasdešimt eurų.
 
-3\. Normatyviniuose statybos techniniuose dokumentuose nurodytų dokumentų neįforminimas ar neužpildymas teisės aktuose nustatyta tvarka, kai atliekami statybos darbai,
+*Papildyta straipsniu:*
 
-užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+#### 356² straipsnis. Statinio projekto sprendinio, numatančio statybos sustabdymą naudojamame statinyje ar jo dalyje, pažeidimas
+
+1\. Statinio statybos techninės priežiūros atlikimas statybos metu naudojamame statinyje, kuriame ar kurio dalyje nesustabdyta ūkinė ar kitokia veikla, kaip tai numatyta statinio projekte,
+
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+3\. Vadovavimas statybos darbams, atliekamiems naudojamame statinyje, kuriame ar kurio dalyje nesustabdyta ūkinė ar kitokia veikla, kaip tai numatyta statinio projekte,
+
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-5\. Statybos darbų atlikimas neturint teisės aktuose nustatytų privalomųjų dokumentų statybos darbams pradėti, išskyrus statybą leidžiančius dokumentus,
+5\. Statybos darbų atlikimas naudojamame statinyje, kuriame ar kurio dalyje nesustabdyta ūkinė ar kitokia veikla, kaip tai numatyta statinio projekte,
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio vieno šimto šešiasdešimt iki dviejų tūkstančių trijų šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 #### 357 straipsnis. Informacijos apie statybą nepateikimas
 
-1\. Informacijos apie statybos pradžią, rangovo pasamdymą, taip pat apie pagrindinių statybos sričių vadovų (statinio projekto vykdymo priežiūros vadovo, statinio projekto vykdymo priežiūros dalies vadovo, statinio statybos vadovo, statinio statybos specialiųjų darbų vadovo, statinio statybos techninės priežiūros vadovo, specialiosios statinio statybos techninės priežiūros vadovo) pasamdymą ar paskyrimą nepateikimas arba pateikimas nesilaikant teisės aktuose nustatytų terminų
+1\. Informacijos apie statybos pradžią, rangovo pasamdymą ar paskyrimą, taip pat apie pagrindinių statybos sričių vadovų (statinio projekto vykdymo priežiūros vadovo, statinio statybos vadovo, statinio statybos techninio prižiūrėtojo) pasamdymą ar paskyrimą nepateikimas arba pateikimas nesilaikant teisės aktuose nustatytų terminų
 
 užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -6126,21 +6182,45 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki vieno tūkstančio penki�
 
 užtraukia baudą nuo dviejų šimtų iki trijų tūkstančių eurų.
 
-#### 360 straipsnis. Statinių techninę priežiūrą reglamentuojančių teisės aktų pažeidimas
+#### 360 straipsnis. Statinio naudotojo pareigų nevykdymas ir statinių techninę priežiūrą reglamentuojančių teisės aktų pažeidimas
 
-1\. Statinių techninę priežiūrą reglamentuojančių teisės aktų pažeidimas, išskyrus šio straipsnio 2 dalyje nurodytą pažeidimą,
+1\. Trukdymas bendrojo naudojimo objektų valdytojui ar jo įgaliotiems asmenims, įgyvendinantiems butų ir kitų patalpų savininkų teisės aktų nustatyta tvarka priimtus sprendimus, remontuoti, atnaujinti (modernizuoti) ar kitaip tvarkyti bute ar kitose patalpose esančius bendrojo naudojimo objektus
+
+užtraukia įspėjimą arba baudą statinio naudotojams nuo trisdešimt iki vieno šimto eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto iki dviejų šimtų penkiasdešimt eurų.
+
+3\. Statinių techninę priežiūrą reglamentuojančių teisės aktų pažeidimas, išskyrus šio straipsnio 5 dalyje nurodytą pažeidimą,
 
 užtraukia įspėjimą arba baudą nuo šešiasdešimt iki trijų šimtų eurų.
 
-2\. Statinių techninės priežiūros taisyklėse nustatytų priemonių netaikymas, kai yra pavojinga statinio deformacija ir griūties grėsmė,
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
 
-#### 361 straipsnis. Statinio projekto vykdymo priežiūros ir statinio statybos techninės priežiūros tvarkos nesilaikymas
+5\. Statinių techninės priežiūros taisyklėse nustatytų priemonių netaikymas, kai yra pavojinga statinio deformacija ir griūties grėsmė, priemonių žmonėms apsaugoti, avarijai išvengti nesiėmimas ar Lietuvos Respublikos statybos įstatyme nustatytų prievolių nevykdymas įvykus naudojamo statinio avarijai, paaiškėjus, kad statinio būklė kelia pavojų statinyje ar arti jo esančių žmonių sveikatai, gyvybei ar aplinkai,
 
-Statinio projekto vykdymo priežiūros ir statinio statybos techninės priežiūros normatyviniuose statybos techniniuose dokumentuose nustatytų reikalavimų pažeidimas
+užtraukia baudą statinio naudotojams ir (ar) statinio techniniams prižiūrėtojams nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+#### 361 straipsnis. Statinio projekto vykdymo priežiūra ir statinio statybos techninė priežiūra pažeidžiant teisės aktų reikalavimus
+
+Statinio projekto vykdymo priežiūrą ir statinio statybos techninę priežiūrą reglamentuojančiuose teisės aktuose nustatytų reikalavimų pažeidimas
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 #### 362 straipsnis. Statinių projektų patikrinimo, prisijungimo sąlygų, specialiųjų reikalavimų ir statybą leidžiančių dokumentų išdavimo tvarkos pažeidimas
 
@@ -6152,13 +6232,21 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
 
-3\. Prisijungimo sąlygų, specialiųjų architektūros ar saugomos teritorijos tvarkymo reikalavimų, paveldosaugos ar saugomos teritorijos tvarkymo ir apsaugos reikalavimų nepagrįstas neišdavimas per teisės aktuose nustatytus terminus
+3\. Prisijungimo sąlygų, specialiųjų architektūros, paveldosaugos ar saugomos teritorijos tvarkymo ir apsaugos reikalavimų ar specialiųjų reikalavimų neišdavimas per teisės aktuose nustatytus terminus, nepagrįstas atsisakymas juos išduoti ar neteisėtas jų išdavimas
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą nuo vieno šimto iki vieno šimto penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 5\. Teisės aktuose nustatytos statybą leidžiančių dokumentų išdavimo tvarkos pažeidimas
 
@@ -6168,11 +6256,15 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-#### 363 straipsnis. Statinio projektavimas, vadovavimas statinio projekto rengimui, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas statinio projekto ar statinio ekspertizei, statinio statyba, vadovavimas statinio statybai neturint teisės verstis šia veikla
+**363 straipsnis. Statinio projektavimas, vadovavimas statinio projekto rengimui, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas statinio projekto ar statinio ekspertizei, statinio statyba, vadovavimas statinio statybai, statinio statybos techninės priežiūros atlikimas neturint teisės verstis šia veikla, neapsidraudus ar neapdraustam privalomuoju civilinės atsakomybės draudimu**
 
-Statinio projektavimas, vadovavimas rengiant statinio projektą, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas atliekant statinio projekto ar statinio ekspertizę, statinio statyba ar vadovavimas statinio statybai neturint teisės verstis šia veikla
+Statinio projektavimas, vadovavimas rengiant statinio projektą, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas atliekant statinio projekto ar statinio ekspertizę, statinio statyba ar vadovavimas statinio statybai, statinio statybos techninės priežiūros atlikimas neturint teisės verstis šia veikla, neapsidraudus ar neapdraustam privalomuoju civilinės atsakomybės draudimu
 
 užtraukia baudą asmenims nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 #### 364 straipsnis. Teritorijų planavimą ar žemės valdos projektus reglamentuojančių teisės aktų pažeidimas
 
@@ -6180,37 +6272,95 @@ užtraukia baudą asmenims nuo penkių šimtų šešiasdešimt iki vieno tūksta
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
-2\. Sprendimo suderinti teritorijų planavimo dokumentus ir žemės valdos projektus priėmimas, kai pažeista teisės aktuose nustatyta jų derinimo tvarka arba kai jų sprendiniai neatitinka planavimo sąlygų ar teritorijų planavimą reglamentuojančių teisės aktų reikalavimų, ar aukštesnio teritorijų planavimo lygmens teritorijų planavimo dokumentų sprendinių,
+2\. Teisės aktuose nustatytų teritorijų planavimo dokumentų ar žemės valdos projektų derinimo procedūrų pažeidimas, sprendimo suderinti teritorijos planavimo dokumentus ir žemės valdos projektus priėmimas, kai jų sprendiniai neatitinka planavimo sąlygų ar teritorijų planavimą reglamentuojančių teisės aktų reikalavimų, ar aukštesnio teritorijų planavimo lygmens teritorijų planavimo dokumentų sprendinių,
 
 užtraukia įspėjimą arba baudą nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 3\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
-4\. Neteisėtas atsisakymas derinti teritorijų planavimo dokumentą ar žemės valdos projektą, išvados dėl teritorijų planavimo dokumento ar žemės valdos projekto derinimo nepateikimas
+4\. Teritorijų planavimo dokumentų ar žemės valdos projektų skelbimo ar registravimo tvarkos pažeidimas
+
+užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+5\. Neteisėtas atsisakymas derinti teritorijų planavimo dokumentą ar žemės valdos projektą, išvados dėl teritorijų planavimo dokumento ar žemės valdos projekto derinimo nepateikimas
 
 užtraukia įspėjimą arba baudą nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
 
-5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+6\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
-6\. Neteisėtas atsisakymas teikti tvirtinti teritorijų planavimo dokumentą ar žemės valdos projektą, teritorijų planavimo dokumento ar žemės valdos projekto nepatvirtinimas per Lietuvos Respublikos teritorijų planavimo įstatyme ar kituose teisės aktuose nustatytus terminus
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+7\. Neteisėtas atsisakymas teikti tvirtinti teritorijų planavimo dokumentą ar žemės valdos projektą, teritorijų planavimo dokumento ar žemės valdos projekto nepatvirtinimas per Lietuvos Respublikos teritorijų planavimo įstatyme ar kituose teisės aktuose nustatytus terminus
 
 užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-7\. Teritorijų planavimo dokumento ar žemės valdos projekto, kurių sprendiniai neatitinka teisės aktų reikalavimų ir aukštesnio teritorijų planavimo lygmens teritorijų planavimo dokumentų sprendinių, pateikimas teritorijų planavimo organizatoriui
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+8\. Teritorijų planavimo dokumento ar žemės valdos projekto, kurių sprendiniai neatitinka teisės aktų reikalavimų ir aukštesnio teritorijų planavimo lygmens teritorijų planavimo dokumentų sprendinių, pateikimas teritorijų planavimo organizatoriui
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
-8\. Teritorijų planavimo dokumento ar žemės valdos projekto rengimas, vadovavimas teritorijų planavimo dokumento rengimui neturint teisės verstis šia veikla
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+9\. Teritorijų planavimo dokumento ar žemės valdos projekto rengimas, vadovavimas teritorijų planavimo dokumento rengimui neturint teisės verstis šia veikla
 
 užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
-9\. Teritorijų planavimo dokumento ar žemės valdos projekto, dėl kurių tvirtinimo pateikta neigiama išvada, teikimas tvirtinti
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+10\. Teritorijų planavimo dokumento ar žemės valdos projekto, dėl kurių tvirtinimo pateikta neigiama išvada, teikimas tvirtinti
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+#### 364¹ straipsnis. Neteisėtas pagrindinės žemės naudojimo paskirties ar naudojimo būdo pakeitimas ar neteisėtas atsisakymas pakeisti pagrindinę žemės naudojimo paskirtį ar naudojimo būdą
+
+1\. Neteisėtas pagrindinės žemės naudojimo paskirties ar naudojimo būdo pakeitimas arba neteisėtas atsisakymas pakeisti pagrindinę žemės naudojimo paskirtį ar naudojimo būdą
+
+užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
+
+3\. Pagrindinės žemės naudojimo paskirties ar naudojimo būdo pakeitimo procedūrų ir terminų pažeidimas
+
+užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 #### 365 straipsnis. Savavališkas kasinėjimas bendrojo naudojimo teritorijoje ir teritorijos nesutvarkymas baigus darbus
 
@@ -7988,15 +8138,35 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 
 užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
-#### 477 straipsnis. Transliavimo ir (ar) retransliavimo licencijose ir leidimuose nustatytų reikalavimų pažeidimas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas
+**477 straipsnis. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas, pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas, nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią**
 
-1\. Transliavimo ir (ar) retransliavimo licencijose ir leidimuose nustatytų reikalavimų pažeidimas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas
+1\. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas ar pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas
 
-užtraukia baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir retransliuotojų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
+
+3\. Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas
+
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
+
+5\. Nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią
+
+užtraukia įspėjimą arba baudą fiziniams asmenims arba nelicencijuojamą radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklą vykdančių juridinių asmenų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 #### 478 straipsnis. Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo pažeidimas
 
@@ -8346,9 +8516,13 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt 
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
-5\. Neįleidimas arba kitoks kliudymas policijos pareigūnams pagal kompetenciją tikrinti juridinių asmenų patalpas, kuriose laikomi ginklai, šaudmenys ar sprogmenys, kontrolei atlikti reikalingų dokumentų ir informacijos nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, šių pareigūnų teisėtų reikalavimų nevykdymas
+5\. Neįleidimas arba kitoks kliudymas policijos pareigūnams pagal kompetenciją tikrinti juridinių asmenų patalpas, kuriose laikomi ginklai, šaudmenys, sprogmenys ar civilinės pirotechnikos priemonės, kontrolei atlikti reikalingų dokumentų ir informacijos nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, šių pareigūnų teisėtų reikalavimų nevykdymas
 
 užtraukia baudą juridinių asmenų vadovams nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir ginklininkams arba už sprogmenų laikymą atsakingiems asmenims – nuo trisdešimt iki penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
 
 6\. Neįleidimas arba kitoks kliudymas policijos pareigūnams pagal kompetenciją tikrinti saugos tarnybų ir saugos padalinių veiklą, kontrolei atlikti reikalingų dokumentų ir informacijos nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, šių pareigūnų teisėtų reikalavimų nevykdymas
 
@@ -8728,7 +8902,11 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
 
 3\. Radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų paskelbtos informacijos saugojimo tvarkos pažeidimas
 
-užtraukia baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -9200,7 +9378,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 38\) Lietuvos metrologijos inspekcijos – dėl šio kodekso 140, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
-39\) Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 230, 234, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+39\) Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
 
 40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 2 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -9260,7 +9442,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
-67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 357, 357¹, 358, 361, 362, 363, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
 68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10869,3 +11055,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 217-1 straipsniu, 120, 395, 589 straipsnių ir priedo pakeitimo įstatymas
+
+4\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 234, 506 ir 589 straipsnių pakeitimo įstatymas
+
+5\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 79, 124, 146, 477 ir 548 straipsnių pakeitimo įstatymas
+
+6\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 235, 356, 357, 360, 361, 362, 363, 364, 589 straipsnių pakeitimo ir Kodekso papildymo 356-1, 356-2, 364-1 straipsniais įstatymas
