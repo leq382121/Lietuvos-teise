@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2016-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/XcOUBjEOxw"
+redakcija_nuo: "2016-10-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/zcnWuOcnAL"
 ---
 
 # Civilinis kodeksas
@@ -2284,7 +2284,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 3\. Viešieji juridiniai asmenys gali veikti pagal įstatymus ar, jei įstatymai numato, pagal valstybės ar savivaldybių institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo, jei toks teisės aktas nenumato, kad viešasis juridinis asmuo veikia pagal valstybės ar savivaldybių institucijos patvirtintus įstatus.
 
-4\. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino.
+4\. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 3 dalyje nurodyti teisės aktai privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659*
 
 5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
 
@@ -20199,3 +20203,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
 
 Lietuvos Respublikos civilinio kodekso 2.11-1, 2.138-1, 3.103, 3.125, 5.32 ir 5.50 straipsnių pakeitimo įstatymas
+
+21\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
+
+Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
