@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2016-10-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/zcnWuOcnAL"
+redakcija_nuo: "2016-10-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/spJCtREgMq"
 ---
 
 # Civilinis kodeksas
@@ -14430,7 +14430,11 @@ Be šio kodekso 6.396 ir 6.397 straipsniuose numatytų sąlygų, esminė gyvenam
 
 ###### 6.410 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
 
-Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar teismo antstolis.
+Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar antstolis.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685*
 
 ##### Dešimtasis skirsnis – Daiktų pirkimas–pardavimas išsimokėtinai
 
@@ -14568,7 +14572,11 @@ Teisių pirkimo–pardavimo sutarčiai taikomos šio skyriaus nuostatos tiek, ki
 
 1\. Teisė yra ginčo objektas, jeigu ją ginčija asmuo, pareikšdamas ieškinį, arba yra reali tikimybė, kad toks ieškinys gali būti pareikštas.
 
-2\. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, teismo antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+2\. Ginčijamų teisių, kurios yra ginčo objektas, neturi teisės pirkti advokatai, teisėjai, notarai, antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685*
 
 3\. Jeigu ginčijamos teisės parduotos, asmuo, iš kurio šios teisės išreikalaujamos, visiškai atleidžiamas nuo prievolės po to, kai sumoka pirkėjui pirkimo–pardavimo sutarties kainą, pirkimo–pardavimo sutarties sudarymo išlaidas ir palūkanas, skaičiuojamas nuo kainos. Ši išpirkimo teisė negali būti įgyvendinama, jeigu teisės parduotos kreditoriui kaip skolos grąžinimas arba vienam iš parduotos teisės įpėdinių ar bendraturčių. Išpirkimo teisė taip pat negali būti įgyvendinama, jeigu teismas priėmė sprendimą, pripažįstantį parduotą teisę.
 
@@ -18272,7 +18280,11 @@ Jeigu įstatymas ar sutartis nustato prekių sandėlio teisę disponuoti saugomo
 
 7\. Pasibaigus daikto saugojimui, saugotojas privalo parengti turto saugojimo ataskaitą ir ją perduoti šalims arba teismui.
 
-8\. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, teismo antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+8\. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685*
 
 ###### 6.864 straipsnis. Daiktų saugojimas lombarde
 
@@ -20211,3 +20223,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
 
 Lietuvos Respublikos civilinio kodekso 2.46 straipsnio pakeitimo įstatymas
+
+22\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+
+Lietuvos Respublikos civilinio kodekso 6.410, 6.427 ir 6.863 straipsnių pakeitimo įstatymas
