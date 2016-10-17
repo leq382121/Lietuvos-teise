@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2016-10-07"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/lOWwJmYMcQ"
+redakcija_nuo: "2016-10-18"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RtvZmacEQC"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -8056,9 +8056,9 @@ užtraukia baudą nuo vieno tūkstančio šešių šimtų iki trijų tūkstanči
 
 4\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros arba įrenginių konfiskavimas.
 
-#### 467 straipsnis. Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių techninio reglamento sąlygų pažeidimas
+#### 467 straipsnis. Radijo ryšio įrenginių techninio reglamento sąlygų, nestandartinių galinių įrenginių gamintojams skirtų gamintojo kodų naudojimo sąlygų pažeidimas
 
-1\. Radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių techninio reglamento sąlygų pažeidimas
+1\. Radijo ryšio įrenginių techninio reglamento sąlygų, nestandartinių galinių įrenginių gamintojams skirtų gamintojo kodų naudojimo sąlygų pažeidimas
 
 užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
@@ -8066,7 +8066,11 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros arba įrenginių konfiskavimas.
+3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas radijo ryšio įrenginių arba galinių įrenginių konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270*
 
 #### 468 straipsnis. Teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla suteikimo tvarkos arba šios veiklos sąlygų pažeidimas
 
@@ -11098,7 +11102,19 @@ priedas
 
 *Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655*
 
-76\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
+76\. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79).
+
+*Papildyta punktu:*
+
+*Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270*
+
+77\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+
+*Papildyta punktu:*
+
+*Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270*
+
+78\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
 
 *Punkto numeracijos pakeitimas:*
 
@@ -11108,7 +11124,9 @@ priedas
 
 *Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655*
 
-77\. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+*Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270*
+
+79\. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
 
 *Papildyta punktu:*
 
@@ -11117,6 +11135,8 @@ priedas
 *Punkto numeracijos pakeitimas:*
 
 *Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655*
+
+*Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270*
 
 **Pakeitimai:**
 
@@ -11183,3 +11203,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2649, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24689
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 66 straipsnio pakeitimo įstatymas
+
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2672, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25270
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 467 straipsnio ir priedo pakeitimo įstatymas
