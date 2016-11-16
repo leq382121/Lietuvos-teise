@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2016-07-14"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/xdUwBuhAJa"
+redakcija_nuo: "2016-11-17"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/YhctrzJbUX"
 ---
 
 # Baudžiamasis kodeksas
@@ -400,15 +400,21 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 3\) kontroliuoti juridinio asmens veiklą.
 
-3\. Juridinis asmuo gali atsakyti už nusikalstamas veikas ir tuo atveju, jeigu jas juridinio asmens naudai padarė juridinio asmens darbuotojas ar įgaliotas atstovas dėl šio straipsnio 2 dalyje nurodyto asmens nepakankamos priežiūros arba kontrolės.
+3\. Juridinis asmuo gali atsakyti už nusikalstamas veikas ir tuo atveju, jeigu jas juridinio asmens naudai padarė juridinio asmens darbuotojas ar įgaliotas atstovas šio straipsnio 2 dalyje nurodyto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros arba kontrolės.
 
-4\. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės.
+4\. Juridinis asmuo gali atsakyti už kontroliuojamo arba jam atstovaujančio kito juridinio asmens šio straipsnio 2 ar 3 dalyje nurodytomis sąlygomis padarytas nusikalstamas veikas, jeigu jos padarytos pirmiau nurodyto juridinio asmens naudai jame vadovaujančias pareigas einančio ar jo įgalioto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros ar kontrolės.
 
-5\. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
+5\. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės. Juridinio asmens baudžiamosios atsakomybės už jo naudai arba jo interesais fizinio asmens padarytą, organizuotą, kurstytą ar padėtą padaryti nusikalstamą veiką nepašalina fizinio asmens baudžiamoji atsakomybė, taip pat tai, kad fizinis asmuo už šią veiką atleidžiamas nuo baudžiamosios atsakomybės arba jis nėra traukiamas atsakomybėn dėl kitų priežasčių.
+
+6\. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
 
 *Straipsnio pakeitimai:*
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
 
 ### IV SKYRIUS – NUSIKALSTAMOS VEIKOS STADIJOS IR FORMOS
 
@@ -4080,19 +4086,19 @@ baudžiamas laisvės atėmimu iki ketverių metų.
 
 #### 225 straipsnis. Kyšininkavimas
 
-1\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pažadėjęs ar susitaręs priimti kyšį arba reikalavęs ar provokavęs duoti kyšį, arba priėmęs kyšį už teisėtą veikimą ar neveikimą vykdant įgaliojimus,
+1\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti kyšį arba reikalavęs ar provokavęs duoti kyšį, arba priėmęs kyšį už teisėtą veikimą ar neveikimą vykdant įgaliojimus,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-2\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pažadėjęs ar susitaręs priimti kyšį arba reikalavęs ar provokavęs duoti kyšį, arba priėmęs kyšį už neteisėtą veikimą ar neveikimą vykdant įgaliojimus,
+2\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti kyšį arba reikalavęs ar provokavęs duoti kyšį, arba priėmęs kyšį už neteisėtą veikimą ar neveikimą vykdant įgaliojimus,
 
 baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 
-3\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs didesnės negu 250 MGL vertės kyšį už teisėtą ar neteisėtą veikimą ar neveikimą vykdant įgaliojimus,
+3\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs didesnės negu 250 MGL vertės kyšį už teisėtą ar neteisėtą veikimą ar neveikimą vykdant įgaliojimus,
 
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
-4\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį už teisėtą ar neteisėtą veikimą ar neveikimą vykdant įgaliojimus, padarė baudžiamąjį nusižengimą ir
+4\. Valstybės tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį už teisėtą ar neteisėtą veikimą ar neveikimą vykdant įgaliojimus, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas bauda arba areštu.
 
@@ -4104,41 +4110,37 @@ baudžiamas bauda arba areštu.
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
+
 #### 226 straipsnis. Prekyba poveikiu
 
-1\. Tas, kas siekdamas, kad asmuo, pasinaudodamas savo visuomenine padėtimi, tarnyba, įgaliojimais, giminyste, pažintimis ar kita tikėtina įtaka valstybės ar savivaldybės institucijai ar įstaigai, tarptautinei viešajai organizacijai, jų valstybės tarnautojui ar jam prilygintam asmeniui, paveiktų atitinkamą instituciją, įstaigą ar organizaciją, valstybės tarnautoją ar jam prilygintą asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami įgaliojimus, jam ar trečiajam asmeniui tiesiogiai arba netiesiogiai pasiūlė, pažadėjo ar susitarė duoti arba davė kyšį,
+1\. Tas, kas siekdamas, kad asmuo, pasinaudodamas savo visuomenine padėtimi, tarnyba, įgaliojimais, giminyste, pažintimis ar kita tikėtina įtaka valstybės ar savivaldybės institucijai ar įstaigai, tarptautinei viešajai organizacijai, jų valstybės tarnautojui ar jam prilygintam asmeniui, paveiktų atitinkamą instituciją, įstaigą ar organizaciją, valstybės tarnautoją ar jam prilygintą asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami įgaliojimus, jam ar trečiajam asmeniui tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė, pažadėjo ar susitarė duoti arba davė kyšį,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-2\. Tas, kas pasinaudodamas savo visuomenine padėtimi, tarnyba, įgaliojimais, giminyste, pažintimis ar kita tikėtina arba tariama įtaka valstybės ar savivaldybės institucijai ar įstaigai, tarptautinei viešajai organizacijai, jų valstybės tarnautojui ar jam prilygintam asmeniui savo ar kitų asmenų naudai tiesiogiai arba netiesiogiai pažadėjo ar susitarė priimti kyšį arba reikalavo ar provokavo duoti kyšį, arba priėmė kyšį, pažadėjęs paveikti atitinkamą instituciją, įstaigą ar organizaciją, valstybės tarnautoją ar jam prilygintą asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami įgaliojimus,
+2\. Tas, kas pasinaudodamas savo visuomenine padėtimi, tarnyba, įgaliojimais, giminyste, pažintimis ar kita tikėtina arba tariama įtaka valstybės ar savivaldybės institucijai ar įstaigai, tarptautinei viešajai organizacijai, jų valstybės tarnautojui ar jam prilygintam asmeniui savo ar kitų asmenų naudai tiesiogiai arba netiesiogiai pats ar per tarpininką pažadėjo ar susitarė priimti kyšį arba reikalavo ar provokavo duoti kyšį, arba priėmė kyšį, pažadėjęs paveikti atitinkamą instituciją, įstaigą ar organizaciją, valstybės tarnautoją ar jam prilygintą asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami įgaliojimus,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3\. Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
+3\. Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
 
 baudžiamas laisvės atėmimu iki septynerių metų.
 
-4\. Tas, kas padarė šio straipsnio 2 dalyje numatytus veiksmus, pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs didesnės negu 250 MGL vertės kyšį,
+4\. Tas, kas padarė šio straipsnio 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs didesnės negu 250 MGL vertės kyšį,
 
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
-5\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir
+5\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
-6\. Asmuo, kuris padarė šio straipsnio 1, 3 ar 5 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
+6\. Asmuo, kuris padarė šio straipsnio 1, 3 ar 5 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
 
-7\. Šio straipsnio 6 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
+7\. Šio straipsnio 6 dalis netaikoma asmeniui, kuris tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
 
 8\. Už šio straipsnio 1, 2, 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
 *Straipsnio pakeitimai:*
 
@@ -4146,37 +4148,33 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
 
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
+
 #### 227 straipsnis. Papirkimas
 
-1\. Tas, kas tiesiogiai arba netiesiogiai pasiūlė, pažadėjo ar susitarė duoti arba davė kyšį valstybės tarnautojui ar jam prilygintam asmeniui arba trečiajam asmeniui už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą veikimą ar neveikimą vykdant įgaliojimus,
+1\. Tas, kas tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė, pažadėjo ar susitarė duoti arba davė kyšį valstybės tarnautojui ar jam prilygintam asmeniui arba trečiajam asmeniui už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą veikimą ar neveikimą vykdant įgaliojimus,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
-2\. Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus, siekdamas paperkamo valstybės tarnautojo ar jam prilyginto asmens neteisėto veikimo ar neveikimo vykdant įgaliojimus,
+2\. Tas, kas tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė, pažadėjo ar susitarė duoti arba davė kyšį valstybės tarnautojui ar jam prilygintam asmeniui arba trečiajam asmeniui už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens neteisėtą veikimą ar neveikimą vykdant įgaliojimus,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
 
 baudžiamas laisvės atėmimu iki septynerių metų.
 
-4\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir
+4\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
-5\. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
+5\. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
 
-6\. Šio straipsnio 5 dalis netaikoma asmeniui, kuris pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
+6\. Šio straipsnio 5 dalis netaikoma asmeniui, kuris tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
 
 7\. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
 *Straipsnio pakeitimai:*
 
@@ -4185,6 +4183,10 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
 
 #### 228 straipsnis. Piktnaudžiavimas
 
@@ -4241,6 +4243,12 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 3\. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba arba kitais įstatyme numatytais pagrindais eina pareigas viešajame arba privačiajame juridiniame asmenyje ar kitoje organizacijoje arba verčiasi profesine veikla ir turi atitinkamus administracinius įgaliojimus, arba turi teisę veikti šio juridinio asmens ar kitos organizacijos vardu, arba teikia viešąsias paslaugas, taip pat arbitras arba prisiekusysis.
 
 4\. Šiame skyriuje nurodytas kyšis yra bet kokios turtinės ar kitokios asmeninės naudos sau ar kitam asmeniui (materialios ar nematerialios, turinčios ekonominę vertę rinkoje ar tokios vertės neturinčios) forma išreikštas neteisėtas ar nepagrįstas atlygis už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą ar neteisėtą veikimą arba neveikimą vykdant įgaliojimus.
+
+5\. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
 
 *Straipsnio pakeitimai:*
 
@@ -6102,23 +6110,35 @@ priedas
 
 *Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697*
 
-31\. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39).
+31\. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/42/ES dėl nusikaltimų priemonių ir pajamų iš nusikaltimų įšaldymo ir konfiskavimo Europos Sąjungoje (OL 2014 L 127, p. 39)
 
 *Papildyta punktu:*
 
 *Nr. XII-2433, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17730*
 
-31\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/57/ES dėl baudžiamųjų sankcijų už manipuliavimą rinka (manipuliavimo rinka direktyva) (OL 2014 L 173, p. 179).
+*Punkto pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
+
+32\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/57/ES dėl baudžiamųjų sankcijų už manipuliavimą rinka (manipuliavimo rinka direktyva) (OL 2014 L 173, p. 179)
 
 *Papildyta punktu:*
 
 *Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291*
 
-32\. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
+*Punkto pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
+
+33\. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/62/ES dėl euro ir kitų valiutų apsaugos nuo padirbinėjimo baudžiamosios teisės priemonėmis, kuria pakeičiamas Tarybos pamatinis sprendimas 2000/383/TVR (OL 2014 L 151, p. 1).
 
 *Papildyta punktu:*
 
 *Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291*
+
+*Punkto pakeitimai:*
+
+*Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
 
 *Kodeksas papildytas priedu:*
 
@@ -6733,3 +6753,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 
 Lietuvos Respublikos baudžiamojo kodekso 7, 213, 217, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas
+
+19\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+
+Lietuvos Respublikos baudžiamojo kodekso 20, 225, 226, 227, 230 straipsnių ir priedo pakeitimo įstatymas
