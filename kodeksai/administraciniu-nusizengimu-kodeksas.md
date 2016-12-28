@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2016-12-24"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/sWnPmddYlm"
+redakcija_nuo: "2016-12-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/EjwuXuHMlf"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -63,6 +63,14 @@ Administracinių nusižengimų kodeksas įsigalioja 2017 m. sausio 1 d.
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2275, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06425*
+
+#### 3¹ straipsnis. Administracinė atsakomybė už veikas, kurios nuo 2017 m. sausio 1 d. užtraukia baudžiamąją atsakomybę
+
+Už iki 2017 m. sausio 1 d. padarytas Administracinių teisės pažeidimų kodekse numatytų administracinių teisės pažeidimų požymių turinčias veikas, už kurias nuo 2017 m. sausio 1 d. atsakomybė nustatyta Lietuvos Respublikos baudžiamajame kodekse, skiriamos Administracinių teisės pažeidimų kodekso nustatytos nuobaudos Administracinių teisės pažeidimų kodekso nustatyta tvarka.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-153, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29791*
 
 #### 4 straipsnis. Administracinių teisės pažeidimų perkvalifikavimo tvarka
 
@@ -11315,3 +11323,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 609 ir 616 straipsnių pakeitimo įstatymas
+
+15\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-153, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29791
+
+Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo Nr. XII-1869 papildymo 3-1 straipsniu įstatymas
