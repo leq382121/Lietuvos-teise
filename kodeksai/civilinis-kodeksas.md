@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2017-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/lnyVfHYOcQ"
+redakcija_nuo: "2017-01-02"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/iYfHwlElIn"
 ---
 
 # Civilinis kodeksas
@@ -4468,7 +4468,13 @@ Santuoka, sudaryta tik dėl akių, neturint tikslo sukurti šeimos teisinius san
 
 1\. Teismas, siekdamas apsaugoti vieno iš sutuoktinių teisėtus interesus, gali įpareigoti, esant galimybei, sutuoktinius gyventi skyrium, kol bus išnagrinėta byla dėl jų santuokos pripažinimo negaliojančia.
 
-2\. Teismas, pripažindamas santuoką negaliojančia, turi išspręsti vaikų ir sąžiningo sutuoktinio išlaikymo, taip pat vaikų gyvenamosios vietos nustatymo klausimus.
+2\. Teismas, pripažindamas santuoką negaliojančia, turi išspręsti nepilnamečių vaikų ir sąžiningo sutuoktinio išlaikymo klausimus, taip pat nustatyti nepilnamečių vaikų gyvenamąją vietą bei dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarką.
+
+TAR pastaba. 2 dalis taikoma tik po įstatymo Nr. XII-2552 įsigaliojimo (2017-01-02) pradėtoms byloms.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.44 straipsnis. Teisės pareikšti ieškinį išnykimas
 
@@ -4498,11 +4504,13 @@ Santuoka, sudaryta tik dėl akių, neturint tikslo sukurti šeimos teisinius san
 
 ###### 3.48 straipsnis. Privalomas globos (rūpybos) institucijų dalyvavimas
 
-Kai nagrinėjamos bylos dėl santuokos pripažinimo negaliojančia, globos (rūpybos) institucijos arba valstybinė vaiko teisių apsaugos institucija, jeigu vienas ar abu sutuoktiniai yra nepilnamečiai arba teismo sprendimu pripažinti neveiksniais šioje srityje ar ribotai veiksniais šioje srityje, privalo dalyvauti nagrinėjant tokias bylas ir pateikti išvadą, ar santuokos pripažinimas negaliojančia nepažeis šių asmenų ir jų vaikų teisių ir interesų.
+Nagrinėjant bylas dėl santuokos pripažinimo negaliojančia, jeigu vienas ar abu sutuoktiniai yra nepilnamečiai arba teismo sprendimu pripažinti neveiksniais šioje srityje ar ribotai veiksniais šioje srityje, privalo dalyvauti globos (rūpybos) institucijos arba valstybinė vaiko teisių apsaugos institucija ir pateikti išvadą, ar santuokos pripažinimas negaliojančia nepažeis šių asmenų ir jų vaikų teisių ir interesų, išskyrus atvejus, kai byla teisme nagrinėjama valstybinės vaiko teisių apsaugos institucijos pareikšto ieškinio pagrindu.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 #### IV skyrius – SANTUOKOS PABAIGA
 
@@ -4556,7 +4564,13 @@ Kai nagrinėjamos bylos dėl santuokos pripažinimo negaliojančia, globos (rūp
 
 2\. Preziumuojama, kad santuoka faktiškai iširo, jeigu daugiau nei metus sutuoktiniai netvarko bendro ūkio ir negyvena santuokinio gyvenimo.
 
-3\. Teismas, savo sprendimu nutraukdamas santuoką, patvirtina ir sutuoktinių pateiktą sutartį dėl santuokos nutraukimo pasekmių, kurioje sutuoktiniai turi aptarti savo nepilnamečių vaikų ir vienas kito išlaikymo, nepilnamečių vaikų gyvenamosios vietos ir dalyvavimo juos auklėjant klausimus bei kitas savo turtines teises ir pareigas. Sutarties turinys įtraukiamas į teismo sprendimą. Iš esmės pasikeitus aplinkybėms (vieno buvusio sutuoktinio liga, nedarbingumas ir kt.), buvę sutuoktiniai arba vienas iš jų gali kreiptis į teismą dėl santuokos nutraukimo pasekmių sutarties sąlygų pakeitimo.
+3\. Teismas, savo sprendimu nutraukdamas santuoką, patvirtina ir sutuoktinių pateiktą sutartį dėl santuokos nutraukimo pasekmių, kurioje sutuoktiniai turi aptarti savo nepilnamečių vaikų ir vienas kito išlaikymo, nepilnamečių vaikų gyvenamosios vietos klausimus, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarką bei kitas savo turtines teises ir pareigas. Sutarties turinys įtraukiamas į teismo sprendimą. Iš esmės pasikeitus aplinkybėms (vieno buvusio sutuoktinio liga, nedarbingumas ir kt.), buvę sutuoktiniai arba vienas iš jų gali kreiptis į teismą dėl sutarties dėl santuokos nutraukimo pasekmių sąlygų pakeitimo.
+
+TAR pastaba. 3 dalis taikoma tik po įstatymo Nr. XII-2552 įsigaliojimo (2017-01-02) pradėtoms byloms.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 4\. Jeigu sutartis dėl santuokos nutraukimo pasekmių prieštarauja viešajai tvarkai ar iš esmės pažeidžia sutuoktinių nepilnamečių vaikų ar vieno sutuoktinio teises ir teisėtus interesus, teismas sutarties netvirtina, o bylą dėl santuokos nutraukimo sustabdo, kol sutuoktiniai sudarys naują sutartį. Jeigu per šešis mėnesius nuo bylos sustabdymo dienos sutuoktiniai neįvykdo teismo nurodymų dėl sutarties turinio, teismas prašymą palieka nenagrinėtą.
 
@@ -4622,7 +4636,13 @@ Jeigu vienas sutuoktinis yra neveiksnus šioje srityje arba ribotai veiksnus ši
 
 ###### 3.59 straipsnis. Klausimai, kuriuos teismas išsprendžia nutraukdamas santuoką
 
-Teismas, nutraukdamas santuoką, turi išspręsti sutuoktinių nepilnamečių vaikų gyvenamosios vietos ir jų išlaikymo, taip pat vieno sutuoktinio išlaikymo bei jų bendro turto padalijimo klausimus, išskyrus atvejus, kai turtas padalytas bendru sutuoktinių susitarimu, patvirtintu notarine tvarka.
+Teismas, nutraukdamas santuoką, turi nustatyti sutuoktinių nepilnamečių vaikų gyvenamąją vietą, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarką ir išspręsti sutuoktinių nepilnamečių vaikų išlaikymo, taip pat vieno sutuoktinio išlaikymo bei jų bendro turto padalijimo klausimus, išskyrus atvejus, kai turtas padalytas bendru sutuoktinių susitarimu, patvirtintu notarine tvarka.
+
+TAR pastaba. Straipsnis taikomas tik po įstatymo Nr. XII-2552 įsigaliojimo (2017-01-02) pradėtoms byloms.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ##### Ketvirtasis skirsnis – Santuokos nutraukimas dėl SUTUOKTINIO (sutuoktinių) kaltės
 
@@ -4658,7 +4678,13 @@ Abiejų sutuoktinių prašymu teismas, nutraukdamas santuoką, sprendime nenurod
 
 1\. Teismas privalo imtis priemonių sutuoktiniams sutaikyti.
 
-2\. Teismas privalo pasiūlyti sutuoktiniams taikiai išspręsti jų abiejų turtinius, vaikų išlaikymo ir auklėjimo klausimus, taip pat kitas santuokos nutraukimo pasekmes. Jeigu sutuoktiniai susitaria, taikomos šio kodekso 3.53 straipsnio 3 ir 4 dalys.
+2\. Teismas privalo pasiūlyti sutuoktiniams taikiai išspręsti jų abiejų turtinius, nepilnamečių vaikų išlaikymo ir auklėjimo, nepilnamečių vaikų gyvenamosios vietos, bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos klausimus, taip pat kitas santuokos nutraukimo pasekmes. Jeigu sutuoktiniai susitaria, taikomos šio kodekso 3.53 straipsnio 3 ir 4 dalys.
+
+TAR pastaba. 2 dalis taikoma tik po įstatymo Nr. XII-2552 įsigaliojimo (2017-01-02) pradėtoms byloms.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 3\. Teismas taiko šio kodekso 3.54 straipsnio 2 ir 3 dalyse numatytas priemones, išskyrus atvejus, kai jų taikymas gali pakenkti reikalaujančio nutraukti santuoką sutuoktinio arba sutuoktinių nepilnamečių vaikų interesams.
 
@@ -4680,7 +4706,13 @@ Abiejų sutuoktinių prašymu teismas, nutraukdamas santuoką, sprendime nenurod
 
 6\) areštuoti vieno sutuoktinio turtą, kurio verte būtų galima užtikrinti teismo išlaidų atlyginimą kitam sutuoktiniui;
 
-7\) uždrausti vienam sutuoktiniui matytis su nepilnamečiais vaikais ar lankytis tam tikrose vietose.
+7\) uždrausti vienam sutuoktiniui matytis su nepilnamečiais vaikais ar lankytis tam tikrose vietose;
+
+8\) kitas, teismo manymu, reikalingas priemones.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 *Straipsnio pakeitimai:*
 
@@ -4802,7 +4834,13 @@ Sandoriai, susiję su sutuoktinių bendrąja jungtine nuosavybe, kuriuos sudarė
 
 ###### 3.76 straipsnis. Klausimai, išsprendžiami priimant sprendimą dėl gyvenimo skyrium
 
-1\. Teismas, priimdamas sprendimą dėl sutuoktinių gyvenimo skyrium, privalo nustatyti, su kuriuo iš jų lieka gyventi jų nepilnamečiai vaikai, taip pat išspręsti vaikų išlaikymo ir skyrium gyvenančio tėvo (motinos) dalyvavimo auklėjant vaikus klausimus.
+1\. Teismas, priimdamas sprendimą dėl sutuoktinių gyvenimo skyrium, privalo nustatyti, su kuriuo iš jų lieka gyventi jų nepilnamečiai vaikai, taip pat išspręsti vaikų išlaikymo ir skyrium gyvenančio tėvo (motinos) dalyvavimo auklėjant nepilnamečius vaikus ir bendravimo su jais tvarkos klausimus.
+
+TAR pastaba. 1 dalis taikoma tik po įstatymo Nr. XII-2552 įsigaliojimo (2017-01-02) pradėtoms byloms.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 2\. Jeigu yra svarbių priežasčių, teismas gali laikinai nustatyti vaikų gyvenamąją vietą pas kitus asmenis ar vaikų globos (rūpybos) institucijoje.
 
@@ -5594,15 +5632,23 @@ Dirbtinio apvaisinimo sąlygas, būdus, tvarką, taip pat vaiko, gimusio dirbtin
 
 1\. Tėvo ir motinos teisės ir pareigos savo vaikams yra lygios.
 
-2\. Tėvai turi lygias teises ir lygias pareigas savo vaikams, nesvarbu, ar vaikas gimė susituokusiems, ar nesusituokusiems tėvams, jiems santuoką nutraukus, teismui pripažinus ją negaliojančia ar tėvams gyvenant skyrium.
+2\. Tėvai turi lygias teises ir pareigas savo vaikams, nesvarbu, ar vaikas gimė susituokusiems, ar nesusituokusiems tėvams, jiems santuoką nutraukus, teismui pripažinus ją negaliojančia ar tėvams gyvenant skyrium, nepaisant to, kad vaiko gyvenamoji vieta nustatyta teismo sprendimu su vienu iš tėvų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.157 straipsnis. Atstovavimas vaikams
 
-Tėvai yra savo neveiksnių nepilnamečių vaikų atstovai pagal įstatymą, išskyrus tėvus, teismo sprendimu pripažintus neveiksniais šioje srityje arba ribotai veiksniais šioje srityje.
+1\. Tėvai yra savo neveiksnių nepilnamečių vaikų atstovai pagal įstatymą, išskyrus tėvus, teismo sprendimu pripažintus neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, ir kitus šiame kodekse nustatytus atvejus.
+
+2\. Globėjai (rūpintojai) nepilnamečiams vaikams atstovauja pateikę atstovavimo teisę patvirtinantį dokumentą.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.158 straipsnis. Nepilnamečių tėvų valdžia
 
@@ -5652,11 +5698,17 @@ Vaikai turi gerbti tėvus ir tinkamai atlikti savo pareigas.
 
 1\. Nepilnamečių vaikų teisių įgyvendinimą užtikrina tėvai.
 
-2\. Vaikų, kurie yra likę be tėvų globos, teises užtikrina globėjas (rūpintojas) šios knygos nustatyta tvarka.
+2\. Vaikų, kurie yra likę be tėvų globos, teises užtikrina globėjas (rūpintojas) šioje knygoje nustatyta tvarka.
 
-3\. Nepilnametis, įgijęs visišką veiksnumą, savo teises gina pats.
+3\. Jeigu priimant su nepilnamečiu vaiku susijusius sprendimus kyla vaiko ir jo tėvų (globėjo, rūpintojo) interesų konfliktas arba vaiko tėvų tarpusavio interesų konfliktas, teismas ex officio arba bet kurio iš vaiko tėvų (globėjo, rūpintojo) ar valstybinės vaiko teisių apsaugos institucijos prašymu gali skirti ad hoc globėją, kuris atstovautų vaikui sprendžiant konkretų ginčą. Ad hoc globėjo parinkimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Ad hoc globėjo veiklai mutatis mutandis taikomos šios knygos XVII ir XVIII skyrių normos.
 
-4\. Jei tėvai ar globėjai (rūpintojai) vaikų teises pažeidinėja, priemonių vaikų teisėms užtikrinti gali imtis valstybinė vaiko teisių apsaugos institucija ar prokuroras.
+4\. Nepilnametis, įgijęs visišką veiksnumą, savo teises gina pats.
+
+5\. Jei tėvai ar globėjai (rūpintojai) vaikų teises pažeidinėja, priemonių vaikų teisėms užtikrinti gali imtis valstybinė vaiko teisių apsaugos institucija ar prokuroras.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.164 straipsnis. Nepilnamečio vaiko dalyvavimas užtikrinant jo teises
 
@@ -5716,7 +5768,11 @@ Vaikai turi gerbti tėvus ir tinkamai atlikti savo pareigas.
 
 2\. Jei kyla ginčas tarp tėvų dėl vaiko gyvenamosios vietos nustatymo, vaiko gyvenamoji vieta teismo sprendimu nustatoma su vienu iš tėvų.
 
-3\. Pasikeitus aplinkybėms ar vienam iš tėvų, su kuriuo buvo nustatyta vaiko gyvenamoji vieta, atidavus vaiką auginti ir gyventi kartu su kitais asmenimis, antrasis iš tėvų gali reikšti pakartotinį ieškinį dėl vaiko gyvenamosios vietos nustatymo.
+3\. Neteko galios nuo 2017-01-02
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.170 straipsnis. Skyrium gyvenančio tėvo ar motinos teisė bendrauti su vaiku ir dalyvauti jį auklėjant
 
@@ -5724,13 +5780,17 @@ Vaikai turi gerbti tėvus ir tinkamai atlikti savo pareigas.
 
 2\. Vaikas, kurio tėvai gyvena skyrium, turi teisę nuolat ir tiesiogiai bendrauti su abiem tėvais, nesvarbu, kur tėvai gyvena.
 
-3\. Tėvas ar motina, pas kurį gyvena vaikas, neturi teisės kliudyti antrajam iš tėvų bendrauti su vaiku ir dalyvauti jį auklėjant.
+3\. Kai tėvai nesusitaria dėl skyrium gyvenančio tėvo ar motinos dalyvavimo auklėjant vaiką ir bendravimo su juo, bendravimo su vaiku ir dalyvavimo jį auklėjant tvarką nustato teismas.
 
-4\. Kai tėvai nesusitaria dėl skyrium gyvenančio tėvo ar motinos dalyvavimo auklėjant vaiką ir bendravimo su juo, bendravimo su vaiku ir dalyvavimo jį auklėjant tvarką nustato teismas.
+4\. Tėvas ar motina, su kuriuo gyvena vaikas ir (ar) su kuriuo teismo sprendimu nustatyta vaiko gyvenamoji vieta, turi nekliudyti antrajam iš tėvų bendrauti su vaiku ir dalyvauti jį auklėjant. Šios pareigos nevykdymas laikomas piktnaudžiavimu tėvų valdžia, už kurį tėvas (motina) atsako įstatymų nustatyta tvarka.
 
-5\. Tėvas ar motina, gyvenantys su vaiku skyrium, turi teisę gauti informaciją apie vaiką iš visų auklėjimo, mokymo, gydymo, vaiko teisių apsaugos ir kitų įstaigų bei institucijų, kurios turi ryšį su jo vaiku. Atsisakyti suteikti informaciją galima tik tuo atveju, jei yra grėsmės vaiko sveikatai ar gyvybei iš tėvo ar motinos pusės, taip pat įstatymų nustatytais atvejais.
+5\. Tėvas ar motina, negyvenantys kartu su vaiku, turi teisę gauti informaciją apie vaiką iš visų auklėjimo, ugdymo, gydymo, vaiko teisių apsaugos ir kitų įstaigų bei institucijų, kurios turi ryšį su jo vaiku. Atsisakyti suteikti informaciją galima tik tuo atveju, jei yra grėsmės vaiko sveikatai ar gyvybei iš tėvo ar motinos pusės, taip pat įstatymų nustatytais atvejais.
 
-6\. Įstaigų, organizacijų ar kitokių institucijų ir fizinių asmenų atsisakymas tėvams suteikti informaciją apie jų vaikus gali būti skundžiamas teismui.
+6\. Įstaigų, organizacijų ar kitų institucijų ir fizinių asmenų atsisakymas tėvams suteikti informaciją apie jų vaikus gali būti skundžiamas teismui.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.171 straipsnis. Bendravimas su vaiku ir dalyvavimas jį auklėjant ypatingomis situacijomis
 
@@ -5754,11 +5814,25 @@ Tėvai (jei jų nėra – globėjai (rūpintojai) turi sudaryti sąlygas vaikams
 
 2\. Teismas ginčą išsprendžia vadovaudamasis vaiko interesais, atsižvelgdamas į vaiko norą. Į vaiko norą gali būti neatsižvelgiama tik tuo atveju, kai vaiko noras prieštarauja jo interesams.
 
+3\. Teisę nepilnametį vaiką, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, išvežti į užsienio valstybę nuolat gyventi turi tas iš tėvų, su kuriuo nustatyta vaiko gyvenamoji vieta, tik gavęs rašytinį antrojo iš tėvų sutikimą. Jeigu antrasis iš tėvų atsisako duoti šį sutikimą, ginčą sprendžia teismas.
+
+4\. Pasikeitus aplinkybėms ar vienam iš tėvų, su kuriuo nustatyta vaiko gyvenamoji vieta, atidavus vaiką auginti ir gyventi kartu su kitais asmenimis, šio straipsnio 1 dalyje nurodyti asmenys gali reikšti pakartotinį ieškinį dėl vaiko gyvenamosios vietos nustatymo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
+
 ###### 3.175 straipsnis. Ginčai tarp skyrium gyvenančių tėvų dėl bendravimo su vaiku ir dalyvavimo jį auklėjant
 
 1\. Kreiptis į teismą dėl bendravimo su vaiku ir dalyvavimo jį auklėjant tvarkos gali vaiko tėvas ar motina, neveiksnių nepilnamečių tėvų tėvai (globėjai, rūpintojai).
 
 2\. Teismas nustato skyrium gyvenančio tėvo ar motinos bendravimo su vaiku tvarką, atsižvelgdamas į vaiko interesus ir sudarydamas galimybę skyrium gyvenančiam tėvui ar motinai maksimaliai dalyvauti auklėjant vaiką. Minimalus bendravimas gali būti nustatomas tik tuomet, jei nuolatinis maksimalus bendravimas kenkia vaiko interesams.
+
+3\. Pasikeitus aplinkybėms, šio straipsnio 1 dalyje nurodyti asmenys gali reikšti pakartotinį ieškinį dėl bendravimo su vaiku ir dalyvavimo jį auklėjant tvarkos nustatymo.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ###### 3.176 straipsnis. Ginčai dėl vaiko bendravimo su artimaisiais giminaičiais
 
@@ -5778,7 +5852,11 @@ Teismas, nagrinėdamas ginčus dėl vaikų, privalo išklausyti vaiką, sugebant
 
 1\. Nagrinėjant ginčus dėl vaikų, būtinas valstybinės vaiko teisių apsaugos institucijos dalyvavimas.
 
-2\. Valstybinė vaiko teisių apsaugos institucija, ištyrusi šeimos aplinkos sąlygas, pateikia teismui išvadą dėl ginčo. Spręsdamas ginčą, teismas įvertina ne tik išvadą, bet ir vaiko norus bei kitus šalių pateiktus įrodymus.
+2\. Valstybinė vaiko teisių apsaugos institucija, ištyrusi šeimos aplinkos sąlygas, pateikia teismui išvadą dėl ginčo, išskyrus atvejus, kai byla teisme nagrinėjama valstybinės vaiko teisių apsaugos institucijos pareikšto ieškinio pagrindu. Spręsdamas ginčą, teismas įvertina ne tik valstybinės vaiko teisių apsaugos institucijos išvadą, bet ir vaiko norus bei kitus šalių pateiktus įrodymus. Reikalavimus šioje dalyje nurodytos išvados turiniui tvirtina Vyriausybės įgaliota institucija.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 ##### Penktasis skirsnis – Tėvų valdžios apribojimas
 
@@ -5838,7 +5916,11 @@ Teismas, nagrinėdamas ginčus dėl vaikų, privalo išklausyti vaiką, sugebant
 
 1\. Nagrinėjant bylą dėl tėvų valdžios apribojimo, privalo dalyvauti valstybinė vaiko teisių apsaugos institucija.
 
-2\. Valstybinė vaiko teisių apsaugos institucija, ištyrusi šeimos gyvenimo sąlygas, pateikia teismui išvadą dėl ginčo. Šią išvadą teismas vertina kartu su kitais byloje esančiais įrodymais.
+2\. Valstybinė vaiko teisių apsaugos institucija, ištyrusi šeimos gyvenimo sąlygas, pateikia teismui išvadą dėl ginčo, išskyrus atvejus, kai ieškinį pareiškė ta pati valstybinė vaiko teisių apsaugos institucija. Šią išvadą teismas vertina kartu su kitais byloje esančiais įrodymais.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 #### XII skyrius – Turtinės vaikų ir tėvų tarpusavio teisės ir pareigos
 
@@ -5904,7 +5986,11 @@ Tėvai neturi teisės tvarkyti uzufrukto teisėmis savo nepilnamečių vaikų tu
 
 ###### 3.190 straipsnis. Uzufrukto teisė, kai turtą tvarko tik vienas iš tėvų
 
-1\. Jeigu tėvų valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, tai vaiko turtą uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar gyvenimo skyrium atveju turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo lieka gyventi vaikas.
+1\. Jeigu tėvų valdžia priklauso tik vienam iš nepilnamečio vaiko tėvų, vaiko turtą uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar tėvų gyvenimo skyrium atveju nepilnamečio vaiko turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo teismo sprendimu nustatyta vaiko gyvenamoji vieta.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358*
 
 2\. Jei nepilnamečio vaiko tėvas (motina) sudaro naują santuoką, jis (ji) išsaugo uzufrukto teisę į nepilnamečio vaiko turtą, tačiau privalo pervesti į vaiko sąskaitą visas turto duodamas pajamas ir atskirai sutvarkyti vaisių apskaitą, kurie viršija išlaidas vaiko ugdymui (auklėjimui, lavinimui, materialiniam aprūpinimui). Jeigu naujas vaiko tėvo (motinos) sutuoktinis vaiką įvaikina, tai jis taip pat įgyja turto tvarkymo teisę.
 
@@ -20249,3 +20335,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2579, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20331
 
 Lietuvos Respublikos civilinio kodekso 6.696, 6.697 ir 6.698 straipsnių pakeitimo įstatymas
+
+26\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
+
+Lietuvos Respublikos civilinio kodekso 3.43, 3.48, 3.53, 3.59, 3.64, 3.65, 3.76, 3.156, 3.157, 3.163, 3.169, 3.170, 3.174, 3.175, 3.178, 3.184 ir 3.190 straipsnių pakeitimo įstatymas
