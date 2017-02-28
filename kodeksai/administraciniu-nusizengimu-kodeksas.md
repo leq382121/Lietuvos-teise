@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2016-12-29"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/EjwuXuHMlf"
+redakcija_nuo: "2017-03-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/VPkYaapBiE"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2740,15 +2740,11 @@ užtraukia baudą Lietuvos Respublikos Vyriausybės įgaliotos atlikti turto arb
 
 užtraukia baudą nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
-#### 197 straipsnis. Nepagrįstos ar neteisingos auditoriaus išvados pateikimas
+197 straipsnis. Neteko galios nuo 2017-03-01
 
-1\. Nepagrįstos ar neteisingos auditoriaus išvados pateikimas
+*Straipsnio naikinimas:*
 
-užtraukia baudą auditoriui nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+*Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416*
 
 #### 198 straipsnis. Pinigų plovimo ir teroristų finansavimo prevencijos priemonių įgyvendinimo tvarkos pažeidimas
 
@@ -9768,7 +9764,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-93\) viešosios įstaigos Audito ir apskaitos tarnybos – dėl šio kodekso 197 straipsnyje numatytų administracinių nusižengimų;
+93\) Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 127 straipsnyje numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -11331,3 +11331,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-153, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29791
 
 Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo Nr. XII-1869 papildymo 3-1 straipsniu įstatymas
+
+16\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 197 straipsnio pripažinimo netekusiu galios ir 589 straipsnio pakeitimo įstatymas
