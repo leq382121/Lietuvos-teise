@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-03-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/VPkYaapBiE"
+redakcija_nuo: "2017-05-31"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/QRpKtSsgps"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2636,23 +2636,27 @@ Biudžeto asignavimų paskirstymo ir panaudojimo tvarkos pažeidimas
 
 užtraukia baudą biudžeto asignavimų valdytojams ir jiems pavaldžių biudžetinių įstaigų vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
-#### 187 straipsnis. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų pateikimo tvarkos pažeidimas
+#### 187 straipsnis. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pateikimo tvarkos pažeidimas
 
 1\. Turto ir (ar) pajamų deklaravimo tvarkos pažeidimas, turto ir (ar) pajamų deklaracijų arba kitų su turtu ir (ar) pajamomis susijusių ataskaitų pavėluotas pateikimas mokesčių administratoriui ar nepateikimas, neteisingų duomenų įrašymas į mokesčių administratoriui pateiktas turto ir (ar) pajamų deklaracijas arba kitas ataskaitas
 
 užtraukia įspėjimą arba baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
-2\. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų pateikimo tvarkos pažeidimas, ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų pavėluotas pateikimas ar nepateikimas, neteisingų duomenų įrašymas į mokesčių administratoriui pateiktas ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus
+2\. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pateikimo tvarkos pažeidimas, ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pavėluotas pateikimas ar nepateikimas, neteisingų duomenų įrašymas į mokesčių administratoriui pateiktas ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus, neteisingų duomenų pateikimas
 
-užtraukia įspėjimą arba baudą pateikti ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus privalantiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia įspėjimą arba baudą pateikti ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
-3\. Deklaracijų arba nustatyta tvarka patvirtintų ataskaitų ar kitų dokumentų apie fizinio ar juridinio asmens pajamas, pelną ar turtą nepateikimas mokesčių administratoriui po to, kai ši institucija raštu priminė apie pareigą juos pateikti,
+3\. Deklaracijų arba nustatyta tvarka patvirtintų ataskaitų ar kitų dokumentų ir duomenų apie fizinio ar juridinio asmens pajamas, pelną ar turtą nepateikimas mokesčių administratoriui po to, kai ši institucija raštu priminė apie pareigą juos pateikti,
 
-užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
+užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
 
 4\. Duomenų apie fizinio ar juridinio asmens pajamas, pelną, turtą ar jų naudojimą, žinant, kad jie neteisingi, įrašymas į deklaracijas, nustatyta tvarka patvirtintas ataskaitas arba į kitus mokesčių administratoriui ar kitai valstybės įgaliotai institucijai pateikiamus dokumentus, siekiant išvengti mokesčių, kurių suma neviršija dešimt bazinių bausmių ir nuobaudų dydžių,
 
 užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-375, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09155*
 
 #### 188 straipsnis. Sandorių kainodaros dokumentavimo tvarkos nesilaikymas
 
@@ -11339,3 +11343,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 197 straipsnio pripažinimo netekusiu galios ir 589 straipsnio pakeitimo įstatymas
+
+17\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-289, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07278
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 321 straipsnio pakeitimo įstatymas
+
+18\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-330, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07553
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakeitimo įstatymas
+
+19\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-375, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09155
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 187 straipsnio pakeitimo įstatymas
