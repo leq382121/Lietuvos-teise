@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2017-05-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/LiYOdpLbQa"
+redakcija_nuo: "2017-06-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/rgRYmDwlAO"
 ---
 
 # Baudžiamasis kodeksas
@@ -406,7 +406,11 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 5\. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės. Juridinio asmens baudžiamosios atsakomybės už jo naudai arba jo interesais fizinio asmens padarytą, organizuotą, kurstytą ar padėtą padaryti nusikalstamą veiką nepašalina fizinio asmens baudžiamoji atsakomybė, taip pat tai, kad fizinis asmuo už šią veiką atleidžiamas nuo baudžiamosios atsakomybės arba jis nėra traukiamas atsakomybėn dėl kitų priežasčių.
 
-6\. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija.
+6\. Pagal šį kodeksą neatsako valstybė, savivaldybė, valstybės ir savivaldybės institucija ir įstaiga bei tarptautinė viešoji organizacija. Valstybės ir savivaldybės institucijomis ir įstaigomis nelaikomos ir pagal šį kodeksą atsako valstybės ir savivaldybės įmonės, taip pat viešosios įstaigos, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, ir akcinės bendrovės bei uždarosios akcinės bendrovės, kurių visos akcijos ar jų dalis nuosavybės teise priklauso valstybei ar savivaldybei.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
 
 *Straipsnio pakeitimai:*
 
@@ -4128,7 +4132,17 @@ baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 baudžiamas bauda arba areštu.
 
-5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+5\. Valstybės tarnautojas ar jam prilygintas asmuo atsako pagal šį kodeksą už pažadą ar susitarimą priimti kyšį arba reikalavimą ar provokavimą duoti kyšį, arba kyšio priėmimą tiek už konkretų veikimą ar neveikimą vykdant įgaliojimus, tiek ir už išimtinę padėtį ar palankumą.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
+6\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
 
 *Straipsnio pakeitimai:*
 
@@ -4196,11 +4210,29 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
-5\. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
+5\. Asmuo, padaręs šio straipsnio 1, 2, 3 ar 4 dalyje numatytus veiksmus, atsako pagal šį kodeksą už siekimą kyšiu tiek valstybės tarnautojo ar jam prilyginto asmens konkretaus veikimo ar neveikimo vykdant įgaliojimus, tiek ir išimtinės padėties arba šio asmens palankumo, nepaisant to, kaip jo veiksmus suprato valstybės tarnautojas ar jam prilygintas asmuo.
 
-6\. Šio straipsnio 5 dalis netaikoma asmeniui, kuris tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
+*Papildyta straipsnio dalimi:*
 
-7\. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
+6\. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
+7\. Šio straipsnio 6 dalis netaikoma asmeniui, kuris tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso 230 straipsnio 2 dalyje nurodytam asmeniui.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
+8\. Už šio straipsnio 1, 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
 
 *Straipsnio pakeitimai:*
 
@@ -4260,21 +4292,33 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 1\. Šiame skyriuje nurodyti valstybės tarnautojai yra valstybės politikai, valstybės pareigūnai, teisėjai, valstybės tarnautojai pagal Valstybės tarnybos įstatymą ir kiti asmenys, kurie, dirbdami ar kitais įstatyme numatytais pagrindais eidami pareigas valstybės ar savivaldybių institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi administracinius įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
 
-2\. Valstybės tarnautojui prilyginamas asmuo, kuris atlieka valdžios atstovo funkcijas, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas.
+2\. Valstybės tarnautojui prilyginamas asmuo, kuris, nesvarbu, koks jo statusas pagal užsienio valstybės ar tarptautinės viešosios organizacijos teisės aktus, atlieka valdžios atstovo funkcijas, įskaitant teismines, turi administracinius įgaliojimus arba kitaip užtikrina viešojo intereso įgyvendinimą dirbdamas ar kitais pagrindais eidamas pareigas užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje, tarptautinėje viešojoje organizacijoje arba tarptautinėje ar Europos Sąjungos teisminėje institucijoje, arba juridiniame asmenyje ar kitoje organizacijoje, kuriuos kontroliuoja užsienio valstybė, taip pat oficialūs kandidatai į šias pareigas. Užsienio valstybe laikoma bet kokia užsienio teritorija, nesvarbu, koks jos teisinis statusas, ir apima visus valdymo lygmenis ir sritis.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-2048, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18711*
 
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
 3\. Be to, valstybės tarnautojui prilyginamas asmuo, kuris dirba arba kitais įstatyme numatytais pagrindais eina pareigas viešajame arba privačiajame juridiniame asmenyje ar kitoje organizacijoje arba verčiasi profesine veikla ir turi atitinkamus administracinius įgaliojimus, arba turi teisę veikti šio juridinio asmens ar kitos organizacijos vardu, arba teikia viešąsias paslaugas, taip pat arbitras arba prisiekusysis.
 
 4\. Šiame skyriuje nurodytas kyšis yra bet kokios turtinės ar kitokios asmeninės naudos sau ar kitam asmeniui (materialios ar nematerialios, turinčios ekonominę vertę rinkoje ar tokios vertės neturinčios) forma išreikštas neteisėtas ar nepagrįstas atlygis už pageidaujamą valstybės tarnautojo ar jam prilyginto asmens teisėtą ar neteisėtą veikimą arba neveikimą vykdant įgaliojimus.
 
-5\. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
+5\. Šiame skyriuje nurodytas įgaliojimų vykdymas apima bet kokį naudojimąsi valstybės tarnautojo ar jam prilyginto asmens padėtimi, nesvarbu, ar tai patenka į valstybės tarnautojui ar jam prilygintam asmeniui teisės aktais apibrėžtą įgaliojimų sritį, ar ne.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
+
+6\. Šio kodekso 72 straipsnio nuostatų taikymo tikslais šio skyriaus 226 straipsnio 1, 3, 5 dalyse ir 227 straipsnyje uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne.
 
 *Papildyta straipsnio dalimi:*
 
 *Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876*
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472*
 
 *Straipsnio pakeitimai:*
 
@@ -6863,3 +6907,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026
 
 Lietuvos Respublikos baudžiamojo kodekso 169, 170 ir 170-1 straipsnių pakeitimo įstatymas
+
+23\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
+
+Lietuvos Respublikos baudžiamojo kodekso 20, 225, 227 ir 230 straipsnių pakeitimo įstatymas
