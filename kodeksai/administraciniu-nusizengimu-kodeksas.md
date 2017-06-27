@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-06-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/SFcfmnYXQy"
+redakcija_nuo: "2017-06-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/fRhVcDlxRa"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2778,9 +2778,13 @@ užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkst
 
 #### 200 straipsnis. Finansinių priemonių rinkas reglamentuojančių teisės aktų pažeidimas
 
-1\. Finansinių priemonių rinkas arba finansų maklerių, viešosios apyvartos tarpininkų ar jų asociacijų, reguliuojamos rinkos operatorių, Lietuvos centrinio vertybinių popierių depozitoriumo ar jo dalyvių veiklą reglamentuojančių teisės aktų pažeidimas, išskyrus šio straipsnio 4 ir 5 dalyse numatytus nusižengimus,
+1\. Finansinių priemonių rinkas arba finansų maklerių, viešosios apyvartos tarpininkų ar jų asociacijų, reguliuojamos rinkos operatorių, centrinių vertybinių popierių depozitoriumų ar jų dalyvių veiklą reglamentuojančių teisės aktų pažeidimas
 
 užtraukia baudą nuo dviejų šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2790,13 +2794,17 @@ užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstanč
 
 užtraukia baudą nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
-4\. Lietuvos Respublikos finansinių priemonių rinkų įstatyme nustatytų draudimo naudotis viešai neatskleista informacija prekiaujant finansinėmis priemonėmis ir draudimo manipuliuoti rinka pažeidimas
+4\. Neteko galios.
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+*Straipsnio dalies pakeitimai:*
 
-5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
 
-užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+5\. Neteko galios.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
 
 #### 201 straipsnis. Pensijų asociacijų, pensijų fondų valdymo įmonių, pensijų turto depozitoriumų veiklos tvarkos pažeidimas
 
@@ -8666,11 +8674,19 @@ užtraukia baudą asmenims nuo trisdešimt iki vieno šimto penkiasdešimt eurų
 
 užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių šimtų eurų.
 
-#### 505 straipsnis. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jiems suteiktas teises ar atlikti pavestas pareigas, jų teisėtų reikalavimų ar nurodymų ir kolegialių institucijų sprendimų nevykdymas
+#### 505 straipsnis. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jiems suteiktas teises ar atlikti pavestas pareigas, jų teisėtų reikalavimų ar nurodymų ir kolegialių institucijų ar valstybės pareigūnų sprendimų nevykdymas
 
-1\. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų teisėtų nurodymų ir reikalavimų, taip pat kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas (pareigūnų neįleidimas į tikrinamas teritorijas, patalpas (išskyrus žmogaus būstą) ar kitus objektus, nepateikimas pareigūnams informacijos, duomenų ar dokumentų arba klaidingų ar tikrovės neatitinkančių informacijos ar duomenų pateikimas, atsisakymas paaiškinti ar suteikti duomenis, dokumentų nuslėpimas, vengimas atvykti ir duoti paaiškinimus ir kt.), išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 506 straipsniuose nurodytus atvejus,
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816*
+
+1\. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas (pareigūnų neįleidimas į tikrinamas teritorijas, patalpas (išskyrus žmogaus būstą) ar kitus objektus, nepateikimas pareigūnams informacijos, duomenų ar dokumentų arba klaidingų ar tikrovės neatitinkančių informacijos ar duomenų pateikimas, atsisakymas paaiškinti ar suteikti duomenis, dokumentų nuslėpimas, vengimas atvykti ir duoti paaiškinimus ir kt.), išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 506 straipsniuose nurodytus atvejus,
 
 užtraukia baudą asmenims nuo šešiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -9702,7 +9718,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-78\) Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos – dėl šio kodekso 123, 507 straipsniuose numatytų administracinių nusižengimų;
+78\) Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos – dėl šio kodekso 123, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -11415,3 +11435,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-402, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09786
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 29 ir 393 straipsnių pakeitimo įstatymas
+
+23\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 505 ir 589 straipsnių pakeitimo įstatymas
+
+24\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 200 straipsnio pakeitimo įstatymas
