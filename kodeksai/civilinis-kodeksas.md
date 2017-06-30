@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2017-01-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/iYfHwlElIn"
+redakcija_nuo: "2017-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/CEpIVZNECh"
 ---
 
 # Civilinis kodeksas
@@ -5910,7 +5910,11 @@ Teismas, nagrinėdamas ginčus dėl vaikų, privalo išklausyti vaiką, sugebant
 
 3\. Teismas išklauso vaiko, galinčio suformuluoti savo pažiūras, nuomonę ir į tai atsižvelgia.
 
-4\. Priėmęs sprendimą apriboti tėvų valdžią, teismas tuo pačiu sprendimu skiria vaikui globą (rūpybą) ir nustato jo gyvenamąją vietą.
+4\. Priėmęs sprendimą apriboti tėvų valdžią, teismas tuo pačiu sprendimu nustato vaiko gyvenamąją vietą iki teismo sprendimo dėl vaiko globos (rūpybos) nustatymo įsiteisėjimo.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873*
 
 ###### 3.184 straipsnis. Privalomas valstybinės vaikų teisių apsaugos institucijos dalyvavimas
 
@@ -9230,7 +9234,17 @@ Daikto sulaikymo teisės įgyvendinimas neturi įtakos ieškinio senačiai, nust
 
 2\. Administravimas nustatomas teismo nutartimi, įstatymu arba sandoriu. Šio kodekso numatytais atvejais administravimas gali būti nustatomas administraciniu aktu.
 
-3\. Nekilnojamojo daikto administravimo faktas registruojamas viešame registre ir nurodomas jo administratorius.
+3\. Vykdymo proceso metu skolininko turto administravimą Civilinio proceso kodekso numatyta tvarka nustato antstolis. Šiuo atveju šio kodekso 4.240 straipsnio 4 dalyje ir 4.243 straipsnio 4 dalyje numatytus leidimus išduoda skolininko turto administravimą nustatęs antstolis.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873*
+
+4\. Nekilnojamojo daikto administravimo faktas registruojamas viešame registre ir nurodomas jo administratorius.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873*
 
 ###### 4.237 straipsnis. Turto administratorius
 
@@ -20343,3 +20357,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 
 Lietuvos Respublikos civilinio kodekso 3.43, 3.48, 3.53, 3.59, 3.64, 3.65, 3.76, 3.156, 3.157, 3.163, 3.169, 3.170, 3.174, 3.175, 3.178, 3.184 ir 3.190 straipsnių pakeitimo įstatymas
+
+27\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873
+
+Lietuvos Respublikos civilinio kodekso 3.183 ir 4.236 straipsnių pakeitimo įstatymas
