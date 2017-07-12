@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/YwmDNMuIbT"
+redakcija_nuo: "2017-07-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/YJLWqNOqBF"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -9522,7 +9522,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 6\) prokurorai – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 200, 201, 202, 203, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 200, 201, 202, 203, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
 8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 124 straipsnyje, 146, 477, 505, 507 straipsniuose, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 
@@ -9586,7 +9590,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 34\) Karo policijos – dėl šio kodekso 385 straipsnio 4, 5 dalyse, 506 straipsnio 3, 4 dalyse, 508, 556, 557, 562 straipsniuose numatytų administracinių nusižengimų;
 
-35\) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 224, 314, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+35\) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 314, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
 36\) Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos – dėl šio kodekso 459 straipsnio 1, 2, 3, 4 dalyse, 460, 461, 462, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -9608,7 +9616,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 41\) Lietuvos saugios laivybos administracijos – dėl šio kodekso 401, 402, 403, 404, 405, 406, 407, 409, 410, 411 straipsniuose, 413 straipsnio 1 dalyje, 434 straipsnio 3 dalyje, 438, 444, 445, 458, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-42\) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+42\) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 198, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
 43\) Generalinės miškų urėdijos prie Aplinkos ministerijos ir miškų urėdijų, kitų miškų ūkio valstybinio valdymo, valstybinės miškų kontrolės įstaigų valstybiniai miškų pareigūnai – dėl šio kodekso 110, 112, 114 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256, 261, 264, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 282, 283 straipsniuose, 284 straipsnio 1, 3, 4 dalyse, 286, 290, 305, 364 straipsniuose, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -9814,7 +9826,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-91\) valstybės įmonės Lietuvos prabavimo rūmų – dėl šio kodekso 142, 505 straipsniuose numatytų administracinių nusižengimų;
+91\) valstybės įmonės Lietuvos prabavimo rūmų – dėl šio kodekso 142, 198, 505 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -11473,3 +11489,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 100, 101, 106 ir 133 straipsnių pakeitimo įstatymas
+
+26\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
