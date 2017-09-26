@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-09-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/gSPUpppYXU"
+redakcija_nuo: "2017-09-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FSMfodchst"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1195,6 +1195,20 @@ užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliu
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+**79¹ straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti patyčių kibernetinėje erdvėje vaizdinę informaciją ir (ar) pagal Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą draudžiamą skleisti viešąją informaciją ar nurodymų panaikinti galimybę pasiekti šią informaciją nevykdymas**
+
+1\. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų elektroninės informacijos prieglobos paslaugų teikėjams, viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams pašalinti jų tarnybinėse stotyse saugomą patyčių kibernetinėje erdvėje vaizdinę informaciją ir (ar) pagal Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą draudžiamą skleisti viešąją informaciją ar nurodymų panaikinti galimybę pasiekti šią informaciją nevykdymas
+
+užtraukia baudą nuo dviejų šimtų dvidešimt iki šešių šimtų keturiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo šešių šimtų septyniasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113*
 
 #### 80 straipsnis. Kliudymas vaikui mokytis
 
@@ -9664,7 +9678,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 23\) Lietuvos Respublikos žemės ūkio ministerijos ir jos valdymo sričiai priskirtų įstaigų – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 121, 178, 179, 181, 312, 313, 335, 336, 348, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-24\) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 147 straipsnyje, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476 straipsniuose, 479 straipsnio 3, 4, 6 dalyse, 480 straipsnio 4, 5 dalyse, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+24\) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 79¹, 147 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476 straipsniuose, 479 straipsnio 3, 4, 6 dalyse, 480 straipsnio 4, 5 dalyse, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113*
 
 25\) Lietuvos statistikos departamento – dėl šio kodekso 221, 222, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12023,3 +12041,51 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+29\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-567, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12066
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 172 straipsnio pakeitimo įstatymas
+
+30\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-442, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10803
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 184 straipsnio pakeitimo įstatymas
+
+31\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 536 ir 589 straipsnių pakeitimo įstatymas
+
+32\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
+
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 226-1 straipsniu ir 570, 589, 633 straipsnių pakeitimo įstatymas
+
+33\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 130, 131 ir 506 straipsnių pakeitimo įstatymas
+
+34\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 79-1 straipsniu įstatymas
