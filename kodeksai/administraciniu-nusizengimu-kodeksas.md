@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-09-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FSMfodchst"
+redakcija_nuo: "2017-10-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ruYOeHsZml"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -7430,9 +7430,13 @@ užtraukia baudą vairuotojams nuo trisdešimt iki devyniasdešimt eurų.
 
 užtraukia baudą vairuotojams nuo trisdešimt iki devyniasdešimt eurų.
 
-3\. Reikalavimo duoti kelią pradedant važiuoti, įvažiuojant į kelią, persirikiuojant ir kitaip keičiant važiavimo kryptį nevykdymas, apsisukimas geležinkelio pervažose, vietose, kur kelio matomumas bent viena kryptimi mažesnis kaip 100 metrų, draudimo vairuotojams naudotis mobiliojo ryšio priemonėmis, kai jomis naudojamasi rankomis (išskyrus atvejus, kai stovinčios transporto priemonės variklis išjungtas), nesilaikymas
+3\. Reikalavimo duoti kelią pradedant važiuoti, įvažiuojant į kelią, persirikiuojant ir kitaip keičiant važiavimo kryptį nevykdymas, įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus, apsisukimas geležinkelio pervažose, vietose, kur kelio matomumas bent viena kryptimi mažesnis kaip 100 metrų, draudimo vairuotojams naudotis mobiliojo ryšio priemonėmis, kai jomis naudojamasi rankomis (išskyrus atvejus, kai stovinčios transporto priemonės variklis išjungtas), nesilaikymas
 
 užtraukia baudą vairuotojams nuo šešiasdešimt iki devyniasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486*
 
 4\. Važiavimas esant draudžiamam šviesoforo signalui arba reguliuotojo gestui, nesustojimas prieš pėsčiųjų perėją, kai to reikalaujama pagal taisykles,
 
@@ -7454,7 +7458,11 @@ užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki vieno šimto sept
 
 užtraukia įspėjimą arba baudą vairuotojams nuo dešimt iki dvylikos eurų.
 
-9\. Už šio straipsnio 1, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki trijų mėnesių. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki šešių mėnesių. Už šio straipsnio 6 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo dviejų iki keturių mėnesių.
+9\. Už šio straipsnio 3, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki trijų mėnesių. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki šešių mėnesių. Už šio straipsnio 6 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo dviejų iki keturių mėnesių.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486*
 
 #### 418 straipsnis. Vietinės rinkliavos už naudojimąsi savivaldybių tarybų nustatytomis vietomis automobiliams statyti nuostatuose nustatytos vietinės rinkliavos mokėjimo tvarkos pažeidimas
 
@@ -7478,9 +7486,13 @@ užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.
 
 #### 420 straipsnis. Pavojingas ir chuliganiškas vairavimas, Kelių eismo taisyklėse nustatyto draudimo lenkti ar įvažiuoti į priešpriešinio eismo juostą pažeidimas
 
-1\. Transporto priemonių vairavimas vienu metu ar paeiliui padarant kelis grėsmę eismo saugumui keliančius eismo taisyklių pažeidimus, lenkimas vietose, kuriose pagal Kelių eismo taisykles draudžiama lenkti, įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus, vairavimas neteisėtai organizuotose transporto priemonių lenktynėse, pavojingą situaciją sukėlęs (t. y. privertęs kitus eismo dalyvius staigiai keisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų žmonių saugumui užtikrinti) Kelių eismo taisyklių pažeidimas
+1\. Transporto priemonių vairavimas vienu metu ar paeiliui padarant kelis grėsmę eismo saugumui keliančius eismo taisyklių pažeidimus, lenkimas vietose, kuriose pagal Kelių eismo taisykles draudžiama lenkti, vairavimas neteisėtai organizuotose transporto priemonių lenktynėse, pavojingą situaciją sukėlęs (t. y. privertęs kitus eismo dalyvius staigiai keisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų žmonių saugumui užtikrinti) Kelių eismo taisyklių pažeidimas, tokią pat pavojingą situaciją sukėlęs įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus
 
 užtraukia baudą vairuotojams nuo vieno šimto septyniasdešimt iki dviejų šimtų trisdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo trijų šimtų iki šešių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486*
 
 2\. Chuliganiškas vairavimas, t. y. pavojų eismo saugumui arba savo ar kitų žmonių saugumui keliantis Kelių eismo taisyklių pažeidimas dėl chuliganiškų paskatų,
 
@@ -12089,3 +12101,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 79-1 straipsniu įstatymas
+
+35\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 417 ir 420 straipsnių pakeitimo įstatymas
