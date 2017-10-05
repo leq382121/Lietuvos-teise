@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2017-06-03"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/rgRYmDwlAO"
+redakcija_nuo: "2017-10-06"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ktvzavjwEt"
 ---
 
 # Baudžiamasis kodeksas
@@ -760,7 +760,11 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 3\) juridinio asmens likvidavimas.
 
-2\. Teismas, paskyręs bausmę juridiniam asmeniui, gali nutarti paskelbti šį nuosprendį per visuomenės informavimo priemones.
+2\. Teismas, paskyręs bausmę juridiniam asmeniui, gali nutarti paskelbti šį nuosprendį per visuomenės informavimo priemones. Nuosprendis, kuriuo teismas juridiniam asmeniui paskiria bausmę už šio kodekso XXXIII skyriuje numatytus nusikaltimus, privalo būti paskelbtas per visuomenės informavimo priemones.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 3\. Juridiniam asmeniui už vieną nusikalstamą veiką gali būti skiriama tik viena bausmė.
 
@@ -808,35 +812,29 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 1\. Bauda yra piniginė bausmė, teismo skiriama šio kodekso specialiojoje dalyje numatytais atvejais.
 
-2\. Bauda skaičiuojama minimalaus gyvenimo lygio (MGL) dydžiais. Minimali bauda yra vieno MGL dydžio.
+2\. Bauda skaičiuojama minimalaus gyvenimo lygio (MGL) dydžiais.
 
 3\. Nustatoma bauda:
 
-1\) už baudžiamąjį nusižengimą – iki 150 MGL dydžio;
+1\) už baudžiamąjį nusižengimą – nuo 15 iki 500 MGL dydžio;
 
-*Straipsnio punkto pakeitimai:*
+2\) už nesunkų nusikaltimą – nuo 50 iki 2 000 MGL dydžio;
 
-*Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240*
+3\) už apysunkį nusikaltimą – nuo 100 iki 4 000 MGL dydžio;
 
-2\) už nesunkų nusikaltimą – iki 500 MGL dydžio;
+4\) už sunkų nusikaltimą – nuo 150 iki 6 000 MGL dydžio;
 
-3\) už apysunkį nusikaltimą – iki 1 000 MGL dydžio;
+5\) už neatsargų nusikaltimą – nuo 20 iki 750 MGL dydžio.
 
-4\) už sunkų nusikaltimą – iki 1 500 MGL dydžio;
-
-5\) už neatsargų nusikaltimą – iki 225 MGL dydžio.
-
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240*
-
-4\. Juridiniam asmeniui nustatoma iki 50000 MGL dydžio bauda.
+4\. Juridiniam asmeniui nustatoma nuo 200 iki 100 000 MGL dydžio bauda.
 
 5\. Baudos dydis už padarytą nusikalstamą veiką straipsnio sankcijoje nenurodomas. Jį nustato teismas, skirdamas bausmę.
 
-6\. Jeigu asmuo neturi lėšų sumokėti teismo paskirtą baudą, teismas, vadovaudamasis šio kodekso 65 straipsnyje nustatytomis taisyklėmis, nuteistojo sutikimu šią bausmę gali pakeisti viešaisiais darbais.
+6\. Už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas skiriama bauda negali būti mažesnė negu nustatyto nusikalstamos veikos dalyko, kaltininko padarytos turtinės žalos arba kaltininko gautos ar siektos gauti turtinės naudos sau ar kitam asmeniui dydis. Kai yra keli baudos dydžio apskaičiavimo kriterijai, skiriamos baudos dydis apskaičiuojamas pagal tą, kurio vertė, išreikšta pinigais, yra didžiausia. Kai bauda skiriama vadovaujantis šioje dalyje nustatytomis taisyklėmis, galutinė teismo paskirta bauda už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas gali viršyti šio straipsnio 3 ir 4 dalyse nurodytus maksimalius baudos dydžius, tačiau negali būti mažesnė negu šio straipsnio 3 ir 4 dalyse numatyti minimalūs baudos dydžiai.
 
-7\. Jeigu asmuo vengia savu noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą areštu. Keisdamas baudą areštu, teismas vadovaujasi šio kodekso 65 straipsnyje nustatytomis taisyklėmis.
+7\. Jeigu asmuo neturi lėšų sumokėti teismo paskirtą baudą, teismas, vadovaudamasis šio kodekso 65 straipsnyje nustatytomis taisyklėmis, nuteistojo sutikimu šią bausmę gali pakeisti viešaisiais darbais.
+
+8\. Jeigu asmuo vengia savu noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą areštu. Keisdamas baudą areštu, teismas vadovaujasi šio kodekso 65 straipsnyje nustatytomis taisyklėmis.
 
 *Straipsnio pakeitimai:*
 
@@ -845,6 +843,10 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-1350, 2011-04-21, Žin., 2011, Nr. 49-2374 (2011-04-28)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 #### 48 straipsnis. Laisvės apribojimas
 
@@ -962,7 +964,13 @@ Teismas, skirdamas juridinio asmens likvidavimo bausmę, įpareigoja juridinį a
 
 6\) asmens kaip bendrininko dalyvavimo darant nusikalstamą veiką formą ir rūšį;
 
-7\) atsakomybę lengvinančias bei sunkinančias aplinkybes.
+7\) atsakomybę lengvinančias bei sunkinančias aplinkybes;
+
+8\) nusikalstama veika padarytą žalą.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 3\. Jeigu straipsnio sankcijoje numatytos bausmės paskyrimas aiškiai prieštarautų teisingumo principui, teismas, vadovaudamasis bausmės paskirtimi, gali motyvuotai paskirti švelnesnę bausmę.
 
@@ -1112,11 +1120,13 @@ Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu str
 
 1\) paskirti mažesnę bausmę, negu straipsnio sankcijoje už padarytą nusikalstamą veiką numatyta mažiausia bausmė, arba
 
-2\) paskirti mažesnę bausmę, negu nustatyta šio kodekso 56 straipsnyje, arba
+2\) paskirti mažesnę bausmę, negu nustatyta šio kodekso 47 straipsnio 3, 4 ir 6 dalyse, 56 straipsnyje ir 90 straipsnio 3 dalyje, arba
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 3\) paskirti švelnesnę bausmės rūšį, negu numatyta straipsnio sankcijoje už padarytą nusikalstamą veiką.
 
@@ -1140,7 +1150,11 @@ Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu str
 
 3\. Kai bausmės visiškai sudedamos, prie griežčiausios bausmės, paskirtos už vieną iš padarytų nusikalstamų veikų, pridedamos visos paskirtos švelnesnės bausmės.
 
-4\. Kai bausmės iš dalies sudedamos, prie griežčiausios bausmės, paskirtos už vieną iš padarytų nusikalstamų veikų, iš dalies pridedamos švelnesnės bausmės.
+4\. Kai bausmės iš dalies sudedamos, prie griežčiausios bausmės, paskirtos už vieną iš padarytų nusikalstamų veikų, iš dalies pridedamos švelnesnės bausmės ir nurodomi kiekvienos iš pridedamų bausmės dalių parinkimo motyvai. Pridedamos bausmės dalis negali būti mažesnė negu minimalus tos bausmės rūšies dydis, išskyrus atvejus, kai pridedama neatliktos bausmės dalis yra mažesnė už šį dydį.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 5\. Bausmių apėmimą teismas taiko, kai:
 
@@ -1152,7 +1166,11 @@ Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu str
 
 6\. Jeigu skiriant galutinę bausmę dalis paskirtų bausmių gali būti apimamos, o kitos – tik visiškai ar iš dalies sudedamos, teismas bausmes bendrina bausmių apėmimo ir sudėjimo būdu. Bausmių bendrinimo tvarką teismas pasirenka įvertinęs padarytų nusikalstamų veikų pobūdį ir pavojingumą.
 
-7\. Kai bausmė skiriama vadovaujantis šio straipsnio 1 dalimi, galutinė subendrinta bausmė negali viršyti dvidešimties metų laisvės atėmimo, o jeigu skiriama kitos rūšies bausmė, - šio kodekso nustatyto tos rūšies bausmės maksimalaus dydžio.
+7\. Kai bausmė skiriama vadovaujantis šio straipsnio 1 dalimi, galutinė subendrinta bausmė negali viršyti dvidešimties metų laisvės atėmimo, o jeigu skiriama kitos rūšies bausmė, išskyrus baudą, – šio kodekso nustatyto tos rūšies bausmės maksimalaus dydžio.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 8\. Negalima skirti tokios subendrintos bausmės rūšies, kuri nebuvo paskirta už atskiras nusikalstamas veikas.
 
@@ -1172,9 +1190,17 @@ Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu str
 
 2\. Kai bausmės visiškai sudedamos, prie nauju nuosprendžiu paskirtos bausmės pridedama visa neatliktos bausmės dalis.
 
-3\. Kai bausmės iš dalies sudedamos, prie nauju nuosprendžiu paskirtos bausmės pridedama neatliktos bausmės dalis. Jeigu neatliktos bausmės dalis yra didesnė, tai prie jos pridedama nauju nuosprendžiu paskirtos bausmės dalis.
+3\. Kai bausmės iš dalies sudedamos, prie nauju nuosprendžiu paskirtos bausmės pridedama neatliktos bausmės dalis. Jeigu neatliktos bausmės dalis yra didesnė, tai prie jos pridedama nauju nuosprendžiu paskirtos bausmės dalis. Pridedama bausmės dalis negali būti mažesnė negu minimalus tos bausmės rūšies dydis, išskyrus atvejus, kai pridedama neatliktos bausmės dalis yra mažesnė už šį dydį.
 
-4\. Kai bausmė skiriama vadovaujantis šio straipsnio 1 dalimi, subendrinta bausmė negali viršyti dvidešimt penkerių metų laisvės atėmimo, o jeigu skiriama kitos rūšies bausmė, - šio kodekso nustatyto tos rūšies bausmės maksimalaus dydžio.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
+
+4\. Kai bausmė skiriama vadovaujantis šio straipsnio 1 dalimi, subendrinta bausmė negali viršyti dvidešimt penkerių metų laisvės atėmimo, o jeigu skiriama kitos rūšies bausmė, išskyrus baudą, – šio kodekso nustatyto tos rūšies bausmės maksimalaus dydžio.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 5\. Jeigu už vieną iš padarytų nusikaltimų buvo paskirta laisvės atėmimo iki gyvos galvos bausmė, bausmės subendrinamos apėmimo būdu ir subendrinta bausmė yra laisvės atėmimas iki gyvos galvos.
 
@@ -1314,7 +1340,11 @@ b) vieno MGL dydžio baudai (1:1);
 
 2\. Viešųjų teisių atėmimą teismas skiria tais atvejais, kai nusikalstama veika padaryta piktnaudžiaujant viešosiomis teisėmis.
 
-3\. Viešosios teisės gali būti atimtos nuo vienerių iki penkerių metų. Teismas, skirdamas viešųjų teisių atėmimą, nurodo, kokia teisė atimama, ir konkretų šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+3\. Viešosios teisės gali būti atimtos nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus viešosios teisės gali būti atimtos nuo trejų iki septynerių metų. Teismas, skirdamas viešųjų teisių atėmimą, nurodo, kokia teisė atimama, ir konkretų šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 4\. Viešųjų teisių atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
 
@@ -1328,7 +1358,11 @@ b) vieno MGL dydžio baudai (1:1);
 
 1\. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą teismas skiria tais atvejais, kai asmuo nusikalstamą veiką padaro darbinės ar profesinės veiklos srityje arba kai teismas, atsižvelgdamas į padarytos nusikalstamos veikos pobūdį, padaro išvadą, kad asmeniui negalima palikti teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla.
 
-2\. Teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Teismas, skirdamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+2\. Teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimta nuo trejų iki septynerių metų. Teismas, skirdamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 3\. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
 
@@ -1358,7 +1392,11 @@ b) vieno MGL dydžio baudai (1:1);
 
 #### 71 straipsnis. Įmoka į nukentėjusių nuo nusikaltimų asmenų fondą
 
-Teismas gali paskirti nuo 5 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Įmoka turi būti sumokėta per teismo nustatytą terminą.
+Teismas gali paskirti nuo 5 iki 125 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Įmoka turi būti sumokėta per teismo nustatytą terminą. Šis terminas negali būti ilgesnis negu treji metai.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 #### 72 straipsnis. Turto konfiskavimas
 
@@ -1466,11 +1504,13 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 
 #### 75 straipsnis. Bausmės vykdymo atidėjimas
 
-1\. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis tyčinius nusikaltimus (išskyrus labai sunkius nusikaltimus), teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+1\. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 2\. Atidėdamas bausmės vykdymą, teismas paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) pareigas:
 
@@ -1686,7 +1726,11 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 
 2\. Nepilnamečiams negali būti paskirta daugiau nei 240 valandų viešųjų darbų.
 
-3\. Bauda gali būti skiriama tik dirbančiam ar savo turto turinčiam nepilnamečiui. Nepilnamečiui gali būti skiriama iki 50 MGL dydžio bauda.
+3\. Bauda gali būti skiriama tik dirbančiam ar savo turto turinčiam nepilnamečiui. Nepilnamečiui gali būti skiriama nuo 5 iki 50 MGL dydžio bauda.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 4\. Nepilnamečiui gali būti skiriama nuo penkių iki keturiasdešimt penkių parų arešto.
 
@@ -4166,7 +4210,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 3\. Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
 
-baudžiamas laisvės atėmimu iki septynerių metų.
+baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 4\. Tas, kas padarė šio straipsnio 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pažadėjęs ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs didesnės negu 250 MGL vertės kyšį,
 
@@ -4204,7 +4252,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį,
 
-baudžiamas laisvės atėmimu iki septynerių metų.
+baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859*
 
 4\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir
 
@@ -6915,3 +6967,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
 Lietuvos Respublikos baudžiamojo kodekso 20, 225, 227 ir 230 straipsnių pakeitimo įstatymas
+
+24\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
+
+Lietuvos Respublikos baudžiamojo kodekso 43, 47, 54, 62, 63, 64, 68-1, 68-2, 71, 75, 90, 226 ir 227 straipsnių pakeitimo įstatymas
