@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2017-10-03"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ruYOeHsZml"
+redakcija_nuo: "2017-10-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/SYyTzmEZLQ"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -8276,7 +8276,7 @@ užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki septynių �
 
 #### 464 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas
 
-1\. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus,
+1\. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio slopinimo įrenginių neteisėtas naudojimas ir (arba) laikymas
 
 užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
@@ -8284,9 +8284,13 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės naudoti arba teisės įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginius atėmimas nuo trijų mėnesių iki vienų metų.
+3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės naudoti arba teisės įvežti aparatūrą, įrenginius, radijo siuntimo arba radijo stebėsenos įrenginius atėmimas nuo trijų mėnesių iki vienų metų.
 
 4\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginių konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808*
 
 #### 465 straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti radijo trikdžius arba sumažinti jų lygį nevykdymas
 
@@ -12109,3 +12113,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 417 ir 420 straipsnių pakeitimo įstatymas
+
+36\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
