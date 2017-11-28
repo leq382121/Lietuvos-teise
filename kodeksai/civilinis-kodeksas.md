@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2017-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/jzSMlGaxxb"
+redakcija_nuo: "2017-11-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/xWRnKZqXPQ"
 ---
 
 # Civilinis kodeksas
@@ -2868,7 +2868,11 @@ Juridinio asmens valdymo organo nariai turi vienodas teises ir pareigas, išskyr
 
 5\. Juridinio asmens valdymo organo narys privalo pranešti kitiems juridinio asmens valdymo organo nariams arba juridinio asmens dalyviams apie aplinkybes, nurodytas šio straipsnio 3 dalyje, ir nurodyti jų pobūdį ir, jei įmanoma, vertę. Ši informacija turi būti pateikta raštu arba įrašyta į juridinio asmens organų posėdžio protokolą.
 
-6\. Juridinio asmens organo narys gali sudaryti sandorį su juridiniu asmeniu, kurio organo narys jis yra. Apie tokį sandorį jis privalo nedelsdamas pranešti kitiems juridinio asmens organams šio straipsnio 5 dalyje nustatyta tvarka arba juridinio asmens dalyviams, jei juridinio asmens steigimo dokumentai aiškiai nenustato kitos informavimo tvarkos.
+6\. Juridinio asmens organo narys gali sudaryti sandorį su juridiniu asmeniu, kurio organo narys jis yra. Apie tokį sandorį jis privalo nedelsdamas pranešti kitiems juridinio asmens organams šio straipsnio 5 dalyje nustatyta tvarka arba juridinio asmens dalyviams, jei juridinio asmens steigimo dokumentai ar atitinkamos teisinės formos juridinius asmenis reglamentuojantys įstatymai aiškiai nenustato kitos informavimo tvarkos.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-787, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18850*
 
 7\. Juridinio asmens valdymo organo narys, nevykdantis arba netinkamai vykdantis pareigas, nurodytas šiame straipsnyje ar steigimo dokumentuose, privalo padarytą žalą atlyginti juridiniam asmeniui visiškai, jei įstatymai, steigimo dokumentai ar sutartis nenumato kitaip.
 
@@ -6726,7 +6730,7 @@ Vaikui nuolatinė globa (rūpyba) nustatoma, kai vaiko:
 
 4\) tėvystės ar artimos giminystės ryšiai nuo vaiko radimo dienos nenustatyti per tris mėnesius;
 
-5\) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais šioje srityje.
+5\) tėvai arba turimas vienintelis iš tėvų nustatyta tvarka pripažinti neveiksniais šioje srityje;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -6810,7 +6814,7 @@ Vaiko globos (rūpybos) vieta gali būti:
 
 2\) vaiko gyvenamojoje vietoje;
 
-3\) vaikų globos institucijoje.
+3\) vaikų globos institucijoje;
 
 ###### 3.266 straipsnis. Vaiko globos (rūpybos) organizavimas
 
@@ -20409,3 +20413,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 Lietuvos Respublikos civilinio kodekso 6.228-5, 6.228-13, 6.353, 6.362, 6.363 straipsnių pakeitimo ir Kodekso papildymo 6.358-1 straipsniu įstatymas
+
+29\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912
+
+Lietuvos Respublikos civilinio kodekso 3.172, 3.176, 3.180, 3.183, 3.210, 3.212, 3.217, 3.219, 3.222, 3.223, 3.224, 3.243, 3.249, 3.250, 3.252, 3.253, 3.254, 3.256, 3.257, 3.262, 3.264, 3.265, 3.266, 3.267, 3.269, 3.271, 3.274 straipsnių pakeitimo ir Kodekso papildymo 3.276-1 straipsniu įstatymas
+
+30\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-557, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12060
+
+Lietuvos Respublikos civilinio kodekso 1.74 ir 4.58 straipsnių pakeitimo įstatymas
+
+31\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-787, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18850
+
+Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas
