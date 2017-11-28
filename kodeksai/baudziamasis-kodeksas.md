@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2017-10-06"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ktvzavjwEt"
+redakcija_nuo: "2017-11-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/VvQbYkCDQz"
 ---
 
 # Baudžiamasis kodeksas
@@ -4070,11 +4070,15 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.
 
 #### 220 straipsnis. Neteisingų duomenų apie pajamas, pelną ar turtą pateikimas
 
-1\. Tas, kas siekdamas išvengti mokesčių, kurių suma viršija 10 MGL, įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai,
+1\. Tas, kas siekdamas išvengti mokesčių, kurių suma viršija 100 MGL, įrašė į deklaraciją arba į nustatyta tvarka patvirtintą ataskaitą ar kitą dokumentą žinomai neteisingus duomenis apie asmens pajamas, pelną, turtą ar jų naudojimą ir pateikė juos valstybės įgaliotai institucijai,
 
-baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
-2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kai mokesčių suma viršija 750 MGL arba dalyvaudamas organizuotoje grupėje,
+
+baudžiamas laisvės atėmimu iki aštuonerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
@@ -4086,13 +4090,19 @@ baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki trejų me
 
 *Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240*
 
+*Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856*
+
 #### 221 straipsnis. Deklaracijos, ataskaitos ar kito dokumento nepateikimas
 
-1\. Tas, kas siekdamas išvengti daugiau kaip 500 MGL dydžio mokesčių ar kitokių įmokų teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti,
+1\. Tas, kas siekdamas išvengti daugiau kaip 100 MGL dydžio mokesčių ar kitokių įmokų teisės aktų nustatyta tvarka laiku nepateikė valstybės įgaliotai institucijai deklaracijos arba nustatyta tvarka patvirtintos ataskaitos ar kito dokumento apie asmens pajamas, pelną ar turtą po to, kai ši valstybės institucija raštu priminė apie pareigą juos pateikti,
 
-baudžiamas bauda arba laisvės atėmimu iki trejų metų.
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, kai mokesčių ar kitokių įmokų suma viršija 500 MGL,
+
+baudžiamas laisvės atėmimu nuo dvejų iki šešerių metų.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
@@ -4103,6 +4113,8 @@ baudžiamas bauda arba laisvės atėmimu iki trejų metų.
 *Straipsnio pakeitimai:*
 
 *Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240*
+
+*Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856*
 
 #### 222 straipsnis. Apgaulingas apskaitos tvarkymas
 
@@ -6975,3 +6987,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 Lietuvos Respublikos baudžiamojo kodekso 43, 47, 54, 62, 63, 64, 68-1, 68-2, 71, 75, 90, 226 ir 227 straipsnių pakeitimo įstatymas
+
+25\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856
+
+Lietuvos Respublikos baudžiamojo kodekso 220 ir 221 straipsnių pakeitimo įstatymas
