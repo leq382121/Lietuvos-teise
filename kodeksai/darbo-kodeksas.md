@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2017-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/giCZwujhpu"
+redakcija_nuo: "2018-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/AedqeJLXgd"
 ---
 
 # Darbo kodeksas
@@ -2004,13 +2004,29 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 1\. Darbuotojams po vaiko gimimo suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Šios atostogos suteikiamos bet kuriuo laikotarpiu nuo vaiko gimimo, iki vaikui sukanka trys mėnesiai (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – nuo vaiko gimimo, iki vaikui sukanka šeši mėnesiai).
 
-2\. Už šio straipsnio 1 dalyje nustatytų atostogų laiką mokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nustatyta išmoka.
+2\. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per tris mėnesius nuo sprendimo vykdymo pradžios) dienos darbuotojams suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Įvaikinus du ir daugiau vaikų – šios atostogos suteikiamos per šešis mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per šešis mėnesius nuo sprendimo vykdymo pradžios) dienos. Šioje dalyje nurodytos atostogos nesuteikiamos tuo atveju, kai įvaikintas sutuoktinio vaikas arba kai įtėviui tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos vaikui prižiūrėti.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914*
+
+3\. Už šio straipsnio 1 ir 2 dalyse nustatytų atostogų laiką mokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nustatyta išmoka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914*
 
 ##### 134 straipsnis. Atostogos vaikui prižiūrėti
 
 1\. Pagal šeimos pasirinkimą motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam vaiko globėju, suteikiamos atostogos vaikui prižiūrėti, iki vaikui sukanka treji metai. Atostogas galima imti visas iš karto arba dalimis. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis.
 
-2\. Per vieną mėnesį nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos trijų mėnesių atostogos vaikui prižiūrėti. Jeigu darbuotojas tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę tiek į atostogas pagal šio straipsnio 1 dalį, tiek pagal šią dalį, darbuotojui suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis.
+2\. Per vieną mėnesį nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos dvidešimt keturių mėnesių trukmės atostogos vaikui prižiūrėti. Jeigu darbuotojas tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę tiek į atostogas pagal šio straipsnio 1 dalį, tiek pagal šią dalį, darbuotojui suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis.
+
+*TAR pastaba. 2 dalies nuostatos taip pat taikomos iki šio įstatymo (Nr. XIII-243) įsigaliojimo (2018-01-01) įvaikintų vaikų įtėviams, jeigu po šio įstatymo įsigaliojimo dienos nėra praėjęs dvidešimt keturių mėnesių terminas nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus teismo sprendimo vykdymo atveju – nuo šio sprendimo vykdymo pradžios) dienos. Tokiu atveju įmotei (įtėviui) suteikiamos atostogos vaikui prižiūrėti pagal Darbo kodekso 134 straipsnio 2 dalies nuostatas tokios trukmės, kiek yra likę nuo kreipimosi dėl šių atostogų suteikimo dienos iki dvidešimt keturių mėnesių, skaičiuojamų nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus teismo sprendimo vykdymo atveju – nuo šio sprendimo vykdymo pradžios) dienos.*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914*
 
 3\. Darbuotojas, ketinantis pasinaudoti atostogomis pagal šio straipsnio 1 dalį ar grįžti į darbą joms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš keturiolika kalendorinių dienų. Darbuotojas, ketinantis pasinaudoti atostogomis pagal šio straipsnio 2 dalį ar grįžti į darbą joms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš tris darbo dienas. Kolektyvinėje sutartyje gali būti nustatytas ilgesnis įspėjimo terminas.
 
@@ -3923,3 +3939,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-414, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10022
 
 Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. XII-2603 2 ir 6 straipsnių pakeitimo įstatymas
+
+5\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
+
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. XII-2603 1 straipsniu patvirtinto Lietuvos Respublikos darbo kodekso 133 ir 134 straipsnių pakeitimo įstatymas
