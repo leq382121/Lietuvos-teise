@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2018-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/lHvjkiJrZw"
+redakcija_nuo: "2018-03-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/IubKscSMao"
 ---
 
 # Civilinis kodeksas
@@ -2158,7 +2158,11 @@ Civilinės būklės aktai, išskyrus partnerystę, registruojami civilinės būk
 
 2\. Šios knygos II dalies normos taikomos atskiroms juridinių asmenų teisinėms formoms, išskyrus, jeigu šio kodekso normos numato kitaip.
 
-3\. Juridinių asmenų, nurodytų Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme, steigimą, valdymą, reorganizavimą, pertvarkymą ir likvidavimą šis kodeksas reglamentuoja tiek, kiek Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymas nenumato kitaip.
+3\. Juridinių asmenų, nurodytų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, steigimą, valdymą, reorganizavimą, pertvarkymą ir likvidavimą šis kodeksas reglamentuoja tiek, kiek Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas nenumato kitaip.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-995, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01007*
 
 *Straipsnio pakeitimai:*
 
@@ -20645,3 +20649,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-787, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18850
 
 Lietuvos Respublikos civilinio kodekso 2.87 straipsnio pakeitimo įstatymas
+
+32\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-995, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01007
+
+Lietuvos Respublikos civilinio kodekso 2.33 straipsnio pakeitimo įstatymas
