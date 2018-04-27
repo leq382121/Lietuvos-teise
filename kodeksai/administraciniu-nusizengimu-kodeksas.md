@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2018-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/eBjpDzfBkN"
+redakcija_nuo: "2018-04-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/mEjPHVOwFi"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -5322,9 +5322,11 @@ užtraukia įspėjimą arba baudą su cheminių medžiagų tvarkymu susijusia ve
 
 užtraukia įspėjimą arba baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-3\. Reglamente (EB) Nr. 1102/2008 nustatyto draudimo eksportuoti metalinį gyvsidabrį, gyvsidabrio junginius ar mišinius su kitomis cheminėmis medžiagomis, įskaitant gyvsidabrio lydinius, taip pat draudimo maišyti metalinį gyvsidabrį su kitomis cheminėmis medžiagomis eksporto tikslais nesilaikymas
+3\. Neteko galios nuo 2018-04-28
 
-užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 4\. Gaminamų, tiekiamų rinkai, importuojamų, eksportuojamų, platinamų, naudojamų cheminių medžiagų ir mišinių (preparatų) apskaitos reikalavimų pažeidimas
 
@@ -5362,9 +5364,11 @@ užtraukia įspėjimą arba baudą su cheminių medžiagų tvarkymu susijusia ve
 
 užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-13\. Reglamente (EB) Nr. 1102/2008 nurodytų reikalavimų nustatyta tvarka teikti Europos Komisijai ir Lietuvos Respublikos kompetentingai institucijai informaciją apie metalinio gyvsidabrio importą į Europos Sąjungą, metalinio gyvsidabrio naudojimą ir (ar) naudojimo nutraukimą, metalinio gyvsidabrio susidarymą gamybos procesų metu pažeidimas
+13\. Neteko galios nuo 2018-04-28
 
-užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 14\. Cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, registravimas pažeidžiant Reglamente (EB) Nr. 1907/2006 nustatytus reikalavimus ir (arba) reikalavimo šioje dalyje nurodytame reglamente nustatyta tvarka atnaujinti cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, registraciją nevykdymas
 
@@ -5405,6 +5409,44 @@ užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantie
 23\. Uždraustų naudoti pavojingųjų cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, ir mišinių (preparatų) gamyba, tiekimas rinkai ir (arba) naudojimas, išskyrus nuodingųjų medžiagų gamybą, laikymą ir (arba) realizavimą,
 
 užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+#### 308¹ straipsnis. Reglamente (ES) 2017/852 nustatytų reikalavimų pažeidimas
+
+1\. Reglamente (ES) 2017/852 nustatyto reikalavimo odontologinės priežiūros (pagalbos) įstaigose įrengti amalgamos separatorius, atitinkančius šiame reglamente nustatytą amalgamos dalelių surinkimo lygį, nesilaikymas
+
+užtraukia baudą veiklos vykdytojams fiziniams asmenims ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki keturių šimtų eurų.
+
+2\. Reglamente (ES) 2017/852 nustatyto draudimo eksportuoti gyvsidabrį, gyvsidabrio junginius ir mišinius, nurodytus šio reglamento I priede, nesilaikymas
+
+užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+3\. Gyvsidabrio ir gyvsidabrio mišinių, nurodytų Reglamento (ES) 2017/852 I priede, importas pažeidžiant nustatytus reikalavimus
+
+užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+4\. Gyvsidabrio ir gyvsidabrio junginių, nurodytų Reglamento (ES) 2017/852 III priede, naudojimo gamybos procesuose apribojimų pažeidimas
+
+užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
+
+5\. Reglamente (ES) 2017/852 nustatyto draudimo eksportuoti, importuoti ir gaminti gyvsidabrio savo sudėtyje turinčius produktus, nurodytus šio reglamento II priede, nesilaikymas
+
+užtraukia baudą veiklos vykdytojams fiziniams asmenims ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+6\. Reglamente (ES) 2017/852 nustatyto draudimo naudoti gyvsidabrį ir gyvsidabrio junginius pramoninėje veikloje, gamybos, amatininkiškos ir mažos apimties aukso gavybos ir perdirbimo procesuose nesilaikymas
+
+užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+7\. Reglamente (ES) 2017/852 nustatytų naujų produktų, kurių sudėtyje yra gyvsidabrio, gamybos ir tiekimo rinkai draudimo nesilaikymas, draudimo naudoti gyvsidabrį arba gyvsidabrio junginius naujuose gamybos procesuose nesilaikymas
+
+užtraukia baudą veiklos vykdytojams fiziniams asmenims ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+8\. Reglamente (ES) 2017/852 nustatyto draudimo importuoti gyvsidabrio mišinius ir gyvsidabrio junginius gyvsidabriui regeneruoti ir draudimo importuoti gyvsidabrį naudoti amatininkiškoje ir mažos apimties aukso gavyboje ir perdirbimo procesuose nesilaikymas
+
+užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 #### 309 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimas
 
@@ -10012,7 +10054,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
 
-31\) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 304¹, 304², 305, 306, 307, 308, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31\) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 304¹, 304², 305, 306, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10023,6 +10065,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10048,7 +10092,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
 
-40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 304² straipsnio 2 dalyje, 308 straipsnio 3, 6 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 221, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 304² straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10057,6 +10101,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 41\) neteko galios nuo 2017-12-01;
 
@@ -10128,13 +10174,19 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 56\) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-57\) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 139, 156, 224, 312, 337, 338, 341, 342, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+57\) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 139, 156, 224 straipsniuose, 308¹ straipsnio 5, 7 dalyse, 312, 337, 338, 341, 342, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3, 4 dalyse numatytų administracinių nusižengimų;
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
+
+58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3, 4 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 59\) Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos – dėl šio kodekso 505, 507, 550, 551 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10182,11 +10234,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 50, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 50, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 308¹ straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 71\) Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos ir jos teritorinių skyrių – dėl šio kodekso 187 straipsnio 4 dalyje, 193, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12018,7 +12072,11 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-42\. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1102/2008 dėl metalinio gyvsidabrio ir tam tikrų gyvsidabrio junginių ir mišinių eksporto uždraudimo bei metalinio gyvsidabrio saugaus saugojimo (OL 2008 L 304, p. 75).
+42\. Neteko galios nuo 2008-04-28.
+
+*Punkto pakeitimai:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 *Punkto numeracijos pakeitimas:*
 
@@ -12456,6 +12514,12 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
+95\. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
+
+*Papildyta punktu:*
+
+*Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
+
 *Priedo pakeitimai:*
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
@@ -12805,3 +12869,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 276, 415, 589 ir 611 straipsnių pakeitimo įstatymas
+
+44\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 308, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 308-1 straipsniu įstatymas
