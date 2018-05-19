@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2018-05-09"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/sbrkukVHjN"
+redakcija_nuo: "2018-05-20"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/xRHusNkNVy"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -6432,13 +6432,15 @@ užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkst
 
 #### 356 straipsnis. Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus
 
-Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus, išskyrus šio kodekso 235 straipsnio 3 ir 5 dalyse, 265 straipsnio 5 dalyje, 281 straipsnio 2 dalyje, 314 straipsnio 3 ir 4 dalyse, 350, 351, 352, 353, 354, 355, 356¹, 356², 357, 357¹, 361, 363, 365 straipsniuose, 385 straipsnio 2 ir 4 dalyse, 459 straipsnio 2 ir 6 dalyse, 460 straipsnyje numatytus pažeidimus,
+Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus, išskyrus šio kodekso 235 straipsnio 3 ir 5 dalyse, 265 straipsnio 5 dalyje, 281 straipsnio 2 dalyje, 314 straipsnio 3 ir 4 dalyse, 350, 351, 352, 353, 354, 355, 356¹, 356², 357, 357¹, 361, 363, 365 straipsniuose, 385 straipsnio 2 ir 4 dalyse, 459 straipsnio 3 ir 8 dalyse, 460 straipsnyje numatytus pažeidimus,
 
 užtraukia įspėjimą arba baudą nuo penkiasdešimt iki vieno tūkstančio eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+*Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997*
 
 #### 356¹ straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų prievolių nevykdymas įvykus statomo statinio avarijai
 
@@ -8428,37 +8430,49 @@ užtraukia baudą nuo dešimt iki šešiasdešimt eurų.
 
 #### 459 straipsnis. Eismo saugumo reikalavimų automobilių keliuose pažeidimas
 
-1\. Teisės aktuose nustatytų reikalavimų prižiūrėti kelius, kelio statinius (įrenginius) taip, kad jie būtų saugūs eismui, pažeidimas, nesiėmimas priemonių laiku uždrausti ar apriboti eismą atskiruose kelių ruožuose, kai naudojimasis jais kelia grėsmę eismo saugumui,
+1\. Krovinio išdėstymo ir (ar) jo pritvirtinimo N2, N3, O3 ir O4 klasių transporto priemonėse reikalavimų pažeidimas
+
+užtraukia baudą vairuotojams nuo šešiasdešimt iki vieno šimto eurų ir (ar) krovinius pateikusiems ir juos pakrovusiems asmenims, ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo vieno šimto iki trijų šimtų eurų.
+
+2\. Teisės aktuose nustatytų reikalavimų prižiūrėti kelius, kelio statinius (įrenginius) taip, kad jie būtų saugūs eismui, pažeidimas, nesiėmimas priemonių laiku uždrausti ar apriboti eismą atskiruose kelių ruožuose, kai naudojimasis jais kelia grėsmę eismo saugumui,
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
-2\. Automobilių kelių tiesimo, kelio statinių, sankryžų statybos (įrengimo), apželdinimo projektų, techninių eismo reguliavimo priemonių įrengimo (nuėmimo), renginių keliuose organizavimo nesuderinimas su policija ir kitomis teisės aktuose nurodytomis institucijomis
+3\. Automobilių kelių tiesimo, kelio statinių, sankryžų statybos (įrengimo), apželdinimo projektų, techninių eismo reguliavimo priemonių įrengimo (nuėmimo), renginių keliuose organizavimo nesuderinimas su policija ir kitomis teisės aktuose nurodytomis institucijomis
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-3\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 0,6 tonos, bet ne daugiau kaip 2 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 1 tona, bet ne daugiau kaip 4 tonomis, važiavimas be leidimo kelių transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus,
+4\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 0,6 tonos, bet ne daugiau kaip 2 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 1 tona, bet ne daugiau kaip 4 tonomis, važiavimas be leidimo kelių transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus,
 
 užtraukia baudą vairuotojams nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo trijų šimtų iki penkių šimtų septyniasdešimt eurų.
 
-4\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 2 tonomis, bet ne daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 4 tonomis, bet ne daugiau kaip 8 tonomis
+5\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 2 tonomis, bet ne daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 4 tonomis, bet ne daugiau kaip 8 tonomis
 
 užtraukia baudą vairuotojams nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo šešių šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
-5\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis
+6\. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis
 
 užtraukia baudą vairuotojams nuo devynių šimtų iki dviejų tūkstančių eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno tūkstančio vieno šimto penkiasdešimt iki trijų tūkstančių penkių šimtų eurų.
 
-6\. Darbų automobilių keliuose ir prie jų vykdymas, prekybos, maitinimo ir kitokių aptarnavimo punktų įrengimas, kelių tiesimas ar statinių pakelėse statymas, šūkių, plakatų, reklaminių skydų ir kitų priemonių kelio apsaugos zonoje įrengimas nesuderinus su teisės aktuose nurodytomis institucijomis
+7\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+8\. Darbų automobilių keliuose ir prie jų vykdymas, prekybos, maitinimo ir kitokių aptarnavimo punktų įrengimas, kelių tiesimas ar statinių pakelėse statymas, šūkių, plakatų, reklaminių skydų ir kitų priemonių kelio apsaugos zonoje įrengimas nesuderinus su teisės aktuose nurodytomis institucijomis
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-7\. Automobilių kelių, kelio statinių, įrenginių ar kelių eismo techninių reguliavimo priemonių sugadinimas, važiavimas asfalto danga vikšriniu transportu, kliūčių eismui keliuose sudarymas, kelio dangos užteršimas
+9\. Automobilių kelių, kelio statinių, įrenginių ar kelių eismo techninių reguliavimo priemonių sugadinimas, važiavimas asfalto danga vikšriniu transportu, kliūčių eismui keliuose sudarymas, kelio dangos užteršimas
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-8\. Krovinių pateikimas ar pakrovimas vežti kelių transporto priemonėmis (jų junginiais), kai viršijama leidžiama ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji masė arba viršijami leidžiami kelių transporto priemonės (jų junginių) matmenys, neįsitikinus, kad gautas kelio savininko ar jo įgalioto asmens leidimas vežti tokius krovinius,
+10\. Krovinių pateikimas ar pakrovimas vežti kelių transporto priemonėmis (jų junginiais), kai viršijama leidžiama ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji masė arba viršijami leidžiami kelių transporto priemonės (jų junginių) matmenys, neįsitikinus, kad gautas kelio savininko ar jo įgalioto asmens leidimas vežti tokius krovinius,
 
 užtraukia baudą vežti krovinius pateikusiems ir juos pakrovusiems asmenims, juridinių asmenų vadovams ar kitiems atsakingiems asmenims (siuntėjams) nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997*
 
 #### 460 straipsnis. Automobilių kelio juostos ir kelio apsaugos zonos priežiūros taisyklių ir naudojimo sąlygų pažeidimas
 
@@ -10084,7 +10098,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
-36\) Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos – dėl šio kodekso 459 straipsnio 1, 2, 3, 4 dalyse, 460, 461, 462, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+36\) Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos – dėl šio kodekso 459 straipsnio 2, 3, 4, 5 dalyse, 460, 461, 462, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997*
 
 37\) Lietuvos geologijos tarnybos prie Aplinkos ministerijos – dėl šio kodekso 111, 239, 253, 262, 263 straipsniuose, 265 straipsnio 5 dalyje, 311, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10107,6 +10125,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
+
+*Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997*
+
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
 
 41\) neteko galios nuo 2017-12-01;
 
@@ -10217,6 +10239,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
+
+*Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997*
+
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
 
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12440,7 +12466,13 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-87\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+87\. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB (OL 2014 L 127, p. 134).
+
+*Papildyta punktu:*
+
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+88\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
 
 *Punkto numeracijos pakeitimas:*
 
@@ -12448,7 +12480,9 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-88\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 511/2014 dėl Nagojos protokolo dėl galimybės naudotis genetiniais ištekliais ir sąžiningo bei teisingo naudos, gaunamos juos naudojant, pasidalijimo naudotojams skirtų atitikties priemonių Sąjungoje (OL 2014 L 150, p. 59).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+89\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 511/2014 dėl Nagojos protokolo dėl galimybės naudotis genetiniais ištekliais ir sąžiningo bei teisingo naudos, gaunamos juos naudojant, pasidalijimo naudotojams skirtų atitikties priemonių Sąjungoje (OL 2014 L 150, p. 59).
 
 *Papildyta straipsnio dalimi:*
 
@@ -12458,7 +12492,9 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-89\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+90\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
 
 *Punkto numeracijos pakeitimas:*
 
@@ -12466,7 +12502,9 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-90\. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+91\. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1).
 
 *Papildyta punktu:*
 
@@ -12478,13 +12516,19 @@ priedas
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-91\. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+92\. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73).
 
 *Papildyta punktu:*
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
 
-92\. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35).
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+93\. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35).
 
 *Papildyta punktu:*
 
@@ -12496,7 +12540,9 @@ priedas
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
 
-93\. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+94\. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26).
 
 *Papildyta punktu:*
 
@@ -12508,7 +12554,9 @@ priedas
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
 
-94\. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+95\. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55).
 
 *Papildyta punktu:*
 
@@ -12520,7 +12568,9 @@ priedas
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
 
-95\. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+96\. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
 
 *Punkto numeracijos pakeitimas:*
 
@@ -12532,7 +12582,9 @@ priedas
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
 
-96\. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
+
+97\. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1).
 
 *Papildyta punktu:*
 
@@ -12541,6 +12593,8 @@ priedas
 *Punkto numeracijos pakeitimas:*
 
 *Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476*
+
+*Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752*
 
 *Priedo pakeitimai:*
 
@@ -12907,3 +12961,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 147 straipsnio ir priedo pakeitimo įstatymas
+
+46\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straipsnių ir priedo pakeitimo įstatymas
+
+47\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 356, 459, 589 straipsnių ir priedo pakeitimo įstatymo Nr. XIII-694 3 ir 4 straipsnių pakeitimo įstatymas
