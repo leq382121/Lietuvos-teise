@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2018-06-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RZJJiplAwO"
+redakcija_nuo: "2018-06-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/znFIKkvJCo"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2910,69 +2910,33 @@ užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki penkių t�
 
 užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
 
-#### 200 straipsnis. Finansinių priemonių rinkas reglamentuojančių teisės aktų pažeidimas
+200 straipsnis. Neteko galios nuo 2018-06-15
 
-1\. Finansinių priemonių rinkas arba finansų maklerių, viešosios apyvartos tarpininkų ar jų asociacijų, reguliuojamos rinkos operatorių, centrinių vertybinių popierių depozitoriumų ar jų dalyvių veiklą reglamentuojančių teisės aktų pažeidimas
+*Straipsnio naikinimas:*
 
-užtraukia baudą nuo dviejų šimtų iki trijų tūkstančių eurų.
+*Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
-*Straipsnio dalies pakeitimai:*
+201 straipsnis. Neteko galios nuo 2018-06-15
 
-*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
+*Straipsnio naikinimas:*
 
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+*Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+202 straipsnis. Neteko galios nuo 2018-06-15
 
-3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padaręs materialinės žalos,
+*Straipsnio naikinimas:*
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
-
-4\. Neteko galios.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
-
-5\. Neteko galios.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-464, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10821*
-
-#### 201 straipsnis. Pensijų asociacijų, pensijų fondų valdymo įmonių, pensijų turto depozitoriumų veiklos tvarkos pažeidimas
-
-1\. Pensijų asociacijų, pensijų fondų valdymo įmonių steigimą, valdymą, veiklą, reorganizavimą, pertvarkymą ar likvidavimą reglamentuojančių teisės aktų pažeidimas
-
-užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
-
-2\. Pensijų turto depozitoriumų veiklą reglamentuojančių teisės aktų pažeidimas
-
-užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
-
-3\. Šio straipsnio 1 ar 2 dalyje numatytas administracinis nusižengimas, kuriuo buvo padaryta žala pensijų fondo dalyviams,
-
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
-
-#### 202 straipsnis. Investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių, investicinių akcinių bendrovių ar depozitoriumų veiklos tvarkos pažeidimas
-
-1\. Investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių steigimą, reorganizavimą, likvidavimą, valdymą ar veiklą reglamentuojančių Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo, Lietuvos Respublikos akcinių bendrovių įstatymo ar kitų teisės aktų pažeidimas arba Reglamento (ES) Nr. 345/2013 ir Reglamento (ES) Nr. 346/2013 nuostatų pažeidimas
-
-užtraukia baudą investicinių kintamojo kapitalo bendrovių, uždarojo tipo investicinių bendrovių, kolektyvinio investavimo subjekto valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių vadovams, likvidatoriams ir kitiems tiesiogiai už teisės aktuose nustatytų reikalavimų vykdymą atsakingiems asmenims nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
-
-2\. Depozitoriumų veiklą reglamentuojančių Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo ar kitų teisės aktų pažeidimas arba turto saugotojų veiklą reglamentuojančių Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo ar kitų teisės aktų pažeidimas
-
-užtraukia baudą depozitoriumų arba turto saugotojų vadovams nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+*Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2776, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26977*
 
-#### 203 straipsnis. Draudimo ar perdraudimo veiklą, draudimo ar perdraudimo tarpininkavimo veiklą reglamentuojančių teisės aktų pažeidimas
+203 straipsnis. Neteko galios nuo 2018-06-15
 
-Draudimo ar perdraudimo veiklą, draudimo ar perdraudimo tarpininkavimo veiklą reglamentuojančių teisės aktų pažeidimas
+*Straipsnio naikinimas:*
 
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+*Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
 #### 204 straipsnis. Nesiėmimas priemonių spręsti akcinių bendrovių ir uždarųjų akcinių bendrovių įstatinio kapitalo sumažinimo klausimą
 
@@ -10078,13 +10042,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 6\) prokurorai – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 200, 201, 202, 203, 221, 222, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 221, 222, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
 
 *Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481*
+
+*Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
 8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 124 straipsnyje, 146, 477, 505, 507 straipsniuose, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 
@@ -13091,3 +13057,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 50 ir 589 straipsnių pakeitimo įstatymas
+
+50\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 200, 201, 202, 203 straipsnių pripažinimo netekusiais galios ir 589 straipsnio pakeitimo įstatymas
