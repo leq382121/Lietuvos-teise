@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2018-07-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/aXrAHokDla"
+redakcija_nuo: "2018-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/QZMcZkCqeK"
 ---
 
 # Darbo kodeksas
@@ -2258,11 +2258,23 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 3\. Darbdavys turi teisę duoti nurodymą padaryti išskaitą ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią darbdavys sužinojo ar galėjo sužinoti apie atsiradusį išskaitos pagrindą.
 
-4\. Išskaitų iš darbo užmokesčio, neviršijančio Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, dydis negali viršyti dvidešimt procentų išmokėtino darbo užmokesčio, o išieškant išlaikymą periodinėmis išmokomis žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą ir žalos, padarytos nusikalstama veika, atlyginimą, – iki penkiasdešimt procentų darbuotojui išmokėtino darbo užmokesčio.
+4\. Išskaitų iš darbo užmokesčio dydžiai nustatyti Lietuvos Respublikos civilinio proceso kodekse.
 
-5\. Darant išskaitas iš darbo užmokesčio, neviršijančio Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, pagal kelis vykdomuosius dokumentus, darbuotojui turi būti paliekama penkiasdešimt procentų išmokėtino darbo užmokesčio.
+*Straipsnio dalies pakeitimai:*
 
-6\. Iš darbo užmokesčio dalies, viršijančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, išskaitoma septyniasdešimt procentų išmokėtino darbo užmokesčio, jeigu darbo ginčą nagrinėjęs organas nenustato mažesnio išskaitų dydžio.
+*Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776*
+
+5\. Neteko galios nuo 2018-09-01.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776*
+
+6\. Neteko galios nuo 2018-09-01.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776*
 
 ### X SKYRIUS – ŽALOS ATLYGINIMAS
 
@@ -3959,3 +3971,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
 
 Lietuvos Respublikos darbo kodekso 27 straipsnio pakeitimo įstatymas
+
+8\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
+
+Lietuvos Respublikos darbo kodekso 150 straipsnio pakeitimo įstatymas
