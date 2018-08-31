@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2018-07-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tXHGhgwrPG"
+redakcija_nuo: "2018-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ytbaHIrUEd"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10242,7 +10242,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
-33\) Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
+33\) Informacinės visuomenės plėtros komiteto prie Ūkio ministerijos – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186*
 
 34\) Karo policijos – dėl šio kodekso 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 8, 9 dalyse, 506 straipsnio 3, 4 dalyse, 508, 556, 557, 557¹, 562 straipsniuose numatytų administracinių nusižengimų;
 
@@ -13335,3 +13339,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1463, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11778
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 90 straipsnio pakeitimo įstatymas
+
+56\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
