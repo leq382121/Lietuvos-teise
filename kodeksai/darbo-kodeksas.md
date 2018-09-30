@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2018-09-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/QZMcZkCqeK"
+redakcija_nuo: "2018-10-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/mzkFmxqwbw"
 ---
 
 # Darbo kodeksas
@@ -984,17 +984,21 @@ Darbo sutartis pasibaigia:
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
 
-4\. Apie numatomą grupės darbuotojų atleidimą darbdavys privalo raštu pranešti teritorinei darbo biržai Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka, pasibaigus konsultacijoms su darbo taryba ar darbdavio lygmeniu veikiančia profesine sąjunga, ir ne vėliau kaip prieš trisdešimt dienų iki darbo santykių pasibaigimo, bet ne vėliau kaip įspėdamas grupės darbuotojus apie jų atleidimą. Darbdavys tokio pranešimo kopiją pateikia darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai, kuri gali pateikti teritorinei darbo biržai savo pastabas ir pasiūlymus.
+4\. Apie numatomą grupės darbuotojų atleidimą darbdavys privalo raštu pranešti Užimtumo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka, pasibaigus konsultacijoms su darbo taryba ar darbdavio lygmeniu veikiančia profesine sąjunga, ir ne vėliau kaip prieš trisdešimt dienų iki darbo santykių pasibaigimo, bet ne vėliau kaip įspėdamas grupės darbuotojus apie jų atleidimą. Darbdavys tokio pranešimo kopiją pateikia darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai, kuri gali pateikti Užimtumo tarnybai savo pastabas ir pasiūlymus.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
 
-5\. Darbo sutartis negali būti nutraukta pažeidus pareigą pranešti teritorinei darbo biržai apie numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su darbo taryba ar su darbdavio lygmeniu veikiančia profesine sąjunga.
+*Nr. XIII-946, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21636*
+
+5\. Darbo sutartis negali būti nutraukta pažeidus pareigą pranešti Užimtumo tarnybai apie numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su darbo taryba ar su darbdavio lygmeniu veikiančia profesine sąjunga.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XIII-946, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21636*
 
 ##### 64 straipsnis. Įspėjimas nutraukti darbo sutartį
 
