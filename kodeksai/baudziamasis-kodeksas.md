@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2018-07-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/HFxXiOzfPz"
+redakcija_nuo: "2018-10-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/wZXqTUOQzz"
 ---
 
 # Baudžiamasis kodeksas
@@ -878,7 +878,11 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 2\) atlyginti nusikalstama veika padarytą turtinę žalą ar jos dalį arba tokią žalą pašalinti savo darbu;
 
-3\) pradėti dirbti arba užsiregistruoti darbo biržoje, mokytis;
+3\) pradėti dirbti arba užsiregistruoti Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, mokytis;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692*
 
 4\) gydytis nuo alkoholizmo, narkomanijos, toksikomanijos ar venerinės ligos, kai nuteistasis sutinka;
 
@@ -7007,3 +7011,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1462, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11777
 
 Lietuvos Respublikos baudžiamojo kodekso 172 straipsnio pakeitimo įstatymas
+
+27\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692
+
+Lietuvos Respublikos baudžiamojo kodekso 48 straipsnio pakeitimo įstatymas
