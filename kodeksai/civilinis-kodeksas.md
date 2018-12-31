@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2018-07-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/DOnDhXquoO"
+redakcija_nuo: "2019-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ksmlRbJnWi"
 ---
 
 # Civilinis kodeksas
@@ -2592,7 +2592,11 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
 
-4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino.
+4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1185, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09076*
 
 5\. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
 
@@ -2704,7 +2708,11 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 1\) fiziniams asmenims, kurių duomenys įrašyti registre, – registre kaupiami duomenys apie šiuos asmenis;
 
-2\) teisėtvarkos institucijoms, teismams ir mokesčių administravimo institucijoms – kiek jų reikia tiesioginėms funkcijoms atlikti;
+2\) valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-850, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20333*
 
 3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal duomenų teikimo sutartis.
 
