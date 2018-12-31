@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2018-10-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/mzkFmxqwbw"
+redakcija_nuo: "2019-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/QgoUIWgamd"
 ---
 
 # Darbo kodeksas
@@ -462,7 +462,11 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 2\. Darbuotojas privalo saugoti darbdavio turtinius ir neturtinius interesus. Darbuotojas privalo naudotis darbdavio perduotomis darbo priemonėmis, turtu, taip pat lėšomis pagal jų tikslinę paskirtį ir taupiai. Darbdavys turi teisę nustatyti jam priklausančių ir darbuotojui perduotų darbo priemonių, turto ar lėšų naudojimo tvarką, nepažeisdamas šiame kodekse ir kituose įstatymuose nustatytų darbuotojo teisių.
 
-3\. Pranešimas valstybės ar savivaldybės institucijai ar įstaigai apie darbdavio daromus darbo ar kitų teisės normų pažeidimus ar kreipimasis į darbo ginčus nagrinėjantį organą dėl pažeistų teisių ar interesų gynybos negali būti laikomi veiksmais, pažeidžiančiais darbdavio turtinius ar neturtinius interesus. Darbuotojas negali būti dėl to persekiojamas ir jam negali būti taikomos jo interesus pažeidžiančios priemonės.
+3\. Pranešimas valstybės ar savivaldybės institucijai ar įstaigai apie darbdavio daromus darbo ar kitų teisės normų pažeidimus, taip pat informacijos apie pažeidimą pateikimas Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka ar kreipimasis į darbo ginčus nagrinėjantį organą dėl pažeistų teisių ar interesų gynybos negali būti laikomi veiksmais, pažeidžiančiais darbdavio turtinius ar neturtinius interesus. Darbuotojas negali būti dėl to persekiojamas ir jam negali būti taikomos jo interesus pažeidžiančios priemonės.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878*
 
 4\. Darbuotojo naujovės darbdavio veiklai gerinti ir priemonės turtui ar lėšoms efektyviai panaudoti turi būti skatinamos. Atlyginimo už jas sąlygos ir skatinimo formos nustatomos darbo teisės normose ir darbo sutarties šalių susitarimuose. Darbuotojo sukurti autorių teisių objektai turi būti saugomi ir už jų panaudojimą atlyginama įstatymuose ir susitarimuose nustatyta tvarka.
 
@@ -922,7 +926,11 @@ Darbo sutartis pasibaigia:
 
 1\. Darbdavys, išskyrus valstybės ar savivaldybės institucijas ar įstaigas, išlaikomas iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmones, viešąsias įstaigas, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banką, turi teisę nutraukti darbo sutartį su darbuotoju dėl priežasčių, nenurodytų šio kodekso 57 straipsnio 1 dalyje, įspėjęs prieš tris darbo dienas ir sumokėjęs ne mažesnę kaip šešių mėnesių jo vidutinio darbo užmokesčio dydžio išeitinę išmoką.
 
-2\. Darbo sutartis šio straipsnio pagrindu negali būti nutraukta dėl dalyvavimo byloje prieš darbdavį, kaltinamą teisės pažeidimais, taip pat dėl kreipimosi į administracinius organus dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, pilietybės ir socialinės padėties, tikėjimo, santuokinės ir šeiminės padėties, ketinimo turėti vaiką (vaikų), įsitikinimų ar pažiūrų, priklausomybės politinėms partijoms ir asociacijoms, amžiaus ar kitų diskriminacinių motyvų.
+2\. Darbo sutartis šio straipsnio pagrindu negali būti nutraukta dėl informacijos apie pažeidimą pateikimo Pranešėjų apsaugos įstatymo nustatyta tvarka, dalyvavimo byloje prieš darbdavį, kaltinamą teisės pažeidimais, taip pat dėl kreipimosi į administracinius organus dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, pilietybės ir socialinės padėties, tikėjimo, santuokinės ir šeiminės padėties, ketinimo turėti vaiką (vaikų), įsitikinimų ar pažiūrų, priklausomybės politinėms partijoms ir asociacijoms, amžiaus ar kitų diskriminacinių motyvų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878*
 
 ##### 60 straipsnis. Darbo sutarties nutraukimas nesant darbo sutarties šalių valios
 
@@ -3983,3 +3991,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
 
 Lietuvos Respublikos darbo kodekso 150 straipsnio pakeitimo įstatymas
+
+9\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
+
+Lietuvos Respublikos darbo kodekso 31 ir 59 straipsnių pakeitimo įstatymas
