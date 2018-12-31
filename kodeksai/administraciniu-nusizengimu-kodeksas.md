@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2018-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/yKQsyNkCBU"
+redakcija_nuo: "2019-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/dNzZVUZIMP"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -266,11 +266,15 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 
 3\. Jeigu konkrečiame straipsnyje nenustatyta kitaip, šiame kodekse neblaiviu laikomas asmuo, kuriam nustatytas 0,41 ir daugiau promilių neblaivumas.
 
-### IV SKYRIUS – APLINKYBĖS, KAI ASMUO NETRAUKIAMAS ADMINISTRACINĖN ATSAKOMYBĖN
+### IV SKYRIUS – APLINKYBĖS, KAI ASMUO NETRAUKIAMAS ADMINISTRACINĖN ATSAKOMYBĖN ARBA ATLEIDŽIAMAS NUO ADMINISTRACINĖS ATSAKOMYBĖS
+
+*Pakeistas skyriaus pavadinimas:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
 #### 12 straipsnis. Mažai pavojinga veika
 
-1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 8 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 
 *Straipsnio dalies pakeitimai:*
 
@@ -279,6 +283,8 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 *Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655*
 
 *Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 2\. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.
 
@@ -337,6 +343,22 @@ Asmuo, kuris atlikdamas teisėtą mokslinį eksperimentą padarė žalos, pagal 
 #### 21 straipsnis. Vadovavimasis klaidinga oficialia konsultacija
 
 Pagal šį kodeksą neatsako asmuo, kuris šiame kodekse numatyto administracinio nusižengimo požymių turinčią veiką padarė vadovaudamasis klaidinga oficialia konsultacija. Klaidingos oficialios konsultacijos apibrėžtis ir sąlygos, kuriomis klaidinga oficialia konsultacija vadovavęsis asmuo atleidžiamas nuo atsakomybės, nustatomos kituose įstatymuose.
+
+#### 21¹ straipsnis. Pranešėjo atleidimas nuo administracinės atsakomybės
+
+Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinės atsakomybės, jeigu:
+
+1\) jis pripažintas pranešėju pagal Lietuvos Respublikos pranešėjų apsaugos įstatymą ir
+
+2\) prisipažino padaręs administracinį nusižengimą, ir
+
+3\) aktyviai padėjo išaiškinti kito asmens padarytą administracinį nusižengimą, ir
+
+4\) administracinis nusižengimas, kurį asmuo padėjo išaiškinti, dėl savo pobūdžio laikytinas pavojingesniu už jo paties padarytą administracinį nusižengimą.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
 ### V SKYRIUS – ADMINISTRACINĖS NUOBAUDOS IR ADMINISTRACINIO POVEIKIO PRIEMONĖS
 
@@ -420,7 +442,7 @@ Pagal šį kodeksą neatsako asmuo, kuris šiame kodekse numatyto administracini
 
 3\. Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio kodekso specialiosios dalies straipsnyje, nustatančiame administracinę atsakomybę už asmens padarytą veiką. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
-4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 211 straipsnio 2 dalyje, 213 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 215 straipsnio 3, 4 dalyse, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
 
 1\) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
 
@@ -445,6 +467,8 @@ Pagal šį kodeksą neatsako asmuo, kuris šiame kodekse numatyto administracini
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 30 straipsnis. Įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose)
 
@@ -476,29 +500,29 @@ Pagal šį kodeksą neatsako asmuo, kuris šiame kodekse numatyto administracini
 
 4\. Vienu nutarimu ar vienu administraciniu nurodymu administracinėn atsakomybėn traukiamam asmeniui gali būti skiriama tik viena administracinė nuobauda ir viena arba kelios administracinio poveikio priemonės.
 
-#### 33 straipsnis. Administracinės nuobaudos ir administracinio poveikio priemonės – specialiosios teisės atėmimo skyrimas surašant administracinį nurodymą
+#### 33 straipsnis. Administracinių nuobaudų ir administracinio poveikio priemonių skyrimas surašant administracinį nurodymą
 
 1\. Šio kodekso 610 straipsnyje nustatytais pagrindais surašant administracinį nurodymą:
 
-1\) asmeniui nustatomas baudos dydis lygus pusei minimalios baudos, už asmens padarytą administracinį nusižengimą nustatytos šio kodekso specialiosios dalies straipsnio sankcijoje;
+1\) asmeniui siūloma sumokėti pusę minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą;
 
 2\) viešieji darbai asmeniui nesiūlomi;
 
-3\) asmeniui nustatomas specialiosios teisės atėmimo terminas lygus minimaliam specialiosios teisės atėmimo terminui, nustatytam už asmens padarytą administracinį nusižengimą, jei straipsnyje už šį nusižengimą numatytas privalomas asmeniui suteiktos specialiosios teisės atėmimas. Surašant administracinį nurodymą už administracinius nusižengimus, už kuriuos pagal šio kodekso specialiąją dalį gali būti skiriamas asmeniui suteiktos specialiosios teisės atėmimas, ši administracinio poveikio priemonė nesiūloma;
+3\) asmeniui nustatomas specialiosios teisės atėmimo terminas lygus minimaliam specialiosios teisės atėmimo terminui, nustatytam už asmens padarytą administracinį nusižengimą, jei straipsnyje už šį nusižengimą numatytas privalomas asmeniui suteiktos specialiosios teisės atėmimas. Surašant administracinį nurodymą (išskyrus šio kodekso nustatytus atvejus, kai administracinis nurodymas surašomas už asmens padarytą pakartotinį administracinį nusižengimą) už administracinius nusižengimus, už kuriuos pagal šio kodekso specialiąją dalį gali būti skiriamas asmeniui suteiktos specialiosios teisės atėmimas, ši administracinio poveikio priemonė nesiūloma. Jei asmuo padarė pakartotinį administracinį nusižengimą, už kurį gali būti surašomas administracinis nurodymas ir pagal šio kodekso specialiąją dalį gali būti skiriamas asmeniui suteiktos specialiosios teisės atėmimas, į administracinio nusižengimo protokolą gali būti įrašomas pasiūlymas sutikti su specialiosios teisės atėmimu minimaliam specialiosios teisės atėmimo terminui;
 
-4\) kai administracinio nusižengimo byloje iš asmens paimtas turtas, kuris išimtas iš civilinės apyvartos, asmeniui nustatyta tvarka įvykdžius administracinį nurodymą, pareigūnas, surašęs administracinį nurodymą, ar kitas šios institucijos įgaliotas pareigūnas priima nutarimą konfiskuoti turtą;
+4\) kai administracinio nusižengimo byloje iš asmens paimtas turtas, kuris išimtas iš civilinės apyvartos, arba turtas, kurio civilinė apyvarta yra apribota, o asmuo traukiamas administracinėn atsakomybėn už neteisėtą šio turto valdymą, naudojimą ar disponavimą juo, taip pat kai administracinio nusižengimo byloje iš asmens paimtas turtas, kurį pagal šio kodekso specialiosios dalies straipsnį privaloma konfiskuoti (išskyrus šio kodekso 610 straipsnio 2 dalies 5 punkte nurodytą atvejį), asmeniui nustatyta tvarka įvykdžius administracinį nurodymą, pareigūnas, surašęs administracinį nurodymą, ar kitas šios institucijos įgaliotas pareigūnas per dešimt darbo dienų nuo šio kodekso 610 straipsnio 1 dalyje nurodytų terminų pabaigos priima nutarimą konfiskuoti turtą;
 
 5\) įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose) nesiūlomas;
 
 6\) draudimas lankytis viešosiose vietose vykstančiuose renginiuose nesiūlomas.
 
-2\. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, nustatytos šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui.
-
-3\. Jeigu nėra šio kodekso 610 straipsnio 2 dalyje nurodytų sąlygų ir atsakomybę už asmens padarytą administracinį nusižengimą nustatančiame šio kodekso specialiosios dalies straipsnyje ar straipsnio dalyje kaip viena iš administracinių nuobaudų numatytas įspėjimas, baigus administracinio nusižengimo tyrimą, asmeniui skiriamas tik įspėjimas.
+2\. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, o kai asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – didžiausia minimali bauda, nustatyta šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 34 straipsnis. Administracinės nuobaudos ir administracinio poveikio priemonės rūšies parinkimas, baudos dydžio ir asmeniui suteiktos specialiosios teisės atėmimo trukmės nustatymas išnagrinėjus administracinio nusižengimo bylą
 
@@ -590,7 +614,11 @@ Pagal šį kodeksą neatsako asmuo, kuris šiame kodekse numatyto administracini
 
 1\. Kai vienas asmuo padaro du arba daugiau administracinių nusižengimų, administracinė nuobauda skiriama už kiekvieną administracinį nusižengimą atskirai.
 
-2\. Kai asmens vienu metu padaryta veika ar veikos užtraukia administracinę atsakomybę pagal kelis šio kodekso straipsnius ar straipsnio dalis, taip pat kai asmuo padarė du ar daugiau su eismo sauga susijusių administracinių nusižengimų, kurių duomenys gauti iš stacionarių ar mobiliųjų teisės pažeidimų fiksavimo sistemų, galutinė nuobauda šiam asmeniui skiriama pagal sankciją, nustatytą už sunkesnįjį iš padarytų administracinių nusižengimų. Šiuo atveju asmeniui kartu su administracine nuobauda gali būti paskirta ir administracinio poveikio priemonė (priemonės), numatyta (numatytos) už bet kurį padarytą administracinį nusižengimą.
+2\. Kai asmens vienu metu padaryta veika ar veikos užtraukia administracinę atsakomybę pagal kelis šio kodekso straipsnius ar straipsnio dalis, galutinė nuobauda šiam asmeniui skiriama pagal sankciją, nustatytą už sunkesnįjį iš padarytų administracinių nusižengimų. Šiuo atveju asmeniui kartu su administracine nuobauda šiame skyriuje nustatyta tvarka skiriamos viena arba kelios administracinio poveikio priemonės, numatytos už bet kurį iš padarytų administracinių nusižengimų. Jei už padarytus administracinius nusižengimus šio kodekso straipsniuose ar straipsnio dalyse numatytos tos pačios rūšies administracinio poveikio priemonės, skiriama administracinio poveikio priemonė už sunkesnįjį iš padarytų administracinių nusižengimų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 39 straipsnis. Administracinių nuobaudų skyrimo terminai
 
@@ -713,6 +741,24 @@ užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dvi
 5\. Biocidinių produktų tiekimo rinkai reikalavimų, nustatytų Reglamente (ES) Nr. 528/2012, pažeidimas, išskyrus šio kodekso 308 straipsnio 10 dalyje numatytus pažeidimus,
 
 užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+#### 49¹ straipsnis. Apdorotų gaminių pateikimo rinkai ir informacijos apie juos teikimo reikalavimų pažeidimas
+
+1\. Reglamente (ES) Nr. 528/2012 nustatytų apdorotų gaminių pateikimo rinkai reikalavimų pažeidimas, išskyrus šio straipsnio 3 dalyje nurodytus pažeidimus,
+
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+
+2\. Apdorotų gaminių tiekėjams Reglamente (ES) Nr. 528/2012 nustatytų reikalavimų teikti vartotojams informaciją apie apdorotų gaminių biocidinį apdorojimą pažeidimas
+
+užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+
+3\. Reglamente (ES) Nr. 528/2012 nustatytų apdorotų gaminių ženklinimo reikalavimų pažeidimas
+
+užtraukia baudą nuo trijų šimtų keturiasdešimt iki keturių tūkstančių trijų šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 50 straipsnis. Kosmetikos gaminių gamybos ir tiekimo rinkai reikalavimų pažeidimas
 
@@ -968,29 +1014,35 @@ užtraukia baudą nuo trijų tūkstančių penkių šimtų iki keturių tūkstan
 
 1\. Vaistų (vaistinių preparatų) įvežimo iš trečiųjų šalių į Lietuvos Respubliką ir išvežimo iš jos į trečiąsias šalis, gavimo iš trečiųjų šalių ar siuntimo paštu į trečiąsias šalis fizinio asmens individualioms reikmėms taisyklių pažeidimas, kai neteisėtai iš trečiųjų šalių įvežamų į Lietuvos Respubliką, išvežamų iš jos į trečiąsias šalis, gaunamų iš trečiųjų šalių ar siunčiamų paštu į trečiąsias šalis vaistų (vaistinių preparatų) vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia įspėjimą arba baudą nuo trisdešimt iki dviejų šimtų eurų.
 
 2\. Vaistų (vaistinių preparatų) įvežimo iš trečiųjų šalių į Lietuvos Respubliką ir išvežimo iš jos į trečiąsias šalis, gavimo iš trečiųjų šalių ar siuntimo paštu į trečiąsias šalis fizinio asmens individualioms reikmėms taisyklių pažeidimas, kai neteisėtai įvežamų iš trečiųjų šalių į Lietuvos Respubliką, išvežamų iš jos į trečiąsias šalis, gaunamų iš trečiųjų šalių ar siunčiamų paštu į trečiąsias šalis vaistų (vaistinių preparatų) vertė viršija penkis, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
 
 3\. Vaistų (vaistinių preparatų) įvežimo iš trečiųjų šalių į Lietuvos Respubliką ir išvežimo iš jos į trečiąsias šalis, gavimo iš trečiųjų šalių ar siuntimo paštu į trečiąsias šalis fizinio asmens individualioms reikmėms taisyklių pažeidimas, kai neteisėtai įvežamų iš trečiųjų šalių į Lietuvos Respubliką, išvežamų iš jos į trečiąsias šalis, gaunamų iš trečiųjų šalių ar siunčiamų paštu į trečiąsias šalis vaistų (vaistinių preparatų) vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų šešiasdešimt eurų.
 
 4\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
 
 5\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų šešiasdešimt eurų.
 
 6\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo aštuonių šimtų šešiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 7\. Už šio straipsnio 1, 2, 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) konfiskavimas.
+
+8\. Šiame straipsnyje nurodytų prekių vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 65 straipsnis. Europos Sąjungos reglamentų ar sprendimų, reglamentuojančių su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) susijusią veiklą, pažeidimas
 
@@ -1560,9 +1612,19 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto 
 
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
+#### 98¹ straipsnis. Darbo ar paslaugų sutarties sudarymas su asmenimis, neatitinkančiais Lietuvos Respublikos sporto įstatyme nustatytų reikalavimų
+
+Teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi ar teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialisto paslaugas neturinčio asmens priėmimas į darbą ar paslaugų sutarties su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu, sudarymas arba darbo sutarties nenutraukimas su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi, ar paslaugų sutarties nenutraukimas su asmeniu, neturinčiu teisės teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialisto paslaugas,
+
+užtraukia įspėjimą arba baudą darbdaviui fiziniam asmeniui nuo vieno šimto keturiasdešimt penkių iki septynių šimtų eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
+
 #### 99 straipsnis. Darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
 
-1\. Lietuvos Respublikos darbo kodekse, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
+1\. Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
 
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
@@ -1570,9 +1632,13 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto 
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-3\. Tyčinis Lietuvos Respublikos darbo kodekse, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas arba darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų, neįtrauktų į buhalterinės apskaitos dokumentus, išmokėjimas
+3\. Tyčinis Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas arba darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų, neįtrauktų į buhalterinės apskaitos dokumentus, išmokėjimas
 
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 100 straipsnis. Darbo laiko apskaitos pažeidimas
 
@@ -1704,13 +1770,21 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 Vagystė, sukčiavimas, turto pasisavinimas ar iššvaistymas, kai pagrobto, įgyto, pasisavinto ar iššvaistyto turto vertė neviršija trijų bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo devyniasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo devyniasdešimt iki keturių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 109 straipsnis. Smulkaus neteisėtu būdu gauto turto įgijimas ar realizavimas
 
 Žinomai neteisėtu būdu gauto turto, kurio vertė neviršija trijų bazinių bausmių ir nuobaudų dydžių, įgijimas ar realizavimas
 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą nuo šešiasdešimt iki dviejų šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 110 straipsnis. Savavališkas žemės, miško, vandens telkinių užėmimas, naudojimas ir vengimas juos grąžinti
 
@@ -1900,19 +1974,23 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 1\. Vertimasis komercine, ūkine, finansine ar profesine veikla neturint licencijos (leidimo) veiklai, kuriai reikalinga licencija (leidimas), ar kitokiu neteisėtu būdu
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio keturiasdešimt iki dviejų tūkstančių keturių šimtų eurų.
 
 3\. Vertimasis komercine, ūkine, finansine ar profesine veikla neturint licencijos (leidimo) veiklai, kuriai reikalinga licencija (leidimas), ar kitokiu neteisėtu būdu, panaudojant šiai veiklai nelegaliai dirbančių asmenų darbą,
 
-užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo dviejų tūkstančių dviejų šimtų iki keturių tūkstančių eurų.
 
 4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti pagamintos produkcijos, įrankių, žaliavos ir iš šios veiklos gautų pajamų konfiskavimą.
 
 5\. Pagal šį straipsnį atsako asmenys, kurie verčiasi komercine, ūkine, finansine ar profesine veikla neturėdami licencijos (leidimo) veiklai, kuriai reikalinga Lietuvos Respublikos įstatymuose numatyta licencija (leidimas), ar kitokiu neteisėtu būdu ir kurių gaunamos pajamos (įplaukos) ar paskutinių dvylikos mėnesių pajamos (įplaukos), ar nustatyta tvarka neįtrauktų į apskaitą prekių vertė neviršija penkių šimtų bazinių bausmių ir nuobaudų dydžių.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 128 straipsnis. Kelionių organizavimo paslaugų teikimo reikalavimų pažeidimas
 
@@ -2002,7 +2080,11 @@ užtraukia baudą apsaugos darbuotojams ar apsaugos darbuotojams stažuotojams n
 
 Alkoholio produktų ir tabako gaminių ar susijusių gaminių gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas
 
-užtraukia baudą įmonių vadovams ir (ar) jų vyriausiesiems finansininkams nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+užtraukia baudą įmonių vadovams ir (ar) jų vyriausiesiems finansininkams nuo dviejų šimtų iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 133 straipsnis. Tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimas
 
@@ -2082,17 +2164,21 @@ užtraukia įspėjimą gyvenamųjų ar kitų patalpų savininkams.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
 
 3\. Naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio penkių šimtų šešiasdešimt eurų.
 
 5\. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 138 straipsnis. Cigarų ir (ar) pypkių klubų įrengimo tvarkos aprašo pažeidimas
 
@@ -2170,9 +2256,13 @@ užtraukia baudą asmenims nuo trisdešimt iki penkių šimtų aštuoniasdešimt
 
 1\. Netauriųjų metalų laužo ir atliekų, įtrauktų į draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą, supirkimas ar netauriųjų metalų laužo ir atliekų supirkimo, apskaitos ir saugojimo tvarkos pažeidimas
 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
 2\. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas netauriųjų metalų laužo ir atliekų konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 144 straipsnis. Reklamos naudojimo reikalavimų ir draudimų nesilaikymas
 
@@ -2264,19 +2354,27 @@ užtraukia baudą turto vertinimą atlikusiems asmenims nuo aštuonių šimtų p
 
 1\. Komercinės ar ūkinės veiklos tvarkos pažeidimas
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio vieno šimto iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 151 straipsnis. Komercinės ar ūkinės veiklos vykdymas neteisėtai naudojantis įmonės vardu
 
 1\. Komercinės ar ūkinės veiklos vykdymas neteisėtai naudojantis įmonės vardu
 
-užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo šešių šimtų penkiasdešimt iki trijų tūkstančių devynių šimtų eurų.
 
 2\. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti iš komercinės ar ūkinės veiklos vykdymo neteisėtai naudojantis įmonės vardu gautų pajamų konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 152 straipsnis. Mažmeninės prekybos taisyklių pažeidimas
 
@@ -2358,161 +2456,189 @@ užtraukia baudą juridinių asmenų darbuotojams, taip pat asmenims, kurie ver�
 
 #### 158 straipsnis. Prekių pardavimas be dokumentų ir dokumentų suklastojimas
 
-1\. Prekių pardavimas, išskyrus pardavimą mažmeninės prekybos įmonėse, be dokumento, melagingos informacijos įrašymas į prekių dokumentą, melagingo prekių dokumento surašymas ar išdavimas, tokio dokumento, esančio įmonės, įstaigos ar organizacijos byloje, suklastojimas, taip pat prekių dokumento, žinant, kad jis suklastotas, panaudojimas
+1\. Prekių pardavimas, išskyrus pardavimą mažmeninės prekybos įmonėse, be dokumento, melagingos informacijos įrašymas į prekių dokumentą, melagingo prekių dokumento surašymas ar išdavimas, prekių dokumento, esančio įmonės, įstaigos ar organizacijos byloje, suklastojimas, taip pat prekių dokumento, žinant, kad jis suklastotas, panaudojimas
 
-užtraukia baudą nuo trijų šimtų iki dviejų tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo keturių šimtų penkiasdešimt iki trijų tūkstančių keturių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų.
+užtraukia baudą nuo trijų tūkstančių keturių šimtų penkiasdešimt iki keturių tūkstančių trijų šimtų penkiasdešimt eurų.
 
 3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti prekių, įgytų be dokumento ar suklastojus dokumentą, konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 159 straipsnis. Netikrų banderolių ar kitų specialių ženklų gaminimas, realizavimas, naudojimas
 
 1\. Netikrų banderolių ar kitų specialių ženklų naudojimas prekiaujant prekėmis, kuriomis draudžiama prekiauti be banderolių ar kitų specialių ženklų,
 
-užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių eurų.
 
 2\. Netikrų banderolių ar kitų specialių ženklų gaminimas ar realizavimas
 
-užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių keturių šimtų šešiasdešimt iki šešių tūkstančių eurų.
 
 3\. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti prekių konfiskavimą. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti netikrų banderolių ar kitų specialių ženklų ir jų gaminimo priemonių konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 160 straipsnis. Prekyba ar paslaugos be kasos aparatų
 
 1\. Prekyba ar paslaugos be kasos aparatų, kai kasos aparatus privaloma naudoti,
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo penkių šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 161 straipsnis. Kasos aparatų naudojimo tvarkos pažeidimas
 
 1\. Kasos aparato naudojimas be nustatyta tvarka įforminto kasos aparato kasos operacijų žurnalo, įregistruoto techninio paso ir teisės aktuose nustatyta tvarka neįregistruoto kasos aparato naudojimas
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 162 straipsnis. Kasos aparatų eksploatavimo ar kasos operacijų tvarkos pažeidimas
 
 1\. Kasos aparatų eksploatavimo ar kasos operacijų tvarkos pažeidimas
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 3\. Neregistruoto kasos aparato, kuris dubliuoja registruotą kasos aparatą, pakeistos konstrukcijos ar programos kasos aparato naudojimas
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo devynių šimtų aštuoniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 163 straipsnis. Kasos aparato kvito už parduotas prekes ar suteiktas paslaugas neišdavimas ar netinkamas išdavimas
 
 1\. Kasos aparato kvito už parduotas prekes ar suteiktas paslaugas neišdavimas arba kasos aparato kvito, kuriame nurodyta kita suma, negu sumokėta, išdavimas
 
-užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo devyniasdešimt iki dviejų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo keturių šimtų penkiasdešimt iki devynių šimtų eurų.
 
 3\. Šio straipsnio 1 dalyje numatyti veiksmai, padaryti vadovo nurodymu,
 
-užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo keturiolikos iki penkiasdešimt eurų ir baudą tokį nurodymą davusiems vadovams nuo šešių šimtų iki devynių šimtų eurų.
+užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo dvidešimt iki aštuoniasdešimt eurų ir baudą tokį nurodymą davusiems vadovams nuo devynių šimtų iki vieno tūkstančio trijų šimtų penkiasdešimt eurų.
 
 4\. Kasos aparato kvito už parduotas prekes ar suteiktas paslaugas išdavimą užtikrinančių priemonių nesiėmimas
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo aštuonių šimtų keturiasdešimt iki vieno tūkstančio trijų šimtų penkiasdešimt eurų.
 
 5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio trijų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 164 straipsnis. Asmeninių ar kasos aparatu neįtrauktų į apskaitą pinigų laikymas kasoje ar kasos operacijų atlikimo vietoje arba kasos aparatu įtrauktų į apskaitą pinigų ir kasoje ar kasos operacijų atlikimo vietoje laikomų pinigų kiekio neatitikimas
 
 1\. Asmeninių ar kasos aparatu neįtrauktų į apskaitą pinigų laikymas kasoje ar kasos operacijų atlikimo vietoje (išskyrus Lietuvos Respublikos Vyriausybės nustatytus atvejus) arba kasos aparatu įtrauktų į apskaitą pinigų ir kasoje ar kasos operacijų atlikimo vietoje laikomų pinigų kiekio neatitikimas, kai šis neatitikimas sudaro daugiau negu penkis eurus,
 
-užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo keturiolikos iki vieno šimto eurų.
+užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo dvidešimt iki vieno šimto penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą išduoti kasos aparato kvitą privalantiems asmenims nuo dviejų šimtų iki keturių šimtų penkiasdešimt eurų.
 
 3\. Nesiėmimas priemonių, kad būtų užtikrintas grynųjų pinigų įtraukimas į apskaitą kasos aparatu, taip pat užtikrintas įtrauktų į apskaitą pinigų ir kasoje ar kasos operacijų atlikimo vietoje laikomų pinigų kiekio atitikimas juridiniuose asmenyse, kurie privalo naudoti kasos aparatus atsiskaitydami su asmenimis už prekes arba paslaugas grynaisiais pinigais,
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų keturiasdešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių septynių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 165 straipsnis. Kasos aparatus aptarnaujančių įmonių specialistų nepranešimas apie neteisėtą kasos aparatų sumuojančių skaitiklių rodmenų sumažinimą
 
 1\. Kasos aparatus aptarnaujančios įmonės specialisto nepranešimas Valstybinei mokesčių inspekcijai apie nustatytą įregistruotų kasos aparatų sumuojančių skaitiklių rodmenų sumažinimą
 
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 166 straipsnis. Kasos aparatų eksploatavimas be kontrolinių juostų, kontrolinių juostų, kasos aparato kasos operacijų žurnalų arba kasos aparatų techninių pasų neišsaugojimas
 
 1\. Nustatyta tvarka įregistruotų kasos aparatų eksploatavimas be kontrolinių juostų, kontrolinių juostų, kasos aparato kasos operacijų žurnalų arba kasos aparatų techninių pasų neišsaugojimas
 
-užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+užtraukia baudą naudoti kasos aparatus privalantiems asmenims nuo vieno tūkstančio vieno šimto septyniasdešimt iki dviejų tūkstančių dviejų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų tūkstančių iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo trijų tūkstančių devynių šimtų iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 167 straipsnis. Kasos aparatus aptarnaujančių įmonių darbuotojų padarytas elektroninių kasos aparatų naudojimo taisyklių pažeidimas
 
 1\. Elektroninius kasos aparatus ar jų sistemas aptarnaujančios įmonės specialisto padarytas elektroninių kasos aparatų naudojimo taisyklių pažeidimas
 
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
 3\. Priemonių, kad aptarnavimo specialistai laikytųsi elektroninių kasos aparatų naudojimo taisyklių reikalavimų, nesiėmimas
 
-užtraukia baudą elektroninius kasos aparatus ar jų sistemas aptarnaujančių įmonių vadovams nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą elektroninius kasos aparatus ar jų sistemas aptarnaujančių įmonių vadovams nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 168 straipsnis. Mažmeninės prekybos alkoholiniais gėrimais tvarkos ar kitų alkoholinių gėrimų pardavimo, laikymo ir gabenimo reikalavimų pažeidimas
 
-*Pakeistas straipsnio pavadinimas:*
-
-*Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
-
 1\. Mažmeninės prekybos ir viešojo maitinimo vietose dirbančių darbuotojų padarytas mažmeninės prekybos alkoholiniais gėrimais tvarkos ar kitų alkoholinių gėrimų pardavimo, laikymo ir gabenimo reikalavimų pažeidimas, išskyrus šio straipsnio 2, 3, 4, 5, 6, 7, 8 dalyse numatytus pažeidimus,
 
-užtraukia baudą nuo dvidešimt iki trisdešimt eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
+užtraukia baudą nuo trisdešimt iki keturiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trisdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo keturiasdešimt iki trijų šimtų devyniasdešimt eurų.
 
 3\. Alkoholinių gėrimų pardavimas mažmeninės prekybos ir viešojo maitinimo vietose jaunesniems negu dvidešimt metų asmenims
 
 užtraukia baudą nuo trisdešimt iki vieno šimto dvidešimt eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2520,21 +2646,25 @@ užtraukia baudą nuo vieno šimto dvidešimt iki keturių šimtų keturiasdeši
 
 5\. Alkoholinių gėrimų pardavimas mažmeninės prekybos ir viešojo maitinimo vietose nesilaikant licencijoje nurodytų apribojimų
 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki penkių šimtų devyniasdešimt eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešių šimtų iki devynių šimtų eurų.
+užtraukia baudą nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
 
 7\. Alkoholinių gėrimų pardavimas mažmeninės prekybos ir viešojo maitinimo vietose be licencijos
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešių šimtų iki devynių šimtų eurų.
+užtraukia baudą nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
 
 9\. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas alkoholinių gėrimų konfiskavimas. Už šio straipsnio 5, 6, 7, 8 dalyse numatytus administracinius nusižengimus privaloma skirti alkoholinių gėrimų konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 169 straipsnis. Naminių alkoholinių gėrimų pardavimas ar kitoks realizavimas
 
@@ -2552,11 +2682,11 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 1\. Prekybos ir viešojo maitinimo įmonių darbuotojų padarytas tabako gaminių ar susijusių gaminių pardavimo įmonėse reikalavimų pažeidimas
 
-užtraukia baudą nuo dvidešimt iki aštuoniasdešimt eurų.
+užtraukia baudą nuo trisdešimt iki vieno šimto eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuoniasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo vieno šimto iki trijų šimtų devyniasdešimt eurų.
 
 3\. Tabako gaminių ar susijusių gaminių pardavimas prekybos ir viešojo maitinimo įmonėse nepilnamečiams
 
@@ -2568,13 +2698,17 @@ užtraukia baudą nuo vieno šimto dvidešimt iki keturių šimtų keturiasdeši
 
 5\. Tabako gaminių ar susijusių gaminių pardavimas prekybos ir viešojo maitinimo įmonėse be licencijos
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
 7\. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas tabako gaminių ar susijusių gaminių konfiskavimas. Už šio straipsnio 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių ar susijusių gaminių konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 171 straipsnis. Prekybos transporto priemonėmis tvarkos pažeidimas
 
@@ -2586,15 +2720,15 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 1\. Naftos produktų pardavimas arba įsigijimas nesilaikant reguliuojamos veiklos sąlygų mažmeninėje prekyboje
 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
 
 2\. Naftos produktų pardavimas neturint licencijos
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
 
 3\. Naftos produktų pardavimas arba įsigijimas nesilaikant reguliuojamos veiklos sąlygų didmeninėje prekyboje
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
 
 4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti naftos produktų konfiskavimą. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti iš naftos produktų pardavimo neturint licencijos gautų pajamų konfiskavimą.
 
@@ -2602,27 +2736,37 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 *Nr. XIII-567, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12066*
 
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
 #### 173 straipsnis. Naftos produktų, biokuro, bioalyvų ir kitų degiųjų skystų produktų gamybos, žymėjimo, gabenimo, laikymo, prekybos ir apskaitos taisyklių pažeidimas
 
 1\. Naftos produktų, biokuro, bioalyvų ir kitų degiųjų skystų produktų gamybos, žymėjimo, gabenimo, laikymo, prekybos Lietuvos Respublikoje taisyklių pažeidimas arba veiksmai, kuriais siekiama panaikinti, pakeisti ar kitaip nuslėpti kurą, kuriam taikomos akcizų lengvatos, žyminčius požymius, išskyrus šio straipsnio 2 dalyje nurodytus veiksmus,
 
-užtraukia baudą nuo trijų šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki šešių tūkstančių eurų.
 
 2\. Naftos produktų, biokuro, bioalyvų ir kitų degiųjų skystų produktų apskaitos taisyklių pažeidimas
 
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio vieno šimto iki šešių tūkstančių eurų.
 
-3\. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą gali būti skiriamas naftos produktų, biokuro, bioalyvų ir kitų degiųjų skystų produktų konfiskavimas.
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 174 straipsnis. Žymėto kuro, kuriam taikomos akcizų lengvatos, įsigijimas, naudojimas, laikymas, pardavimas, gabenimas ar kitoks jo perdavimas pažeidžiant teisės aktuose nustatytą tvarką
 
 1\. Žymėto kuro, kuriam taikomos akcizų lengvatos, įsigijimas, naudojimas, laikymas, pardavimas, gabenimas ar kitoks jo perdavimas pažeidžiant teisės aktuose nustatytą tvarką
 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+užtraukia baudą asmenims nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto septyniasdešimt iki vieno tūkstančio aštuonių šimtų dvidešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą asmenims nuo septynių šimtų trisdešimt iki vieno tūkstančio penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
+
+3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas žymėto kuro, kuriam taikomos akcizų lengvatos, konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 175 straipsnis. Energijos ar kuro, kurių reikia elektros ir šilumos energijai gaminti, pirkimo taisyklių pažeidimas
 
@@ -2638,11 +2782,15 @@ užtraukia baudą nuo septynių šimtų iki vieno tūkstančio dviejų šimtų e
 
 1\. Akcizu neapmokestintų suskystintų naftos dujų arba suslėgtų gamtinių dujų panaudojimas kaip variklių degalų, kai tam nenumatyta lengvata,
 
-užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų ir už transporto priemonių eksploatavimą atsakingiems asmenims – nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų ir už transporto priemonių eksploatavimą atsakingiems asmenims – nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą vairuotojams nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir už transporto priemonių eksploatavimą atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+užtraukia baudą vairuotojams nuo vieno šimto aštuoniasdešimt iki trijų šimtų devyniasdešimt eurų ir už transporto priemonių eksploatavimą atsakingiems asmenims – nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 177 straipsnis. Prekybos antikvariniais daiktais taisyklių pažeidimas
 
@@ -2800,81 +2948,93 @@ užtraukia baudą biudžeto asignavimų valdytojams ir jiems pavaldžių biudže
 
 1\. Turto ir (ar) pajamų deklaravimo tvarkos pažeidimas, turto ir (ar) pajamų deklaracijų arba kitų su turtu ir (ar) pajamomis susijusių ataskaitų pavėluotas pateikimas mokesčių administratoriui ar nepateikimas, neteisingų duomenų įrašymas į mokesčių administratoriui pateiktas turto ir (ar) pajamų deklaracijas arba kitas ataskaitas
 
-užtraukia įspėjimą arba baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia įspėjimą arba baudą nuo aštuoniasdešimt iki vieno šimto aštuoniasdešimt eurų.
 
 2\. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pateikimo tvarkos pažeidimas, ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pavėluotas pateikimas ar nepateikimas, neteisingų duomenų įrašymas į mokesčių administratoriui pateiktas ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus, neteisingų duomenų pateikimas
 
-užtraukia įspėjimą arba baudą pateikti ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia įspėjimą arba baudą pateikti ataskaitas, deklaracijas ar kitus mokesčių administratoriaus funkcijoms įgyvendinti reikalingus dokumentus ir duomenis privalantiems asmenims nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų.
 
 3\. Deklaracijų arba nustatyta tvarka patvirtintų ataskaitų ar kitų dokumentų ir duomenų apie fizinio ar juridinio asmens pajamas, pelną ar turtą nepateikimas mokesčių administratoriui, siekiant išvengti mokesčių ar kitokių įmokų, kurių suma neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių, po to, kai ši institucija raštu priminė apie pareigą juos pateikti,
 
-užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus ir duomenis privalantiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-792, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18857*
+užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus ir duomenis privalantiems asmenims nuo dviejų šimtų iki vieno tūkstančio keturiasdešimt eurų.
 
 4\. Duomenų apie fizinio ar juridinio asmens pajamas, pelną, turtą ar jų naudojimą, žinant, kad jie neteisingi, įrašymas į deklaracijas, nustatyta tvarka patvirtintas ataskaitas arba į kitus mokesčių administratoriui ar kitai valstybės įgaliotai institucijai pateikiamus dokumentus, siekiant išvengti mokesčių, kurių suma neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo penkių šimtų iki šešių tūkstančių eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-792, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18857*
+užtraukia baudą pateikti deklaracijas, nustatyta tvarka patvirtintas ataskaitas ar kitus dokumentus privalantiems asmenims nuo šešių šimtų penkiasdešimt iki šešių tūkstančių eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-375, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09155*
 
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
 #### 188 straipsnis. Sandorių kainodaros dokumentavimo tvarkos nesilaikymas
 
 1\. Sandorių kainodaros dokumentavimo tvarkos nesilaikymas
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 189 straipsnis. Registravimosi mokesčių mokėtoju tvarkos pažeidimas
 
 1\. Mokesčių mokėtojo registravimo duomenų nepateikimas ar pavėluotas pateikimas mokesčių mokėtojus registruojančiai įstaigai, neteisingų duomenų pateikimas, taip pat pakeistų arba papildomų mokesčių mokėtojo registravimo duomenų nepateikimas ar pavėluotas pateikimas
 
-užtraukia įspėjimą arba baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia įspėjimą arba baudą nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų.
 
 2\. Registravimosi atskirų mokesčių mokėtoju, kai tai nustatyta atitinkamų mokesčių įstatymuose, tvarkos pažeidimas
 
-užtraukia įspėjimą arba baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia įspėjimą arba baudą asmenims nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų ir baudą juridinių asmenų vadovams nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 190 straipsnis. Neteisėtas informacijos apie mokesčių mokėtoją paskleidimas
 
 Neteisėtas informacijos apie mokesčių mokėtoją paskleidimas
 
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 191 straipsnis. Pažymų apie fiziniams asmenims išmokėtas sumas pateikimo mokesčių administratoriui tvarkos ir vardinių sąrašų pateikimo tvarkos pažeidimas
 
 1\. Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme nustatytos pažymų apie fiziniams asmenims išmokėtas sumas pateikimo mokesčių administratoriui tvarkos pažeidimas
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 2\. Lietuvos Respublikos gyventojų turto deklaravimo įstatyme nurodytų asmenų vardinių sąrašų nepateikimas Valstybinei mokesčių inspekcijai ar pavėluotas pateikimas
 
-užtraukia baudą juridinių asmenų vadovams ir kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą juridinių asmenų vadovams ir kitiems atsakingiems asmenims nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
 
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
 #### 192 straipsnis. Apmokestinamųjų pajamų apskaičiavimo arba mokesčių ar kitų įmokų apskaičiavimo, mokėjimo tvarkos pažeidimas
 
 1\. Apmokestinamųjų pajamų apskaičiavimo arba mokesčių ar kitų įmokų apskaičiavimo, mokėjimo tvarkos pažeidimas
 
-užtraukia baudą apmokestinamųjų pajamų apskaičiavimo arba mokesčių ar kitų įmokų apskaičiavimo, mokėjimo tvarką pažeidusiam asmeniui nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą apmokestinamųjų pajamų apskaičiavimo arba mokesčių ar kitų įmokų apskaičiavimo, mokėjimo tvarką pažeidusiam asmeniui nuo dviejų šimtų dvidešimt iki keturių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų šešiasdešimt iki dviejų tūkstančių devynių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų devyniasdešimt iki keturių tūkstančių trijų šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 193 straipsnis. Valstybinio socialinio draudimo įmokų ar išmokų apskaičiavimo ir jų mokėjimo tvarkos pažeidimas
 
@@ -2976,35 +3136,35 @@ Nesiėmimas priemonių laiku spręsti akcinių bendrovių ir uždarųjų akcini�
 
 užtraukia baudą akcinių bendrovių ir uždarųjų akcinių bendrovių valdybų nariams ar vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-#### 205 straipsnis. Buhalterinę apskaitą reglamentuojančių teisės aktų pažeidimas ar neteisingos finansinės atskaitomybės pateikimas
+#### 205 straipsnis. Buhalterinę apskaitą reglamentuojančių teisės aktų pažeidimas
 
-1\. Buhalterinės ūkinių operacijų apskaitos taisyklių pažeidimas
+1\. Buhalterinę apskaitą reglamentuojančių teisės aktų reikalavimų pažeidimas
 
-užtraukia įspėjimą arba baudą nuo trisdešimt iki šešiasdešimt eurų.
+užtraukia įspėjimą arba baudą nuo keturiasdešimt iki vieno šimto keturiasdešimt eurų.
 
-2\. Buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimas
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
 
-3\. Šio straipsnio 1, 2 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+3\. Aplaidus buhalterinės apskaitos tvarkymas, kai dėl to nesumokama nuo trisdešimt iki penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie pagal įstatymus turėjo būti sumokėti už tikrinamąjį laikotarpį,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio aštuonių šimtų dvidešimt eurų.
 
-4\. Aplaidus buhalterinės apskaitos tvarkymas, kai dėl to nesumokama nuo trisdešimt iki penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie pagal įstatymus turėjo būti sumokėti už tikrinamąjį laikotarpį,
+4\. Aplaidus buhalterinės apskaitos tvarkymas, kai dėl to nesumokama daugiau kaip penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
 
-užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
 
-5\. Aplaidus buhalterinės apskaitos tvarkymas, kai dėl to nesumokama daugiau kaip penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
+5\. Apgaulingas buhalterinės apskaitos tvarkymas siekiant nuslėpti arba nuslepiant nuo dešimt iki penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo keturių tūkstančių iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
 
-6\. Apgaulingas buhalterinės apskaitos tvarkymas siekiant nuslėpti arba nuslepiant nuo dešimt iki penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
+6\. Apgaulingas buhalterinės apskaitos tvarkymas siekiant nuslėpti arba nuslepiant daugiau kaip penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
 
-užtraukia baudą nuo trijų tūkstančių iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo penkių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
 
-7\. Apgaulingas buhalterinės apskaitos tvarkymas siekiant nuslėpti arba nuslepiant daugiau kaip penkiasdešimt bazinių bausmių ir nuobaudų dydžių mokesčių, kurie už tikrinamąjį laikotarpį turėjo būti sumokėti pagal įstatymus,
+*Straipsnio pakeitimai:*
 
-užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 206 straipsnis. Skolintų lėšų įmonėse kaupimo tvarkos pažeidimas
 
@@ -3016,107 +3176,121 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 1\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pavėluotas pateikimas arba klaidingos informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pateikimas
 
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
 
 2\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas nepateikimas
 
-užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
 3\. Pinigų nurašymo ir išdavimo iš mokėtojų sąskaitų tvarkos pažeidimas
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 208 straipsnis. Kontrabanda
 
 1\. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo vieno šimto šešiasdešimt iki aštuonių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio vieno šimto dvidešimt eurų.
 
 2\. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė viršija penkis bazinius bausmių ir nuobaudų dydžius, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki keturių tūkstančių eurų.
 
-3\. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių, bet neviršija dviejų šimtų penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
+3\. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių, bet neviršija vieno šimto penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių eurų.
 
 4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas gabenimo ir kitų priemonių, skirtų kontrabandos daiktams per Lietuvos Respublikos valstybės sieną gabenti arba jiems slėpti, konfiskavimas. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti kontrabandos daiktų konfiskavimą.
+
+5\. Šiame straipsnyje nurodytų prekių, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 209 straipsnis. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką
 
 1\. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką, prekyba akcizais apmokestinamomis prekėmis be banderolių ar kitų specialių ženklų arba su seno pavyzdžio banderolėmis, kai neteisėtai įsigytų, laikomų, gabenamų, naudotų ar realizuotų prekių vertė neviršija dviejų bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
+užtraukia baudą nuo keturiasdešimt iki dviejų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio vieno šimto eurų.
 
 3\. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką, prekyba akcizais apmokestinamomis prekėmis be banderolių ar kitų specialių ženklų arba su seno pavyzdžio banderolėmis, kai neteisėtai įsigytų, laikomų, gabenamų, naudotų ar realizuotų prekių vertė viršija du, bet neviršija dešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo keturių šimtų iki vieno tūkstančio devynių šimtų eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio devynių šimtų penkiasdešimt iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
 
 5\. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką, prekyba akcizais apmokestinamomis prekėmis be banderolių ar kitų specialių ženklų arba su seno pavyzdžio banderolėmis, kai neteisėtai įsigytų, laikomų, gabenamų, naudotų ar realizuotų prekių vertė viršija dešimt, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių keturių šimtų šešiasdešimt iki šešių tūkstančių eurų.
 
-7\. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką, prekyba akcizais apmokestinamomis prekėmis be banderolių ar kitų specialių ženklų arba su seno pavyzdžio banderolėmis, kai neteisėtai įsigytų, laikomų, gabenamų, naudotų ar realizuotų prekių vertė viršija penkiasdešimt, bet neviršija dviejų šimtų penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
-
-užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
-
-8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+7\. Akcizais apmokestinamų prekių įsigijimas (išskyrus energinius produktus ir elektros energiją), laikymas, gabenimas, naudojimas ar realizavimas pažeidžiant nustatytą tvarką, prekyba akcizais apmokestinamomis prekėmis be banderolių ar kitų specialių ženklų arba su seno pavyzdžio banderolėmis, kai neteisėtai įsigytų, laikomų, gabenamų, naudotų ar realizuotų prekių vertė viršija penkiasdešimt, bet neviršija vieno šimto penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
 užtraukia baudą nuo penkių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
 
-9\. Įstatymuose nustatytos turgavietes administruojančių fizinių asmenų, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovų, užsienio juridinių asmenų ar jų filialų vadovų arba jų įgaliotų asmenų pareigos vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių) siekiant, kad jų administruojamose turgavietėse nebūtų prekiaujama tabako gaminiais ir (ar) alkoholiniais gėrimais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais ir (ar) alkoholiniais gėrimais, ir (arba) nedelsiant pranešti policijai apie jų administruojamose turgavietėse vykdomą galimai neteisėtą prekybą akcizais apmokestinamomis prekėmis arba šių prekių gabenimą, laikymą nevykdymas
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą turgavietes administruojantiems fiziniams asmenims, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovams, užsienio juridinių asmenų ar jų filialų vadovams nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo penkių tūkstančių septynių šimtų šešiasdešimt iki šešių tūkstančių eurų.
 
-10\. Už šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse numatytus administracinius nusižengimus privaloma skirti šio straipsnio 1 dalyje nurodytų prekių konfiskavimą. Už šio straipsnio 5, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas gabenimo priemonės, kuria akcizais apmokestinamos prekės buvo neteisėtai gabenamos, konfiskavimas. Už šio straipsnio 6, 8 dalyse numatytus administracinius nusižengimus privaloma skirti gabenimo priemonės, kuria akcizais apmokestinamos prekės buvo neteisėtai gabenamos, konfiskavimą.
+9\. Už šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse numatytus administracinius nusižengimus privaloma skirti šio straipsnio 1 dalyje nurodytų prekių konfiskavimą. Už šio straipsnio 5, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas gabenimo priemonės, kuria akcizais apmokestinamos prekės buvo neteisėtai gabenamos, konfiskavimas. Už šio straipsnio 6, 8 dalyse numatytus administracinius nusižengimus privaloma skirti gabenimo priemonės, kuria akcizais apmokestinamos prekės buvo neteisėtai gabenamos, konfiskavimą.
 
-11\. Šiame straipsnyje nurodytų prekių vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
+10\. Šiame straipsnyje nurodytų prekių vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
 
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+#### 209¹ straipsnis. Lietuvos Respublikos įstatymuose nustatytos pareigos vykdyti turgaviečių stebėseną nevykdymas
+
+1\. Lietuvos Respublikos įstatymuose nustatytos turgavietes administruojančių fizinių asmenų, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovų, užsienio juridinių asmenų ar jų filialų vadovų arba jų įgaliotų asmenų pareigos vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių) siekiant, kad jų administruojamose turgavietėse nebūtų prekiaujama tabako gaminiais ir (ar) alkoholiniais gėrimais ir (ar) kad jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais ir (ar) alkoholiniais gėrimais, ir (arba) nedelsiant pranešti policijai apie galimai neteisėtą prekybą akcizais apmokestinamomis prekėmis jų administruojamose turgavietėse arba šių prekių gabenimą, laikymą nevykdymas
+
+užtraukia baudą turgavietes administruojantiems fiziniams asmenims, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovams, užsienio juridinių asmenų ar jų filialų vadovams nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto dvidešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
 #### 210 straipsnis. Muitinės prižiūrimų prekių muitinio tikrinimo vietų tvarkos pažeidimas
 
-1\. Muitinės prižiūrimų prekių muitinio tikrinimo vietų tvarkos pažeidimas, tai yra:
+1\. Per Lietuvos Respublikos pasienio kontrolės punktą, kuriame veikia muitinės įstaiga, į Europos Sąjungos muitų teritoriją atvykstančių transporto priemonių arba iš Europos Sąjungos muitų teritorijos išvykstančių transporto priemonių nesustojimas muitinės įstaigoje ar kitoje muitinės nustatytoje vietoje, kad būtų atliktas muitinis tikrinimas,
 
-1\) laivų ir kitų plaukiojančių priemonių priplaukimas prie muitinės tikrinamo laivo be muitinį tikrinimą atliekančio muitinės pareigūno leidimo;
-
-2\) transporto priemonėmis atvykstančių į Lietuvos Respubliką arba išvykstančių iš Lietuvos Respublikos asmenų nesustojimas muitinės įstaigoje ar kitoje muitinės nustatytoje vietoje, kad būtų atliktas muitinis tikrinimas;
-
-3\) muitinės įstaigoje ar kitoje muitinės nustatytoje vietoje esančių visų rūšių transporto priemonių ir asmenų išvykimas be muitinį tikrinimą atliekančio muitinės pareigūno leidimo;
-
-4\) muitinės prižiūrimų prekių (daiktų) ir kitų vertybių iškrovimas iš jas gabenančių priemonių, įskaitant jų perkrovimą į kitas transporto priemones, muitinės nenustatytose vietose arba be muitinės pareigūno rašytinio leidimo;
-
-5\) muitinės prižiūrimų prekių (daiktų) ir kitų vertybių atidarymas, išdavimas ar paėmimas be muitinės pareigūno rašytinio leidimo,
-
-užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+3\. Muitinės prižiūrimų prekių iškrovimas iš į Europos Sąjungos muitų teritoriją atvykstančių transporto priemonių (įskaitant šių prekių perkrovimą į kitas transporto priemones) muitinės nenustatytose vietose arba be muitinės pareigūno leidimo, muitinės prižiūrimų prekių išdavimas arba paėmimas be muitinės pareigūno leidimo
+
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
 užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
-#### 211 straipsnis. Muitinio tikrinimo tvarkos pažeidimas
+*Straipsnio pakeitimai:*
 
-1\. Muitinio tikrinimo tvarkos pažeidimas, tai yra:
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
-1\) neatvykimas per nustatytą muitinės procedūros vykdymo terminą į muitinės įstaigą ar kitą muitinės nustatytą vietą, kad būtų atliktas muitinis tikrinimas;
+#### 211 straipsnis. Muitinės formalumų atlikimo tvarkos pažeidimas
 
-2\) laikinai saugomų prekių arba prekių, kurioms buvo įforminti muitinės sankcionuoti veiksmai, ar prekių, kurioms neįforminti muitinės sankcionuoti veiksmai, nepateikimas muitiniam tikrinimui atlikti arba jų nedeklaravimas nustatyta tvarka;
-
-3\) laikinojo prekių (daiktų) įvežimo (įskaitant jų įvežimą perdirbti) arba laikinojo prekių išvežimo perdirbti nustatytos tvarkos nesilaikymas,
+1\. Prekių, kurioms įforminta ar turi būti įforminta bet kuri muitinės procedūra, nepateikimas per nustatytą muitinės procedūros vykdymo terminą muitinės formalumams su prekėmis atlikti arba deklaravimas pažeidžiant nustatytą tvarką
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
@@ -3124,109 +3298,109 @@ užtraukia baudą nuo devynių šimtų iki vieno tūkstančio penkių šimtų eu
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-3\. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti prekių (daiktų) konfiskavimą.
+*Straipsnio pakeitimai:*
 
-#### 212 straipsnis. Prekių (daiktų) deklaravimo tvarkos pažeidimas
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
-1\. Deklaranto neteisingų duomenų pateikimas deklaracijoje arba kitoks muitinės suklaidinimas, jeigu tai neturėjo arba negalėjo turėti įtakos mokėtinų ar galinčių tapti mokėtinais muitų ir mokesčių mažesniam dydžiui apskaičiuoti arba apribojimams ar draudimams netaikyti,
+#### 212 straipsnis. Prekių deklaravimo tvarkos pažeidimas
 
-užtraukia įspėjimą arba baudą nuo dvidešimt iki penkiasdešimt eurų.
+1\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė neviršija trijų bazinių bausmių ir nuobaudų dydžių arba tai neturėjo įtakos apribojimų ar draudimų netaikymui,
 
-2\. Deklaranto neteisingų duomenų pateikimas deklaracijoje arba kitoks muitinės suklaidinimas, kai neteisingai deklaruotų prekių (daiktų) vertė neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių,
+užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto aštuoniasdešimt eurų.
 
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+2\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija tris bazinių bausmių ir nuobaudų dydžius, bet neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos apribojimų ar draudimų taikymui,
 
-3\. Šio straipsnio 2 dalyje numatyti veiksmai, kai neteisingai deklaruotų prekių (daiktų) vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių ir (arba) kai dėl šių veiksmų apskaičiuoti mokėtini muitai ir mokesčiai neviršija penkių bazinių bausmių ir nuobaudų dydžių,
+užtraukia baudą nuo trijų šimtų iki vieno tūkstančio devynių šimtų eurų.
 
-užtraukia įspėjimą arba baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+3\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos draudimų ir apribojimų, susijusių su prekėms taikomais saugos ir saugumo reikalavimais, taikymui,
 
-4\. Deklaranto neteisingų duomenų pateikimas deklaracijoje arba kitoks muitinės suklaidinimas, kai neteisingai deklaruotų prekių (daiktų) vertė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių,
+užtraukia baudą nuo vieno tūkstančio devynių šimtų iki trijų tūkstančių eurų.
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+*Straipsnio pakeitimai:*
 
-5\. Šio straipsnio 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+#### 213 straipsnis. Prekių gabenimo tvarkos pažeidimas
 
-#### 213 straipsnis. Prekių (daiktų, pašto siuntų, pinigų) gabenimo tvarkos pažeidimas
+1\. Prekių, kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
 
-1\. Prekių (daiktų, pašto siuntų, pinigų), kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių (daiktų, pašto siuntų, pinigų) vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
+užtraukia įspėjimą arba baudą nuo keturiasdešimt iki vieno šimto dvidešimt eurų.
 
-užtraukia įspėjimą arba baudą nuo trisdešimt iki devyniasdešimt eurų.
+2\. Prekių, kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių vertė viršija penkis bazinius bausmių ir nuobaudų dydžius, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-2\. Prekių (daiktų, pašto siuntų, pinigų), kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių (daiktų, pašto siuntų, pinigų) vertė viršija penkis bazinius bausmių ir nuobaudų dydžius, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
-užtraukia baudą nuo trijų šimtų iki devynių šimtų eurų.
+3\. Prekių, kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 
-3\. Šio straipsnio 1, 2 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių devynių šimtų eurų.
 
-užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas prekių konfiskavimas.
 
-4\. Prekių (daiktų, pašto siuntų, pinigų), kurių importas, eksportas ar tranzitas leidžiamas tik turint galiojantį leidimą, licenciją ar kitą dokumentą ir (arba) kurių importui, eksportui ar tranzitui taikomi apribojimai, draudimai arba specialus režimas, gabenimas pažeidžiant nustatytą tvarką, kai neteisėtai gabenamų prekių (daiktų, pašto siuntų, pinigų) vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
+5\. Šiame straipsnyje nurodytų prekių vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+*Straipsnio pakeitimai:*
 
-5\. Neteisėtas nukrypimas nuo muitinės nustatyto maršruto gabenant prekes tranzitu
-
-užtraukia baudą nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
-
-6\. Neteisėtas prekių ar produkcijos, kurios pagal tranzito arba eksporto dokumentus turėjo būti išvežtos iš Europos Sąjungos muitų teritorijos, neišvežimas
-
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
-
-7\. Šio straipsnio 4, 5, 6 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-
-užtraukia baudą nuo dviejų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
-
-8\. Už šio straipsnio 1, 2, 3, 4, 6, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas prekių (daiktų) konfiskavimas.
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 214 straipsnis. Prekių (krovinio) gabenimas be dokumentų
 
 1\. Prekių (krovinio), kurių vertė viršija penkis, bet neviršija penkiolikos bazinių bausmių ir nuobaudų dydžių, gabenimas Lietuvos Respublikos teritorijoje be jų įsigijimą arba gabenimą patvirtinančių dokumentų ar su suklastotais dokumentais, kai nėra šio kodekso 208 straipsnyje numatytų administracinių nusižengimų požymių,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki keturių šimtų keturiasdešimt eurų.
+užtraukia baudą nuo vieno šimto devyniasdešimt iki penkių šimtų aštuoniasdešimt eurų.
 
 2\. Prekių (krovinio), kurių vertė viršija penkiolika, bet neviršija trisdešimt bazinių bausmių ir nuobaudų dydžių, gabenimas Lietuvos Respublikos teritorijoje be jų įsigijimą arba gabenimą patvirtinančių dokumentų ar su suklastotais dokumentais, kai nėra šio kodekso 208 straipsnyje numatytų administracinių nusižengimų požymių,
 
-užtraukia baudą nuo keturių šimtų iki devynių šimtų eurų.
+užtraukia baudą nuo penkių šimtų trisdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
 3\. Prekių (krovinio), kurių vertė viršija trisdešimt bazinių bausmių ir nuobaudų dydžių, gabenimas Lietuvos Respublikos teritorijoje be jų įsigijimą arba gabenimą patvirtinančių dokumentų ar su suklastotais dokumentais, kai nėra šio kodekso 208 straipsnyje numatytų administracinių nusižengimų požymių,
 
-užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių devynių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio trijų šimtų iki trijų tūkstančių septynių šimtų septyniasdešimt eurų.
 
 4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus privaloma skirti prekių (krovinio) konfiskavimą.
 
 5\. Prekių (krovinio) vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius. Administracinėn atsakomybėn pagal šį straipsnį netraukiami šio kodekso 209 straipsnyje nurodytas prekes gabenantys asmenys, taip pat pačių Lietuvoje pasigamintas prekes gabenantys asmenys ir prekes, iš kurių kiekio (svorio, dydžio) akivaizdžiai matyti, kad jos skirtos asmeninėms kasdienėms reikmėms tenkinti, gabenantys asmenys (vartotojai).
 
-#### 215 straipsnis. Laisvųjų zonų, laisvųjų sandėlių, muitinės sandėlių, laikinojo saugojimo vietų ir neapmuitinamų parduotuvių steigimo ir veiklos pažeidimas
+*Straipsnio pakeitimai:*
 
-1\. Laisvųjų zonų, laisvųjų sandėlių, muitinės sandėlių, laikinojo saugojimo vietų ir neapmuitinamų parduotuvių steigimo tvarkos pažeidimas
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+#### 215 straipsnis. Laisvųjų zonų, muitinės sandėlių, laikinojo saugojimo vietų steigimo ir veiklos pažeidimas
+
+1\. Laisvųjų zonų, muitinės sandėlių, laikinojo saugojimo vietų steigimo tvarkos pažeidimas
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
-2\. Gamybos, prekybos, paslaugų teikimo ar kitos veiklos laisvosiose zonose, laisvuosiuose sandėliuose, muitinės sandėliuose, laikinojo saugojimo vietose ir neapmuitinamose parduotuvėse tvarkos pažeidimas
+2\. Reikalavimų dėl veiklos laisvosiose zonose, muitinės sandėliuose, laikinojo saugojimo vietose pažeidimas
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-3\. Su prekių laikymu, apdorojimu arba perdirbimu, pirkimu arba pardavimu laisvojoje zonoje, laisvuosiuose sandėliuose, muitinės sandėliuose, laikinojo saugojimo vietose ir neapmuitinamose parduotuvėse susijusios apskaitos tvarkos nesilaikymas
+3\. Su prekių laikymu, apdorojimu arba perdirbimu, pirkimu arba pardavimu laisvosiose zonose, muitinės sandėliuose, laikinojo saugojimo vietose susijusios apskaitos tvarkos nesilaikymas
 
 užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių eurų.
 
-4\. Muitinės prižiūrimų prekių išgabenimas iš laisvųjų zonų, laisvųjų sandėlių, muitinės sandėlių, laikinojo saugojimo vietų ir neapmuitinamų parduotuvių be muitinės leidimo
+4\. Muitinės prižiūrimų prekių išgabenimas iš laisvųjų zonų, muitinės sandėlių, laikinojo saugojimo vietų be muitinės leidimo
 
 užtraukia baudą nuo dviejų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
 
-5\. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas prekių konfiskavimas.
+5\. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą gali būti skiriamas prekių konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 216 straipsnis. Muitinės uždėtų arba muitinės pripažįstamų plombų, spaudų ir kitų žymų padirbimas, nuplėšimas, sugadinimas ar praradimas
 
 Muitinės uždėtų arba muitinės pripažįstamų plombų, spaudų ir kitų žymų padirbimas, nuplėšimas, sugadinimas ar praradimas
 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio vieno šimto eurų.
 
-#### 217 straipsnis. Išankstinės informacijos pateikimo tvarkos pažeidimas
+*Straipsnio pakeitimai:*
 
-1\. Muitinės įgyvendinamoms saugos ir saugumo priemonėms taikyti reikalingos išankstinės informacijos nepateikimas arba muitinės įgyvendinamoms saugos ir saugumo priemonėms taikyti reikalingos išankstinės informacijos pateikimas pažeidžiant teisės aktuose nustatytus šios informacijos pateikimo reikalavimus arba terminus
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+#### 217 straipsnis. Įvežimo arba išvežimo bendrosios deklaracijos pateikimo tvarkos pažeidimas
+
+1\. Įvežimo arba išvežimo bendrosios deklaracijos pateikimas pažeidžiant teisės aktuose, reglamentuojančiuose šios deklaracijos pateikimą, nustatytus reikalavimus arba terminus
 
 užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
 
@@ -3234,35 +3408,39 @@ užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
 
 užtraukia baudą nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų.
 
-3\. Neteisingos išankstinės informacijos, reikalingos muitinės įgyvendinamoms saugos ir saugumo priemonėms taikyti, pateikimas
+*Straipsnio pakeitimai:*
 
-užtraukia įspėjimą arba baudą nuo trisdešimt iki šešiasdešimt eurų.
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 217¹ straipsnis. Reglamente (ES) Nr. 2015/1525 nustatytos pareigos pranešti apie konteinerių padėtį nevykdymas
 
 1\. Reglamente (ES) Nr. 2015/1525 nustatytos pareigos pranešti apie konteinerių padėtį nevykdymas arba neišsamių ar neteisingų duomenų pateikimas
 
-užtraukia baudą asmenims nuo trisdešimt iki šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų.
+užtraukia baudą asmenims nuo keturiasdešimt iki aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuoniasdešimt iki dviejų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą asmenims nuo aštuoniasdešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163*
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 218 straipsnis. Su grynųjų pinigų deklaravimu kertant Europos Sąjungos vidaus sienas susijusių reikalavimų nesilaikymas
 
 1\. Reikalavimo deklaruoti į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamus, iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamus ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ar iš jų gabenamus grynuosius pinigus, kurių vienkartinė suma viršija dešimt tūkstančių eurų ar ją atitinkančią sumą užsienio valiuta, nesilaikymas, duomenų nepateikimas arba neteisingų duomenų pateikimas deklaracijoje, arba kitoks muitinės suklaidinimas
 
-užtraukia baudą nuo trijų šimtų iki devynių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio keturiasdešimt iki trijų tūkstančių devynių šimtų eurų.
 
 3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas grynųjų pinigų konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 219 straipsnis. Į euro monetas panašių medalių ir žetonų gamybos ir pardavimo tvarkos ir jų importo ir platinimo pardavimo ar kitais komerciniais tikslais tvarkos pažeidimas
 
@@ -3324,13 +3502,17 @@ užtraukia baudą aukštųjų mokyklų ir mokslinių tyrimų institutų vadovams
 
 #### 223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui tvarkos pažeidimas
 
-1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
 
 užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo trisdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-2\. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
+2\. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
 
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1184, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09075*
 
 ### XVI SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU TEISINGUMU
 
@@ -7120,9 +7302,13 @@ užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų t
 
 užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
 
-4\. Objektų statyba, rekonstravimas ir įrengimas aerodromų apsaugos zonose nesuderinus su Civilinės aviacijos administracija ir su Lietuvos kariuomenės vadu (karinių aerodromų apsaugos zonose), objektų statybos, rekonstravimo ir įrengimo darbai radiolokacinių stočių apsaugos zonoje nesuderinus su Civilinės aviacijos administracija ir su kariuomenės vadu
+4\. Objektų statyba, rekonstravimas ir įrengimas aerodromų apsaugos zonose nesuderinus su Transporto kompetencijų agentūra ir su Lietuvos kariuomenės vadu (karinių aerodromų apsaugos zonose), objektų statybos, rekonstravimo ir įrengimo darbai radiolokacinių stočių apsaugos zonoje nesuderinus su Transporto kompetencijų agentūra ir su kariuomenės vadu
 
 užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480*
 
 5\. Aerodromo ir oro eismo paslaugoms teikti naudojamų įrenginių, orlaivių ir kitos aviacijos įrangos gadinimas
 
@@ -7786,7 +7972,11 @@ užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki vieno šimto sept
 
 8\. Kelių eismo taisyklių pažeidimai, išskyrus šiame kodekse numatytuosius,
 
-užtraukia įspėjimą arba baudą vairuotojams nuo dešimt iki dvylikos eurų.
+užtraukia baudą vairuotojams nuo dešimt iki dvylikos eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 9\. Už šio straipsnio 3, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki trijų mėnesių. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vieno iki šešių mėnesių. Už šio straipsnio 6 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo dviejų iki keturių mėnesių.
 
@@ -7922,15 +8112,27 @@ užtraukia baudą vairuotojams nuo vieno tūkstančio dviejų šimtų iki vieno 
 
 5\. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą gali būti skiriamas transporto priemonės konfiskavimas.
 
-#### 424 straipsnis. Transporto priemonių vairavimas neturint teisės vairuoti
+#### 424 straipsnis. Transporto priemonės vairavimas neturint teisės vairuoti, vairavimas, kai vairuojančiam asmeniui atimta ar sustabdyta teisė vairuoti transporto priemones, arba transporto priemonės perdavimas tokiam asmeniui vairuoti
 
-1\. Perdavimas vairuoti transporto priemonę neturinčiam teisės ją vairuoti asmeniui ar neturinčiam teisės vairuoti šios kategorijos transporto priemones asmeniui
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+1\. Perdavimas vairuoti transporto priemonę neturinčiam teisės ją vairuoti asmeniui ar neturinčiam teisės vairuoti šios kategorijos transporto priemones asmeniui arba asmeniui, kuriam atimta ar sustabdyta teisė vairuoti transporto priemones,
 
 užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
-2\. Transporto priemonių vairavimas neturint teisės jas vairuoti ar neturint teisės vairuoti šios rūšies transporto priemones
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+2\. Transporto priemonės vairavimas neturint teisės ją vairuoti ar neturint teisės vairuoti šios rūšies transporto priemones arba transporto priemonės vairavimas, kai vairuojančiam asmeniui sustabdyta teisė vairuoti transporto priemones,
 
 užtraukia baudą nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 3\. Transporto priemonių vairavimas, kai vairuojančiam asmeniui atimta teisė vairuoti transporto priemones,
 
@@ -7968,11 +8170,19 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 1\. Pasitraukimas iš eismo įvykio, su kuriuo vairuotojas yra susijęs, vietos pažeidžiant Kelių eismo taisykles, kai padaryta žala neviršija penkiolikos bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą vairuotojams nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą vairuotojams nuo šešių šimtų iki vieno tūkstančio vieno šimto eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 2\. Pasitraukimas iš eismo įvykio, su kuriuo vairuotojas yra susijęs, vietos pažeidžiant Kelių eismo taisykles, kai padaryta žala viršija penkiolika bazinių bausmių ir nuobaudų dydžių,
 
-užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių eurų.
+užtraukia baudą vairuotojams nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo dviejų tūkstančių iki dviejų tūkstančių šešių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 3\. Kitų eismo dalyvių, išskyrus vairuotoją, pasitraukimas iš eismo įvykio, su kuriuo jie yra susiję, vietos pažeidžiant Kelių eismo taisykles
 
@@ -9154,6 +9364,16 @@ užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
+#### 494¹ straipsnis. Lietuvos Respublikos sporto įstatyme nustatytų reikalavimų sporto renginių organizatoriams pažeidimas
+
+Reikalavimų aukšto meistriškumo sporto pratybų, aukšto meistriškumo sporto varžybų, fizinio aktyvumo pratybų ar kitų sporto renginių organizatoriams pažeidimas
+
+užtraukia įspėjimą arba baudą asmeniui nuo vieno šimto keturiasdešimt penkių iki septynių šimtų eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
+
 #### 495 straipsnis. Neteisėtų mitingo, demonstracijos, protesto ir kitų akcijų rengimas branduolinės energetikos objekto teritorijoje ir sanitarinėje apsaugos zonoje
 
 Neteisėtų mitingo, demonstracijos, protesto ir kitų akcijų rengimas branduolinės energetikos objekto teritorijoje ir sanitarinėje apsaugos zonoje
@@ -9266,21 +9486,17 @@ užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eu
 
 #### 505 straipsnis. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jiems suteiktas teises ar atlikti pavestas pareigas, jų teisėtų reikalavimų ar nurodymų ir kolegialių institucijų ar valstybės pareigūnų sprendimų nevykdymas
 
-*Pakeistas straipsnio pavadinimas:*
-
-*Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816*
-
 1\. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas (pareigūnų neįleidimas į tikrinamas teritorijas, patalpas (išskyrus žmogaus būstą) ar kitus objektus, nepateikimas pareigūnams informacijos, duomenų ar dokumentų arba klaidingų ar tikrovės neatitinkančių informacijos ar duomenų pateikimas, atsisakymas paaiškinti ar suteikti duomenis, dokumentų nuslėpimas, vengimas atvykti ir duoti paaiškinimus ir kt.), išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 506 straipsniuose nurodytus atvejus,
 
-užtraukia baudą asmenims nuo šešiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816*
+užtraukia baudą asmenims nuo aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų devyniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo aštuonių šimtų penkiasdešimt iki penkių tūkstančių eurų.
+užtraukia baudą asmenims nuo septynių šimtų dvidešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 506 straipsnis. Statutinių valstybės tarnautojų, karo policijos ar žvalgybos pareigūnų teisėtų nurodymų ar reikalavimų nevykdymas
 
@@ -9702,7 +9918,11 @@ užtraukia baudą aukų iki vienuolikos eurų rinkimo telefonu paslaugą savaran
 
 Tyčinis kompetentingo pareigūno uždėto antspaudo (plombos) sugadinimas arba nuplėšimas, išskyrus šio kodekso 216 straipsnyje numatytus atvejus,
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 #### 547 straipsnis. Atsisakymas teikti informaciją visuomenės informavimo priemonių atstovams ar trukdymas žurnalistams atlikti profesines pareigas
 
@@ -9793,6 +10013,28 @@ užtraukia įspėjimą arba baudą nuo trisdešimt iki šešiasdešimt eurų.
 Įslaptintos informacijos apsaugą reglamentuojančių teisės aktų reikalavimų pažeidimas, sukėlęs ar galėjęs sukelti grėsmę įslaptintos informacijos saugumui,
 
 užtraukia įspėjimą arba baudą nuo dvidešimt iki penkiasdešimt eurų.
+
+#### 555¹ straipsnis. Lietuvos Respublikos pranešėjų apsaugos įstatyme ir (ar) kituose teisės aktuose nustatytų pranešėjų apsaugos reikalavimų pažeidimas
+
+1\. Lietuvos Respublikos pranešėjų apsaugos įstatyme ir (ar) kituose teisės aktuose nustatytų pranešėjų apsaugos reikalavimų pažeidimas
+
+užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, jeigu dėl to buvo atskleista informaciją apie pažeidimą pateikusio asmens tapatybė, arba draudimo daryti neigiamą poveikį informaciją apie pažeidimus pateikusiems asmenims nesilaikymas
+
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
 ### XXVI SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU KRAŠTO APSAUGOS TARNYBA
 
@@ -9926,9 +10168,33 @@ Administraciniai nusižengimai tiriami ir administracinių nusižengimų bylos n
 
 2\. Įrodymus renka, prireikus skiria ekspertizę ar reikalauja specialisto išvados pareigūnai, atliekantys administracinio nusižengimo tyrimą.
 
-3\. Įrodymais gali būti tik tokie duomenys, kurie patvirtina arba paneigia bent vieną aplinkybę, turinčią reikšmės bylai teisingai išnagrinėti. Ar gauti duomenys laikytini įrodymais, sprendžia teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas).
+3\. Įrodymai gali būti renkami nedalyvaujant pareigūnui, kai administraciniai nusižengimai fiksuojami stacionariomis ar mobiliosiomis teisės pažeidimų fiksavimo sistemomis.
 
-4\. Teismas ir administracinių nusižengimų bylas ne teismo tvarka nagrinėjanti institucija (pareigūnas) įrodymus įvertina pagal savo vidinį įsitikinimą, pagrįstą išsamiu ir nešališku visų bylos aplinkybių išnagrinėjimu, vadovaudamiesi įstatymu.
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+4\. Įrodymais gali būti tik tokie duomenys, kurie patvirtina arba paneigia bent vieną aplinkybę, turinčią reikšmės bylai teisingai išnagrinėti. Ar gauti duomenys laikytini įrodymais, sprendžia teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas).
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+5\. Teismas ir administracinių nusižengimų bylas ne teismo tvarka nagrinėjanti institucija (pareigūnas) įrodymus įvertina pagal savo vidinį įsitikinimą, pagrįstą išsamiu ir nešališku visų bylos aplinkybių išnagrinėjimu, vadovaudamiesi įstatymu.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+6\. Administracinio nusižengimo padarymo faktas, administracinėn atsakomybėn traukiamo asmens kaltė, aplinkybės, turinčios reikšmės bylai teisingai išnagrinėti, negali būti pagrįstos vien tik liudytojų, kurių konfidencialumas yra užtikrintas, parodymais.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 570 straipsnis. Administracinių nusižengimų bylų viešumas
 
@@ -9958,11 +10224,13 @@ Kiekvienas administracinėn atsakomybėn traukiamas asmuo, taip pat nukentėjusy
 
 #### 573 straipsnis. Šaukimų ir kitų procesinių dokumentų įteikimas administracinio nusižengimo teisenoje dalyvaujantiems asmenims
 
-1\. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčiami registruotu laišku į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jeigu asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą, arba į teismą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui.
+1\. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčiami registruotu laišku arba elektroniniu paštu. Registruotas laiškas siunčiamas į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jeigu asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą, arba į teismą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims gali būti siunčiami elektroniniu paštu tik tais atvejais, kai asmenys elektroninio pašto adresą nurodė valstybės informacinėse sistemose ar registruose, kurie naudojami elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms įvykdyti.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-954, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21666*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 2\. Administracinėn atsakomybėn traukiamam asmeniui, nukentėjusiajam, kurie buvo šaukiami į administracinio nusižengimo bylos nagrinėjimą, apie tolesnį bylos nagrinėjimą gali būti pranešama neregistruotu laišku ar kitu būdu siunčiamu pranešimu, išskyrus šio kodekso 629 straipsnio 2 dalyje numatytus atvejus.
 
@@ -9974,7 +10242,11 @@ Kiekvienas administracinėn atsakomybėn traukiamas asmuo, taip pat nukentėjusy
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-5\. Šiame kodekse nustatytais atvejais ir tvarka įteikiant administracinio nusižengimo teisenoje dalyvaujančiam asmeniui ar kitiems asmenims procesinį dokumentą elektroninių ryšių priemonėmis, procesinio dokumento įteikimo diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
+5\. Šiame kodekse nustatytais atvejais ir tvarka įteikiant administracinio nusižengimo teisenoje dalyvaujančiam asmeniui ar kitiems asmenims procesinį dokumentą elektroniniu paštu ar elektroninių ryšių priemonėmis, procesinio dokumento įteikimo diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 574 straipsnis. Procesinių dokumentų pateikimas elektroninių ryšių priemonėmis
 
@@ -9984,7 +10256,11 @@ Procesiniai dokumentai (skundai, prašymai, paaiškinimai ir kt.) teismui, admin
 
 #### 575 straipsnis. Administracinio nusižengimo teisenoje dalyvaujantys asmenys
 
-1\. Administracinio nusižengimo teisenoje dalyvaujantys asmenys yra administracinėn atsakomybėn traukiamas asmuo, nukentėjusysis, administracinėn atsakomybėn traukiamo asmens atstovai, nukentėjusiojo atstovai ir institucijos, kurios pareigūnas atliko administracinio nusižengimo tyrimą, atstovas.
+1\. Administracinio nusižengimo teisenoje dalyvaujantys asmenys yra administracinėn atsakomybėn traukiamas asmuo, nukentėjusysis, administracinėn atsakomybėn traukiamo asmens atstovai, nukentėjusiojo atstovai ir institucijos, kurios pareigūnas atliko administracinio nusižengimo tyrimą arba kurioje buvo automatiškai suformuotas administracinio nusižengimo protokolas, atstovas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 2\. Atsižvelgiant į konkrečios bylos ypatumus, administracinio nusižengimo byloje gali dalyvauti administracinio nusižengimo tyrimą atlikęs pareigūnas, vertėjas, ekspertas, specialistas ir liudytojai. Šie asmenys teisenoje dalyvauja tik tiek, kiek reikalinga užtikrinti nemokantiems lietuvių kalbos asmenims dalyvavimą administracinio nusižengimo byloje ar surinkti ir patikrinti pateiktus įrodymus.
 
@@ -10078,6 +10354,12 @@ Procesiniai dokumentai (skundai, prašymai, paaiškinimai ir kt.) teismui, admin
 
 4\. Už melagingų parodymų davimą teisme liudytojas atsako pagal Baudžiamojo kodekso 235 straipsnį. Už melagingų parodymų davimą administracinio nusižengimo tyrimo ir administracinio nusižengimo nagrinėjimo ne teismo tvarka metu liudytojas atsako pagal šio kodekso 224 straipsnio 2 dalį.
 
+5\. Asmenys, kurių konfidencialumas turi būti užtikrinamas Pranešėjų apsaugos įstatymo nustatyta tvarka, liudyti paprastai nešaukiami. Kai tokio asmens parodymai turi esminę reikšmę bylai teisingai išnagrinėti ir jam nedalyvaujant nėra kitų galimybių nustatyti bylai reikšmingas aplinkybes, teismas motyvuota nutartimi arba administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) motyvuotu nutarimu gali nuspręsti asmenį, kurio konfidencialumas turi būti užtikrintas, šaukti liudytoju. Teismas arba administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) gali pavesti policijai taip organizuoti šioje dalyje numatyto liudytojo atvykimą į teismą, kad būtų užtikrintas jo konfidencialumas. Teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) privalo imtis priemonių, kad asmens, kurio konfidencialumas turi būti užtikrintas, tapatybė nebūtų atskleista proceso dalyviams ar kitiems asmenims. Šio liudytojo asmens duomenys surašomi atskirame procesinio dokumento priede, kuris laikomas voke ir saugomas atskirai nuo bylos medžiagos. Liudytojas gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis sudarius akustines ir vizualines kliūtis nustatyti jo asmens tapatybę. Šiuo atveju liudytojo parodymai fiksuojami garso ar vaizdo įrašu sudarius akustines ir vizualines kliūtis nustatyti jo tapatybę arba įrašomi apklausos protokole.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
+
 #### 582 straipsnis. Aplinkybės, kai asmenys negali būti apklausiami kaip liudytojai
 
 1\. Liudytojo parodymų negali duoti:
@@ -10152,7 +10434,11 @@ Kai administracinėn atsakomybėn traukiamas asmuo ir nukentėjusysis yra nepiln
 
 #### 589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai
 
-Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų tyrimą atlieka ir administracinių nusižengimų protokolus surašo šių institucijų pareigūnai:
+Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų tyrimą atlieka ir administracinių nusižengimų protokolus surašo, išskyrus šio kodekso 611 straipsnio 4 dalyje nustatytus atvejus, šių institucijų pareigūnai:
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 1\) Lietuvos Respublikos Seimo kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10164,7 +10450,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 5\) Vyriausiosios rinkimų komisijos pirmininkas ar jo įgaliotas šios komisijos narys – dėl šio kodekso 93 straipsnyje, 224 straipsnio 2 dalyje, 544, 545 straipsniuose numatytų administracinių nusižengimų;
 
-6\) prokurorai – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
+6\) prokurorai – dėl šio kodekso 505, 507 ir 555¹ straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
 7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 221, 222, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10218,11 +10508,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 20\) Lietuvos Respublikos sveikatos apsaugos ministerijos – dėl šio kodekso 68¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-21\) Lietuvos Respublikos švietimo ir mokslo ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 80, 226¹, 505, 507, 549 straipsniuose numatytų administracinių nusižengimų;
+21\) Lietuvos Respublikos švietimo ir mokslo ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 80, 98¹, 226¹, 505, 507, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431*
+
+*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
 
 22\) Lietuvos Respublikos ūkio ministerijos – dėl šio kodekso 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10314,7 +10606,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
 
-40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 304² straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 510¹, 515 straipsniuose numatytų administracinių nusižengimų;
+40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 304² straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 5, 6 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 510¹, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10335,6 +10627,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534*
 
 *Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 41\) neteko galios nuo 2017-12-01;
 
@@ -10380,7 +10674,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724*
 
-49\) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553 straipsniuose numatytų administracinių nusižengimų;
+49\) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10397,6 +10691,12 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534*
 
 *Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600*
+
+*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 493, 505 straipsniuose, 506 straipsnio 4 dalyje, 507, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10424,13 +10724,17 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
-58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3, 4 dalyse numatytų administracinių nusižengimų;
+58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 95, 96, 97, 98, 98¹, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 11, 17, 20, 21, 22, 23 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3, 4 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474*
 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
+
+*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
+
+*Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882*
 
 59\) Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos – dėl šio kodekso 505, 507, 550, 551 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10448,7 +10752,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
 
-63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411 straipsniuose, 413 straipsnio 1 dalyje, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10464,11 +10768,17 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600*
 
+*Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480*
+
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10484,7 +10794,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 308¹ straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 49¹ straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 308¹ straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10493,6 +10803,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
 *Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 71\) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos – dėl šio kodekso 72, 73, 74, 75, 80 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10600,13 +10912,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-82\) savivaldybių administracijų – dėl šio kodekso 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168, 178, 179, 180, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419, 431 straipsniuose, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3 dalyse, 449, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 507, 516, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168, 178, 179, 180, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419, 431 straipsniuose, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3 dalyse, 449, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 507, 516, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-927, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21600*
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -10644,7 +10958,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-86\) Valstybinės priešgaisrinės gelbėjimo tarnybos apskričių priešgaisrinių gelbėjimo valdybų – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4 dalyje, 508, 526 straipsniuose numatytų administracinių nusižengimų;
+86\) neteko galios 2019-01-01;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1769, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20880*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -10718,11 +11036,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-93\) jūrų laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 413¹, 505 straipsniuose numatytų administracinių nusižengimų;
+93\) neteko galios nuo 2019-01-01;
 
 *Papildyta straipsnio punktu:*
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -10824,7 +11146,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 1\. Pareigūnai, atlikdami įstatymų įgyvendinimo kontrolę ar kitas teisės aktuose nustatytas funkcijas, administracinių nusižengimų teiseną pradeda vadovaudamiesi šiuo kodeksu ir jų veiklą reglamentuojančiais teisės aktais. Dėl administracinio nusižengimo teisenos pradžios specialus procesinis dokumentas nerašomas.
 
-2\. Administracinio nusižengimo teisena taip pat gali būti pradėta gavus pranešimą, aktą ar kitokį dokumentą, kuriuo asmuo, kuris nėra pareigūnas, užfiksavo administracinio nusižengimo požymius turinčios veikos padarymą.
+2\. Administracinio nusižengimo teisena taip pat gali būti pradėta gavus pranešimą, aktą ar kitokį dokumentą, kuriuo asmuo, kuris nėra pareigūnas, užfiksavo administracinio nusižengimo požymių turinčios veikos padarymą, arba šio kodekso 611 straipsnio 4 dalyje nustatytais atvejais automatiškai Administracinių nusižengimų registre suformuojant administracinio nusižengimo protokolą ar pranešimą apie administracinio nusižengimo požymių turinčios veikos padarymą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 3\. Administracinio nusižengimo tyrimą atlikti privalo tos pačios institucijos, kuri užfiksavo šio administracinio nusižengimo požymių turinčią veiką arba kurioje buvo gautas pranešimas, aktas ar kitoks dokumentas, kuriuo užfiksuotas administracinio nusižengimo požymius turinčios veikos padarymas, pareigūnai, jei jos pareigūnams šio kodekso 589 straipsnyje suteikta teisė atlikti administracinio nusižengimo tyrimą.
 
@@ -10934,7 +11260,11 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-9\) specialiąją teisę patvirtinančio dokumento paėmimą, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo;
+9\) specialiąją teisę patvirtinančio dokumento paėmimą, teisės vairuoti transporto priemones sustabdymą, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 10\) priverstinį transporto priemonės nuvežimą;
 
@@ -11006,7 +11336,11 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 #### 599 straipsnis. Daiktų ir dokumentų paėmimas
 
-1\. Asmens administracinio sulaikymo, asmens apžiūros ar daiktų patikrinimo metu rasti daiktai ir dokumentai, kurie yra nusižengimo įrankis, tiesioginis objektas arba yra reikšmingi administracinio nusižengimo tyrimui ir bylos nagrinėjimui, gali būti paimami. Paimti daiktai ir dokumentai iki administracinio nusižengimo bylos išnagrinėjimo saugomi pareigūnų nustatytose vietose, o išnagrinėjus bylą, remiantis priimtu nutarimu (sprendimu), nustatyta tvarka konfiskuojami arba grąžinami teisėtam valdytojui, arba sunaikinami. Daiktai, kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimas, priežiūra ir laikymas susiję su aiškiai per didelėmis išlaidomis, jeigu negali būti grąžinami teisėtam valdytojui, administracinį nusižengimą tiriančio pareigūno nutarimu realizuojami Lietuvos Respublikos civilinio proceso kodekse (toliau – Civilinio proceso kodeksas) nustatyta areštuoto turto realizavimo tvarka. Įstatymuose nustatytais atvejais teisėtam valdytojui atlyginama realizuotų arba sunaikintų daiktų vertė.
+1\. Asmens administracinio sulaikymo, asmens apžiūros ar daiktų patikrinimo metu rasti daiktai ir dokumentai, kurie yra administracinio nusižengimo įrankis, tiesioginis objektas arba yra reikšmingi administracinio nusižengimo tyrimui ir bylos nagrinėjimui, gali būti paimami. Paimti daiktai ir dokumentai saugomi pareigūnų nustatytose vietose ir, remiantis priimtu nutarimu (sprendimu), nustatyta tvarka konfiskuojami arba grąžinami teisėtam valdytojui, arba sunaikinami. Daiktai, kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimas, priežiūra ir laikymas susiję su aiškiai per didelėmis išlaidomis, jeigu negali būti grąžinami teisėtam valdytojui, administracinį nusižengimą tiriančio pareigūno nutarimu realizuojami Lietuvos Respublikos civilinio proceso kodekse nustatyta areštuoto turto realizavimo tvarka. Įstatymuose nustatytais atvejais teisėtam valdytojui atlyginama realizuotų arba sunaikintų daiktų vertė.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 2\. Padarius šio kodekso 182, 183, 227, 228, 229, 231, 232, 233, 482, 483 straipsniuose numatytus administracinius nusižengimus, policijos pareigūnai iki administracinio nusižengimo bylos išnagrinėjimo turi teisę paimti tuose straipsniuose nurodytus ginklus, šaudmenis, civilines pirotechnikos priemones, ginklų taikiklius ar kitus priedėlius, kuriuos pagal Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymą su tos rūšies ginklais draudžiama naudoti, iki bylos išnagrinėjimo ir sprendimo dėl paimtų daiktų priėmimo. Apie tai įrašoma šių daiktų paėmimo protokole: nurodoma paimto ginklo markė ar modelis, kalibras, serija ir numeris, šaudmenų kiekis ir rūšis, civilinių pirotechnikos priemonių, ginklų taikiklių ar kitų priedėlių, kuriuos pagal Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymą su tos rūšies ginklais draudžiama naudoti, kiekis ir klasė. Kai administracinį nusižengimą padaro asmuo, eidamas tarnybines pareigas, daiktų paėmimas, asmens apžiūra ir daiktų patikrinimas taikomas tik tais atvejais, kai atidėlioti negalima.
 
@@ -11036,11 +11370,13 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 4\. Administracinį nusižengimą tiriantis pareigūnas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) turi teisę neatlygintinai gauti valstybės registrų duomenis, reikalingus funkcijoms atlikti.
 
-**602 straipsnis. Teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimas, teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančios licencijos galiojimo sustabdymas, taip pat specialiąją teisę patvirtinančio dokumento paėmimas, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo**
+**602 straipsnis. Teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimas, teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančios licencijos galiojimo sustabdymas, taip pat specialiąją teisę patvirtinančio dokumento paėmimas, teisės vairuoti transporto priemones sustabdymas, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo**
 
 *Pakeistas straipsnio pavadinimas:*
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 1\. Kai įtariama, kad padarytas administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti vidaus vandenų transporto priemonę atėmimas, iš vidaus vandenų transporto priemonės vairuotojo paimamas teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto laipsnio diplomas, kvalifikacijos liudijimas arba laivavedžio pažymėjimas), išduodamas laikinasis leidimas vairuoti vidaus vandenų transporto priemonę ir apie tai įrašoma administracinio nusižengimo protokole. Kai priimamas nutarimas atimti teisę vairuoti vidaus vandenų transporto priemonę, teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto laipsnio diplomas, kvalifikacijos liudijimas arba laivavedžio pažymėjimas) negrąžinamas, o laikinojo leidimo vairuoti vidaus vandenų transporto priemonę galiojimas pratęsiamas, iki baigsis nustatytas skundo padavimo terminas arba iki įsiteisės administracinio nusižengimo teiseną užbaigiantis teismo sprendimas. Kai asmeniui surašytas administracinis nurodymas, laikinas leidimas nustoja galioti asmeniui įvykdžius administracinį nurodymą.
 
@@ -11050,7 +11386,17 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-3\. Kai įtariama, kad administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas specialiosios teisės atėmimas, padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, arba kai administracinėn atsakomybėn traukiamas asmuo vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po veikos padarymo ar iki jos aplinkybių nustatymo, iš administracinėn atsakomybėn traukiamo asmens paimamas specialiąją teisę patvirtinantis dokumentas ir negrąžinamas asmeniui tol, kol administracinio nusižengimo byloje įsiteisėja galutinis sprendimas.
+3\. Kai įtariama, kad administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, arba kai administracinėn atsakomybėn traukiamas asmuo vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po veikos padarymo ar iki jos aplinkybių nustatymo, iš administracinėn atsakomybėn traukiamo asmens paimamas specialiąją teisę patvirtinantis dokumentas ir negrąžinamas asmeniui tol, kol administracinio nusižengimo byloje įsiteisėja galutinis sprendimas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+4\. Kai įtariama, kad administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti transporto priemones atėmimas, padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, arba kai administracinėn atsakomybėn traukiamas asmuo vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po veikos padarymo ar iki jos aplinkybių nustatymo, administracinėn atsakomybėn traukiamo asmens teisė vairuoti transporto priemones sustabdoma tol, kol administracinio nusižengimo byloje įsiteisėja galutinis sprendimas ir apie tai įrašoma administracinio nusižengimo protokole.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 603 straipsnis. Priverstinis transporto priemonės nuvežimas
 
@@ -11140,7 +11486,7 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 
 #### 610 straipsnis. Administracinio nurodymo surašymo pagrindai ir jo įvykdymo padariniai
 
-1\. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o šio kodekso 611 straipsnio 1 ir 2 dalyse nurodytais atvejais – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, taip pat per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o šio kodekso 611 straipsnio 1 ir 2 dalyse nurodytais atvejais – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui), kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės atėmimas.
+1\. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui.
 
 *Straipsnio dalies pakeitimai:*
 
@@ -11148,11 +11494,19 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
 2\. Administracinis nurodymas negali būti surašomas, kai yra bent vienas iš šių pagrindų:
 
 1\) šio kodekso specialiosios dalies straipsnio ar straipsnio dalies sankcijoje už administracinį nusižengimą nustatyta didesnė negu vieno tūkstančio penkių šimtų eurų maksimali bauda;
 
-2\) asmuo per metus padarė pakartotinį administracinį nusižengimą, numatytą tame pačiame šio kodekso specialiosios dalies straipsnyje;
+2\) asmuo per metus padarė pakartotinį administracinį nusižengimą, išskyrus šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje numatytus administracinius nusižengimus;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 3\) asmuo administracinį nusižengimą padarė būdamas neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ir tai turėjo įtakos administracinio nusižengimo padarymui, vengė patikrinimo dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo;
 
@@ -11164,7 +11518,11 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-6\) asmuo yra padaręs du ar daugiau su transporto eismo sauga susijusių administracinių nusižengimų, kurių duomenys gauti iš stacionarių ar mobiliųjų teisės pažeidimų fiksavimo sistemų;
+6\) neteko galios nuo 2019-01-01;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 7\) asmuo padarė administracinį nusižengimą, susijusį su naudojimusi šio kodekso 28 straipsnio 1 dalyje nurodyta specialiąja teise, šios teisės neturėdamas arba kai ji iš asmens buvo atimta.
 
@@ -11172,29 +11530,43 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 
 4\. Administracinis nurodymas yra neskundžiamas.
 
-5\. Asmeniui per šio straipsnio 1 dalyje nurodytą terminą sumokėjus administraciniame nurodyme nustatytą baudą, o kai numatyta, – ir grąžinus specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai, laikoma, kad administracinis nurodymas įvykdytas. Asmeniui įvykdžius administracinį nurodymą, administracinio nusižengimo teisena pasibaigia.
+5\. Asmeniui per šio straipsnio 1 dalyje nurodytą terminą sumokėjus administraciniame nurodyme nustatytą baudą, o kai numatyta, – ir grąžinus specialiąją teisę patvirtinančius dokumentus (išskyrus dokumentą, patvirtinantį teisę vairuoti transporto priemones) atitinkamai institucijai, laikoma, kad administracinis nurodymas įvykdytas. Asmeniui įvykdžius administracinį nurodymą, jei šio kodekso 33 straipsnio 1 dalies 4 punkte nustatytu atveju nepriimamas nutarimas skirti administracinio poveikio priemonę, administracinio nusižengimo teisena pasibaigia.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 611 straipsnis. Administracinio nusižengimo protokolo ir administracinio nurodymo surašymas tais atvejais, kai nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje
 
-1\. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282 straipsnyje, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421, 432 straipsniuose, 459 straipsnio 3, 4 ir 5 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalies 2 punktą administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui). Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalies 2 punktą administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) pripažįstamas negaliojančiu.
+1\. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282 straipsnyje, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 6 ir 7 dalyse, 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421, 432 straipsniuose, 459 straipsnio 1, 4, 5, 6 ir 7 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui). Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) pripažįstamas negaliojančiu.
 
-2\. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje ar 459 straipsnio 3, 4, 5 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalies 2 punktą administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
+2\. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
 
-3\. Nustatant šio straipsnio 1 dalyje nurodytus administracinius nusižengimus, daromos transporto priemonės nuotraukos, kuriose užfiksuojami nusižengimai, arba nusižengimai užfiksuojami stacionariomis ar mobiliosiomis teisės pažeidimų fiksavimo sistemomis.
+3\. Nustatant šio straipsnio 1 dalyje nurodytus administracinius nusižengimus, daromos transporto priemonės nuotraukos arba vaizdo įrašas, kuriose (kuriame) užfiksuojami nusižengimai, arba nusižengimai užfiksuojami stacionariomis ar mobiliosiomis teisės pažeidimų fiksavimo sistemomis.
+
+4\. Už šio straipsnio 1 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta, laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu; kiti bylai išnagrinėti būtini duomenys. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas nepasirašomas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
 
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
 #### 612 straipsnis. Administracinio nusižengimo protokolo surašymas padarius kelis administracinius nusižengimus
 
-1\. Kai asmens vienu metu padaryta veika ar veikos užtraukia administracinę atsakomybę pagal kelis šio kodekso straipsnius ar straipsnių dalis, pagal kuriuos atlikti tyrimą ir surašyti administracinio nusižengimo protokolą turi teisę tos pačios institucijos pareigūnai, gali būti surašomas vienas administracinio nusižengimo protokolas. Šiuo atveju, jei dėl vieno iš administracinių nusižengimų administracinis nurodymas negali būti surašomas, dėl visų administracinių nusižengimų surašomas protokolas be administracinio nurodymo.
+Kai asmens vienu metu padaryta veika ar veikos užtraukia administracinę atsakomybę pagal kelis šio kodekso straipsnius ar straipsnių dalis, pagal kuriuos atlikti tyrimą ir surašyti administracinio nusižengimo protokolą turi teisę tos pačios institucijos pareigūnai, gali būti surašomas vienas administracinio nusižengimo protokolas. Šiuo atveju, jei dėl vieno iš administracinių nusižengimų administracinis nurodymas negali būti surašomas, dėl visų administracinių nusižengimų surašomas protokolas be administracinio nurodymo.
 
-2\. Dėl asmens padarytų dviejų ar daugiau stacionariomis ar mobiliosiomis teisės pažeidimų fiksavimo sistemomis užfiksuotų su transporto eismo sauga susijusių administracinių nusižengimų, kurių duomenys gauti iš stacionarių ar mobiliųjų teisės pažeidimų fiksavimo sistemų, gali būti surašomas vienas administracinio nusižengimo protokolas.
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 613 straipsnis. Administracinio nusižengimo protokolo ir tyrimo medžiagos siuntimas bylai nagrinėti
 
-1\. Administracinėn atsakomybėn traukiamam asmeniui neįvykdžius administracinio nurodymo, šis nurodymas laikomas negaliojančiu ir per penkias darbo dienas nuo šio kodekso 610 straipsnio 1 dalyje nustatytų terminų pabaigos administracinio nusižengimo protokolas išsiunčiamas teismui ar pateikiamas institucijai, kurios pareigūnas įgaliotas nagrinėti administracinio nusižengimo bylą ne teismo tvarka. Protokolas nesiunčiamas teismui ar kitai institucijai, kurios pareigūnas įgaliotas nagrinėti administracinio nusižengimo bylą ne teismo tvarka, jei asmuo nustatytu laiku įvykdo administracinį nurodymą.
+1\. Administracinėn atsakomybėn traukiamam asmeniui neįvykdžius administracinio nurodymo, šis nurodymas laikomas negaliojančiu ir ne anksčiau kaip po penkių, bet ne vėliau kaip po dešimt darbo dienų nuo šio kodekso 610 straipsnio 1 dalyje nustatytų terminų pabaigos administracinio nusižengimo protokolas išsiunčiamas teismui ar pateikiamas institucijai, kurios pareigūnas įgaliotas nagrinėti administracinio nusižengimo bylą ne teismo tvarka. Protokolas nesiunčiamas teismui ar kitai institucijai, kurios pareigūnas įgaliotas nagrinėti administracinio nusižengimo bylą ne teismo tvarka, jei asmuo nustatytu laiku įvykdo administracinį nurodymą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 2\. Asmuo, kuriam rašomas administracinis nurodymas, gali kreiptis į administracinio nusižengimo protokolą rašantį pareigūną su prašymu neįrašyti į protokolą administracinio nurodymo arba gali raštu kreiptis į instituciją, kurios pareigūnas surašė administracinio nusižengimo protokolą, kad administracinis nurodymas būtų panaikintas ir nelaukiant nustatyto termino pabaigos administracinio nusižengimo protokolas būtų siunčiamas nagrinėti teismui arba administracinio nusižengimo bylą ne teismo tvarka nagrinėsiančiai institucijai (pareigūnui).
 
@@ -11886,7 +12258,11 @@ Administracinio nusižengimo byla, užbaigta įsiteisėjusiu nutarimu ar nutarti
 
 #### 665 straipsnis. Turtinės žalos atlyginimas nesusitarus
 
-1\. Jeigu, nagrinėjant administracinio nusižengimo bylą apylinkės ar apygardos teisme arba ne teismo tvarka institucijoje, padarytos turtinės žalos dydį galima nustatyti neatidėjus šios bylos nagrinėjimo, administracinio nusižengimo bylą nagrinėjantis teismas ar institucija gali priteisti nukentėjusiajam žalos atlyginimą. Administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija gali priteisti tik vieno šimto penkiasdešimt eurų neviršijančios turtinės žalos atlyginimą.
+1\. Jeigu, nagrinėjant administracinio nusižengimo bylą apylinkės ar apygardos teisme arba ne teismo tvarka institucijoje, padarytos turtinės žalos dydį galima nustatyti neatidėjus šios bylos nagrinėjimo, administracinio nusižengimo bylą nagrinėjantis teismas ar institucija gali priteisti nukentėjusiajam žalos atlyginimą. Teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija, priteisdami nukentėjusiajam žalą, nustato žalos atlyginimo terminą. Nustatant šį terminą, būtina atsižvelgti į turtinės žalos dydį ir administracinėn atsakomybėn traukiamo asmens finansinę padėtį. Administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija gali priteisti tik vieno šimto penkiasdešimt eurų neviršijančios turtinės žalos atlyginimą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 2\. Šio straipsnio 1 dalyje nenurodytais atvejais teismas ar institucija, priimdami nutarimą, gali pripažinti nukentėjusiajam teisę į civilinio ieškinio patenkinimą, o klausimą dėl turtinės žalos dydžio perduoti nagrinėti civilinio proceso tvarka.
 
@@ -11926,7 +12302,11 @@ Administracinių nusižengimų bylų nagrinėjimo teisme išlaidoms atlyginti mu
 
 1\. Administraciniai nurodymai vykdomi savo noru.
 
-2\. Administracinis nurodymas sumokėti baudą įvykdomas laiku sumokant nurodyto dydžio baudą į administraciniame nurodyme nurodytą sąskaitą.
+2\. Administracinis nurodymas sumokėti baudą, taip pat sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui įvykdomas laiku sumokant nurodyto dydžio baudą į administraciniame nurodyme nurodytą sąskaitą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 3\. Administracinis nurodymas grąžinti specialiąją teisę patvirtinančius dokumentus įvykdomas laiku atiduodant šiuos dokumentus arba šio kodekso 602 straipsnio 1 dalyje nustatyta tvarka išduotą laikinąjį dokumentą ar kitą specialiąją teisę patvirtinantį dokumentą institucijai, kurios pareigūnas surašė administracinio nusižengimo protokolą su administraciniu nurodymu.
 
@@ -12044,11 +12424,11 @@ Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones,
 
 #### 682 straipsnis. Teisės vairuoti transporto priemones atėmimo vykdymo tvarka
 
-1\. Teisės vairuoti transporto priemones atėmimas vykdomas paimant vairuotojo pažymėjimą.
+Teisės vairuoti transporto priemones atėmimas vykdomas įrašant duomenis apie teisės vairuoti transporto priemones atėmimą į Administracinių nusižengimų registrą.
 
-2\. Asmuo, kuriam paskirtas teisės vairuoti transporto priemones atėmimas, nutarimo įsiteisėjimo dieną, o kai teisė vairuoti transporto priemones atimama dėl vairavimo, kai tai darė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmuo, dėl vengimo pasitikrinti neblaivumą, apsvaigimą dėl alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo po veikos padarymo ar iki jos aplinkybių nustatymo, – nutarimo atimti šią teisę priėmimo dieną (jei vairuotojo pažymėjimas nebuvo paimtas šio kodekso 602 straipsnio 3 dalyje nustatyta tvarka) privalo institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą, o kai nutarimas priimtas ne teismo tvarka, – nutarimą priėmusiai institucijai pateikti vairuotojo pažymėjimą, kuris perduodamas teisę vairuoti transporto priemones suteikiančiai institucijai.
+*Straipsnio pakeitimai:*
 
-3\. Jeigu vairuotojas, iš kurio atimta teisė vairuoti transporto priemones, šio straipsnio 2 dalyje nustatytu laiku vairuotojo pažymėjimo nepateikia šio straipsnio 2 dalyje nurodytai institucijai, teisės vairuoti transporto priemones atėmimas pratęsiamas tiek, kiek laiko nebuvo pateiktas vairuotojo pažymėjimas.
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 683 straipsnis. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės vairuoti vidaus vandenų transporto priemones atėmimo vykdymo tvarka
 
@@ -12086,19 +12466,19 @@ Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones,
 
 #### 686 straipsnis. Specialiųjų teisių atėmimo vykdymo terminų nustatymas
 
-1\. Transporto priemonių vairuotojams, orlaivio įgulos nariams, orlaivių techninę priežiūrą atliekantiems asmenims, medžioklės taisykles pažeidusiems asmenims, laivų vairuotojams, kurie padarė administracinį nusižengimą būdami neblaivūs ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kurie vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo, specialiosios teisės atėmimo terminas skaičiuojamas nuo asmens specialiąją teisę patvirtinančio dokumento paėmimo šio kodekso 602 straipsnio 3 dalyje nustatyta tvarka.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655*
-
-*Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
+1\. Transporto priemonių vairuotojams, orlaivio įgulos nariams, orlaivių techninę priežiūrą atliekantiems asmenims, medžioklės taisykles pažeidusiems asmenims, laivų vairuotojams, kurie padarė administracinį nusižengimą būdami neblaivūs ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kurie vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo, specialiosios teisės atėmimo terminas skaičiuojamas nuo asmens specialiąją teisę patvirtinančio dokumento paėmimo arba asmeniui suteiktos teisės vairuoti transporto priemones sustabdymo šio kodekso 602 straipsnio 3 ir 4 dalyse nustatyta tvarka.
 
 2\. Asmenims, kurie laiku įvykdė administracinį nurodymą grąžinti specialiąją teisę patvirtinančius dokumentus, taip pat asmenims, kurie nelaukdami priimto nutarimo atimti specialiąją teisę įsiteisėjimo dienos grąžino institucijai, kurios pareigūnas surašė administracinio nusižengimo protokolą su administraciniu nurodymu ar atliko administracinio nusižengimo tyrimą ir surašė administracinio nusižengimo protokolą, o kai nutarimas priimtas ne teismo tvarka, – nutarimą priėmusiai institucijai specialiąją teisę patvirtinantį dokumentą arba šio kodekso 602 straipsnio 1 dalyje nustatyta tvarka išduotą laikinąjį dokumentą ar kitą specialiąją teisę patvirtinantį dokumentą, specialiosios teisės atėmimo terminas skaičiuojamas nuo grąžinto dokumento gavimo institucijoje dienos.
 
-3\. Pasibaigus paskirtam teisės vairuoti transporto priemones atėmimo terminui, asmeniui, kuriam ši specialioji teisė atimta trumpesniam negu vienų metų terminui, grąžinami iš jo paimti dokumentai tik po to, kai jis nustatyta tvarka užbaigia papildomą vairuotojų mokymą. Jei asmeniui teisė vairuoti transporto priemones atimta vieniems metams ir ilgiau, iš jo paimti dokumentai grąžinami tik pasibaigus šios specialiosios teisės atėmimo laikui ir kai jis perlaiko egzaminą ir nustatyta tvarka baigia papildomą vairuotojų mokymą.
+3\. Asmenims, kurie sutiko su teisės vairuoti transporto priemones atėmimu laiku įvykdydami administracinį nurodymą sumokėti baudą, šios teisės atėmimo terminas pradedamas skaičiuoti kitą dieną po dienos, kurią sumokėta administraciniu nurodymu siūloma sumokėti bauda. Nutarimu paskirtos teisės vairuoti transporto priemones atėmimo terminas, išskyrus šio straipsnio 1 dalyje nustatytą atvejį, skaičiuojamas nuo priimto nutarimo atimti teisę vairuoti transporto priemones įsiteisėjimo dienos.
 
-4\. Jeigu specialioji teisė buvo atimta už tai, kad asmuo administracinį nusižengimą padarė būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, pasibaigus paskirtam teisės atėmimo terminui iš asmens paimti dokumentai grąžinami tik Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos.
+4\. Pasibaigus paskirtam teisės vairuoti transporto priemones atėmimo terminui, asmeniui, kuriam ši specialioji teisė atimta trumpesniam negu vienų metų terminui, specialioji teisė grąžinama tik po to, kai jis nustatyta tvarka užbaigia papildomą vairuotojų mokymą. Jei asmeniui teisė vairuoti transporto priemones atimta vieniems metams ir ilgiau, iš jo atimta specialioji teisė grąžinama tik pasibaigus šios specialiosios teisės atėmimo laikui ir kai jis perlaiko egzaminą ir nustatyta tvarka baigia papildomą vairuotojų mokymą.
+
+5\. Jeigu specialioji teisė buvo atimta už tai, kad asmuo administracinį nusižengimą padarė būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, pasibaigus paskirtam specialiosios teisės atėmimo terminui ši teisė grąžinama tik Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
 
 #### 687 straipsnis. Administracinio poveikio priemonės – turto konfiskavimo vykdymas
 
@@ -13439,3 +13819,59 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 345 straipsnio ir priedo pakeitimo įstatymas
+
+61\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir kodekso papildymo 98-1 ir 494-1 straipsniais įstatymas
+
+62\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 385 ir 589 straipsnių pakeitimo įstatymas
+
+63\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1769, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20880
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+64\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 33, 64, 99, 108, 109, 127, 132, 137, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 188, 189, 190, 191, 192, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 217-1, 218, 426, 505, 546, 589, 599, 610, 613, 665 straipsnių pakeitimo ir Kodekso papildymo 49-1, 209-1 straipsniais įstatymas
+
+65\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
+
+Lietuvos Respublikos administracinių nusižengimų kodekso IV skyriaus pavadinimo, 569, 581, 589 straipsnių pakeitimo ir Kodekso papildymo 21-1, 555-1 straipsniais įstatymas
+
+66\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 33, 38, 417, 424, 569, 573, 575, 589, 590, 595, 602, 610, 611, 612, 669, 682 ir 686 straipsnių pakeitimo įstatymas
+
+67\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 straipsnių pakeitimo įstatymas
