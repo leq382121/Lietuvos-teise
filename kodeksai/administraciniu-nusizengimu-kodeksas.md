@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2019-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/dNzZVUZIMP"
+redakcija_nuo: "2019-01-22"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ccIimFJBOO"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -9856,22 +9856,6 @@ užtraukia baudą švietimo įstaigos, mokslo ir studijų institucijos ar kitos 
 
 užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
-3\. Informacijos apie sąlygų, kurios pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai
-
-užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474*
-
-4\. Informacijos apie užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės atsiųsto laikinai dirbti į įmonę Lietuvos Respublikoje užsieniečio darbo pradžią įmonėje Lietuvos Respublikoje nepateikimas laiku Valstybinės darbo inspekcijos teritoriniam skyriui
-
-užtraukia baudą įmonės vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474*
-
 #### 543 straipsnis. Vietinio eismo per sieną režimo pažeidimas
 
 1\. Lietuvos Respublikos su kaimynine trečiąja šalimi sudarytu dvišaliu susitarimu įgyvendinamo vietinio eismo per sieną režimo pažeidimas
@@ -11050,7 +11034,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-94\) Civilinės aviacijos administracijos – dėl šio kodekso 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 413 straipsnio 2 dalyje, 443, 505, 515 straipsniuose numatytų administracinių nusižengimų;
+94\) jūrų laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 413¹, 505 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -11128,7 +11116,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-101\) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų.
+101\) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų;
 
 *Papildyta punktu:*
 
@@ -13875,3 +13863,37 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 straipsnių pakeitimo įstatymas
+
+68\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 415 ir 589 straipsnių pakeitimo įstatymas
+
+69\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1887, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00095
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 134 straipsnio pakeitimo įstatymas
+
+70\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1893, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00099
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 332 straipsnio pakeitimo įstatymas
+
+71\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 369 ir 589 straipsnių pakeitimo įstatymas
+
+0
