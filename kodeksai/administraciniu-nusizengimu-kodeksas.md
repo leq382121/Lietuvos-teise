@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2019-01-22"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ccIimFJBOO"
+redakcija_nuo: "2019-02-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/lnRfyppnfO"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -11474,7 +11474,7 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 
 #### 610 straipsnis. Administracinio nurodymo surašymo pagrindai ir jo įvykdymo padariniai
 
-1\. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui.
+1\. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui).
 
 *Straipsnio dalies pakeitimai:*
 
@@ -11485,6 +11485,8 @@ Padarius šio kodekso 305 straipsnio 11 dalyje numatytą administracinį nusiže
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 *Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888*
+
+*Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167*
 
 2\. Administracinis nurodymas negali būti surašomas, kai yra bent vienas iš šių pagrindų:
 
@@ -13895,5 +13897,13 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 369 ir 589 straipsnių pakeitimo įstatymas
+
+72\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 328, 329, 589 ir 610 straipsnių pakeitimo įstatymas
 
 0
