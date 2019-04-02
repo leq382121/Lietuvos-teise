@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2019-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/QgoUIWgamd"
+redakcija_nuo: "2019-04-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/TOLeqZBsol"
 ---
 
 # Darbo kodeksas
@@ -2696,11 +2696,13 @@ Darbuotojų patikėtinis renkamas slaptu balsavimu visuotiniame darbdavio darbuo
 
 1\. Profesinės sąjungos, gindamos darbuotojų darbo, profesines, ekonomines ir socialines teises ir interesus, vadovaujasi profesinių sąjungų veiklą reglamentuojančiais įstatymais, šiuo kodeksu ir savo įstatais.
 
-2\. Darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiai profesinei sąjungai įsteigti būtina, kad ji turėtų dvidešimt steigėjų arba steigėjais būtų ne mažiau kaip 1/10 visų darbdavio darbuotojų, bet ne mažiau kaip trys.
+2\. Darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiai profesinei sąjungai įsteigti būtina, kad ji turėtų dvidešimt steigėjų arba steigėjais būtų ne mažiau kaip 1/10 visų darbdavio darbuotojų, bet ne mažiau kaip trys. Nacionaliniu, šakos ar teritoriniu lygmeniu veikiančios profesinių sąjungų organizacijos pagal savo įstatuose nustatytą tvarką turi teisę steigti savo padalinius. Tokie padaliniai laikomi darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiomis profesinėmis sąjungomis ir turi visas darbuotojų atstovų teises ir pareigas, numatytas šiame kodekse ir kituose teisės aktuose, jeigu jų nariais steigimo momentu yra atitinkamai ne mažiau kaip 20 to darbdavio darbuotojų arba ne mažiau kaip 1/10 visų to darbdavio darbuotojų, bet ne mažiau kaip trys.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337*
 
 3\. Profesinės sąjungos taip pat turi teisę steigti profesinių sąjungų organizacijas, veikiančias šakos ar teritoriniu lygmeniu, jeigu jas sudaro ne mažiau kaip penkios profesinės sąjungos, veikiančios darbdavio lygmeniu, ir stoti į jas.
 
@@ -3999,3 +4001,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
 
 Lietuvos Respublikos darbo kodekso 31 ir 59 straipsnių pakeitimo įstatymas
+
+10\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
+
+Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
