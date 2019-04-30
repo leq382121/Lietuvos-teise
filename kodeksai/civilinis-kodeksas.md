@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2019-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ksmlRbJnWi"
+redakcija_nuo: "2019-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/hNazxUKswb"
 ---
 
 # Civilinis kodeksas
@@ -1188,7 +1188,11 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 1\. Nepilnamečio iki keturiolikos metų sudarytas sandoris negalioja, išskyrus smulkius buitinius sandorius, kuriuos pagal šį kodeksą ir kitus įstatymus nepilnamečiai iki keturiolikos metų gali sudaryti savarankiškai.
 
-2\. Fizinio asmens, kuris dėl psichikos sutrikimo įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, toje srityje sudarytas sandoris negalioja.
+2\. Fizinio asmens, kuris dėl psichikos ir elgesio sutrikimo įstatymų nustatyta tvarka yra pripažintas neveiksniu tam tikroje srityje, toje srityje sudarytas sandoris negalioja.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 3\. Šio straipsnio 1 ir 2 dalyse numatytais atvejais, be šio kodekso 1.80 straipsnio 2 dalyje numatytų pasekmių, veiksnioji šalis privalo atlyginti antrajai šaliai šios turėtas išlaidas, taip pat jos turto netekimą ar sužalojimą, jeigu veiksnioji šalis žinojo arba turėjo žinoti, kad antroji šalis yra neveiksni šioje srityje.
 
@@ -1200,7 +1204,11 @@ Testatoriaus galėjimas sudaryti, pakeisti ar panaikinti testamentą nustatomas 
 
 ###### 1.85 straipsnis. Ribotai veiksnaus fizinio asmens ir fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, nesinaudojant pagalba sudarytų sandorių pripažinimas negaliojančiais
 
-1\. Fizinio asmens, kurio veiksnumas apribotas tam tikroje srityje dėl psichikos sutrikimo, toje srityje be rūpintojo sutikimo sudarytas sandoris gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+1\. Fizinio asmens, kurio veiksnumas apribotas tam tikroje srityje dėl psichikos ir elgesio sutrikimo, toje srityje be rūpintojo sutikimo sudarytas sandoris gali būti teismo tvarka pripažintas negaliojančiu pagal rūpintojo ar prokuroro ieškinį.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 2\. Fizinio asmens, kuris sprendimus tam tikroje srityje priima naudodamasis pagalba, toje srityje nesinaudojant pagalba sudarytas sandoris gali būti pripažintas negaliojančiu šiame kodekse numatytais sandorių negaliojimo pagrindais pagal pagalbą teikiančio asmens ar prokuroro ieškinį.
 
@@ -1828,7 +1836,11 @@ Galėjimas turėti civilines teises ir pareigas (civilinis teisnumas) pripažįs
 
 ###### 2.10 straipsnis. Fizinio asmens pripažinimas neveiksniu tam tikroje srityje
 
-1\. Fizinis asmuo, kuris dėl psichikos sutrikimo negali suprasti savo veiksmų tam tikroje srityje reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas neveiksniu toje srityje. Neveiksniam tam tikroje srityje asmeniui šioje srityje yra nustatoma globa.
+1\. Fizinis asmuo, kuris dėl psichikos ir elgesio sutrikimo negali suprasti savo veiksmų tam tikroje srityje reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas neveiksniu toje srityje. Neveiksniam tam tikroje srityje asmeniui šioje srityje yra nustatoma globa.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 2\. Teismas sprendime nurodo baigtinį sričių, kuriose asmuo pripažįstamas neveiksniu, sąrašą. Pripažinto neveiksniu tam tikroje srityje asmens vardu sandorius toje srityje sudaro jo globėjas. Globėjo teises ir pareigas nustato šio kodekso trečiosios knygos normos.
 
@@ -1866,7 +1878,11 @@ Galėjimas turėti civilines teises ir pareigas (civilinis teisnumas) pripažįs
 
 ###### 2.11 straipsnis. Fizinių asmenų civilinio veiksnumo apribojimas tam tikroje srityje
 
-1\. Fizinis asmuo, kuris dėl psichikos sutrikimo iš dalies negali suprasti savo veiksmų tam tikroje srityje reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas ribotai veiksniu toje srityje. Kai asmens veiksnumas apribojamas tam tikroje srityje, jam yra nustatoma rūpyba. Rūpintojo teises ir pareigas nustato šio kodekso trečiosios knygos normos.
+1\. Fizinis asmuo, kuris dėl psichikos ir elgesio sutrikimo iš dalies negali suprasti savo veiksmų tam tikroje srityje reikšmės ar jų valdyti, gali būti teismo tvarka pripažintas ribotai veiksniu toje srityje. Kai asmens veiksnumas apribojamas tam tikroje srityje, jam yra nustatoma rūpyba. Rūpintojo teises ir pareigas nustato šio kodekso trečiosios knygos normos.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 2\. Teismas sprendime nurodo baigtinį sričių, kuriose fizinis asmuo pripažįstamas ribotai veiksniu, sąrašą. Srityse, kuriose fizinis asmuo pripažintas ribotai veiksniu, šis asmuo negali sudaryti sandorių ar kitaip veikti be rūpintojo sutikimo. Neveiksnus tam tikroje srityje fizinis asmuo tose srityse, kuriose jis pripažintas ribotai veiksniu, gali sudaryti sandorius ar kitaip veikti su globėjo sutikimu. Šiais atvejais neveiksnaus tam tikroje srityje fizinio asmens sandorių sudarymui mutatis mutandis taikomos šio kodekso nuostatos, reglamentuojančios ribotai veiksnaus tam tikroje srityje asmens sandorių sudarymą. Teismas negali apriboti asmens teisės kreiptis į teismą dėl riboto veiksnumo tam tikroje srityje panaikinimo, dėl šio kodekso 2.25 ir 2.26 straipsniuose numatytų teisių įgyvendinimo ir teisės skųsti rūpintojo ar globėjo veiksmus.
 
@@ -2076,11 +2092,23 @@ Civilinės būklės aktai, išskyrus partnerystę, registruojami civilinės būk
 
 2\. Asmens sveikatos priežiūrai asmens sutikimas nereikalingas, jeigu jo gyvybei gresia pavojus arba būtina jį guldyti į stacionarinę sveikatos priežiūros įstaigą, kad būtų apsaugoti visuomenės interesai.
 
-3\. Asmens psichinė būklė gali būti tiriama tik jo sutikimu arba teismo leidimu. Sutikimą atlikti neveiksnaus šioje srityje asmens psichinės būklės tyrimą gali duoti jo globėjas arba teismas. Jeigu asmens gyvybei gresia realus pavojus, skubi psichiatrinė medicinos pagalba gali būti suteikta ir be asmens sutikimo.
+3\. Asmens psichikos būklė gali būti tiriama tik jo sutikimu arba teismo leidimu. Sutikimą atlikti neveiksnaus šioje srityje asmens psichikos būklės tyrimą gali duoti jo globėjas arba teismas. Jeigu asmens gyvybei gresia realus pavojus, skubi psichiatrinė medicinos pagalba gali būti suteikta ir be asmens sutikimo.
 
-4\. Asmuo gali būti paguldytas į psichiatrijos įstaigą tik jo paties sutikimu, taip pat teismo leidimu. Jeigu asmuo turi psichikos sutrikimą ir yra reali grėsmė, kad jis savo veiksmais ar neveikimu gali padaryti esminės žalos savo ar aplinkinių sveikatai ar gyvybei bei turtui, jis gali būti priverstinai hospitalizuotas, bet ne ilgiau kaip tris darbo dienas. Priverstinė hospitalizacija gali būti pratęsta tik įstatymų nustatyta tvarka teismo leidimu. Jeigu asmuo yra neveiksnus atitinkamoje srityje, sutikimą dėl jo hospitalizacijos, tačiau ne ilgiau kaip tris darbo dienas, gali duoti asmens globėjas. Neveiksnaus atitinkamoje srityje asmens priverstinė hospitalizacija po to gali būti pratęsta tik įstatymų nustatyta tvarka teismo leidimu.
+*Straipsnio dalies pakeitimai:*
 
-5\. Į teismą dėl priverstinės hospitalizacijos ar neveiksnaus atitinkamoje srityje asmens hospitalizacijos jo globėjo sutikimu pratęsimo psichiatrijos įstaiga turi kreiptis ne vėliau kaip per 48 valandas nuo asmens paguldymo į psichiatrijos įstaigą.
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
+
+4\. Asmuo gali būti paguldytas į psichikos sveikatos priežiūros įstaigą tik jo paties sutikimu, taip pat teismo leidimu. Jeigu asmuo turi psichikos ir elgesio sutrikimą ir yra reali grėsmė, kad jis savo veiksmais ar neveikimu gali padaryti esminės žalos savo ar aplinkinių sveikatai ar gyvybei bei turtui, jis gali būti priverstinai hospitalizuotas, bet ne ilgiau kaip tris darbo dienas. Priverstinė hospitalizacija gali būti pratęsta tik įstatymų nustatyta tvarka teismo leidimu. Jeigu asmuo yra neveiksnus atitinkamoje srityje, sutikimą dėl jo hospitalizacijos, tačiau ne ilgiau kaip tris darbo dienas, gali duoti asmens globėjas. Neveiksnaus atitinkamoje srityje asmens priverstinė hospitalizacija po to gali būti pratęsta tik įstatymų nustatyta tvarka teismo leidimu.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
+
+5\. Į teismą dėl priverstinės hospitalizacijos ar neveiksnaus atitinkamoje srityje asmens hospitalizacijos jo globėjo sutikimu pratęsimo psichikos sveikatos priežiūros įstaiga turi kreiptis ne vėliau kaip per 48 valandas nuo asmens paguldymo į psichikos sveikatos priežiūros įstaigą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 6\. Asmenys, neteisėtai apriboję fizinio asmens laisvę, privalo atlyginti jam padarytą turtinę ir neturtinę žalą.
 
@@ -4246,7 +4274,11 @@ Santuoką leidžiama sudaryti tik su skirtingos lyties asmeniu.
 
 3\. Nėštumo atveju teismas gali leisti tuoktis asmeniui, nesulaukusiam šešiolikos metų.
 
-4\. Teismas, spręsdamas klausimą dėl santuokinio amžiaus sumažinimo, turi teismo posėdyje išklausyti norinčio tuoktis nepilnamečio tėvų, globėjų ar rūpintojų nuomonę ir atsižvelgti į jo psichinę bei psichologinę būklę, turtinę padėtį ir svarbias priežastis, dėl kurių būtina sumažinti santuokinį amžių. Nėštumas – svarbi priežastis sumažinti santuokinį amžių.
+4\. Teismas, spręsdamas klausimą dėl santuokinio amžiaus sumažinimo, turi teismo posėdyje išklausyti norinčio tuoktis nepilnamečio tėvų, globėjų ar rūpintojų nuomonę ir atsižvelgti į jo psichikos bei psichologinę būklę, turtinę padėtį ir svarbias priežastis, dėl kurių būtina sumažinti santuokinį amžių. Nėštumas – svarbi priežastis sumažinti santuokinį amžių.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 5\. Kai sprendžiamas klausimas dėl santuokinio amžiaus sumažinimo, valstybinė vaiko teisių apsaugos institucija privalo pateikti išvadą dėl santuokinio amžiaus sumažinimo tikslingumo ir ar tai atitinka nepilnamečio interesus.
 
@@ -6260,13 +6292,15 @@ Jeigu išlaikymas buvo priteistas periodinėmis išmokomis, išlaikymo suma inde
 
 3\. Nesusituokę asmenys to paties vaiko įvaikinti negali.
 
-4\. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės šio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
+4\. Įvaikintojais negali būti asmenys, teismo pripažinti neveiksniais šioje srityje arba ribotai veiksniais šioje srityje, asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės šio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais, asmenys, nuo kurių yra atskirtas vaikas, taip pat asmenys, turintys psichikos ir elgesio sutrikimų ar sergantys kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija. Įvaikintojais taip pat negali būti asmenys, nuteisti už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, nuteisto už kitas nusikalstamas veikas, teisės įvaikinti sprendžia teismas, įvertinęs padarytos nusikalstamos (nusikalstamų) veikos (veikų) pobūdį ir pavojingumą bei atsižvelgdamas į vaiko interesus.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
 
 *Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 5\. Asmenys, norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką, apskaitą, kurią tvarko valstybinė vaiko teisių apsaugos institucija.
 
@@ -6858,7 +6892,11 @@ Vaiko laikinoji globa (rūpyba) nustatoma, kai vaiko:
 
 1\. Kai yra šio kodekso 3.254 straipsnyje nustatyti pagrindai, valstybinė vaiko teisių apsaugos institucija Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka gali paimti vaiką iš jo atstovų pagal įstatymą.
 
-2\. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+2\. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas, o išimtiniais atvejais, kai tai objektyviai neįmanoma, – per penkias darbo dienas, kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551*
 
 *Papildyta straipsniu:*
 
@@ -7130,13 +7168,15 @@ Vaiko globėju (rūpintoju) negali būti skiriamas asmuo:
 
 7\) sulaukęs šešiasdešimt penkerių metų arba vyresnis, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
 
-8\) turintis psichikos sutrikimą ar sergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
+8\) turintis psichikos ir elgesio sutrikimą ar sergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
 
 *Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 9\) su kuriuo dėl netinkamo sutarties vykdymo buvo nutraukta tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis, sudaryta su globos centru.
 
@@ -7256,7 +7296,11 @@ Vaikų, kuriems nustatyta globa (rūpyba), globėjų (rūpintojų), asmenų, pas
 
 ###### 3.279¹ straipsnis. Pagalba priimant sprendimus
 
-1\. Pilnametis veiksnus fizinis asmuo gali raštu sudaryti sutartį su pilnamečiu veiksniu fiziniu asmeniu, kuriuo jis pasitiki, dėl pagalbos priimant sprendimus tam tikrose gyvenimo srityse. Sutartis dėl pagalbos priimant sprendimus gali būti sudaroma, kai asmeniui dėl psichikos sutrikimo arba dėl kitų aplinkybių (amžiaus, ligos ar kitų) sudėtinga priimti geriausiai jo interesus atitinkančius sprendimus. Sutartį dėl pagalbos priimant sprendimus srityse, kuriose yra veiksnus, gali sudaryti ir fizinis asmuo, kuris yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje.
+1\. Pilnametis veiksnus fizinis asmuo gali raštu sudaryti sutartį su pilnamečiu veiksniu fiziniu asmeniu, kuriuo jis pasitiki, dėl pagalbos priimant sprendimus tam tikrose gyvenimo srityse. Sutartis dėl pagalbos priimant sprendimus gali būti sudaroma, kai asmeniui dėl psichikos ir elgesio sutrikimo arba dėl kitų aplinkybių (amžiaus, ligos ar kitų) sudėtinga priimti geriausiai jo interesus atitinkančius sprendimus. Sutartį dėl pagalbos priimant sprendimus srityse, kuriose yra veiksnus, gali sudaryti ir fizinis asmuo, kuris yra neveiksnus tam tikroje srityje ar ribotai veiksnus tam tikroje srityje.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 2\. Sutartys dėl pagalbos priimant sprendimus sudaromos notarine forma. Sutartys dėl pagalbos priimant sprendimus ar jų pakeitimai registruojami Neveiksnių ir ribotai veiksnių asmenų registre. Sutarčiai dėl pagalbos priimant sprendimus ar jos pakeitimams įregistruoti reikalingus duomenis Neveiksnių ir ribotai veiksnių asmenų registrui pateikia šią sutartį ar jos pakeitimus patvirtinęs notaras ar konsulinis pareigūnas Neveiksnių ir ribotai veiksnių asmenų registro nuostatų nustatyta tvarka. Sutartis dėl pagalbos priimant sprendimus prieš trečiuosius asmenis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, jei ji įregistruota Neveiksnių ir ribotai veiksnių asmenų registre.
 
@@ -13378,17 +13422,21 @@ Praleidęs piniginės prievolės įvykdymo terminą skolininkas privalo mokėti 
 
 2\. Jeigu žala buvo padaryta asmens sveikatai ar gyvybei, tai teismas, atsižvelgdamas į nukentėjusio asmens ir žalą padariusio asmens turtinę padėtį, sąžiningumo ir protingumo kriterijus bei kitas turinčias reikšmės bylai aplinkybes, gali priteisti visišką ar dalinį žalos atlyginimą iš žalą padariusio asmens.
 
-3\. Asmens, pripažinto ribotai veiksniu tam tikroje srityje dėl psichikos sutrikimo, padaryta žala atlyginama bendrais pagrindais.
+3\. Asmens, pripažinto ribotai veiksniu tam tikroje srityje dėl psichikos ir elgesio sutrikimo, padaryta žala atlyginama bendrais pagrindais.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
 
-4\. Jeigu žalos padarė asmuo, kuris savo veiksmų reikšmės suprasti ar jų valdyti negalėjo dėl psichikos sutrikimo, tai teismas gali įpareigoti atlyginti žalą kartu su šiuo asmeniu gyvenantį jo sutuoktinį, tėvus ar pilnamečius jo vaikus, kurie žinojo apie tokią žalą padariusio asmens psichikos būklę, tačiau nesiėmė priemonių, kad tas asmuo būtų pripažintas neveiksniu tam tikroje srityje.
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
+
+4\. Jeigu žalos padarė asmuo, kuris savo veiksmų reikšmės suprasti ar jų valdyti negalėjo dėl psichikos ir elgesio sutrikimo, tai teismas gali įpareigoti atlyginti žalą kartu su šiuo asmeniu gyvenantį jo sutuoktinį, tėvus ar pilnamečius jo vaikus, kurie žinojo apie tokią žalą padariusio asmens psichikos būklę, tačiau nesiėmė priemonių, kad tas asmuo būtų pripažintas neveiksniu tam tikroje srityje.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 ###### 6.269 straipsnis. Dėl būtinosios ginties ar savigynos padaryta žala
 
@@ -16902,7 +16950,7 @@ Rangovas privalo imtis visų įmanomų priemonių užsakovo jam patikėto turto 
 
 5\. Jeigu tarp rangovo ir užsakovo kyla ginčas dėl darbo trūkumų, kiekviena šalis turi teisę reikalauti skirti ekspertizę. Ekspertizės išlaidos tenka rangovui, išskyrus atvejus, kai ekspertizė nenustato, kad rangovas būtų pažeidęs sutartį arba kad yra priežastinis ryšys tarp rangovo veiksmų ir darbų trūkumų. Tokiais atvejais ekspertizės išlaidas apmoka ta šalis, kuri reikalavo skirti ekspertizę, o jeigu ji buvo paskirta abiejų šalių susitarimu, – abi šalys lygiomis dalimis.
 
-6\. Jeigu rangos sutartis nenustato ko kita, kai užsakovas vengia priimti atliktą darbą, rangovas turi teisę pasibaigus mėnesio terminui nuo tos dienos, kurią pagal sutartį darbai turėjo būti priimti, ir du kartus raštu įspėjęs užsakovą parduoti darbo rezultatą, o gautą sumą, atsiskaitęs visus sau priklausančius mokėjimus, užsakovo vardu sumokėti į depozitinę sąskaitą (šio kodekso 6.56 straipsnis).
+6\. Jeigu rangos sutartis nenustato ko kita, kai užsakovas vengia priimti atliktą darbą, rangovas turi teisę pasibaigus mėnesio terminui nuo tos dienos, kurią pagal sutartį darbai turėjo būti priimti, ir du kartus raštu įspėjęs užsakovą perduoti darbo rezultatą, o gautą sumą, atsiskaitęs visus sau priklausančius mokėjimus, užsakovo vardu sumokėti į depozitinę sąskaitą (šio kodekso 6.56 straipsnis).
 
 *Straipsnio dalies pakeitimai:*
 
@@ -17478,7 +17526,11 @@ Jeigu paslaugų sutartis nenustato ko kita, paslaugų teikėjas privalo:
 
 2\. Pacientas iki šešiolikos metų negali būti gydomas ar jam teikiama kita asmens sveikatos priežiūra ar (ir) slauga prieš vieno iš jo tėvų ar jo atstovo pagal įstatymą valią, jeigu įstatymų nenustatyta kitaip. Jeigu pacientas iki šešiolikos metų pagal savo amžių ir išsivystymą gali teisingai vertinti savo sveikatos būklę ir siūlomą gydymą, jis negali būti gydomas prieš jo valią, jeigu įstatymų nenustatyta kitaip. Įstatymai gali numatyti atvejus, kai asmens sveikatos priežiūrai atlikti yra būtinas nepilnamečio paciento vieno iš tėvų ar jo atstovo pagal įstatymą rašytinis sutikimas. Gydytojas turi parinkti gydymo metodus, kurie labiausiai atitiktų nepilnamečio interesus.
 
-3\. Paciento, psichikos ligonio, nesugebančio teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato įstatymai.
+3\. Paciento, taip pat psichikos ir elgesio sutrikimų turinčio paciento, nesugebančių teisingai įvertinti savo sveikatos būklės, gydymo ypatumus nustato įstatymai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856*
 
 ###### 6.730 straipsnis. Paciento sutikimo įrašymas į jo medicinos dokumentus
 
@@ -20933,3 +20985,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1448, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11760
 
 Lietuvos Respublikos civilinio kodekso 6.228-3 straipsnio, šeštosios knygos XXXV skyriaus trečiojo skirsnio ir priedo pakeitimo įstatymas
+
+40\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
+
+Lietuvos Respublikos civilinio kodekso 1.84, 1.85, 2.10, 2.11, 2.26, 3.14, 3.210, 3.269, 3.279-1, 6.268 ir 6.729 straipsnių pakeitimo įstatymas
+
+41\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
+
+Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
