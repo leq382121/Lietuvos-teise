@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2019-04-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/aQmPEkaigY"
+redakcija_nuo: "2019-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/TrknDnoOeP"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1276,9 +1276,21 @@ užtraukia įspėjimą arba baudą mokymo, auklėjimo, sveikatos priežiūros ir
 
 užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto dvidešimt eurų.
 
-3\. Melagingos informacijos apie be tėvų globos likusius nepilnamečius, taip pat apie būtinumą ginti jų teises ir interesus suteikimas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai, kliudymas nustatyti vaiko globą (rūpybą)
+3\. Žinomai melagingos informacijos apie būtinumą ginti nepilnamečio teises ir interesus suteikimas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai
 
-užtraukia baudą mokymo, auklėjimo, sveikatos priežiūros ir kitų institucijų bei įstaigų, kurių prižiūrimas yra vaikas, vadovams ir kitiems darbuotojams nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-2036, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06548*
+
+4\. Žinomai melagingos informacijos apie be tėvų globos likusius nepilnamečius, taip pat apie būtinumą ginti jų teises ir interesus suteikimas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai, kliudymas nustatyti vaiko globą (rūpybą)
+
+užtraukia baudą mokymo, auklėjimo, sveikatos priežiūros ir kitų institucijų bei įstaigų, kurių prižiūrimas yra vaikas, vadovams ir kitiems darbuotojams nuo penkiasdešimt iki dviejų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2036, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06548*
 
 *Straipsnio pakeitimai:*
 
@@ -2118,25 +2130,23 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 užtraukia baudą nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.
 
-#### 134 straipsnis. Loterijų organizavimo tvarkos arba loterijos taisyklių, azartinių lošimų organizavimo tvarkos arba lošimo reglamento pažeidimas
+#### 134 straipsnis. Žaidimų žaidimo automatais organizavimo tvarkos, loterijų organizavimo tvarkos arba loterijos taisyklių, azartinių lošimų organizavimo tvarkos arba lošimo reglamento pažeidimas
 
-1\. Loterijų organizavimo tvarkos arba loterijos taisyklių pažeidimas
+1\. Žaidimų žaidimo automatais organizavimo tvarkos pažeidimas užtraukia baudą nuo vieno šimto iki dviejų šimtų penkiasdešimt eurų.
 
-užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+2\. Loterijų organizavimo tvarkos arba loterijos taisyklių pažeidimas užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+3\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+4\. Azartinių lošimų organizavimo tvarkos arba lošimo reglamento pažeidimas užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
 
-3\. Azartinių lošimų organizavimo tvarkos arba lošimo reglamento pažeidimas
+5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+6\. Už šio straipsnio 2, 3, 4, 5 dalyse numatytus administracinius nusižengimus privaloma skirti daikto, kuris buvo administracinio nusižengimo padarymo įrankis arba dalykas, ir administracinio nusižengimo padarymu gautų pajamų konfiskavimą.
 
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+*Straipsnio pakeitimai:*
 
-užtraukia baudą nuo keturių tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
-
-5\. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti daikto, kuris buvo administracinio nusižengimo padarymo įrankis arba dalykas, ir administracinio nusižengimo padarymu gautų pajamų konfiskavimą.
+*Nr. XIII-1887, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00095*
 
 #### 135 straipsnis. Reikalavimų leidiniams ir jų privalomųjų egzempliorių siuntimo bibliotekoms tvarkos pažeidimas
 
@@ -6158,6 +6168,22 @@ užtraukia įspėjimą arba baudą asmenims nuo septyniasdešimt iki vieno šimt
 
 užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
 
+5\. Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme nustatytos asmenų, individualiai išgaunančių ir naudojančių geriamąjį vandenį ir (arba) individualiai tvarkančių nuotekas, pareigos sudaryti sąlygas per nustatytą laikotarpį prijungti jiems nuosavybės teise priklausančią geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūrą prie viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros nevykdymas
+
+užtraukia įspėjimą.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1893, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00099*
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo septyniasdešimt iki vieno šimto eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1893, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00099*
+
 ### XX SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU ŽEMĖS ŪKIO, VETERINARIJOS VEIKLA IR GYVŪNŲ GLOBA
 
 **333 straipsnis. Privačios nuosavybės ar patikėjimo teise priklausančios, perduotos neatlygintinai naudotis pagal panaudos sutartį, nuomojamos ar subnuomojamos žemės nesutvarkymas taip, kad ji būtų tinkama naudoti pagal pagrindinę naudojimo paskirtį, arba pareigos užtikrinti įsigytos žemės ūkio paskirties žemės naudojimą žemės ūkio veiklai nevykdymas**
@@ -7070,7 +7096,7 @@ užtraukia įspėjimą arba baudą asmenims nuo keturiolikos iki trisdešimt eur
 
 užtraukia baudą asmenims nuo trisdešimt iki vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-#### 369 straipsnis. Lietuvos Respublikos žmonių palaikų laidojimo įstatyme ir kituose teisės aktuose nustatytų kapinių priežiūros ir žmogaus palaikų gabenimo transporto priemonėmis reikalavimų pažeidimas
+#### 369 straipsnis. Lietuvos Respublikos žmonių palaikų laidojimo įstatyme ir kituose teisės aktuose nustatytų kapinių priežiūros, kremavimo veiklos vykdymo ir žmogaus palaikų vežimo reikalavimų pažeidimas
 
 1\. Kapinių tvarkymo taisyklių ar kitų kapinių tvarkymą reglamentuojančių teisės aktų pažeidimas
 
@@ -7082,19 +7108,87 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 3\. Kapinių prižiūrėtojų kaupiamų duomenų tvarkymas pažeidžiant kapinių prižiūrėtojo kaupiamų duomenų tvarkymo reikalavimus
 
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+užtraukia baudą asmenims nuo trisdešimt iki šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
 
-5\. Žmogaus palaikų gabenimas transporto priemonėmis, kurios neatitinka žmonių palaikams gabenti skirtoms transporto priemonėms nustatytų teisės aktų reikalavimų, kai laikytis šių reikalavimų privaloma įstatymuose ir kituose teisės aktuose nustatytais atvejais,
+5\. Žmogaus palaikų vežimas transporto priemonėmis, kurios neatitinka žmonių palaikams vežti skirtoms transporto priemonėms nustatytų teisės aktų reikalavimų, kai laikytis šių reikalavimų privaloma įstatymuose ir kituose teisės aktuose nustatytais atvejais,
 
-užtraukia baudą nuo trisdešimt iki devyniasdešimt eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devyniasdešimt iki vieno šimto penkiasdešimt eurų ar vairuotojams – nuo trisdešimt iki devyniasdešimt eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų ar vairuotojams – nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+7\. Žmogaus palaikų vežimas į užsienio valstybes, kurios yra 1973 m. spalio 26 d. Strasbūre priimto Susitarimo dėl mirusiųjų kūnų pervežimo (toliau šiame straipsnyje – susitarimas) šalys, neturint Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoto dokumento (mirusiojo kūno laissez-passer), išskyrus atvejus, kai žmogaus palaikai per Lietuvos Respublikos teritoriją vežami tranzitu turint užsienio valstybės susitarimo šalies kompetentingos institucijos išduotą dokumentą (mirusiojo kūno laissez-passer),
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų ar vairuotojams – nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki keturių šimtų aštuoniasdešimt eurų ar vairuotojams – nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
+
+9\. Žmogaus palaikų vežimas į užsienio valstybes, kurios nėra susitarimo šalys, ar vežimas tranzitu iš jų, apie tai nustatyta tvarka neinformavus Lietuvos Respublikos Vyriausybės įgaliotos institucijos,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų ar vairuotojams – nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki keturių šimtų aštuoniasdešimt eurų ar vairuotojams – nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
+
+11\. Žmogaus palaikų vežimas laidoti ar kremuoti neturint Žmogaus mirties nustatymo ir kritinių būklių įstatymo nustatyta tvarka išduoto medicininio mirties liudijimo
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų ar vairuotojams – nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki keturių šimtų aštuoniasdešimt eurų ar vairuotojams – nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
+
+13\. Kremavimo atvejų neregistravimas arba registravimas pažeidžiant teisės aktuose nustatytus reikalavimus ar teisės aktuose nustatytų privalomų saugoti su kremavimu susijusių dokumentų nesaugojimas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+14\. Šio straipsnio 13 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki keturių šimtų keturiasdešimt eurų.
+
+15\. Žmogaus palaikų vežimas kremuoti, esant aplinkybėms, dėl kurių privaloma atsisakyti vežti kremuoti žmogaus palaikus,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki vieno tūkstančio šešių šimtų eurų ar vairuotojams – nuo šešių šimtų iki vieno tūkstančio eurų.
+
+16\. Šio straipsnio 15 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių dviejų šimtų eurų ar vairuotojams – nuo vieno tūkstančio iki vieno tūkstančio keturių šimtų eurų.
+
+17\. Kremavimo veiklos vykdymas neturint šiai veiklai licencijos
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki vieno tūkstančio šešių šimtų eurų.
+
+18\. Šio straipsnio 17 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių eurų.
+
+19\. Žmogaus palaikų kremavimas atvejais, dėl kurių privaloma atsisakyti kremuoti žmogaus palaikus, arba kremavimo procedūros reikalavimų nesilaikymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki vieno tūkstančio šešių šimtų eurų.
+
+20\. Šio straipsnio 19 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių dviejų šimtų eurų.
+
+21\. Aplinkosaugos reikalavimų kremavimo įmonėms pažeidimas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų eurų.
+
+22\. Šio straipsnio 21 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių dviejų šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
 ### XXII SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU TRANSPORTU IR KELIŲ ŪKIU
 
@@ -10454,7 +10548,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431*
 
-9\) Lietuvos Respublikos konkurencijos tarybos – dėl šio kodekso 144 straipsnio 2, 3 dalyse, 199, 224, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+9\) Lietuvos Respublikos konkurencijos tarybos – dėl šio kodekso 199, 224, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347*
 
 10\) Lietuvos Respublikos specialiųjų tyrimų tarnybos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10542,7 +10640,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
 
-31\) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 304¹, 304², 305, 306, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31\) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 304¹, 304², 305, 306, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10555,6 +10653,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
+
+*Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10656,13 +10756,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 47\) Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 1, 2 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-48\) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 50, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+48\) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 50, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 369 straipsnio 7, 8, 9, 10 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724*
 
-49\) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
+*Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
+
+49\) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10685,6 +10787,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 *Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
+
+*Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 493, 505 straipsniuose, 506 straipsnio 4 dalyje, 507, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų;
 
@@ -10784,7 +10888,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
 
-70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 49¹ straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 308¹ straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+70\) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 49¹ straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 2, 3, 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 270¹ straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 308¹ straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -10797,6 +10901,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 *Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395*
+
+*Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347*
 
 71\) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos – dėl šio kodekso 72, 73, 74, 75, 80 straipsniuose numatytų administracinių nusižengimų;
 
@@ -13939,5 +14045,21 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 28, 71, 420, 422, 423, 424, 427, 602 ir 603 straipsnių pakeitimo įstatymas
+
+75\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+76\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2036, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06548
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 75 straipsnio pakeitimo įstatymas
 
 0
