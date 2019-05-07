@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2019-04-03"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/TOLeqZBsol"
+redakcija_nuo: "2019-05-08"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/nzqjoXmMcO"
 ---
 
 # Darbo kodeksas
@@ -1830,7 +1830,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 8\) birželio 24-ąją – Rasos ir Joninių dieną;
 
-9\) liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną;
+9\) liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės dieną;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-2092, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07402*
 
 10\) rugpjūčio 15-ąją – Žolinę (Švč. Mergelės Marijos ėmimo į dangų dieną);
 
@@ -4009,3 +4013,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
 
 Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
+
+11\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2092, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07402
+
+Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
