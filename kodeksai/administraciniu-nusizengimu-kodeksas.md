@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2019-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/TrknDnoOeP"
+redakcija_nuo: "2019-05-25"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/DnvTiRvoNB"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -902,7 +902,11 @@ užtraukia baudą asmenims, įgaliotiems teikti informaciją, nuo vieno šimto k
 
 1\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
 
-užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams.
+užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -910,7 +914,11 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 3\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma ne mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
 
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar su teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar su teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -920,7 +928,11 @@ užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eur
 
 1\. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas ir išduotus (parduotus) kompensuojamuosius vaistus ir medicinos pagalbos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms
 
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir optikų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir (ar) medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir optikų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir (ar) medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -1946,15 +1958,27 @@ užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eur
 
 4\. Kūrinio ar gretutinių teisių objekto neteisėtų kopijų gamybos priemonės ar įranga – techninė įranga, medžiagos ir kitos priemonės, kurios išimtinai ar dažniausiai naudojamos kūrinio ar gretutinių teisių objekto neteisėtoms kopijoms atgaminti ir (ar) platinti arba kurių paskirtis ir naudojimo tiesioginis tikslas – atgaminti ir (ar) platinti neteisėtas kūrinio ar gretutinių teisių objekto kopijas.
 
-#### 123 straipsnis. Neteisėtas mokslo darbų pirkimas, pardavimas ir jų pateikimas mokslo ir studijų institucijoms
+**123 straipsnis. Kito asmens parengto mokslo ar studijų darbo (ar jo dalies) projekto pateikimas mokslo ir studijų institucijai kaip savo mokslo ar studijų darbo (ar jo dalies), kito asmens vardu pateikto mokslo ar studijų darbo (ar jo dalies) projekto parengimas ir (ar) perdavimas, informacijos, skatinančios įsigyti mokslo ar studijų darbų projektus, skelbimas**
 
-1\. Pirmosios pakopos ir vientisųjų bei magistrantūros studijų baigiamųjų darbų, disertacijų, meno projektų neteisėtas pirkimas, pardavimas ir jų pateikimas mokslo ir studijų institucijoms
+1\. Kito asmens parengto mokslo ar studijų darbo (ar jo dalies) projekto pateikimas mokslo ir studijų institucijai kaip savo mokslo ir studijų darbo (ar jo dalies)
 
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+užtraukia baudą asmenims nuo dviejų šimtų iki penkių šimtų eurų.
 
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+2\. Mokslo ar studijų darbo (ar jo dalies) projekto, kuris kito asmens buvo pateiktas mokslo ir studijų institucijai kaip jo paties mokslo ar studijų darbas (ar jo dalis), parengimas ir (ar) perdavimas
 
-užtraukia baudą asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą asmenims nuo dviejų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+
+3\. Informacijos, kuria siūlomos mokslo ar studijų darbo (ar jo dalies) projekto rengimo paslaugos, viešas paskelbimas
+
+užtraukia įspėjimą arba baudą asmenims nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių šimtų eurų.
+
+4\. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+
+užtraukia baudą asmenims nuo penkių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2125, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08305*
 
 #### 124 straipsnis. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose nesilaikymas
 
@@ -14061,5 +14085,21 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2036, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06548
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 75 straipsnio pakeitimo įstatymas
+
+77\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2125, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08305
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 123 straipsnio pakeitimo įstatymas
+
+78\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 57 ir 58 straipsnių pakeitimo įstatymas
 
 0
