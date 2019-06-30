@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2019-05-08"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/nzqjoXmMcO"
+redakcija_nuo: "2019-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/GOgMPpSJtH"
 ---
 
 # Darbo kodeksas
@@ -3362,7 +3362,11 @@ Jeigu šiame kodekse nenustatyta kitaip, priimdamas sprendimus dėl uždelsto su
 
 ##### 222 straipsnis. Darbo ginčų komisijos darbo sąlygos
 
-1\. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiui, per kurį jie dalyvauja darbo ginčų komisijos darbe. Jų atlygio dydžius, mokėjimo ir kelionės išlaidų apmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+1\. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiui, per kurį jie dalyvauja darbo ginčų komisijos darbe. Jų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka, o kelionės išlaidų dydžius ir jų apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740*
 
 2\. Valstybinė darbo inspekcija užtikrina sąlygas darbo ginčų komisijoms veikti. Darbo ginčų komisijų išlaidas, susijusias su darbo ginčų nagrinėjimu, apmoka Valstybinė darbo inspekcija iš valstybės biudžeto lėšų.
 
@@ -3598,11 +3602,13 @@ Jeigu panaikinamas jau įvykdytas darbo ginčų komisijos sprendimas arba teismo
 
 5\. Arbitrų sąrašas skelbiamas Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos interneto svetainėje. Arbitrų sąraše nurodoma: arbitro vardas, pavardė, išsilavinimas, darbo patirtis, arbitravimo ar tarpininkavimo patirtis, jeigu arbitras jos turi. Arbitru gali būti ir tarpininkų sąraše esantis asmuo.
 
-6\. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų atlygio ir kelionės išlaidų dydį ir apmokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+6\. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Arbitrų kelionės išlaidų dydžius ir apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740*
 
 7\. Arbitrai privalo saugoti savo veikloje sužinotą konfidencialią informaciją.
 
@@ -4021,3 +4027,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2092, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07402
 
 Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
+
+12\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
+
+Lietuvos Respublikos darbo kodekso 222 ir 240 straipsnių pakeitimo įstatymas
