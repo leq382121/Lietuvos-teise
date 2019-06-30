@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2019-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/hNazxUKswb"
+redakcija_nuo: "2019-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/jcjqflxkZX"
 ---
 
 # Civilinis kodeksas
@@ -1870,7 +1870,11 @@ Galėjimas turėti civilines teises ir pareigas (civilinis teisnumas) pripažįs
 
 4\. Komisija sudaroma iš penkių narių savivaldybės tarybos sprendimu. Kai sprendžiama dėl vienos Komisijos sudarymo kelioms savivaldybėms, šį sprendimą turi patvirtinti kiekvienos iš savivaldybių, kurioje veiks Komisija, taryba. Jei du iš penkių Komisijos narių nusprendžia, kad yra tikslinga kreiptis į sprendimą pripažinti asmenį neveiksniu tam tikroje srityje priėmusį teismą dėl teismo sprendimo peržiūrėjimo, laikoma, kad yra priimtas Komisijos sprendimas kreiptis į teismą. Komisijos priimti sprendimai neturi įtakos šio kodekso 2.10 straipsnio 4 dalyje nurodytų asmenų arba neveiksniu tam tikroje srityje pripažinto asmens teisei kreiptis į teismą dėl neveiksnaus asmens pripažinimo veiksniu.
 
-5\. Komisijos narių darbo apmokėjimo tvarką nustato Vyriausybė.
+5\. Komisijos narių darbas Komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715*
 
 *Papildyta straipsniu:*
 
@@ -8950,6 +8954,18 @@ Jungtinė hipoteka – kelių tam pačiam asmeniui nuosavybės teise priklausan�
 
 2\. Sąlygine hipoteka gali būti įkeičiamas būsimas nekilnojamasis daiktas, kuris bus sukurtas ateityje arba kurio savininku įkaito davėjas taps ateityje. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai hipotekos objektu esantis daiktas įregistruojamas nekilnojamojo turto registre kaip įkaito davėjo nuosavybė.
 
+3\. Sąlygine hipoteka gali būti įkeičiamas nekilnojamasis daiktas, kurį siekiama įsigyti nuosavybės teise Civilinio proceso kodekso VI dalyje nustatyta tvarka. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai Civilinio proceso kodekso VI dalyje nustatyta tvarka įsigijęs nekilnojamąjį daiktą asmuo tampa šio daikto savininku.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891*
+
+4\. Duomenys apie sąlyginės hipotekos sąlygos, su kuria siejamas hipotekos galiojimas, atsiradimą ar pabaigą pateikiami Hipotekos registrui Hipotekos registro nuostatuose nustatyta tvarka.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891*
+
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)*
@@ -9172,7 +9188,11 @@ Jeigu hipotekos sandoryje nenustatyta kitaip, hipotekos kreditorius gali įkeist
 
 ###### 4.197 straipsnis. Hipotekos pabaigos pagrindai
 
-1\. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų hipotekų.
+1\. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų galiojančių hipotekų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891*
 
 2\. Hipoteka pasibaigia, kai:
 
@@ -9194,7 +9214,11 @@ Jeigu hipotekos sandoryje nenustatyta kitaip, hipotekos kreditorius gali įkeist
 
 6\. Sąžiningo hipotekos kreditoriaus teisė lieka galioti net ir tuo atveju, kai hipotekos sandoris pripažįstamas negaliojančiu tokiu pagrindu, už kurį hipotekos kreditorius neatsako. Kai hipotekos sandoris įstatymų nustatyta tvarka pripažintas negaliojančiu ir nėra būtinybės ginti sąžiningo hipotekos kreditoriaus, Hipotekos registre įregistruota hipoteka baigiama ir išregistruojama iš Hipotekos registro pateikus įsiteisėjusį teismo sprendimą dėl hipotekos sandorio pripažinimo negaliojančiu.
 
-7\. Pasibaigusi hipoteka išregistruojama iš Hipotekos registro. Hipotekos kreditoriaus, skolininko arba turto savininko prašymas dėl hipotekos pabaigos pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda Hipotekos registrui.
+7\. Pasibaigusi hipoteka išregistruojama iš Hipotekos registro. Hipotekos kreditoriaus, skolininko arba turto savininko prašymas dėl hipotekos pabaigos pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda Hipotekos registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš Hipotekos registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891*
 
 *Straipsnio pakeitimai:*
 
@@ -21001,3 +21025,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
 
 Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
+
+42\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715
+
+Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas
+
+43\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+
+Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
