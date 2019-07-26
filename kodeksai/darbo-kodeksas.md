@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2019-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/GOgMPpSJtH"
+redakcija_nuo: "2019-07-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/IZEqzNtFqw"
 ---
 
 # Darbo kodeksas
@@ -393,6 +393,12 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 4\. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais informacija turi būti perduota lietuvių kalba. Prie jos gali būti pridedami vertimai į vieną ar kelias kalbas.
 
 5\. Pareigą saugoti konfidencialią informaciją (informaciją, kuri laikoma komercine (gamybine), profesine, valstybės ar tarnybos paslaptimi) ir atsakomybę už jos pažeidimą reglamentuoja įstatymai. Šio kodekso nustatyta tvarka darbo sutarties šalys gali sudaryti papildomus susitarimus dėl konfidencialios informacijos apsaugos.
+
+6\. Darbo skelbime darbdavys privalo nurodyti informaciją apie siūlomo bazinio (tarifinio) darbo užmokesčio (valandinio atlygio arba mėnesinės algos, arba pareiginės algos pastoviosios dalies) dydį ir (arba) dydžio intervalą, išskyrus įstatymuose numatytus atvejus.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397*
 
 ##### 26 straipsnis. Darbuotojų lyčių lygybė ir nediskriminavimas kitais pagrindais
 
@@ -2122,7 +2128,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 2\. Darbuotojo darbo užmokestį sudaro:
 
-1\) bazinis (tarifinis) darbo užmokestis (valandinis atlygis arba mėnesinė alga);
+1\) bazinis (tarifinis) darbo užmokestis (valandinis atlygis arba mėnesinė alga, arba pareiginės algos pastovioji dalis);
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397*
 
 2\) papildoma darbo užmokesčio dalis, nustatyta šalių susitarimu ar mokama pagal darbo teisės normas ar darbovietėje taikomą darbo apmokėjimo sistemą;
 
@@ -4035,3 +4045,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
 
 Lietuvos Respublikos darbo kodekso 222 ir 240 straipsnių pakeitimo įstatymas
+
+13\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
+
+Lietuvos Respublikos darbo kodekso 25 ir 139 straipsnių pakeitimo įstatymas
