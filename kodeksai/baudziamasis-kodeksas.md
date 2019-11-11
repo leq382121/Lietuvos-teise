@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2019-07-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/FoGTWtboGC"
+redakcija_nuo: "2019-11-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/sGODGllxgm"
 ---
 
 # Baudžiamasis kodeksas
@@ -1660,7 +1660,17 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 
 1\. Nuteistasis gali būti atleistas nuo visos ar dalies bausmės atlikimo, jeigu Respublikos Prezidentas patenkina jo malonės prašymą.
 
-2\. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+2\. Respublikos Prezidentas gali patenkinti nuteistojo malonės prašymą ir tuo atveju, jeigu, susitarus su užsienio valstybe, siekiama sugrąžinti į Lietuvos Respubliką toje užsienio valstybėje esantį Lietuvos Respublikos pilietį, kuris veikdamas Lietuvos Respublikos valstybės interesais užsienio valstybėje yra nuteistas ar jo atžvilgiu vykdomas baudžiamasis persekiojimas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050*
+
+3\. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050*
 
 ### XI SKYRIUS – NEPILNAMEČIŲ BAUDŽIAMOSIOS ATSAKOMYBĖS YPATumai
 
@@ -7317,3 +7327,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 
 Lietuvos Respublikos baudžiamojo kodekso 8, 95, 205, 206, 207 straipsnių ir priedo pakeitimo ir Kodekso papildymo 100-3 straipsniu įstatymas
+
+35\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
+
+Lietuvos Respublikos baudžiamojo kodekso 79 straipsnio pakeitimo įstatymas
