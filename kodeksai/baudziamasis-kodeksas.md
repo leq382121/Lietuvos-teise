@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2019-11-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/sGODGllxgm"
+redakcija_nuo: "2020-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/bMZYuwoOTB"
 ---
 
 # Baudžiamasis kodeksas
@@ -3260,11 +3260,15 @@ Tas, kas necenzūriniais žodžiais, įžūliais veiksmais, grasinimais, patyči
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
-### XXVI SKYRIUS – NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI
+### XXVI SKYRIUS – NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI, POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO TVARKAI
 
 *Skyriaus pavadinimo pakeitimai:*
 
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
+
+*Pakeistas skyriaus pavadinimas:*
+
+*Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871*
 
 #### 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
 
@@ -3333,6 +3337,18 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
 
 *Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)*
+
+#### 175¹ straipsnis. Neteisėtas politinių partijų ir politinių kampanijų finansavimas
+
+1\. Tas, kas neteisėtai teikė lėšas ar kitokią paramą, kurių vertė viršija 500 MGL dydžio sumą, politinei partijai ar politinei kampanijai tiesiogiai ar netiesiogiai finansuoti arba šias lėšas ar paramą neteisėtai priėmė ar panaudojo politinės partijos ar politinės kampanijos veikloje,
+
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
+
+2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871*
 
 ### XXVII SKYRIUS – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ASMENS SOCIALINĖMS TEISĖMS
 
@@ -7335,3 +7351,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
 
 Lietuvos Respublikos baudžiamojo kodekso 79 straipsnio pakeitimo įstatymas
+
+36\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
+
+Lietuvos Respublikos baudžiamojo kodekso XXVI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 175-1 straipsniu įstatymas
