@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2019-07-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/IZEqzNtFqw"
+redakcija_nuo: "2020-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/kJQjwAeLCf"
 ---
 
 # Darbo kodeksas
@@ -974,15 +974,21 @@ Darbo sutartis pasibaigia:
 
 ##### 62 straipsnis. Darbo sutarties nutraukimas darbdavio bankroto atveju
 
-1\. Įsiteisėjus teismo nutarčiai iškelti darbdaviui bankroto bylą ar kreditorių susirinkimui nutarus vykdyti bankroto procedūras ne teismo tvarka, paskirtasis bankroto administratorius sudaro darbuotojų, su kuriais bus sudarytos terminuotos darbo sutartys dirbti darbovietėje bankroto proceso metu, sąrašą. Tokios terminuotos darbo sutartys negali trukti ilgiau kaip iki įmonės bankroto proceso pabaigos.
+1\. Įsiteisėjus teismo nutarčiai iškelti darbdaviui bankroto bylą ar kreditorių susirinkimui priėmus sprendimą vykdyti bankroto procesą ne teismo tvarka, nemokumo administratorius sudaro darbuotojų, su kuriais bus sudarytos terminuotos darbo sutartys dirbti darbovietėje bankroto proceso metu, sąrašą. Tokios terminuotos darbo sutartys negali trukti ilgiau kaip iki įmonės bankroto proceso pabaigos.
 
-2\. Per tris darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo arba nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos darbuotojai raštu įspėjami apie būsimą darbo sutarties nutraukimą ir ne anksčiau kaip po penkiolikos darbo dienų nuo tokio įspėjimo su jais nutraukiamos darbo sutartys. Jeigu tenkinamos šio kodekso 63 straipsnio 1 dalyje nurodytos sąlygos, turi būti taikomos šio kodekso 63 straipsnio 3 ir 4 dalių nuostatos.
+2\. Per tris darbo dienas arba šio kodekso 63 straipsnio 1 dalyje nurodyto grupės darbuotojų atleidimo atveju – ne vėliau kaip per septynias darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo arba nuo kreditorių susirinkimo sprendimo vykdyti įmonės bankroto procesą ne teismo tvarka priėmimo dienos darbuotojai raštu įspėjami apie būsimą darbo sutarties nutraukimą ir penkioliktą darbo dieną nuo tokio įspėjimo įteikimo dienos su jais nutraukiamos darbo sutartys. Įspėjimas darbuotojui apie būsimą darbo sutarties nutraukimą, kai jo negalima įteikti darbo vietoje, laikomas įteiktu praėjus penkioms darbo dienoms nuo jo išsiuntimo registruotąja pašto siunta darbuotojo deklaruotos gyvenamosios vietos ar kitu darbuotojo nurodytu (darbdaviui žinomu) adresu dienos arba nuo perdavimo elektroninių ryšių priemonėmis (elektroniniu paštu, mobiliaisiais įrenginiais ir kita) dienos, jeigu, įteikus įspėjimą elektroninių ryšių priemonėmis, įmanoma nustatyti informacijos turinį, jos pateikėją, pateikimo faktą ir laiką, taip pat sudarytos protingos galimybės šią informaciją išsaugoti.
 
-3\. Šio straipsnio 2 dalyje numatytu atveju atleidžiamiems darbuotojams išmokama dviejų jų vidutinių darbo užmokesčių dydžio išeitinė išmoka, o jeigu jų darbo santykiai tęsiasi trumpiau negu vienus metus, – pusės jų vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+3\. Atleidžiant darbuotojus dėl darbdavio bankroto šio kodekso 57 straipsnio 7 dalies ir 64 straipsnio 4 dalies nuostatos dėl įspėjimo apie darbo sutarties nutraukimą terminų taikymo ir šio kodekso nustatyti darbo sutarties nutraukimo apribojimai netaikomi.
+
+4\. Šio straipsnio 2 dalyje numatytu atveju atleidžiamiems darbuotojams išmokama dviejų jų vidutinių darbo užmokesčių dydžio išeitinė išmoka, o jeigu jų darbo santykiai tęsiasi trumpiau negu vienus metus, – pusės jų vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2224, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10338*
 
 ##### 63 straipsnis. Grupės darbuotojų atleidimas
 
-1\. Grupės darbuotojų atleidimu laikomas darbo sutarčių nutraukimas, kai per trisdešimt kalendorinių dienų darbdavio iniciatyva be darbuotojo kaltės (šio kodekso 57 straipsnis), darbdavio valia (šio kodekso 59 straipsnis) ar darbo sutarties šalių susitarimu (šio kodekso 54 straipsnis), kurį inicijuoja darbdavys, ar dėl darbdavio bankroto (šio kodekso 62 straipsnis) numatoma atleisti iš darbo:
+1\. Grupės darbuotojų atleidimu laikomas darbo sutarčių nutraukimas darbdavio iniciatyva be darbuotojo kaltės (šio kodekso 57 straipsnis), darbdavio valia (šio kodekso 59 straipsnis) ar darbo sutarties šalių susitarimu (šio kodekso 54 straipsnis), kurį inicijuoja darbdavys, per ne ilgesnį kaip trisdešimt kalendorinių dienų laikotarpį arba kai dėl darbdavio bankroto (šio kodekso 62 straipsnis) numatoma atleisti iš darbo:
 
 1\) dešimt ir daugiau darbuotojų darbovietėje, kurioje vidutinis darbuotojų skaičius yra nuo dvidešimt iki devyniasdešimt devynių darbuotojų;
 
@@ -990,29 +996,19 @@ Darbo sutartis pasibaigia:
 
 3\) trisdešimt ir daugiau darbuotojų darbovietėje, kurioje vidutinis darbuotojų skaičius yra trys šimtai ir daugiau darbuotojų.
 
-2\. Apskaičiuojant šio straipsnio 1 dalyje nurodytą nutraukiamų darbo sutarčių skaičių, skaičiuojamas ne mažiau kaip penkių darbuotojų darbo sutarčių nutraukimas. Grupės darbuotojų atleidimu nelaikomi atvejai, kai darbuotojus numatoma atleisti iš darbo suėjus darbo sutarties terminui.
+2\. Apskaičiuojant šio straipsnio 1 dalyje nurodytą nutraukiamų darbo sutarčių skaičių, skaičiuojamas ne mažiau kaip penkių darbuotojų darbo sutarčių nutraukimas. Grupės darbuotojų atleidimu nelaikomi atvejai, kai darbuotojus numatoma atleisti iš darbo suėjus darbo sutarties terminui. Apskaičiuojant šio straipsnio 1 dalyje nurodytą dėl darbdavio bankroto numatomų atleisti darbuotojų skaičių, vidutinis darbuotojų skaičius nustatomas remiantis teismo nutarties iškelti bankroto bylą įsiteisėjimo arba kreditorių susirinkimo sprendimo vykdyti bankroto procesą ne teismo tvarka priėmimo dienos duomenimis.
 
 3\. Prieš priimdamas sprendimą nutraukti darbo sutartį ar inicijuoti darbo sutarties nutraukimą, darbdavys privalo informuoti darbo tarybą, kai jos nėra, – darbdavio lygmeniu veikiančią profesinę sąjungą ir konsultuotis su ja dėl būsimo grupės darbuotojų atleidimo iš darbo padarinių sušvelninimo (perkvalifikavimo, perkėlimo į kitas darbo vietas, darbo laiko režimo pokyčių, didesnių, negu šiame kodekse numatytos, išeitinių išmokų, įspėjimo terminų pratęsimo, laisvo laiko darbo paieškoms ir kita) priemonių. Konsultacijų metu šalys turi siekti sudaryti susitarimą dėl galimų neigiamų pasekmių realaus sušvelninimo.
 
-*Straipsnio dalies pakeitimai:*
+4\. Apie numatomą grupės darbuotojų atleidimą darbdavys privalo raštu pranešti Užimtumo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka, pasibaigus konsultacijoms su darbo taryba ar darbdavio lygmeniu veikiančia profesine sąjunga, ir ne vėliau kaip prieš trisdešimt dienų iki darbo santykių pasibaigimo, bet ne vėliau kaip įspėdamas grupės darbuotojus apie jų atleidimą. Darbdavys tokio pranešimo kopiją, o darbdavio bankroto atveju – pranešimą apie numatomą grupės darbuotojų atleidimą pateikia darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai, kuri gali pateikti Užimtumo tarnybai savo pastabas ir pasiūlymus. Apie grupės darbuotojų atleidimą dėl darbdavio bankroto Užimtumo tarnybai ir darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai turi būti pranešta ne vėliau kaip įspėjant grupės darbuotojus apie jų atleidimą.
 
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+5\. Darbo sutartis negali būti nutraukta pažeidus pareigą pranešti Užimtumo tarnybai, darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai apie numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su darbo taryba ar su darbdavio lygmeniu veikiančia profesine sąjunga.
 
-4\. Apie numatomą grupės darbuotojų atleidimą darbdavys privalo raštu pranešti Užimtumo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka, pasibaigus konsultacijoms su darbo taryba ar darbdavio lygmeniu veikiančia profesine sąjunga, ir ne vėliau kaip prieš trisdešimt dienų iki darbo santykių pasibaigimo, bet ne vėliau kaip įspėdamas grupės darbuotojus apie jų atleidimą. Darbdavys tokio pranešimo kopiją pateikia darbo tarybai ar darbdavio lygmeniu veikiančiai profesinei sąjungai, kuri gali pateikti Užimtumo tarnybai savo pastabas ir pasiūlymus.
+6\. Darbdavio bankroto atveju šio straipsnio 3, 4 ir 5 dalių nuostatos dėl konsultavimosi su darbo taryba ar darbdavio lygmeniu veikiančia profesine sąjunga netaikomos.
 
-*Straipsnio dalies pakeitimai:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
-
-*Nr. XIII-946, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21636*
-
-5\. Darbo sutartis negali būti nutraukta pažeidus pareigą pranešti Užimtumo tarnybai apie numatomą grupės darbuotojų atleidimą ar pareigą konsultuotis su darbo taryba ar su darbdavio lygmeniu veikiančia profesine sąjunga.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
-
-*Nr. XIII-946, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21636*
+*Nr. XIII-2224, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10338*
 
 ##### 64 straipsnis. Įspėjimas nutraukti darbo sutartį
 
@@ -1846,9 +1842,23 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 11\) lapkričio 1-ąją – Visų Šventųjų dieną;
 
-12\) gruodžio 24-ąją – Kūčių dieną;
+12\) lapkričio 2-ąją – Mirusiųjų atminimo (Vėlinių) dieną;
 
-13\) gruodžio 25-ąją ir 26-ąją – Kalėdų dienomis.
+*Papildyta straipsnio punktu:*
+
+*Nr. XIII-2415, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13753*
+
+13\) gruodžio 24-ąją – Kūčių dieną;
+
+*Straipsnio punkto numeracijos pakeitimas:*
+
+*Nr. XIII-2415, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13753*
+
+14\) gruodžio 25-ąją ir 26-ąją – Kalėdų dienomis.
+
+*Straipsnio punkto numeracijos pakeitimas:*
+
+*Nr. XIII-2415, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13753*
 
 2\. Švenčių dieną dirbama tik su darbuotojo sutikimu, išskyrus atvejus, kai dirbama pagal suminę darbo laiko apskaitą ar kolektyvinėje sutartyje nustatytais atvejais.
 
@@ -2020,7 +2030,13 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 ##### 133 straipsnis. Tėvystės atostogos
 
-1\. Darbuotojams po vaiko gimimo suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Šios atostogos suteikiamos bet kuriuo laikotarpiu nuo vaiko gimimo, iki vaikui sukanka trys mėnesiai (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – nuo vaiko gimimo, iki vaikui sukanka šeši mėnesiai).
+1\. Darbuotojams po vaiko gimimo suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Šios atostogos suteikiamos bet kuriuo laikotarpiu nuo vaiko gimimo, iki vaikui sukanka vieni metai.
+
+*TAR pastaba. 1 dalies nuostatos taip pat taikomos iki įstatymo Nr. XIII-2595 įsigaliojimo (2020-01-01) gimusių vaikų tėvams, jeigu po šio įstatymo įsigaliojimo dienos nėra praėjęs vienų metų terminas nuo vaiko gimimo dienos ir tėvai nebuvo pasinaudoję po vaiko gimimo suteikiamomis trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogomis.*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2595, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20027*
 
 2\. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per tris mėnesius nuo sprendimo vykdymo pradžios) dienos darbuotojams suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Įvaikinus du ir daugiau vaikų – šios atostogos suteikiamos per šešis mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per šešis mėnesius nuo sprendimo vykdymo pradžios) dienos. Šioje dalyje nurodytos atostogos nesuteikiamos tuo atveju, kai įvaikintas sutuoktinio vaikas arba kai įtėviui tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos vaikui prižiūrėti.
 
@@ -2258,7 +2274,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 1\. Darbdavys laikomas nemokiu, kai jam taikomos bankroto procedūros, ir kitais įstatymų nustatytais atvejais.
 
-2\. Darbuotojų reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą sveikatai arba žuvus dėl nelaimingo atsitikimo darbe, tenkinami pirmąja eile Lietuvos Respublikos įmonių bankroto įstatymo arba Lietuvos Respublikos fizinių asmenų bankroto įstatymo nustatyta tvarka.
+2\. Darbuotojų reikalavimai, susiję su darbo santykiais, tenkinami Lietuvos Respublikos juridinių asmenų nemokumo įstatymo arba Lietuvos Respublikos fizinių asmenų bankroto įstatymo nustatyta tvarka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2224, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10338*
 
 3\. Darbuotojams, kuriems būtina dalyvauti bankroto procese, išskyrus darbuotojus, dalyvaujančius toliau vykdomoje ūkinėje komercinėje veikloje, darbo užmokestis už darbą tuo metu mokamas iš administravimo išlaidoms skirtų lėšų.
 
@@ -3072,9 +3092,15 @@ Gali būti sudaromos šios kolektyvinės sutartys:
 
 Kolektyvinės sutarties pakeitimo ar papildymo tvarka nustatoma kolektyvinėje sutartyje. Jeigu ši tvarka nenustatyta, kolektyvinės sutarties pakeitimai ir papildymai daromi tokia pačia tvarka, kaip sudaroma pati kolektyvinė sutartis.
 
-##### 200 straipsnis. Kolektyvinės sutarties nutraukimas
+##### 200 straipsnis. Kolektyvinės sutarties nutraukimas ir pabaiga
 
-Kolektyvinė sutartis gali būti nutraukta joje nustatytais atvejais ir tvarka. Bet kuri šalis turi įspėti kitą kolektyvinės sutarties šalį apie vienašališką kolektyvinės sutarties nutraukimą ne vėliau kaip prieš tris mėnesius. Kolektyvinę sutartį draudžiama nutraukti anksčiau negu po šešių mėnesių nuo jos įsigaliojimo.
+1\. Kolektyvinė sutartis gali būti nutraukta joje nustatytais atvejais ir tvarka. Bet kuri šalis turi įspėti kitą kolektyvinės sutarties šalį apie vienašališką kolektyvinės sutarties nutraukimą ne vėliau kaip prieš tris mėnesius. Kolektyvinę sutartį draudžiama nutraukti anksčiau negu po šešių mėnesių nuo jos įsigaliojimo.
+
+2\. Darbdavio bankroto atveju šio straipsnio 1 dalies nuostatos netaikomos. Darbdavio ar darbovietės lygmens kolektyvinė sutartis pasibaigia nutraukus darbo sutartis su visais darbuotojais. Nuo teismo nutarties iškelti darbdaviui bankroto bylą įsiteisėjimo ar kreditorių susirinkimo sprendimo vykdyti bankroto procesą ne teismo tvarka priėmimo netaikomos darbo sąlygas gerinančios kolektyvinės sutarties nuostatos, jeigu jos didina dėl bankroto patiriamus kreditorių nuostolius.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2224, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10338*
 
 ##### 201 straipsnis. Kolektyvinių sutarčių vykdymo kontrolė ir atsakomybė
 
@@ -4053,3 +4079,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
 
 Lietuvos Respublikos darbo kodekso 25 ir 139 straipsnių pakeitimo įstatymas
+
+14\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2224, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10338
+
+Lietuvos Respublikos darbo kodekso 62, 63, 149 ir 200 straipsnių pakeitimo įstatymas
+
+15\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2415, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13753
+
+Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
+
+16\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2595, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20027
+
+Lietuvos Respublikos darbo kodekso 133 straipsnio pakeitimo įstatymas
