@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2020-03-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/AwCUlwffEa"
+redakcija_nuo: "2020-04-08"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/TCKvQZEfrD"
 ---
 
 # Darbo kodeksas
@@ -700,7 +700,7 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 1\) darbdavys negali suteikti darbuotojui darbo sutartyje sulygto darbo dėl objektyvių priežasčių ne dėl darbuotojo kaltės ir darbuotojas nesutinka dirbti kito jam pasiūlyto darbo;
 
-2\) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ar karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo.
+2\) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo.
 
 2\. Šio straipsnio 1 dalies 1 punkte nustatytu atveju:
 
@@ -716,15 +716,21 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 3\. Paskelbus prastovą šio straipsnio 1 dalies 2 punkte nustatytu atveju:
 
-1\) iš darbuotojo negali būti reikalaujama, kad jis atvyktų į darbovietę;
+1\) ne vėliau kaip per vieną darbo dieną nuo prastovos paskelbimo darbdavys Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka informuoja Valstybinę darbo inspekciją apie prastovos paskelbimą darbuotojui;
 
-2\) prastovos laikotarpiu darbdavys darbuotojui moka ne mažesnį kaip Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos darbo užmokestį, kai jo darbo sutartyje sulygta visa darbo laiko norma. Darbdaviui, išskyrus valstybės ir savivaldybės institucijas ar įstaigas, profesines sąjungas, religines bendruomenes (bendrijas) ar asociacijas, patirtų darbo užmokesčio už prastovą išlaidų dalis kompensuojama Lietuvos Respublikos užimtumo įstatyme nustatytu dydžiu ir nustatyta tvarka;
+*TAR pastaba. Darbdaviai, iki įstatymo Nr. XIII-2832 įsigaliojimo (2020-04-08) paskelbę darbuotojams prastovą Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, ne vėliau kaip per tris darbo dienas nuo šio įstatymo įsigaliojimo informuoja Lietuvos Respublikos valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos apie prastovos paskelbimą darbuotojams, vadovaudamiesi Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus šio įstatymo 1 straipsniu keičiamo Lietuvos Respublikos darbo kodekso 47 straipsnio 3 dalies 1 punkte nustatyta tvarka.*
 
-3\) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Tokiu atveju už darbo laiką mokamas darbo užmokestis, o už prastovos laiką mokama šios dalies 2 punkte nustatyta tvarka proporcingai.
+2\) iš darbuotojo negali būti reikalaujama, kad jis atvyktų į darbovietę;
+
+3\) prastovos laikotarpiu darbdavys darbuotojui moka darbo užmokestį, ne mažesnį kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, kai jo darbo sutartyje sulygta visa darbo laiko norma. Darbdaviui, išskyrus darbdavį, kurio teisinė forma yra biudžetinė įstaiga, patirtų darbo užmokesčio už prastovą išlaidų dalis kompensuojama Lietuvos Respublikos užimtumo įstatyme nustatytu dydžiu ir tvarka;
+
+4\) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Tokiu atveju už darbo laiką mokamas darbo užmokestis, o už prastovos laiką mokama šios dalies 3 punkte nustatyta tvarka proporcingai.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702*
+
+*Nr. XIII-2832, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07195*
 
 ##### 48 straipsnis. Dalinis darbas
 
@@ -4135,3 +4141,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702
 
 Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
+
+18\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2832, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07195
+
+Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
