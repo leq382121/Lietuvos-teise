@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2020-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/zlKmUSuJny"
+redakcija_nuo: "2020-04-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/tsjneuWbib"
 ---
 
 # Civilinis kodeksas
@@ -17818,7 +17818,13 @@ h) informaciją, ar organizuota turistinė kelionė iš esmės tinka riboto judu
 
 2\) kelionių organizatorius negali įvykdyti organizuotos turistinės kelionės sutarties dėl nenugalimos jėgos ir jis nedelsdamas iki organizuotos turistinės kelionės pradžios praneša turistui apie organizuotos turistinės kelionės sutarties nutraukimą.
 
-4\. Kelionių organizatorius ne vėliau kaip per 14 dienų nuo organizuotos turistinės kelionės sutarties nutraukimo dienos grąžina visus turisto arba jo vardu sumokėtus pinigus už organizuotą turistinę kelionę.
+4\. Kelionių organizatorius ne vėliau kaip per 14 dienų nuo organizuotos turistinės kelionės sutarties nutraukimo dienos grąžina visus turisto arba jo vardu sumokėtus pinigus už organizuotą turistinę kelionę, išskyrus atvejį, kai per šį terminą Turizmo įstatymo nustatytais atvejais turistas ir kelionių organizatorius susitaria dėl sumokėtų pinigų už neįvykusią organizuotą turistinę kelionę kompensavimo šiame įstatyme nustatytomis priemonėmis ir sąlygomis.
+
+*TAR pastaba. 4 dalis taikoma ir iki įstatymo Nr. XIII-2863 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl Turizmo įstatymo 17¹ straipsnio 1 dalyje nurodytų apribojimų, taikytų iki šio įstatymo įsigaliojimo.*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530*
 
 ###### 6.752 straipsnis. Organizuotos turistinės kelionės sutarties sąlygų pakeitimas iki organizuotos turistinės kelionės pradžios
 
@@ -21099,3 +21105,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
 
 Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straipsnių pakeitimo įstatymas
+
+45\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530
+
+Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
