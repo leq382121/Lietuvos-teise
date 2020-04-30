@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-04-03"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/hcXKtyhiyT"
+redakcija_nuo: "2020-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/QAbFxjQddb"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -777,6 +777,44 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų e
 užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
 4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas jonizuojančiosios spinduliuotės šaltinių, radioaktyviųjų atliekų ar radioaktyviosiomis medžiagomis užterštų daiktų konfiskavimas.
+
+#### 47¹ straipsnis. Potencialiai pavojingų įrenginių priežiūros norminių teisės aktų pažeidimas
+
+1\. Registro duomenų nepateikimas Potencialiai pavojingų įrenginių valstybės registro tvarkytojui Potencialiai pavojingų įrenginių valstybės registro nuostatuose nustatyta tvarka
+
+užtraukia įspėjimą arba baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims, potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams, akredituotųjų potencialiai pavojingų įrenginių techninės būklės tikrinimo įstaigų vadovams arba kitiems atsakingiems asmenims nuo penkiasdešimt iki dviejų šimtų eurų.
+
+2\. Nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimas neturint reikiamos kvalifikacijos arba specialiųjų žinių ir įgūdžių, arba reikiamos įrangos, prietaisų ir priemonių
+
+užtraukia įspėjimą arba baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims, atliekantiems nuolatinę potencialiai pavojingų įrenginių priežiūrą, potencialiai pavojingų įrenginių savininkų juridinių asmenų, atliekančių nuolatinę potencialiai pavojingų įrenginių priežiūrą, vadovams, fiziniams asmenims, su kuriais sudarytos sutartys dėl nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimo, arba juridinių asmenų, su kuriais sudarytos sutartys dėl nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimo, vadovams nuo vieno šimto iki trijų šimtų eurų.
+
+3\. Potencialiai pavojingų įrenginių valstybės registre neužregistruotų potencialiai pavojingų įrenginių naudojimas
+
+užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.
+
+4\. Potencialiai pavojingų įrenginių naudojimas neatlikus techninės būklės tikrinimo gamintojo ar potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka ir terminais
+
+užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.
+
+5\. Potencialiai pavojingų įrenginių naudojimas nustačius jų veiklos sutrikimų, kurie kelia grėsmę žmonių gyvybei, sveikatai ar aplinkai ar dėl kurių gali įvykti potencialiai pavojingo įrenginio avarija,
+
+užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.
+
+6\. Akredituotosios potencialiai pavojingų įrenginių techninės būklės tikrinimo įstaigos išvadoje, kad potencialiai pavojingas įrenginys yra netinkamas naudoti ir nesaugus žmonių gyvybei, sveikatai ar aplinkai, nurodytų neatitikčių nepašalinimas potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatytais terminais
+
+užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.
+
+7\. Šio straipsnio 1, 2 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+8\. Šio straipsnio 3, 4, 5, 6 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487*
 
 #### 48 straipsnis. Lietuvos Respublikos triukšmo valdymo įstatymo ir kitų teisės aktų, reglamentuojančių triukšmo valdymą, nevykdymas ar pažeidimas
 
@@ -1770,27 +1808,19 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių tūks
 
 #### 96 straipsnis. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
 
-1\. Darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas atliekant pavojingus darbus
+1\. Darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
 
 užtraukia baudą darbuotojui nuo trisdešimt iki devyniasdešimt eurų.
 
-2\. Darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas, kai pavojingus darbus atlieka neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų darbuotojas, taip pat darbuotojo vengimas pasitikrinti dėl neblaivumo ar apsvaigimo
-
-užtraukia baudą darbuotojui nuo devyniasdešimt iki dviejų šimtų devyniasdešimt eurų.
-
-3\. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
+2\. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
 
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
-
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, jeigu dėl to galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
+3\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, jeigu dėl to galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
-*Straipsnio dalies pakeitimai:*
+*Straipsnio pakeitimai:*
 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
 
@@ -1808,15 +1838,15 @@ užtraukia baudą darbdaviams ar juridinių asmenų vadovams nuo trijų šimtų 
 
 1\. Neblaivaus arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų darbuotojo buvimas darbo vietoje, juridinių asmenų patalpose ar teritorijoje darbo metu arba pasibaigus darbo laikui, taip pat darbuotojo vengimas pasitikrinti dėl neblaivumo ar apsvaigimo
 
-užtraukia baudą darbuotojui nuo trisdešimt iki devyniasdešimt eurų.
+užtraukia baudą darbuotojui nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų.
 
 2\. Neblaivaus arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų darbuotojo nenušalinimas nuo darbo
 
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki keturių šimtų keturiasdešimt eurų.
-
-3\. Neblaivaus arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų darbuotojo, dirbančio pavojingus darbus, nenušalinimas nuo darbo
-
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2554, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19862*
 
 #### 98¹ straipsnis. Darbo ar paslaugų sutarties sudarymas su asmenimis, neatitinkančiais Lietuvos Respublikos sporto įstatyme nustatytų reikalavimų
 
@@ -2462,23 +2492,29 @@ užtraukia baudą asmenims, kurie verčiasi individualia veikla, nuo šešiasde�
 
 užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
-#### 140 straipsnis. Teisinės metrologijos reikalavimų pažeidimas
+#### 140 straipsnis. Metrologijos srities teisės aktų pažeidimas
 
-1\. Teisinei metrologijai priskirtų matavimo priemonių, kurios neturi teisės aktų nustatytų galiojančių liudijimų (sertifikatų), plombų, žymenų ir (arba) ženklų arba kurių žymuo, plomba pažeisti, tiekimas rinkai, nuoma ar naudojimas; teisinei metrologijai priskirtų matavimo priemonių patikros atlikimas, kai tai daro neįgaliotos atlikti patikrą įstaigos, laboratorijos; teisinei metrologijai priskirtų matavimo priemonių, kurių tipai turi būti patvirtinti, tačiau yra nepatvirtinti, gamyba, pardavimas, nuoma ar naudojimas; matavimo priemonių naudojimas teisinio metrologinio reglamentavimo srityse jų nepriskiriant teisinei metrologijai; teisinei metrologijai priskirtų matavimo priemonių naudojimas nesilaikant gamintojo parengtų naudojimo instrukcijų ir techninio aptarnavimo reikalavimų; matavimo priemonių, kurių neatitiktis teisės aktams ir (arba) gamintojo techniniams dokumentams nustatyta atliekant teisinę metrologinę priežiūrą, gamyba, taisymas, tiekimas rinkai, nuoma, naudojimas, taip pat matavimo indų ir fasuotų prekių gamyba ir tiekimas rinkai; nuo rodmenų klastojimo neapsaugotų teisinei metrologijai priskirtų matavimo priemonių ir (ar) jų programinės įrangos tiekimas vartotojams; sveriamų, skaičiuojamų, dozuojamų, matuojamų prekių, kurių produkto kiekį nurodo pardavėjas, pardavimas pažeidžiant teisinės metrologijos reikalavimus; fasuotų prekių, kurių produkto kiekis nurodytas etiketėse arba ant fasuotės, gamyba, importas, pardavimas, perdavimas, saugojimas, ženklinimas pažeidžiant teisinės metrologijos reikalavimus; gėrimams ir kitiems skysčiams supilti ir matuoti skirtų indų gamyba, naudojimas, realizavimas, laikymas parengtų ir ženklinimas pažeidžiant teisinės metrologijos reikalavimus; Lietuvos Respublikoje neįteisintų matavimo vienetų naudojimas
+1\. Į Teisinio metrologinio reglamentavimo sritims priskirtų matavimo priemonių ir jų grupių sąrašą (toliau – Matavimo priemonių sąrašas) įtrauktų matavimo priemonių, kurių teisinis metrologinis patvirtinimas techninių reglamentų ar kitų metrologijos srities teisės aktų nustatyta tvarka neatliktas arba kurių patikros žymuo ar plomba yra pažeisti, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, fasuotų prekių, kurių produkto kiekis nurodytas įraše ant pakuotės, ar matavimo indų, skirtų gėrimams ir kitiems skysčiams supilti bei matuoti, pateikimas rinkai ar tiekimas rinkai arba ženklinimas pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, kurių neatitiktis techniniams reglamentams ar kitiems metrologijos srities teisės aktams nustatyta teisinės metrologinės priežiūros metu, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, parduodant sveriamų, skaičiuojamų, matuojamų arba dozuojamų prekių pateikimas rinkai ar tiekimas rinkai pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, nenurodytų ūkio subjekto tvirtinamame matavimo priemonių sąraše, naudojimas teisinio metrologinio reglamentavimo srityse, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių naudojimas teisinio metrologinio reglamentavimo srityse nesilaikant gamintojo parengtų techninių matavimo priemonių aprašų
 
-užtraukia baudą asmenims nuo trisdešimt iki trijų šimtų eurų ir juridinių asmenų arba užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto iki penkių šimtų penkiasdešimt eurų.
+užtraukia baudą asmenims nuo penkiasdešimt penkių iki penkių šimtų penkiasdešimt eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto aštuoniasdešimt iki vieno tūkstančio eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų arba užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki dviejų tūkstančių septynių šimtų eurų.
 
-3\. Teisinei metrologijai priskirtų matavimo priemonių ir (ar) jų programinės įrangos tyčinis gadinimas
+3\. Į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, naudojamų teisinio metrologinio reglamentavimo srityse, tyčinis gadinimas arba šių priemonių ar jų programinės įrangos rodmenų klastojimas
 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų arba užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki dviejų tūkstančių septynių šimtų eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų ir juridinių asmenų arba užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių devynių šimtų eurų.
+užtraukia baudą asmenims nuo vieno tūkstančio iki dviejų tūkstančių septynių šimtų eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių septynių šimtų iki penkių tūkstančių trijų šimtų eurų.
+
+5\. Už šio straipsnio 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti matavimo priemonės konfiskavimą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2523, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19117*
 
 #### 141 straipsnis. Lietuvos Respublikos strateginių prekių kontrolės įstatymo ir kitų teisės aktų pažeidimas
 
@@ -11468,7 +11504,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748*
 
-58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 95, 96, 97, 98, 98¹, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
+58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 47¹ straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 97, 98, 98¹, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -11483,6 +11519,10 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
 *Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855*
+
+*Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487*
+
+*Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208*
 
 59\) Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos – dėl šio kodekso 505, 507, 550, 551 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15095,3 +15135,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 45, 46, 96, 506, 526, 589 ir 608 straipsnių pakeitimo įstatymas
+
+98\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
+
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 47-1 straipsniu ir 589 straipsnio pakeitimo įstatymas
+
+99\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2523, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19117
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 140 straipsnio pakeitimo įstatymas
+
+100\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2554, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19862
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 96 ir 98 straipsnių pakeitimo įstatymas
+
+101\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
+
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 47-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIII-2476 2 straipsnio pakeitimo įstatymas
