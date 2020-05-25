@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/QAbFxjQddb"
+redakcija_nuo: "2020-05-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/hqlVtlhsUK"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1114,9 +1114,23 @@ užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt e
 
 užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.
 
+**59 straipsnio redakcija nuo 2021-05-26:**
+
+#### 59straipsnis. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
+
+1\. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
+
+užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.
+
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
+
+*Nr. XIII-2805, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02856*
 
 **60 straipsnis. Žmogaus audinių, ląstelių, organų donorystę, paėmimą, ištyrimą, apdorojimą, konservavimą, laikymą, parinkimą, paskirstymą, transplantaciją, šalinimą ir žmogaus audinių, ląstelių ir (ar) kitų pradinių medžiagų, skirtų pažangiosios terapijos vaistiniams preparatams gaminti, paėmimą, ištyrimą, apdorojimą, konservavimą, laikymą, paskirstymą ir (ar) kitus gamybos procesus reglamentuojančių teisės aktų pažeidimas**
 
@@ -15167,3 +15181,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
 
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 47-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIII-2476 2 straipsnio pakeitimo įstatymas
+
+102\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2805, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02856
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymas
+
+103\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2954, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11078
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymo Nr. XIII-2805 2 straipsnio pakeitimo įstatymas
