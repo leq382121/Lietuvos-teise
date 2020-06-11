@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2020-04-08"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/TCKvQZEfrD"
+redakcija_nuo: "2020-06-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/SjHaoJKuPt"
 ---
 
 # Darbo kodeksas
@@ -700,7 +700,11 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 1\) darbdavys negali suteikti darbuotojui darbo sutartyje sulygto darbo dėl objektyvių priežasčių ne dėl darbuotojo kaltės ir darbuotojas nesutinka dirbti kito jam pasiūlyto darbo;
 
-2\) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo.
+2\) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir (ar) karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu, arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831*
 
 2\. Šio straipsnio 1 dalies 1 punkte nustatytu atveju:
 
@@ -754,11 +758,15 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 3\. Darbdavys, tirdamas darbuotojo galimo padaryto darbo pareigų pažeidimo aplinkybes, gali nušalinti darbuotoją nuo darbo iki trisdešimt kalendorinių dienų mokėdamas jam vidutinį jo darbo užmokestį.
 
-3¹. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną, siekiant užtikrinti darbuotojų ir trečiųjų asmenų sveikatos apsaugą, darbdavys privalo darbuotojui, kurio sveikatos būklė kelia grėsmę kitų darbuotojų sveikatos saugumui, motyvuotu raštu pasiūlyti dirbti nuotoliniu būdu. Darbdavio pasiūlyme darbuotojui dirbti nuotoliniu būdu turi būti nurodyta siūlymo dirbti nuotoliniu būdu priežastis, terminas ir teisinis pagrindas. Darbuotojas per vieną darbo dieną privalo raštu informuoti darbdavį apie sutikimą dirbti nuotoliniu būdu. Darbuotojui nesutikus dirbti nuotoliniu būdu ar nepateikus darbdaviui atsakymo į darbdavio pasiūlymą dirbti nuotoliniu būdu, darbdavys ne vėliau kaip per vieną darbo dieną nuo termino darbuotojo atsakymui į darbdavio pasiūlymą pateikti dienos raštu nušalina darbuotoją nuo darbo, neleisdamas jam dirbti ir nemokėdamas darbo užmokesčio. Darbdavio sprendime nušalinti darbuotoją nuo darbo turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir teisinis pagrindas.
+3¹. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną, siekiant užtikrinti darbuotojų ir trečiųjų asmenų sveikatos apsaugą, darbdavys privalo darbuotojui, kurio sveikatos būklė kelia grėsmę kitų darbuotojų sveikatos saugumui, motyvuotu raštu pasiūlyti dirbti nuotoliniu būdu. Darbdavio pasiūlyme darbuotojui dirbti nuotoliniu būdu turi būti nurodyta siūlymo dirbti nuotoliniu būdu priežastis, terminas ir teisinis pagrindas. Darbuotojas per vieną darbo dieną privalo raštu informuoti darbdavį apie sutikimą dirbti nuotoliniu būdu. Darbuotojui nesutikus dirbti nuotoliniu būdu ar nepateikus darbdaviui atsakymo į darbdavio pasiūlymą dirbti nuotoliniu būdu, darbdavys ne vėliau kaip per vieną darbo dieną nuo termino darbuotojo atsakymui į darbdavio pasiūlymą pateikti dienos raštu nušalina darbuotoją nuo darbo, neleisdamas jam dirbti ir nemokėdamas darbo užmokesčio. Darbdavio sprendime nušalinti darbuotoją nuo darbo turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir teisinis pagrindas.
 
 *Papildyta straipsnio dalimi:*
 
 *Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831*
 
 4\. Nušalintas darbuotojas, jeigu jis sutinka, gali būti perkeltas į kitą darbą, jeigu toks perkėlimas neprieštarauja nušalinimo tikslui.
 
@@ -4149,3 +4157,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2832, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07195
 
 Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
+
+19\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
+
+Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
