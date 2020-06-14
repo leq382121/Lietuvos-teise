@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2020-05-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/bNrFFXMtXA"
+redakcija_nuo: "2020-06-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/QKESlSLFzI"
 ---
 
 # Civilinis kodeksas
@@ -2868,7 +2868,11 @@ Draudžiama teisės aktuose diskriminacijos tikslais nustatyti skirtingas teises
 
 3\. Atsisakymas išduoti licenciją negali būti grindžiamas veiklos netikslingumu ir turi būti motyvuotas.
 
-4\. Informacija apie licencijos išdavimą, jos galiojimo sustabdymą ir panaikinimą kaupiama juridinių asmenų registre. Licencijas išduodanti institucija privalo apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą pranešti juridinių asmenų registrui juridinių asmenų registro nuostatų nustatyta tvarka.
+4\. Neteko galios nuo 2020-06-15
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327*
 
 5\. Gavęs licenciją juridinis asmuo privalo licencijuojamos veiklos priežiūros institucijai teikti ir leisti tikrinti licencijavimo taisyklėse nurodytą informaciją, susijusią su licencijuojama veikla ar licencijos išdavimą lemiančiomis sąlygomis.
 
@@ -21129,3 +21133,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2956, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11673
 
 Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
+
+47\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327
+
+Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas
