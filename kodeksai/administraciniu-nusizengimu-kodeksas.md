@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-05-26"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/hqlVtlhsUK"
+redakcija_nuo: "2020-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/vqFcZipaVU"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3283,12 +3283,6 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki penki
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt iki šešių tūkstančių eurų.
-
-**TAR pastaba. Kodekso papildymas 188¹ straipsniu įsigalioja 2020-07-01.**
-
-*Papildyta straipsniu:*
-
-*Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444*
 
 #### 189 straipsnis. Registravimosi mokesčių mokėtoju tvarkos pažeidimas
 
@@ -10154,7 +10148,11 @@ užtraukia baudą asmenims nuo septynių šimtų dvidešimt iki vieno tūkstanč
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
-#### 506 straipsnis. Statutinių valstybės tarnautojų, karo policijos ar žvalgybos pareigūnų teisėtų nurodymų ar reikalavimų nevykdymas
+#### 506 straipsnis. Statutinių valstybės tarnautojų, karo policijos, Lietuvos Respublikos vadovybės apsaugos tarnybos ar žvalgybos pareigūnų teisėtų nurodymų ar reikalavimų nevykdymas
+
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
 1\. Policijos pareigūno teisėto reikalavimo atvykti į policiją nevykdymas
 
@@ -10168,9 +10166,13 @@ užtraukia baudą asmenims nuo trisdešimt iki devyniasdešimt eurų ir juridini
 
 užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-4\. Statutinio valstybės tarnautojo, karo policijos ar žvalgybos pareigūno teisėto nurodymo ar reikalavimo nevykdymas, išskyrus šio kodekso 556 straipsnyje nurodytus atvejus,
+4\. Statutinio valstybės tarnautojo, karo policijos, Lietuvos Respublikos vadovybės apsaugos tarnybos (toliau – Vadovybės apsaugos tarnyba) ar žvalgybos pareigūno teisėto nurodymo ar reikalavimo nevykdymas, išskyrus šio kodekso 556 straipsnyje nurodytus atvejus,
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
 4¹. Šio straipsnio 1, 2, 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti karo, nepaprastosios padėties, mobilizacijos, karantino, riboto karantino metu, taip pat susidarius ekstremaliajai situacijai ar ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai,
 
@@ -10244,9 +10246,9 @@ užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-#### 512 straipsnis. Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatyme numatytų prevencinių poveikio priemonių pažeidimas
+#### 512 straipsnis. Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatyme numatytos organizuoto nusikalstamumo prevencijos priemonės – oficialaus perspėjimo – pažeidimas
 
-1\. Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikytos prevencinio poveikio priemonės nevykdymas
+1\. Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikytos organizuoto nusikalstamumo prevencijos priemonės – oficialaus perspėjimo – nevykdymas
 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
@@ -10254,17 +10256,25 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų penkiasdešimt eurų.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-3080, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14355*
+
 #### 513 straipsnis. Duomenų, žinant, kad jie melagingi, pateikimas kelių transporto priemones ir kelių transporto priemonių vairuotojus registruojančioms įstaigoms
 
 Duomenų, žinant, kad jie melagingi, pateikimas kelių transporto priemones ir kelių transporto priemonių vairuotojus registruojančioms įstaigoms siekiant gauti vairuotojo pažymėjimo ar transporto priemonės registracijos liudijimo dublikatus arba kitus valstybinio numerio ženklus
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
-#### 514 straipsnis. Leidimų sistemos pažeidimas Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos saugomuose objektuose
+#### 514 straipsnis. Leidimų sistemos pažeidimas Lietuvos Respublikos vadovybės apsaugos tarnybos saugomuose objektuose
 
-Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos saugomų objektų leidimų sistemos pažeidimas, t. y. neteisėtas patekimas į saugomus Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės pastatus ir teritoriją, Respublikos Prezidento rezidencijos pastatus ir teritoriją, Turniškėse esančių rezidencijų teritoriją, kitoks šių objektų leidimų sistemos pažeidimas
+Vadovybės apsaugos tarnybos saugomų objektų leidimų sistemos pažeidimas, t. y. neteisėtas patekimas į saugomus Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės pastatus ir teritoriją, Respublikos Prezidento rezidencijos pastatus ir teritoriją, Turniškėse esančių rezidencijų teritoriją, kitoks šių objektų leidimų sistemos pažeidimas
 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
 #### 515 straipsnis. Tarptautinių sankcijų pažeidimas
 
@@ -10760,11 +10770,15 @@ užtraukia baudą nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų.
 
 *Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964*
 
-#### 558 straipsnis. Neatvykimas į privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
+#### 558 straipsnis. Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
 
-Neatvykimas į privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą be pateisinamos priežasties iki dviejų parų
+Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą be pateisinamos priežasties iki dviejų parų
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-2681, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21322*
 
 #### 559 straipsnis. Karo prievolininkų karinei įskaitai reikalingų duomenų nepateikimas karo prievolę administruojančiai krašto apsaugos sistemos institucijai arba melagingų duomenų pateikimas
 
@@ -11354,11 +11368,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 38\) Lietuvos metrologijos inspekcijos – dėl šio kodekso 140, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
-39\) Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
+39\) netenka galios 2020-07-01;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288*
+
+*Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653*
 
 40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 304² straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 5, 6 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 508, 510¹, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -11482,11 +11498,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
-53\) Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 508, 514 straipsniuose numatytų administracinių nusižengimų;
+53\) Vadovybės apsaugos tarnybos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 514 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
+
+*Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
 54\) Valstybės garantuojamos teisinės pagalbos tarnybos – dėl šio kodekso 507, 531 straipsniuose numatytų administracinių nusižengimų;
 
@@ -11588,17 +11606,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
-
-**66 punkto redakcija nuo 2020-07-01:**
-
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
 *Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284*
+
+*Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12190,7 +12206,11 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 5\) Karo policijos pareigūnai;
 
-6\) Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos pareigūnai.
+6\) Vadovybės apsaugos tarnybos pareigūnai.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
 10\. Šio straipsnio 9 dalyje nenurodytų institucijų pareigūnai gali kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo. Kai administracinis nusižengimas padaromas karinėse, karinių poligonų ir karinio mokymo teritorijose, karinio vieneto vado įsakymu administracinėn atsakomybėn traukiamas asmuo gali būti faktiškai sulaikytas (faktiškai apribota asmens laisvė), kol atvyks policijos ar Karo policijos pareigūnai, bet ne ilgiau negu dvi valandas. Kai administracinis nusižengimas padaromas laisvės atėmimo vietose ar jų prieigose, laisvės atėmimo vietos direktoriaus ar jo įgalioto pareigūno nurodymu administracinėn atsakomybėn traukiamas asmuo gali būti sulaikytas, kol atvyks policijos pareigūnai, bet ne ilgiau negu dvi valandas.
 
@@ -15197,3 +15217,43 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2954, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11078
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymo Nr. XIII-2805 2 straipsnio pakeitimo įstatymas
+
+104\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+105\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2681, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21322
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 558 straipsnio pakeitimo įstatymas
+
+106\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 506, 514, 589 ir 597 straipsnių pakeitimo įstatymas
+
+107\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3080, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14355
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 512 straipsnio pakeitimo įstatymas
+
+108\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
+
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymo Nr. XIII-2354 3 straipsnio pakeitimo įstatymas
