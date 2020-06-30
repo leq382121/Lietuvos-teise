@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2020-06-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/SjHaoJKuPt"
+redakcija_nuo: "2020-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/uzwjNzVUwf"
 ---
 
 # Darbo kodeksas
@@ -1006,7 +1006,11 @@ Darbo sutartis pasibaigia:
 
 3\. Su darbuotojais, auginančiais vaiką (įvaikį) iki trejų metų, darbo sutartis negali būti nutraukta darbdavio iniciatyva, jeigu nėra darbuotojo kaltės (šio kodekso 57 straipsnis). Su darbuotojais, esančiais nėštumo ir gimdymo, tėvystės ar vaiko priežiūros atostogose, darbo sutartis negali būti nutraukta darbdavio valia (šio kodekso 59 straipsnis).
 
-4\. Draudžiama atleisti iš darbo darbdavio iniciatyva nesant darbuotojo kaltės ar darbdavio valia darbuotoją, pašauktą atlikti privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą.
+4\. Draudžiama atleisti iš darbo darbdavio iniciatyva nesant darbuotojo kaltės ar darbdavio valia darbuotoją, pašauktą atlikti privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-2680, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21321*
 
 5\. Jeigu darbuotojas, pasibaigus šio straipsnio 4 dalyje nustatytiems laikotarpiams, neatvyksta į darbą, darbo sutartis su juo gali būti nutraukiama šiame skyriuje nustatytais darbo sutarties nutraukimo pagrindais.
 
@@ -4165,3 +4169,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
 
 Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
+
+20\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2680, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21321
+
+Lietuvos Respublikos darbo kodekso 61 straipsnio pakeitimo įstatymas
