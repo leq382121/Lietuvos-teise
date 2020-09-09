@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-09-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/BRNDcPMSyl"
+redakcija_nuo: "2020-09-10"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/SGlRNUPWfV"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3395,6 +3395,18 @@ užtraukia baudą asmenims nuo penkių šimtų iki vieno tūkstančio aštuonių
 4\. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių dviejų šimtų eurų ir juridinių asmenų vadovams – nuo trijų tūkstančių penkių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+
+#### 198¹ straipsnis. Nepateikimas duomenų praneštino asmens tapatybei nustatyti ar neteisingų duomenų pateikimas
+
+1\. Nepateikimas duomenų finansų įstaigoms, kitiems subjektams, atliekantiems praneštino asmens tapatybės nustatymą, ar neteisingų duomenų pateikimas
+
+užtraukia baudą asmenims nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+
+2\. Šiame straipsnyje nurodytas praneštinas asmuo yra naudos gavėjas ar kitas asmuo, kurio tapatybės duomenis finansų įstaigos ar kiti subjektai pagal Lietuvos Respublikos mokesčių administravimo įstatymą privalo kaupti ir pranešti mokesčių administratoriui.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556*
 
 #### 199 straipsnis. Koncentracijos priežiūros reikalavimų pažeidimas
 
@@ -11794,7 +11806,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 198¹, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -11803,6 +11815,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284*
 
 *Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364*
+
+*Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15479,3 +15493,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+112\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 198-1 straipsniu įstatymas
