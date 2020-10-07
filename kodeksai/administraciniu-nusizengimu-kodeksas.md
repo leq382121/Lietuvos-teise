@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-09-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/SGlRNUPWfV"
+redakcija_nuo: "2020-10-08"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/CayifguEob"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -12200,11 +12200,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-101\) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų;
+101\) kitų oficialiąją statistiką tvarkančių įstaigų – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų;
 
 *Papildyta punktu:*
 
 *Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481*
+
+*Punkto pakeitimai:*
+
+*Nr. XIII-3307, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20892*
 
 *Punkto numeracijos pakeitimas:*
 
@@ -15501,3 +15505,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 198-1 straipsniu įstatymas
+
+113\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3307, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20892
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
