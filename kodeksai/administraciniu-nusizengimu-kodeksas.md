@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2020-10-08"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/CayifguEob"
+redakcija_nuo: "2020-11-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/nTtOwohBrm"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2008,11 +2008,15 @@ užtraukia baudą nuo aštuonių šimtų šešiasdešimt iki vieno tūkstančio 
 
 1\. Socialinės globos teikimas neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų
 
-užtraukia baudą juridinių asmenų, kurie teikia socialinę globą, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų dvidešimt iki vieno tūkstančio keturių šimtų eurų.
+užtraukia baudą juridinių asmenų, kurie teikia socialinę globą, vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų keturiasdešimt iki dviejų tūkstančių aštuonių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo dviejų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930*
 
 ### XIII SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU NUOSAVYBE, TURTINĖMIS TEISĖMIS IR TURTINIAIS INTERESAIS
 
@@ -11690,11 +11694,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 51\) Radiacinės saugos centro – dėl šio kodekso 47, 53 straipsniuose, 127 straipsnio 1, 2 dalyse, 139, 240, 242, 245, 358, 359, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
-52\) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 107, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+52\) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 107, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
+
+*Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930*
 
 53\) Vadovybės apsaugos tarnybos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 514 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15513,3 +15519,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3307, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20892
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+114\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 107 ir 589 straipsnių pakeitimo įstatymas
