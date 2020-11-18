@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2020-06-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/QKESlSLFzI"
+redakcija_nuo: "2020-11-19"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mQqFxRduHH"
 ---
 
 # Civilinis kodeksas
@@ -6836,7 +6836,13 @@ Visas turtas, kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, g
 
 3\) vaiko globa (rūpyba) šeimoje;
 
-4\) brolių ir seserų neišskyrimas, išskyrus atvejus, kai tai pažeidžia vaiko interesus.
+4\) brolių ir seserų neišskyrimas, išskyrus atvejus, kai tai pažeidžia vaiko interesus;
+
+5\) vaiko aplinkos ir globos (rūpybos) vietos pastovumas.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIII-3396, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24264*
 
 2\. Nustatant ir naikinant vaiko globą (rūpybą), skiriant globėją (rūpintoją), vaikui, galinčiam išreikšti savo nuomonę, suteikiama galimybė būti išklausytam ir jo nuomonė yra svarbi priimant sprendimus.
 
@@ -21141,3 +21147,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327
 
 Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas
+
+48\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3396, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24264
+
+Lietuvos Respublikos civilinio kodekso 3.249 straipsnio pakeitimo įstatymas
