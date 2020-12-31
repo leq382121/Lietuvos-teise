@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2020-11-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/MeNUTPRkZA"
+redakcija_nuo: "2021-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/VEsOLgtdHf"
 ---
 
 # Baudžiamasis kodeksas
@@ -760,13 +760,15 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 5\. Jeigu už kelis padarytus nusikaltimus skiriamos daugiau negu dvi skirtingų rūšių bausmės, teismas, skirdamas galutinę subendrintą bausmę, iš paskirtų bausmių palieka dvi bausmes: vieną iš jų – griežčiausią, o kitą parenka savo nuožiūra.
 
-6\. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 68¹, 68², 71, 72, 72¹, 72² ir 72³ straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
+6\. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 68¹, 68², 71, 72, 72¹, 72², 72³ ir 72⁴ straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas, įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563*
 
 *Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177*
+
+*Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238*
 
 7\. Bausmių rūšis juridiniams asmenims ir bausmių skyrimo nepilnamečiams ypatumus nustato šio kodekso 43 ir 90 straipsniai.
 
@@ -1366,9 +1368,19 @@ b) vieno MGL dydžio baudai (1:1);
 
 9\) dalyvavimas smurtinį elgesį keičiančiose programose;
 
-10\) išplėstinis turto konfiskavimas.
+10\) išplėstinis turto konfiskavimas;
 
-3\. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
+11\) įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238*
+
+3\. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas, įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriami kartu su bausme. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238*
 
 4\. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje arba 92 straipsnyje numatytais pagrindais, gali būti skiriama įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, išplėstinis turto konfiskavimas. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
@@ -1571,6 +1583,20 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 *Kodeksas papildytas straipsniu:*
 
 *Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)*
+
+#### 72⁴ straipsnis. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos
+
+1\. Įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos teismas skiria tais atvejais, kai asmuo padarė šio kodekso 149 straipsnio 3 ir 4 dalyse, 150 straipsnio 3 ir 4 dalyse, 151 straipsnio 2 dalyje, 153, 157 straipsniuose, 162 straipsnio 1 dalyje, 307 straipsnio 3 dalyje, 308 straipsnio 3 dalyje ir 309 straipsnio 2 ir 3 dalyse numatytas nusikalstamas veikas.
+
+2\. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriamas nuo vienerių iki penkerių metų. Teismas, skirdamas įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais ir mėnesiais.
+
+3\. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, paskirtas kartu su terminuotu laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laikotarpį po laisvės atėmimo ar arešto atlikimo, o asmenį lygtinai paleidus iš pataisos įstaigos ar atidėjus bausmės vykdymą, – probacijos laikotarpiu ir likusį laikotarpį pasibaigus probacijai.
+
+4\. Paskyrus įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, iki teismo nustatyto termino pabaigos asmuo, planuodamas pakeisti gyvenamąją vietą ar išvykti iš gyvenamosios vietos ilgiau kaip septynioms paroms, privalo ne vėliau kaip per tris dienas nuo išvykimo pranešti apie tai policijos įstaigai, kurios teritorijoje yra asmens gyvenamoji vieta iki jos pakeitimo.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238*
 
 #### 73 straipsnis. Baudžiamojo poveikio priemonių skyrimas
 
@@ -6334,7 +6360,11 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 3\. Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar prokuroro reikalavimas.
 
-### XLVI skyrius – Nusikaltimai IR BAUDŽIAMIEJI NUSIŽENGIMAI krašto apsaugos tarnybAI
+### XLVI skyrius – NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI KRAŠTO APSAUGOS TARNYBAI IR MOBILIZACIJAI
+
+*Pakeistas skyriaus pavadinimas:*
+
+*Nr. XIII-3231, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15865*
 
 #### 314 straipsnis. Šaukimo į privalomąją karo tarnybą vengimas
 
@@ -6367,6 +6397,16 @@ baudžiamas laisvės atėmimu iki trejų metų.
 2\. Karys, padaręs šio straipsnio 1 dalyje numatytą veiką karo padėties metu ar atlikdamas kovos užduotį, arba jeigu dėl tos veikos atsirado sunkių padarinių,
 
 baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
+
+#### 316¹ straipsnis. Mobilizacijos ar karo padėties metu būtinų funkcijų neatlikimas
+
+Tas, kas būdamas įrašytas į civilinio mobilizacinio personalo rezervą mobilizacijos ar karo padėties metu vengė atlikti jam nustatytas funkcijas arba jas atliko netinkamai, jeigu dėl to atsirado sunkių padarinių,
+
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIII-3231, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15865*
 
 #### 317 straipsnis. Įsakymo nevykdymas
 
@@ -6486,7 +6526,11 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 #### 330 straipsnis. Sąvokų išaiškinimas
 
-1\. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą.
+1\. Karys – Lietuvos Respublikos pilietis, atliekantis tikrąją karo tarnybą, o karo padėties metu – asmuo, kuris yra ginkluotųjų pajėgų narys.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIII-3231, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15865*
 
 2\. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
 
@@ -7495,3 +7539,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 Lietuvos Respublikos baudžiamojo kodekso 60, 147-1, 151-1, 189, 214, 218, 224-1 straipsnių ir priedo pakeitimo įstatymas
+
+41\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3231, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15865
+
+Lietuvos Respublikos baudžiamojo kodekso XLVI skyriaus pavadinimo, 330 straipsnio pakeitimo ir Kodekso papildymo 316-1 straipsniu įstatymas
+
+42\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238
+
+Lietuvos Respublikos baudžiamojo kodekso 42, 67 straipsnių pakeitimo ir Kodekso papildymo 72-4 straipsniu įstatymas
