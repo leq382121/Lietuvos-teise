@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2020-11-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mQqFxRduHH"
+redakcija_nuo: "2021-01-23"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ygVsOuxtZe"
 ---
 
 # Civilinis kodeksas
@@ -17832,13 +17832,19 @@ h) informaciją, ar organizuota turistinė kelionė iš esmės tinka riboto judu
 
 *TAR pastaba. 4 dalis taikoma ir iki įstatymo Nr. XIII-2863 įsigaliojimo dienos (2020-04-24) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl Turizmo įstatymo 17¹ straipsnio 1 dalyje nurodytų apribojimų, taikytų iki šio įstatymo įsigaliojimo.*
 
+*TAR pastaba. Tais atvejais, kai organizuotos turistinės kelionės sutartis nutraukta iki įstatymo Nr. XIV-168 įsigaliojimo dienos (2021-01-23) ir kelionių organizatorius yra negrąžinęs visų turisto arba jo vardu sumokėtų pinigų už organizuotą turistinę kelionę, Lietuvos Respublikos civilinio kodekso 6.751 straipsnio 4 dalyje nustatytas 14 dienų pinigų grąžinimo terminas pradedamas skaičiuoti nuo 2021 m. vasario 15 d.*
+
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530*
 
-5\. Jeigu turistas ir kelionių organizatorius nesusitaria dėl sumokėtų pinigų už neįvykusią organizuotą turistinę kelionę kompensavimo, kaip tai nustatyta šio straipsnio 4 dalyje, kelionių organizatorius ne vėliau kaip per 90 dienų nuo dienos, kai nelieka Turizmo įstatyme nurodytų apribojimų, kurių pagrindu kelionių organizatoriaus įsipareigojimų pagal organizuotos turistinės kelionės sutartį vykdymas tapo neįmanomas, grąžina visus turisto arba jo vardu sumokėtus pinigus už organizuotą turistinę kelionę.
+*Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181*
 
-*TAR pastaba. 5 dalis taikoma ir iki įstatymo Nr. XIII-2956 įsigaliojimo dienos (2020-05-30) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl Turizmo įstatymo 17¹ straipsnio 1 dalyje nurodytų apribojimų, taikytų iki šio įstatymo įsigaliojimo.*
+5\. Neteko galios nuo 2021-01-23
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181*
 
 *Papildyta straipsnio dalimi:*
 
@@ -21155,3 +21161,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3396, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24264
 
 Lietuvos Respublikos civilinio kodekso 3.249 straipsnio pakeitimo įstatymas
+
+49\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181
+
+Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
