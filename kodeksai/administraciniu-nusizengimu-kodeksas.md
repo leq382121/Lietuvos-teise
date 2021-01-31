@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/uVZVMmwYvB"
+redakcija_nuo: "2021-02-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/WxAaqhPbRs"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -274,7 +274,7 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 
 #### 12 straipsnis. Mažai pavojinga veika
 
-1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 
 *Straipsnio dalies pakeitimai:*
 
@@ -289,6 +289,8 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
 *Nr. XIII-3172, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15504*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 2\. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.
 
@@ -1554,15 +1556,17 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
-5\. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas radijo ir (ar) televizijos programose, atskirose programose, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose
+5\. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas radijo ir (ar) televizijos programose, atskirose programose, užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose
 
-užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
 
 *Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2220,19 +2224,19 @@ užtraukia baudą asmenims nuo penkių šimtų iki devynių šimtų eurų ir jur
 
 *Nr. XIII-2125, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08305*
 
-#### 124 straipsnis. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose nesilaikymas
+#### 124 straipsnis. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose nesilaikymas
 
-1\. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose nesilaikymas
+1\. Reikalavimų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių dalies transliuojamose televizijos programose ir užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose nesilaikymas
 
-užtraukia įspėjimą arba baudą televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
+užtraukia įspėjimą arba baudą televizijos programų transliuotojų ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 125 straipsnis. Pramoninės nuosavybės teisių pažeidimas
 
@@ -2438,15 +2442,19 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eur�
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
 
-#### 136 straipsnis. Duomenų apie juridinių asmenų, kurie yra vietinių, regioninių, nacionalinių laikraščių, žurnalų leidėjai ar informacinės visuomenės informavimo priemonių valdytojai, dalyvius pateikimo ir šių duomenų viešo paskelbimo tvarkos pažeidimas
+#### 136 straipsnis. Duomenų ar informacijos apie viešosios informacijos rengėjus, skleidėjus ir jų veiklą pateikimo Viešosios informacijos rengėjų ir skleidėjų informacinei sistemai tvarkos pažeidimas
 
-1\. Duomenų apie juridinių asmenų, kurie yra vietinių, regioninių, nacionalinių laikraščių, žurnalų leidėjai ar informacinės visuomenės informavimo priemonių valdytojai, dalyvius pateikimo ir šių duomenų viešo paskelbimo tvarkos aprašo pažeidimas
+1\. Duomenų ar informacijos apie viešosios informacijos rengėjus, skleidėjus ir jų veiklą nepateikimas į Viešosios informacijos rengėjų ir skleidėjų informacinę sistemą teisės aktų nustatyta tvarka arba neteisingų duomenų ir informacijos pateikimas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 137 straipsnis. Neteisėtas stiprių alkoholinių gėrimų, brogos, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
 
@@ -2604,11 +2612,11 @@ užtraukia baudą atsakingiems už reklamos skleidimą asmenims nuo vieno šimto
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
 
-#### 146 straipsnis. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
+#### 146 straipsnis. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir audiovizualinės žiniasklaidos paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
 
-1\. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
+1\. Reikalavimų televizijos reklamai, teleparduotuvei, prekių rodymui, reklamai radijo programose, komerciniams audiovizualiniams pranešimams ir audiovizualinės žiniasklaidos paslaugų, radijo programų ir (ar) atskirų programų rėmimo reikalavimų pažeidimas
 
-užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir audiovizualinės žiniasklaidos paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2617,6 +2625,8 @@ užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 147 straipsnis. Teisės aktų, reglamentuojančių patikimumo užtikrinimo paslaugų teikėjų veiklą, pažeidimas
 
@@ -9910,7 +9920,7 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 
 užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
-**477 straipsnis. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas, pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas, nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią**
+**477 straipsnis. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas, pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas, nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią**
 
 1\. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas ar pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas
 
@@ -9922,15 +9932,15 @@ užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
 3\. Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas
 
-užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų, interneto prieigos paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
-5\. Nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią
+5\. Nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią
 
-užtraukia įspėjimą arba baudą fiziniams asmenims arba nelicencijuojamą radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklą vykdančių juridinių asmenų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia įspėjimą arba baudą fiziniams asmenims arba nelicencijuojamą radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklą vykdančių juridinių asmenų, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -9939,6 +9949,8 @@ užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 478 straipsnis. Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo pažeidimas
 
@@ -10354,13 +10366,17 @@ užtraukia baudą nuo dviejų šimtų iki dviejų šimtų šešiasdešimt eurų.
 
 #### 502 straipsnis. Televizijos ir radijo programų, televizijos, kino filmų nevertimas į valstybinę kalbą
 
-1\. Radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų programų, televizijos, kino filmų demonstravimas be vertimo į valstybinę lietuvių kalbą, išskyrus įstatymuose numatytus atvejus,
+1\. Radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų programų, televizijos, kino filmų demonstravimas be vertimo į valstybinę lietuvių kalbą, išskyrus įstatymuose numatytus atvejus,
 
 užtraukia baudą televizijos, radijo, kino teatrų vadovams nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo trijų šimtų iki trijų šimtų penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 503 straipsnis. Autentiškų ir oficialių Lietuvos vietovardžių formų nevartojimas
 
@@ -10984,7 +11000,7 @@ užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
 
 #### 548 straipsnis. Visuomenės informavimo priemonių paskelbtos informacijos saugojimo tvarkos pažeidimas
 
-1\. Visuomenės informavimo priemonių, išskyrus radijo ir (ar) televizijos programų transliuotojus ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjus, paskelbtos informacijos saugojimo tvarkos pažeidimas
+1\. Visuomenės informavimo priemonių, išskyrus radijo ir (ar) televizijos programų transliuotojus ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjus, paskelbtos informacijos saugojimo tvarkos pažeidimas
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto penkiasdešimt eurų.
 
@@ -10992,17 +11008,17 @@ užtraukia baudą nuo devyniasdešimt iki vieno šimto penkiasdešimt eurų.
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
 
-3\. Radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų paskelbtos informacijos saugojimo tvarkos pažeidimas
+3\. Radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų paskelbtos informacijos saugojimo tvarkos pažeidimas
 
-užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297*
+užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
 #### 549 straipsnis. Neteisėtas mokymo ar studijų ir (ar) su studijomis susijusios veiklos organizavimas
 
@@ -15803,3 +15819,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 426 ir 589 straipsnių pakeitimo įstatymas
+
+123\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 79, 124, 136, 146, 477, 502 ir 548 straipsnių pakeitimo įstatymas
