@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-06-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/oCYDRcURGW"
+redakcija_nuo: "2021-06-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/oyvnobXGZf"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3672,23 +3672,29 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
 
-#### 212 straipsnis. Prekių deklaravimo tvarkos pažeidimas
+#### 212 straipsnis. Prekių ir grynųjų pinigų deklaravimo tvarkos pažeidimas
 
-1\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė neviršija trijų bazinių bausmių ir nuobaudų dydžių arba tai neturėjo įtakos apribojimų ar draudimų netaikymui,
+1\. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė neviršija trijų bazinių bausmių ir nuobaudų dydžių arba tai neturėjo įtakos apribojimų ar draudimų netaikymui,
 
 užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto aštuoniasdešimt eurų.
 
-2\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija tris bazinių bausmių ir nuobaudų dydžius, bet neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos apribojimų ar draudimų taikymui,
+2\. Netikslios ir (ar) neišsamios informacijos pateikimas grynųjų pinigų deklaracijoje ar grynųjų pinigų atskleidimo deklaracijoje
+
+užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+3\. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija tris bazinių bausmių ir nuobaudų dydžius, bet neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių, arba tai turėjo įtakos apribojimų ar draudimų taikymui,
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio devynių šimtų eurų.
 
-3\. Netikslios ir neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos draudimų ir apribojimų, susijusių su prekėms taikomais saugos ir saugumo reikalavimais, taikymui,
+4\. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos draudimų ir apribojimų, susijusių su prekėms taikomais saugos ir saugumo reikalavimais, taikymui,
 
 užtraukia baudą nuo vieno tūkstančio devynių šimtų iki trijų tūkstančių eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497*
 
 #### 213 straipsnis. Prekių gabenimo tvarkos pažeidimas
 
@@ -14865,6 +14871,12 @@ priedas
 *Papildyta punktu:*
 
 *Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798*
+
+103¹. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005.
+
+*Papildyta punktu:*
+
+*Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497*
 
 104\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
 
