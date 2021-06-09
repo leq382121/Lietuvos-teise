@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2021-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/VEsOLgtdHf"
+redakcija_nuo: "2021-06-10"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/VafBtvTcWn"
 ---
 
 # Baudžiamasis kodeksas
@@ -1488,7 +1488,11 @@ b) vieno MGL dydžio baudai (1:1);
 
 #### 71 straipsnis. Įmoka į nukentėjusių nuo nusikaltimų asmenų fondą
 
-1\. Teismas asmeniui gali paskirti nuo 5 iki 125 MGL, o nepilnamečiui – nuo 3 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Nepilnamečiui įmoka į nukentėjusių nuo nusikaltimų asmenų fondą skiriama tik tuo atveju, kai nepilnametis dirba ar turi savo turto.
+1\. Teismas asmeniui gali paskirti nuo 10 iki 250 MGL, o nepilnamečiui – nuo 3 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Nepilnamečiui įmoka į nukentėjusių nuo nusikaltimų asmenų fondą skiriama tik tuo atveju, kai nepilnametis dirba ar turi savo turto.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-368, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13176*
 
 2\. Juridiniam asmeniui teismas gali paskirti nuo 100 iki 2 000 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą.
 
@@ -7555,3 +7559,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238
 
 Lietuvos Respublikos baudžiamojo kodekso 42, 67 straipsnių pakeitimo ir Kodekso papildymo 72-4 straipsniu įstatymas
+
+43\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-368, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13176
+
+Lietuvos Respublikos baudžiamojo kodekso 71 straipsnio pakeitimo įstatymas
