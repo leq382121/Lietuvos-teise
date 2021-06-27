@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-06-18"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/xwTTofTWoz"
+redakcija_nuo: "2021-06-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/UwVqlERTOJ"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10076,6 +10076,28 @@ užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsaki
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems asmenims nuo vieno tūkstančio keturių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
+#### 480¹ straipsnis. Reglamente (ES) 2019/881 nustatytos kibernetinio saugumo sertifikavimo tvarkos pažeidimas
+
+1\. Reglamente (ES) 2019/881 nustatytos informacijos apie išduotus Europos kibernetinio saugumo sertifikatus ir Europos Sąjungos atitikties pareiškimus saugojimo ar pateikimo tvarkos pažeidimas arba viešai pateikiamos papildomos kibernetinio saugumo informacijos pateikimo ir atnaujinimo tvarkos pažeidimas
+
+užtraukia įspėjimą arba baudą nuo trisdešimt iki trijų šimtų eurų.
+
+2\. Neteisingos informacijos Europos kibernetinio saugumo sertifikatuose ir Europos Sąjungos atitikties pareiškimuose pateikimas arba Reglamente (ES) 2019/881 nustatytos informacinių ir ryšių technologijų produktų, paslaugų ir procesų, dėl kurių išduoti Europos kibernetinio saugumo sertifikatai, įvertinimo tvarkos ar Europos kibernetinio saugumo sertifikavimo schemų nuostatų pažeidimas, arba Reglamente (ES) 2019/881 nustatytos informacijos apie pažeidžiamumo spragas ar neatitikties atvejus, kurie gali daryti poveikį su sertifikavimu susijusiems reikalavimams, pateikimo tvarkos pažeidimas
+
+užtraukia įspėjimą arba baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų keturiasdešimt eurų.
+
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+4\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio keturių šimtų keturiasdešimt iki penkių tūkstančių aštuonių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162*
+
 ### XXIV SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU VIEŠĄJA TVARKA
 
 #### 481 straipsnis. Nedidelis viešosios tvarkos pažeidimas
@@ -11894,13 +11916,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
 
-46\) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 479 straipsnio 1, 2, 4 dalyse, 480, 507 straipsniuose numatytų administracinių nusižengimų;
+46\) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 479 straipsnio 1, 2, 4 dalyse, 480, 480¹, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594*
 
 *Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734*
+
+*Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162*
 
 47\) Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 1, 2 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14906,17 +14930,31 @@ priedas
 
 *Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497*
 
-104\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
+104\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas).
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162*
+
+105\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
 
 *Papildyta punktu:*
 
 *Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855*
 
-105\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013.
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162*
+
+106\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013.
 
 *Papildyta punktu:*
 
 *Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497*
+
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162*
 
 *Priedo pakeitimai:*
 
@@ -15947,3 +15985,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-391, 2021-06-15, paskelbta TAR 2021-06-17, i. k. 2021-13829
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 585 straipsnio pakeitimo įstatymas
+
+129\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio ir priedo pakeitimo ir Kodekso papildymo 480-1 straipsniu įstatymas
