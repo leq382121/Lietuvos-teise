@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2021-01-23"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ygVsOuxtZe"
+redakcija_nuo: "2021-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ZSphdfYPvR"
 ---
 
 # Civilinis kodeksas
@@ -2782,7 +2782,13 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 *Nr. XIII-850, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20333*
 
-3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal duomenų teikimo sutartis.
+3\) kitiems valstybės registrams ir informacinėms sistemoms – pagal duomenų teikimo sutartis;
+
+4\) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-242, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08876*
 
 5\. Užmokestis už juridinių asmenų duomenų bei dokumentų kopijų teikimą neturi viršyti registro administravimo išlaidų.
 
@@ -14338,17 +14344,31 @@ Jeigu įstatymai ar sutartis nenumato ko kita, laikoma, kad vartojimo pirkimo–
 
 7\. Bet kokiu būdu reklamuojant daiktą, jeigu nurodoma pardavimo kaina, turi būti nurodoma daikto standartinio vieneto kaina, išskyrus šio straipsnio 3 ir 4 dalyse nustatytas išimtis.
 
-8\. Pirkėjas turi teisę iki sutarties sudarymo apžiūrėti daiktus ir pareikalauti, kad pardavėjas dalyvaujant pirkėjui patikrintų daiktus arba pademonstruotų, kaip juos naudoti, jeigu tai yra įmanoma atsižvelgiant į daiktų pobūdį.
+8\. Pardavėjas privalo suteikti pirkėjui informaciją apie taikomą daiktų kainų sumažinimą. Bet kuriame pranešime apie daikto kainos sumažinimą turi būti nurodoma ankstesnė daikto kaina. Ankstesne kaina yra laikoma mažiausia kaina, kurią pardavėjas taikė per 30 dienų laikotarpį iki kainos sumažinimo. Tais atvejais, kai daikto kaina mažinama laipsniškai, ankstesne kaina yra laikoma daikto kaina, buvusi iki pirmojo jos sumažinimo. Jeigu daiktas buvo siūlomas pirkėjams mažiau negu 30 dienų, taikomas faktinis daikto siūlymo pirkėjams terminas. Šios dalies nuostatos netaikomos greitai gendantiems produktams arba prekinę vertę greitai prarandantiems daiktams.
 
-9\. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–7 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.
+*Papildyta straipsnio dalimi:*
 
-*TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.*
+*Nr. XIV-205, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06550*
+
+9\. Pirkėjas turi teisę iki sutarties sudarymo apžiūrėti daiktus ir pareikalauti, kad pardavėjas dalyvaujant pirkėjui patikrintų daiktus arba pademonstruotų, kaip juos naudoti, jeigu tai yra įmanoma atsižvelgiant į daiktų pobūdį.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIV-205, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06550*
+
+10\. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–8 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145*
 
-10\. Pardavėjas, nesudaręs galimybės pirkėjui gauti atitinkamą informaciją apie daiktus, atsako už daiktų trūkumus, atsiradusius po daiktų perdavimo pirkėjui, jeigu pirkėjas įrodo, kad trūkumai atsirado dėl to, kad jis neturėjo atitinkamos informacijos.
+*Nr. XIV-205, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06550*
+
+11\. Pardavėjas, nesudaręs galimybės pirkėjui gauti atitinkamą informaciją apie daiktus, atsako už daiktų trūkumus, atsiradusius po daiktų perdavimo pirkėjui, jeigu pirkėjas įrodo, kad trūkumai atsirado dėl to, kad jis neturėjo atitinkamos informacijos.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XIV-205, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06550*
 
 *Straipsnio pakeitimai:*
 
@@ -21169,3 +21189,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-168, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01181
 
 Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
+
+50\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-205, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06550
+
+Lietuvos Respublikos civilinio kodekso 6.353 straipsnio pakeitimo įstatymas
+
+51\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-242, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08876
+
+Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas
