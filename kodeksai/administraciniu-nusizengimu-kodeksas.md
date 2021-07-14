@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tHdgAgVwOD"
+redakcija_nuo: "2021-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GXXWbAcdlD"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -9010,9 +9010,13 @@ užtraukia baudą vairuotojams nuo vieno šimto aštuoniasdešimt iki dviejų š
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
-2\. Taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, pavojinguosius krovinius vežančių transporto priemonių vairavimas, kai tai daro neblaivūs (daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės) vairuotojai,
+2\. Lengvųjų automobilių, kuriais vežami keleiviai už atlygį pagal užsakymą, taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, pavojinguosius krovinius vežančių transporto priemonių vairavimas, kai tai daro neblaivūs (daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės) vairuotojai,
 
 užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-469, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15848*
 
 3\. Praktinis vairavimo mokymas, kai tai daro neblaivūs (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) vairavimo instruktoriai ar šeimos narį mokantys vairuoti asmenys arba asmenys, apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat apsvaigimo patikrinimo vengimas arba alkoholio (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo
 
@@ -16215,3 +16219,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 33, 43, 89, 110, 112, 573, 607, 608, 609, 610, 611, 613, 614, 627, 631, 632, 635, 640, 642, 661, 673 straipsnių ir priedo pakeitimo įstatymas
+
+135\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-469, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15848
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 422 straipsnio pakeitimo įstatymas
