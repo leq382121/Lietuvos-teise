@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2021-08-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/NPnlhupEvg"
+redakcija_nuo: "2021-11-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/OOVelshYYf"
 ---
 
 # Darbo kodeksas
@@ -1750,9 +1750,17 @@ Viešojo juridinio asmens vadovu išrinktas ar paskirtas juridinio asmens darbuo
 
 12\. Komandiruotės trukmė skaičiuojama sudedant visas komandiruotės ar komandiruočių kalendorines dienas per vienų metų laikotarpį nuo pirmosios komandiruotės pradžios. Kai komandiruotas darbuotojas pakeičiamas kitu komandiruotu darbuotoju, atliekančiu tą patį darbą toje pačioje darbo funkcijų atlikimo vietoje, pagal šio straipsnio 4 ir 5 dalis skaičiuojama faktine komandiruotės trukme laikoma bendra atitinkamų atskirų komandiruotų darbuotojų komandiruotės laikotarpių trukmė. To paties darbo toje pačioje darbo funkcijų atlikimo vietoje sąlyga vertinama atsižvelgiant į teiktinos paslaugos pobūdį, darbo funkciją, darbo funkcijos atlikimo vietos adresą (adresus) ir kitas aplinkybes, susijusias su darbo funkcijos atlikimu.
 
-13\. Rangovas, kai darbdavys yra subrangovas, atsako subsidiariai už šio straipsnio 2 dalies 3 punkte nustatytų piniginių įpareigojimų, susijusių su darbo užmokesčiu, įvykdymą šio straipsnio 1 dalyje nurodytam darbuotojui, kai jis dirba darbus, nustatytus Lietuvos Respublikos statybos įstatyme.
+13\. Jeigu darbdavys yra subrangovas, rangovui dėl darbo užmokesčio, įskaitant padidintą apmokėjimą už viršvalandinį darbą, darbą naktį, darbą poilsio ir švenčių dienomis, mokėjimo šio straipsnio 1 dalyje nurodytam darbuotojui, kai jis dirba darbus, nustatytus Lietuvos Respublikos statybos įstatyme, taikomos šio kodekso 139 straipsnio 5 ir 6 dalių nuostatos.
 
-14\. Subsidiari rangovo, kai darbdavys yra subrangovas, atsakomybė kyla iš teisių ir pareigų, nustatytų subrangos sutartyje.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
+
+14\. Neteko galios nuo 2021-11-01.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
 
 15\. Kelių transporto priemonių vairuotojams, vežantiems krovinius ir (arba) keleivius tarptautiniais kelių maršrutais ir atitinkantiems šio straipsnio 1 dalyje išvardytus atvejus, netaikomi šio straipsnio 2 dalies 3, 8 ir 9 punktai, 4 ir 5 dalys ir 12 dalies nuostata dėl faktinės komandiruotės trukmės skaičiavimo, kai komandiruotas darbuotojas pakeičiamas kitu komandiruotu darbuotoju. Kelių transporto priemonių vairuotojams, vežantiems krovinius ir (arba) keleivius tarptautiniais kelių maršrutais ir atitinkantiems šio straipsnio 1 dalyje išvardytus atvejus, taikomos šio kodekso ir kitų darbo santykius reglamentuojančių Lietuvos Respublikos norminių teisės aktų, įskaitant nacionalines (tarpšakines), teritorines ir šakos (gamybos, paslaugų, profesines) kolektyvines sutartis ar atskiras jų nuostatas, kurių taikymas buvo išplėstas, normos, nustatančios minimalųjį darbo užmokestį, įskaitant padidintą apmokėjimą už viršvalandinį darbą, darbą naktį, darbą poilsio ir švenčių dienomis.
 
@@ -2413,6 +2421,18 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 3\. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus.
 
 4\. Tais atvejais, kai darbuotojui pagal šį kodeksą ar kitas darbo teisės normas ar darbo sutartį turi būti mokamas vidutinis darbo užmokestis (arba jo dalis), priklausantis (priklausanti) nuo anksčiau gauto darbo užmokesčio, tokiam darbo užmokesčiui apskaičiuoti taikomos šio straipsnio 2 dalies 1–5 punktuose numatytos darbo užmokesčio dalys Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+5\. Jeigu darbdavys yra subrangovas, rangovas subsidiariai atsako už darbo užmokesčio, įskaitant padidintą apmokėjimą už viršvalandinį darbą, darbą naktį, darbą poilsio ir švenčių dienomis, mokėjimą darbuotojui, dirbančiam darbus, nustatytus Lietuvos Respublikos statybos įstatyme.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
+
+6\. Šio straipsnio 5 dalyje nustatyta subsidiarioji rangovo, jeigu darbdavys yra subrangovas, atsakomybė apsiriboja darbuotojo teisėmis į darbo užmokestį, įskaitant padidintą apmokėjimą už viršvalandinį darbą, darbą naktį, darbą poilsio ir švenčių dienomis, įgytomis atliekant darbo funkcijas, kai vykdoma statybos rangos sutartis, sudaryta tarp rangovo ir subrangovo.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
 
 ##### 140 straipsnis. Darbo užmokesčio nustatymas
 
@@ -3626,7 +3646,11 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 2\) kolektyvinius darbo ginčus dėl interesų.
 
-3\. Individualus darbo ginčas dėl teisės yra nesutarimas tarp darbuotojo ar kitų darbo santykių dalyvių, iš vienos pusės, ir darbdavio, iš kitos pusės, kylantis sudarant, keičiant, vykdant ar nutraukiant darbo sutartį, taip pat dėl darbo teisės normų nevykdymo ar netinkamo jų vykdymo darbo santykiuose tarp darbuotojo ir darbdavio. Darbo ginčo šalimi laikomas ir buvęs darbdavys, taip pat asmuo, išreiškęs norą sudaryti darbo sutartį, kai su juo buvo atsisakyta ją sudaryti, taip pat asmenys, turintys teisę į darbuotojo darbo užmokestį ar kitas su darbo santykiais susijusias išmokas.
+3\. Individualus darbo ginčas dėl teisės yra nesutarimas tarp darbuotojo ar kitų darbo santykių dalyvių, iš vienos pusės, ir darbdavio, iš kitos pusės, kylantis sudarant, keičiant, vykdant ar nutraukiant darbo sutartį, taip pat dėl darbo teisės normų nevykdymo ar netinkamo jų vykdymo darbo santykiuose tarp darbuotojo ir darbdavio. Darbo ginčo šalimi laikomas ir buvęs darbdavys, taip pat asmuo, išreiškęs norą sudaryti darbo sutartį, kai su juo buvo atsisakyta ją sudaryti, rangovas šio kodekso 139 straipsnio 5 ir 6 dalyse nustatytais atvejais, taip pat asmenys, turintys teisę į darbuotojo darbo užmokestį ar kitas su darbo santykiais susijusias išmokas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
 
 4\. Kolektyvinis darbo ginčas dėl teisės – nesutarimas tarp darbuotojų atstovų, iš vienos pusės, ir darbdavio ar darbdavių organizacijų, iš kitos pusės, dėl darbo teisės normų ar abipusių susitarimų nevykdymo ar netinkamo vykdymo.
 
