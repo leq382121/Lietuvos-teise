@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-11-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/pLYyDPheiI"
+redakcija_nuo: "2021-11-26"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GnkNgVOLDx"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -5586,15 +5586,27 @@ užtraukia baudą asmenims nuo dviejų šimtų iki penkių šimtų penkiasdešim
 
 4\. Išgaunamo paviršinio vandens, išleidžiamų nuotekų arba su nuotekomis išleidžiamų teršalų apskaitos ir ataskaitų teikimo reikalavimų pažeidimas
 
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dešimt iki trijų šimtų eurų.
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki devynių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-701, 2021-11-23, paskelbta TAR 2021-11-25, i. k. 2021-24302*
 
 5\. Paviršinio vandens išgavimo ar nuotekų tvarkymo įrenginių eksploatavimo reikalavimų pažeidimas
 
-užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki devynių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-701, 2021-11-23, paskelbta TAR 2021-11-25, i. k. 2021-24302*
 
 6\. Šio straipsnio 4, 5 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
-užtraukia baudą asmenims nuo vieno šimto šešiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų septyniasdešimt iki šešių šimtų eurų.
+užtraukia baudą asmenims nuo vieno šimto šešiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių dviejų šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-701, 2021-11-23, paskelbta TAR 2021-11-25, i. k. 2021-24302*
 
 *Straipsnio pakeitimai:*
 
@@ -16705,3 +16717,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-610, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23532
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 367 straipsnio pakeitimo įstatymas
+
+144\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-701, 2021-11-23, paskelbta TAR 2021-11-25, i. k. 2021-24302
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 268 straipsnio pakeitimo įstatymas
