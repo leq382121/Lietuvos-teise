@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-11-26"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GnkNgVOLDx"
+redakcija_nuo: "2021-12-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GUWotrYYcl"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10440,6 +10440,36 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 
 užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
+#### 476¹ straipsnis. Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos nepateikimas, neteisingos ar neišsamios informacijos pateikimas
+
+1\. Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos, išskyrus šio straipsnio 3 ir 5 dalyse nurodytą informaciją, nepateikimas, neteisingos ar neišsamios informacijos pateikimas
+
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+3\. Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos apie planuojamo kurti plačiajuosčio ryšio tinklo ir (ar) planuojamo iš esmės atnaujinti arba išplėsti esamo elektroninių ryšių tinklo, kad juo galėtų būti teikiamos elektroninių ryšių paslaugos bent 100 Mb/s gaunamojo ryšio sparta, paskirtį, numatomą plėtros pradžios datą arba sukūrimo, atnaujinimo ar išplėtimo terminą, techninius parametrus, finansavimo šaltinius ir tikslinių vietovių sąrašą, taip pat informacijos apie ketinimus tikslinėse vietovėse kurti plačiajuosčio ryšio tinklus ir (ar) iš esmės atnaujinti arba išplėsti esamus elektroninių ryšių tinklus, kad jais galėtų būti teikiamos elektroninių ryšių paslaugos bent 100 Mb/s gaunamojo ryšio sparta, nepateikimas, neteisingos ar neišsamios informacijos pateikimas, neturėjęs neigiamos įtakos konkurencijai,
+
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki keturių šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
+
+5\. Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos apie planuojamo kurti plačiajuosčio ryšio tinklo ir (ar) planuojamo iš esmės atnaujinti arba išplėsti esamo elektroninių ryšių tinklo, kad juo galėtų būti teikiamos elektroninių ryšių paslaugos bent 100 Mb/s gaunamojo ryšio sparta, paskirtį, numatomą plėtros pradžios datą arba sukūrimo, atnaujinimo ar išplėtimo terminą, techninius parametrus, finansavimo šaltinius ir tikslinių vietovių sąrašą, taip pat informacijos apie ketinimus tikslinėse vietovėse kurti plačiajuosčio ryšio tinklus ir (ar) iš esmės atnaujinti arba išplėsti esamus elektroninių ryšių tinklus, kad jais galėtų būti teikiamos elektroninių ryšių paslaugos bent 100 Mb/s gaunamojo ryšio sparta, nepateikimas, neteisingos ar neišsamios informacijos pateikimas, turėjęs neigiamą įtaką konkurencijai,
+
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų iki vieno tūkstančio eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
 **477 straipsnis. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas, pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas, Lietuvos radijo ir televizijos komisijos sprendimų nevykdymas, nelicencijuojamos radijo, televizijos programų transliavimo ir (ar) retransliavimo veiklos vykdymas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikimas nepranešus Lietuvos radijo ir televizijos komisijai apie veiklos vykdymo ar paslaugų teikimo pradžią**
 
 1\. Transliavimo ir (ar) retransliuojamo turinio licencijose ir leidimuose nustatytų reikalavimų pažeidimas ar pareigos pranešti Lietuvos radijo ir televizijos komisijai apie numatomą licencijuojamos radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo veiklos nutraukimą nevykdymas
@@ -12196,13 +12226,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166*
 
-24\) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 79¹, 147 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476 straipsniuose, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+24\) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 79¹, 147 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476, 476¹ straipsniuose, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113*
 
 *Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
 
 25\) Lietuvos statistikos departamento – dėl šio kodekso 221, 222, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15510,19 +15542,33 @@ priedas
 
 *Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497*
 
-104\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos.
+104\. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
+
+*Papildyta punktu:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+105\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos.
 
 *Papildyta punktu:*
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-104¹. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo.
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+105¹. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo.
 
 *Papildyta punktu:*
 
 *Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531*
 
-105\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas).
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+106\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas).
 
 *Papildyta straipsnio dalimi:*
 
@@ -15532,13 +15578,19 @@ priedas
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-105¹. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo.
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+106¹. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo.
 
 *Papildyta punktu:*
 
 *Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519*
 
-106\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+107\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).
 
 *Papildyta punktu:*
 
@@ -15550,7 +15602,9 @@ priedas
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-107\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013.
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+108\. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013.
 
 *Papildyta punktu:*
 
@@ -15562,11 +15616,17 @@ priedas
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-108\. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
+
+109\. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
 
 *Papildyta punktu:*
 
 *Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519*
+
+*Punkto numeracijos pakeitimas:*
+
+*Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231*
 
 *Priedo pakeitimai:*
 
@@ -16725,3 +16785,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-701, 2021-11-23, paskelbta TAR 2021-11-25, i. k. 2021-24302
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 268 straipsnio pakeitimo įstatymas
+
+145\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio ir priedo pakeitimo ir Kodekso papildymo 476-1 straipsniu įstatymas
