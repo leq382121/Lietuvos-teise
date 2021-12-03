@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2021-12-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GUWotrYYcl"
+redakcija_nuo: "2021-12-04"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/AUETDHDWTS"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -466,7 +466,7 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 
 3\. Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio kodekso specialiosios dalies straipsnyje, nustatančiame administracinę atsakomybę už asmens padarytą veiką. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
-4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
 
 1\) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
 
@@ -493,6 +493,8 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 *Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964*
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XIV-714, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25141*
 
 5\. Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismo ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) nutarimu iš pažeidėjo ar kitų šio straipsnio 4 dalyje nurodytų asmenų išieškoma konfiskuotino turto vertę atitinkanti pinigų suma.
 
@@ -4703,6 +4705,12 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 *Papildyta straipsnio dalimi:*
 
 *Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519*
+
+53\. Už šio straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių, kuriais atliekomis buvo atsikratoma, transporto priemonių, kuriomis atliekos buvo vežamos ir atliekomis atsikratoma, ir kitų administracinio nusižengimo padarymo priemonių konfiskavimas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-714, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25141*
 
 #### 248 straipsnis. Pakuočių ir (ar) pakuočių atliekų tvarkymo reikalavimų nevykdymas
 
@@ -16793,3 +16801,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio ir priedo pakeitimo ir Kodekso papildymo 476-1 straipsniu įstatymas
+
+146\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-714, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25141
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 29 ir 247 straipsnių pakeitimo įstatymas
