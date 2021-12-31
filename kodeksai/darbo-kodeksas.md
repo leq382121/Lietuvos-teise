@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2021-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/OOVelshYYf"
+redakcija_nuo: "2022-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/xfUxibjkwp"
 ---
 
 # Darbo kodeksas
@@ -2418,7 +2418,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 6\) premijos, darbdavio iniciatyva skiriamos paskatinti darbuotoją už gerai atliktą darbą, jo ar įmonės, padalinio ar darbuotojų grupės veiklą ar veiklos rezultatus.
 
-3\. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus.
+3\. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus. Darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos privalo būti mokami pavedimu į darbuotojo nurodytą darbuotojo mokėjimo sąskaitą, išskyrus jūrininkus, kuriems taikoma Lietuvos Respublikos prekybinės laivybos įstatymo nustatyta darbo užmokesčio mokėjimo tvarka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-435, 2021-06-22, paskelbta TAR 2021-07-08, i. k. 2021-15520*
 
 4\. Tais atvejais, kai darbuotojui pagal šį kodeksą ar kitas darbo teisės normas ar darbo sutartį turi būti mokamas vidutinis darbo užmokestis (arba jo dalis), priklausantis (priklausanti) nuo anksčiau gauto darbo užmokesčio, tokiam darbo užmokesčiui apskaičiuoti taikomos šio straipsnio 2 dalies 1–5 punktuose numatytos darbo užmokesčio dalys Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
@@ -4569,3 +4573,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
 
 Lietuvos Respublikos darbo kodekso 108, 109, 139, 213 straipsnių ir priedo pakeitimo įstatymas
+
+28\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-435, 2021-06-22, paskelbta TAR 2021-07-08, i. k. 2021-15520
+
+Lietuvos Respublikos darbo kodekso 139 straipsnio pakeitimo įstatymas
