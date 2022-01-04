@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2022-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/kxsLlTsrtX"
+redakcija_nuo: "2022-01-05"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/lIrNvLXwkU"
 ---
 
 # Civilinis kodeksas
@@ -6994,7 +6994,11 @@ Visas turtas, kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, g
 
 *Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591*
 
-4\. Valstybinė vaiko teisių apsaugos institucija yra vaiko, įstatymų nustatytais pagrindais paimto iš tėvų ar kitų teisėtų atstovų, atstovas pagal įstatymus tol, kol šiam vaikui paskiriamas globėjas ar rūpintojas.
+4\. Valstybinė vaiko teisių apsaugos institucija yra likusio be tėvų globos vaiko atstovė pagal įstatymus tol, kol šiam vaikui paskiriamas globėjas ar rūpintojas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070*
 
 5\. Šio straipsnio 1 dalyje numatytų institucijų vadovai ir kiti pareigūnai už melagingos informacijos suteikimą, vaiko, kuriam reikalinga globa (rūpyba), slėpimą, kliudymą jam nustatyti globą (rūpybą) ar kitokius vaiko teisių ir interesų pažeidimus atsako įstatymų nustatyta tvarka.
 
@@ -7066,13 +7070,25 @@ Vaiko laikinoji globa (rūpyba) nustatoma, kai vaiko:
 
 2\) tėvai arba turimas vienintelis iš tėvų laikinai negali rūpintis vaiku dėl abiejų tėvų ar vieno iš jų ligos, suėmimo, bausmės atlikimo ar kitų svarbių priežasčių;
 
-3\) tėvai arba turimas vienintelis iš tėvų nesirūpina, nesidomi vaiku, netinkamai auklėja, naudoja smurtą arba kitaip piktnaudžiauja tėvų valdžia ir dėl to kyla pavojus vaiko fiziniam, protiniam, dvasiniam, doroviniam vystymuisi ir saugumui.
+3\) tėvai arba turimas vienintelis iš tėvų nesirūpina, nesidomi vaiku, netinkamai auklėja, naudoja smurtą arba kitaip piktnaudžiauja tėvų valdžia ir dėl to kyla pavojus vaiko fiziniam, protiniam, dvasiniam, doroviniam vystymuisi ir saugumui;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912*
 
 *Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591*
+
+4\) tėvai yra nežinomi (kol bus nustatyti tėvystės ar artimos giminystės ryšiai);
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070*
+
+5\) tėvai arba turimas vienintelis iš tėvų yra neveiksnūs ar ribotai veiksnūs nepilnamečiai.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070*
 
 ###### 3.254¹ straipsnis. Vaiko paėmimas iš jo atstovų pagal įstatymą
 
@@ -7132,11 +7148,15 @@ Vaikui nuolatinė globa (rūpyba) nustatoma, kai vaiko:
 
 *Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573*
 
-6\) abiem tėvams arba turimam vieninteliam iš tėvų yra neterminuotai apribota tėvų valdžia.
+6\) abiem tėvams arba turimam vieninteliam iš tėvų yra apribota tėvų valdžia.
 
 *Papildyta straipsnio punktu:*
 
 *Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912*
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070*
 
 ###### 3.258 straipsnis. Vaiko nuolatinės globos (rūpybos) pabaiga
 
@@ -21867,3 +21887,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
 
 Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363, 6.364, 6.419 straipsnių ir priedo pakeitimo ir Kodekso papildymo 6.228-17, 6.228-18, 6.228-19, 6.228-20, 6.228-21, 6.228-22, 6.228-23, 6.228-24, 6.350-1, 6.364-1, 6.364-2, 6.364-3, 6.364-4 straipsniais įstatymas
+
+57\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
+
+Lietuvos Respublikos civilinio kodekso 3.210, 3.224, 3.246, 3.250, 3.253, 3.254, 3.254-1, 3.257, 3.261, 3.262, 3.264, 3.268, 3.269 ir 3.276-1 straipsnių pakeitimo įstatymas
