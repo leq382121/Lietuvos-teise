@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RoLXbdImCX"
+redakcija_nuo: "2022-01-29"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/rSzCZNYdJl"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -13422,7 +13422,11 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 *Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798*
 
-1\. Kai įtariama, kad padarytas administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti vidaus vandenų transporto priemonę atėmimas, iš vidaus vandenų transporto priemonės vairuotojo paimamas teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto laipsnio diplomas, kvalifikacijos liudijimas arba laivavedžio pažymėjimas), išduodamas laikinasis leidimas vairuoti vidaus vandenų transporto priemonę ir apie tai įrašoma administracinio nusižengimo protokole. Kai priimamas nutarimas atimti teisę vairuoti vidaus vandenų transporto priemonę, teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto laipsnio diplomas, kvalifikacijos liudijimas arba laivavedžio pažymėjimas) negrąžinamas, o laikinojo leidimo vairuoti vidaus vandenų transporto priemonę galiojimas pratęsiamas, iki baigsis nustatytas skundo padavimo terminas arba iki įsiteisės administracinio nusižengimo teiseną užbaigiantis teismo sprendimas. Kai asmeniui surašytas administracinis nurodymas, laikinas leidimas nustoja galioti asmeniui įvykdžius administracinį nurodymą.
+1\. Kai įtariama, kad padarytas administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti vidaus vandenų transporto priemonę atėmimas, iš vidaus vandenų transporto priemonės vairuotojo paimamas teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto diplomas, kvalifikacijos liudijimas, Europos Sąjungos kvalifikacijos pažymėjimas arba laivavedžio pažymėjimas), išduodamas laikinasis leidimas vairuoti vidaus vandenų transporto priemonę ir apie tai įrašoma administracinio nusižengimo protokole. Kai priimamas nutarimas atimti teisę vairuoti vidaus vandenų transporto priemonę, teisę vairuoti vidaus vandenų transporto priemonę patvirtinantis dokumentas (vidaus vandenų transporto specialisto diplomas, kvalifikacijos liudijimas, Europos Sąjungos kvalifikacijos pažymėjimas arba laivavedžio pažymėjimas) negrąžinamas, o laikinojo leidimo vairuoti vidaus vandenų transporto priemonę galiojimas pratęsiamas, iki baigsis nustatytas skundo padavimo terminas arba iki įsiteisės administracinio nusižengimo teiseną užbaigiantis teismo sprendimas. Kai asmeniui surašytas administracinis nurodymas, laikinas leidimas nustoja galioti asmeniui įvykdžius administracinį nurodymą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358*
 
 2\. Neteko galios 2020-01-02.
 
@@ -14684,15 +14688,17 @@ Teisės vairuoti transporto priemones atėmimas vykdomas įrašant duomenis apie
 
 #### 683 straipsnis. Teisės vairuoti vidaus vandenų transporto priemones atėmimo vykdymo tvarka
 
-1\. Teisės vairuoti vidaus vandenų transporto priemones atėmimas vykdomas paimant vidaus vandenų transporto specialisto laipsnio diplomą arba kvalifikacijos liudijimą, arba laivavedžio pažymėjimą.
+1\. Teisės vairuoti vidaus vandenų transporto priemones atėmimas vykdomas paimant vidaus vandenų transporto specialisto diplomą arba kvalifikacijos liudijimą, arba Europos Sąjungos kvalifikacijos pažymėjimą, arba laivavedžio pažymėjimą.
 
-2\. Vidaus vandenų transporto specialisto laipsnio diplomų, kvalifikacijos liudijimų, laivavedžio pažymėjimų paėmimo ir grąžinimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
+2\. Vidaus vandenų transporto specialisto diplomų, kvalifikacijos liudijimų, Europos Sąjungos kvalifikacijos pažymėjimų, laivavedžio pažymėjimų paėmimo ir grąžinimo tvarką nustato Lietuvos Respublikos susisiekimo ministras.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798*
+
+*Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358*
 
 #### 684 straipsnis. Teisės medžioti atėmimo vykdymo tvarka
 
@@ -14995,6 +15001,12 @@ priedas
 104\. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
 105\. 2017 m. lapkričio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2110 dėl inspektavimo, kuriuo užtikrinamas saugus reguliariąsias paslaugas teikiančių ro-ro keleivinių laivų ir greitaeigių keleivinių laivų eksploatavimas, sistemos ir kuria iš dalies keičiama Direktyva 2009/16/EB dėl uosto valstybės kontrolės ir panaikinama Tarybos direktyva 1999/35/EB.
+
+105¹. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2397 dėl vidaus vandenų laivybos srities profesinių kvalifikacijų pripažinimo, kuria panaikinamos Tarybos direktyvos 91/672/EEB ir 96/50/EB, su paskutiniais pakeitimais, padarytais 2021 m. liepos 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1233, kuria iš dalies keičiama Direktyva (ES) 2017/2397, kiek tai susiję su trečiosios šalies pažymėjimų pripažinimo pereinamojo laikotarpio priemonėmis.
+
+*Papildyta punktu:*
+
+*Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358*
 
 106\. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB.
 
@@ -16259,3 +16271,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 573 ir 589 straipsnių pakeitimo įstatymas
+
+155\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 602, 683 straipsnių ir priedo pakeitimo įstatymas
