@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2022-01-05"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/lIrNvLXwkU"
+redakcija_nuo: "2022-03-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/NZxskxeAGU"
 ---
 
 # Civilinis kodeksas
@@ -6836,7 +6836,11 @@ Visas turtas, kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, g
 
 1\. Teismas, pripažinęs asmenį neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, privalo nedelsdamas paskirti šio asmens globėją ar rūpintoją toje srityje.
 
-2\. Nepilnamečio globėjas ar rūpintojas skiriamas šios knygos XVIII skyriaus normų nustatyta tvarka.
+2\. Nepilnamečio globėjas ar rūpintojas skiriamas šios knygos XVIII skyriaus normų nustatyta tvarka, išskyrus užsieniečių teisinę padėtį reglamentuojančiame įstatyme nustatytas išimtis.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-965, 2022-03-22, paskelbta TAR 2022-03-29, i. k. 2022-06190*
 
 3\. Globėju ar rūpintoju gali būti skiriamas tik veiksnus šioje srityje fizinis asmuo ir tik tuo atveju, kai yra jo rašytinis sutikimas. Skiriant asmenį globėju ar rūpintoju, turi būti atsižvelgiama į jo moralines ir kitokias savybes, jo galimybę įgyvendinti globėjo ar rūpintojo funkcijas, jo santykius su asmeniu, kuriam nustatoma globa ar rūpyba, į globotinio ar rūpintinio pageidavimą, į globėjo ar rūpintojo pageidavimą bei kitas turinčias reikšmės aplinkybes.
 
@@ -21895,3 +21899,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
 
 Lietuvos Respublikos civilinio kodekso 3.210, 3.224, 3.246, 3.250, 3.253, 3.254, 3.254-1, 3.257, 3.261, 3.262, 3.264, 3.268, 3.269 ir 3.276-1 straipsnių pakeitimo įstatymas
+
+58\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-965, 2022-03-22, paskelbta TAR 2022-03-29, i. k. 2022-06190
+
+Lietuvos Respublikos civilinio kodekso 3.242 straipsnio pakeitimo įstatymas
