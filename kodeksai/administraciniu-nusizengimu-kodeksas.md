@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-01-29"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/rSzCZNYdJl"
+redakcija_nuo: "2022-04-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/xdNErwGLlI"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1901,6 +1901,20 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
+
+#### 96¹ straipsnis. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas
+
+1\. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas
+
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755*
 
 #### 97 straipsnis. Nelaimingo atsitikimo darbe nuslėpimas, nustatytos pranešimo ir ištyrimo tvarkos pažeidimas
 
@@ -8162,6 +8176,20 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
+#### 362¹ straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas
+
+1\. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas
+
+užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755*
+
 **363 straipsnis. Statinio projektavimas, vadovavimas statinio projekto rengimui, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas statinio projekto ar statinio ekspertizei, statinio statyba, vadovavimas statinio statybai, statinio statybos techninės priežiūros atlikimas neturint teisės verstis šia veikla, neapsidraudus ar neapdraustam privalomuoju civilinės atsakomybės draudimu**
 
 Statinio projektavimas, vadovavimas rengiant statinio projektą, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas atliekant statinio projekto ar statinio ekspertizę, statinio statyba ar vadovavimas statinio statybai, statinio statybos techninės priežiūros atlikimas neturint teisės verstis šia veikla, neapsidraudus ar neapdraustam privalomuoju civilinės atsakomybės draudimu
@@ -12642,7 +12670,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768*
 
-58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 47¹ straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 97, 98, 98¹, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
+58\) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 47¹ straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 96¹, 97, 98, 98¹, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 308¹ straipsnio 4, 6, 7 dalyse, 362¹ straipsnyje, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -12661,6 +12689,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487*
 
 *Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208*
+
+*Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755*
 
 59\) Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos – dėl šio kodekso 505, 507, 550, 551 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12714,7 +12744,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 198¹, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 431, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 96¹, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 188, 188¹, 189, 190, 191, 192, 194, 198¹, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 362¹, 431, 449, 449¹, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -12729,6 +12759,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755*
 
 *Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166*
+
+*Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -16279,3 +16311,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 602, 683 straipsnių ir priedo pakeitimo įstatymas
+
+156\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 362-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIV-464 pakeitimo įstatymas
