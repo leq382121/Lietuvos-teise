@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-04-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/BkjRNetJpX"
+redakcija_nuo: "2022-04-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/aAmQIQYbCn"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -13934,7 +13934,13 @@ Nutarimą administracinio nusižengimo byloje ne teismo tvarka priėmusi institu
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-8\) ar tenkintini, ar atmestini administracinėn atsakomybėn traukiamo asmens, nukentėjusiojo, jų atstovų pagal įstatymą, advokatų ar kitų įgaliotųjų atstovų prašymai ir nušalinimai.
+8\) ar tenkintini, ar atmestini administracinėn atsakomybėn traukiamo asmens, nukentėjusiojo, jų atstovų pagal įstatymą, advokatų ar kitų įgaliotųjų atstovų prašymai ir nušalinimai;
+
+9\) ar nėra pagrindo atidėti administracinio nusižengimo bylos nagrinėjimą.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413*
 
 2\. Šio kodekso 591 straipsnyje numatytais atvejais teismas nutraukia administracinio nusižengimo teiseną nutarimu.
 
@@ -13967,6 +13973,24 @@ Nutarimą administracinio nusižengimo byloje ne teismo tvarka priėmusi institu
 1\. Apylinkės teismas administracinio nusižengimo bylą išnagrinėja žodinio nagrinėjimo tvarka: išklausomi institucijos, kurios pareigūnas atliko administracinio nusižengimo tyrimą, atstovas, administracinėn atsakomybėn traukiamas asmuo, nukentėjusysis, specialistai, ekspertai, liudytojai, žodžiu paskelbiama bylos medžiaga, kuri pateikta posėdžio metu ir su kuria iki teismo posėdžio nebuvo susipažinę administracinio nusižengimo teisenoje dalyvaujantys asmenys.
 
 2\. Kai į teismo posėdį neatvyksta nė vienas administracinio nusižengimo teisenoje dalyvaujantis asmuo, jeigu apie teismo posėdžio vietą ir laiką administracinėn atsakomybėn traukiamam asmeniui, nukentėjusiajam ir institucijai, kurios pareigūnas atliko tyrimą, buvo tinkamai pranešta, teisėjui nutarus administracinio nusižengimo bylą nagrinėti jiems nedalyvaujant, bylos nagrinėjimas vyksta rašytinio proceso tvarka. Administracinio nusižengimo byla rašytinio proceso tvarka gali būti nagrinėjama ir tais atvejais, kai asmuo pripažįsta kaltę ir atskiru pareiškimu prašo bylą nagrinėti rašytinio proceso tvarka. Administracinio nusižengimo bylą nagrinėjant rašytinio proceso tvarka, teisėjas priimto nutarimo (nutarties) motyvuojamojoje dalyje nurodo priežastis ir sprendimą dėl administracinio nusižengimo bylos nagrinėjimo rašytinio proceso tvarka.
+
+#### 630¹ straipsnis. Administracinių nusižengimų bylų nagrinėjimo atidėjimas
+
+Administracinių nusižengimų bylų nagrinėjimas atidedamas, kai:
+
+1\) įstatymų nustatytais atvejais kreipiamasi į Konstitucinį Teismą, – kol bus gautas Konstitucinio Teismo nutarimas;
+
+2\) įstatymų nustatytais atvejais kreipiamasi į administracinį teismą dėl konkretaus norminio administracinio akto (ar jo dalies), kuris turėtų būti taikomas nagrinėjamoje byloje, teisėtumo, – kol bus gautas įsiteisėjęs administracinio teismo sprendimas;
+
+3\) įstatymų nustatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos prejudicinis sprendimas;
+
+4\) priimamas sprendimas patenkinti šio kodekso 629 straipsnio 1 dalyje nurodytą administracinėn atsakomybėn traukiamo asmens prašymą atidėti bylos nagrinėjimą;
+
+5\) yra kitų aplinkybių, leidžiančių manyti, kad neatidėjus administracinio nusižengimo bylos nagrinėjimo galėtų būti priimtas neteisėtas ir (ar) nepagrįstas teismo sprendimas.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413*
 
 #### 631 straipsnis. Administracinių nusižengimų bylų nagrinėjimo terminai
 
@@ -16383,3 +16407,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1022, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08028
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 524 straipsnio pakeitimo įstatymas
+
+164\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 627 straipsnio pakeitimo ir Kodekso papildymo 630-1 straipsniu įstatymas
