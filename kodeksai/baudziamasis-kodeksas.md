@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2022-02-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/QzKpPSzDQr"
+redakcija_nuo: "2022-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/NGoawHzxBS"
 ---
 
 # Baudžiamasis kodeksas
@@ -4478,9 +4478,9 @@ baudžiamas laisvės atėmimu nuo dvejų iki šešerių metų.
 
 *Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856*
 
-#### 222 straipsnis. Apgaulingas apskaitos tvarkymas
+#### 222 straipsnis. Apgaulingas finansinės apskaitos tvarkymas ir (arba) organizavimas
 
-1\. Tas, kas apgaulingai tvarkė teisės aktų reikalaujamą buhalterinę apskaitą arba paslėpė, sunaikino ar sugadino apskaitos dokumentus, jeigu dėl to negalima visiškai ar iš dalies nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar įsipareigojimų dydžio ar struktūros,
+1\. Tas, kas apgaulingai tvarkė ir (arba) organizavo teisės aktų reikalaujamą finansinę apskaitą arba paslėpė, sunaikino ar sugadino finansinės apskaitos dokumentus ir (arba) finansinės apskaitos registrus, jeigu dėl to negalima visiškai ar iš dalies nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar įsipareigojimų dydžio ar struktūros,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
@@ -4490,9 +4490,13 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
-#### 223 straipsnis. Aplaidus apskaitos tvarkymas
+*Straipsnio pakeitimai:*
 
-1\. Tas, kas privalėjo tvarkyti, bet netvarkė teisės aktų reikalaujamos buhalterinės apskaitos arba aplaidžiai tvarkė teisės aktų reikalaujamą buhalterinę apskaitą, arba įstatymų nustatytą laiką nesaugojo buhalterinės apskaitos dokumentų, jeigu dėl to negalima visiškai ar iš dalies nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar įsipareigojimų dydžio ar struktūros,
+*Nr. XIV-692, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25119*
+
+#### 223 straipsnis. Aplaidus finansinės apskaitos tvarkymas ir (arba) organizavimas
+
+1\. Tas, kas privalėjo tvarkyti ir (arba) organizuoti, bet netvarkė ir (arba) neorganizavo teisės aktų reikalaujamos finansinės apskaitos arba aplaidžiai tvarkė ir (arba) organizavo teisės aktų reikalaujamą finansinę apskaitą, arba įstatymų nustatytą laiką nesaugojo finansinės apskaitos dokumentų ir (arba) finansinės apskaitos registrų, jeigu dėl to negalima visiškai ar iš dalies nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar įsipareigojimų dydžio ar struktūros,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -4503,6 +4507,10 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 *Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-692, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25119*
 
 #### 224 straipsnis. Netikrų ar suklastotų pašto ženklų, važiavimo ar kitokių bilietų, banderolių ar kitų oficialių žymėjimo ženklų pagaminimas, laikymas ar realizavimas
 
@@ -7599,3 +7607,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-699, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25127
 
 Lietuvos Respublikos baudžiamojo kodekso 189 ir 216 straipsnių pakeitimo įstatymas
+
+46\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-692, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25119
+
+Lietuvos Respublikos baudžiamojo kodekso 222 ir 223 straipsnių pakeitimo įstatymas
