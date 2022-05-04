@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2022-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/NGoawHzxBS"
+redakcija_nuo: "2022-05-05"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/dgXelZjCEI"
 ---
 
 # Baudžiamasis kodeksas
@@ -1138,7 +1138,11 @@ Pavojingam recidyvistui už tyčinį nusikaltimą skiriama griežtesnė negu str
 
 11\) dėl padarytos veikos atsirado sunkių padarinių arba kilo reali grėsmė nukentėjusio asmens gyvybei;
 
-12\) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
+12\) veika padaryta siekiant išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
 
 13\) veiką padarė recidyvistas;
 
@@ -2560,7 +2564,11 @@ baudžiamas laisvės atėmimu nuo septynerių iki penkiolikos metų.
 
 12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
 
-13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
 
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
@@ -2652,7 +2660,11 @@ baudžiamas laisvės atėmimu iki dešimties metų.
 
 12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
 
-13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
 
 baudžiamas laisvės atėmimu nuo dvejų iki dvylikos metų.
 
@@ -2718,7 +2730,11 @@ baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki trejų 
 
 12\) siekdamas įgyti nukentėjusio asmens organą, audinį ar ląsteles;
 
-13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+13\) siekdamas išreikšti neapykantą asmenų grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
 
 baudžiamas laisvės atėmimu iki penkerių metų.
 
@@ -3298,7 +3314,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 169 straipsnis. Diskriminavimas dėl tautybės, rasės, lyties, kilmės, religijos ar kitos grupinės priklausomybės
 
-Tas, kas atliko veiksmus, kuriais siekta žmonių grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų sutrukdyti lygiomis teisėmis su kitais dalyvauti politinėje, ekonominėje, socialinėje, kultūrinėje, darbo ar kitoje veikloje arba suvaržyti tokios žmonių grupės ar jai priklausančio asmens teises ir laisves,
+Tas, kas atliko veiksmus, kuriais siekta žmonių grupei ar jai priklausančiam asmeniui dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų sutrukdyti lygiomis teisėmis su kitais dalyvauti politinėje, ekonominėje, socialinėje, kultūrinėje, darbo ar kitoje veikloje arba suvaržyti tokios žmonių grupės ar jai priklausančio asmens teises ir laisves,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
@@ -3306,17 +3322,19 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 *Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026*
 
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
+
 #### 170 straipsnis. Kurstymas prieš bet kokios tautos, rasės, etninę, religinę ar kitokią žmonių grupę
 
-1\. Tas, kas turėdamas tikslą platinti gamino, įsigijo, siuntė, gabeno, laikė dalykus, kuriuose tyčiojamasi, niekinama, skatinama neapykanta ar kurstoma diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstoma smurtauti, fiziškai susidoroti su tokia žmonių grupe ar jai priklausančiu asmeniu, arba juos platino,
+1\. Tas, kas turėdamas tikslą platinti gamino, įsigijo, siuntė, gabeno, laikė dalykus, kuriuose tyčiojamasi, niekinama, skatinama neapykanta ar kurstoma diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstoma smurtauti, fiziškai susidoroti su tokia žmonių grupe ar jai priklausančiu asmeniu, arba juos platino,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
-2\. Tas, kas viešai tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
+2\. Tas, kas viešai tyčiojosi, niekino, skatino neapykantą ar kurstė diskriminuoti žmonių grupę ar jai priklausantį asmenį dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
-3\. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
+3\. Tas, kas viešai kurstė smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba finansavo ar kitaip materialiai rėmė tokią veiklą,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
@@ -3330,9 +3348,11 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026*
 
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
+
 #### 170¹ straipsnis. Grupių ir organizacijų, turinčių tikslą diskriminuoti žmonių grupę arba kurstyti prieš ją, kūrimas ir veikla
 
-1\. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
+1\. Tas, kas kūrė bendrininkų ar organizuotą grupę arba organizaciją, turinčią tikslą diskriminuoti žmonių grupę dėl amžiaus, lyties, seksualinės orientacijos, neįgalumo, rasės, odos spalvos, tautybės, kalbos, kilmės, etninės kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų arba kurstyti prieš ją, arba dalyvavo tokios grupės ar organizacijos veikloje, arba finansavo ar kitaip materialiai rėmė tokią grupę ar organizaciją,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
@@ -3340,15 +3360,17 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 *Nr. XIII-343, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08026*
 
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
+
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Papildyta straipsniu:*
 
 *Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)*
 
-#### 170² straipsnis. Viešas pritarimas tarptautiniams nusikaltimams, SSRS ar nacistinės Vokietijos nusikaltimams Lietuvos Respublikai ar jos gyventojams, jų neigimas ar šiurkštus menkinimas
+#### 170² straipsnis. Viešas pritarimas tarptautiniams nusikaltimams, SSRS ar nacistinės Vokietijos nusikaltimams, jų neigimas ar šiurkštus menkinimas
 
-1\. Tas, kas viešai pritarė Lietuvos Respublikos ar Europos Sąjungos teisės aktais arba įsiteisėjusiais Lietuvos Respublikos ar tarptautinių teismų sprendimais pripažintiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka, taip pat tas, kas viešai pritarė SSRS ar nacistinės Vokietijos įvykdytai agresijai prieš Lietuvos Respubliką, SSRS ar nacistinės Vokietijos įvykdytiems Lietuvos Respublikos teritorijoje ar prieš Lietuvos Respublikos gyventojus genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, arba 1990–1991 metais įvykdytiems kitiems agresiją prieš Lietuvos Respubliką vykdžiusių ar joje dalyvavusių asmenų labai sunkiems ar sunkiems nusikaltimams Lietuvos Respublikai arba labai sunkiems nusikaltimams Lietuvos Respublikos gyventojams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta viešoji tvarka,
+1\. Tas, kas viešai pritarė Lietuvos Respublikos ar Europos Sąjungos teisės aktais arba įsiteisėjusiais Lietuvos Respublikos ar tarptautinių teismų sprendimais pripažintiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta ar galėjo būti sutrikdyta viešoji tvarka, taip pat tas, kas viešai pritarė SSRS ar nacistinės Vokietijos įvykdytai agresijai prieš Lietuvos Respubliką, SSRS ar nacistinės Vokietijos įvykdytiems genocido ar kitiems nusikaltimams žmoniškumui arba karo nusikaltimams, arba 1990–1991 metais įvykdytiems kitiems agresiją prieš Lietuvos Respubliką vykdžiusių ar joje dalyvavusių asmenų labai sunkiems ar sunkiems nusikaltimams Lietuvos Respublikai arba labai sunkiems nusikaltimams Lietuvos Respublikos gyventojams, juos neigė ar šiurkščiai menkino, jeigu tai padaryta grasinančiu, užgauliu ar įžeidžiančiu būdu arba dėl to buvo sutrikdyta ar galėjo būti sutrikdyta viešoji tvarka,
 
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
@@ -3357,6 +3379,10 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 *Papildyta straipsniu:*
 
 *Nr. XI-901, 2010-06-15, Žin., 2010, Nr. 75-3792 (2010-06-29)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434*
 
 #### 171 straipsnis. Trukdymas atlikti religines apeigas ar religines iškilmes
 
@@ -6566,6 +6592,8 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 *Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
+part_ef04983643014421a4326591fafd33fa_end
+
 Lietuvos Respublikos
 
 baudžiamojo kodekso
@@ -7615,3 +7643,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-692, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25119
 
 Lietuvos Respublikos baudžiamojo kodekso 222 ir 223 straipsnių pakeitimo įstatymas
+
+47\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434
+
+Lietuvos Respublikos baudžiamojo kodekso 60, 129, 135, 138, 169, 170, 170-1 ir 170-2 straipsnių pakeitimo įstatymas
