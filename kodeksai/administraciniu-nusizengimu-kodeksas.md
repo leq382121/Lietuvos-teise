@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-05-26"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/qvztNzxuRV"
+redakcija_nuo: "2022-05-28"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tsoJIFVFkF"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -468,7 +468,11 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 
 3\. Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio kodekso specialiosios dalies straipsnyje, nustatančiame administracinę atsakomybę už asmens padarytą veiką. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
-4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 2, 3, 4, 5 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 1\) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
 
@@ -1284,7 +1288,11 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki dviejų tūkstan
 
 *Nr. XIV-256, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08633*
 
-#### 66 straipsnis. Farmacijos praktikos, su vaistais (vaistiniais preparatais) ar veikliosiomis medžiagomis susijusios veiklos sąlygų pažeidimas
+#### 66 straipsnis. Farmacijos praktikos, su vaistais (vaistiniais preparatais), veikliosiomis medžiagomis ar tiriamųjų vaistinių preparatų gamyba susijusios veiklos sąlygų pažeidimas
+
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 1\. Vaistų (vaistinių preparatų) prekybos tarpininkavimas nesilaikant nustatytų šios veiklos sąlygų
 
@@ -1318,15 +1326,33 @@ užtraukia baudą vaistinės veiklos ir gamybinės vaistinės veiklos licenciją
 
 užtraukia baudą kvalifikuotiems asmenims arba farmacinės veiklos vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
 
-9\. Vaistų (vaistinių preparatų) gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
+9\. Vaistų (vaistinių preparatų), tiriamųjų vaistinių preparatų gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
 
 užtraukia baudą farmacinės veiklos licenciją turinčių juridinių asmenų vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 10\. Už šio straipsnio 4, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) ar veikliųjų medžiagų konfiskavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2649, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24689*
+
+#### 66¹ straipsnis. Klinikinių vaistinių preparatų tyrimų atlikimą reglamentuojančių teisės aktų pažeidimas
+
+1\. Klinikinių vaistinių preparatų tyrimų atlikimą reglamentuojančių teisės aktų pažeidimas, išskyrus pažeidimus, dėl kurių klinikinis vaistinio preparato tyrimas sustabdomas ar panaikinamas leidimas atlikti klinikinį vaistinio preparato tyrimą,
+
+užtraukia baudą klinikinius vaistinių preparatų tyrimus atliekantiems tyrėjams nuo penkių šimtų iki vieno tūkstančio eurų, klinikinių vaistinių preparatų tyrimų užsakovams ar jų atstovams, klinikinių vaistinių preparatų tyrimų centrų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki dviejų tūkstančių eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą klinikinius vaistinių preparatų tyrimus atliekantiems tyrėjams nuo vieno tūkstančio iki dviejų tūkstančių eurų, klinikinių vaistinių preparatų tyrimų užsakovams ar jų atstovams, klinikinių vaistinių preparatų tyrimų centrų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 #### 67 straipsnis. Vaistų (vaistinių preparatų) reklamos reikalavimų ir informacijos apie vaistus (vaistinius preparatus) skleidimo reikalavimų pažeidimas
 
@@ -2457,6 +2483,24 @@ užtraukia baudą apsaugos darbuotojams ar apsaugos darbuotojams stažuotojams n
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935*
+
+#### 131¹ straipsnis. Teisės vykdyti asmenų ir turto apsaugą neturinčių asmenų padaryti asmenų ir turto apsaugos teisės aktų pažeidimai
+
+1\. Aprangos su apsaugos tarnybos pavadinimu ir skiriamaisiais ženklais arba aprangos su užrašu „Apsauga“ dėvėjimas neturint apsaugininko, apsaugos darbuotojo ar apsaugos darbuotojo stažuotojo statuso
+
+užtraukia baudą nuo penkiasdešimt iki vieno šimto eurų.
+
+2\. Asmenų ir turto apsaugos vykdymas neturint licencijos vykdyti asmenų ir turto apsaugą
+
+užtraukia baudą juridinio asmens, kitos organizacijos ar jų padalinio vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto eurų.
+
+3\. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinio asmens, kitos organizacijos ar jų padalinio vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturiasdešimt iki dviejų tūkstančių keturių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 #### 132 straipsnis. Alkoholio produktų, neapdoroto tabako, tabako gaminių ar susijusių gaminių gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas
 
@@ -11194,11 +11238,15 @@ Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo ad
 
 užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
 
-#### 508 straipsnis. Statutinio valstybės tarnautojo, karo policijos ar žvalgybos pareigūno garbės ir orumo pažeminimas
+#### 508 straipsnis. Statutinio valstybės tarnautojo, kario ar žvalgybos pareigūno garbės ir orumo pažeminimas
 
-Statutinio valstybės tarnautojo, karo policijos ar žvalgybos pareigūno garbės ir orumo pažeminimas, reiškiamas žodžiais, gestais, įžeidžiančiu, įžūliu, provokuojančiu elgesiu ar kitokiu elgesiu,
+Statutinio valstybės tarnautojo, kario ar žvalgybos pareigūno garbės ir orumo pažeminimas, reiškiamas žodžiais, gestais, įžeidžiančiu, įžūliu, provokuojančiu elgesiu ar kitokiu elgesiu,
 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 #### 509 straipsnis. Vengimas vykdyti Lietuvos Respublikos užsienio valstybių slaptųjų tarnybų priedangos įmonių, įstaigų, organizacijų likvidavimo ar veiklos nutraukimo įstatyme nustatytą pranešimo privalomumo reikalavimą
 
@@ -12454,7 +12502,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754*
 
-32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 188, 193, 198, 205 straipsniuose, 207 straipsnio 1, 2 dalyse, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -12463,6 +12511,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
 
 *Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 33\) Informacinės visuomenės plėtros komiteto – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12622,7 +12672,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
-49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
+49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -12655,6 +12705,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
 
 *Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12762,7 +12814,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
-63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -12789,6 +12841,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970*
 
 *Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12818,7 +12872,11 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
-68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 66¹, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 69\) Valstybinės miškų tarnybos įgalioti valstybės tarnautojai – dėl šio kodekso 253 straipsnyje, 271 straipsnio 5 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -12850,11 +12908,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
 
-71\) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos – dėl šio kodekso 72, 73, 74, 75, 80 straipsniuose numatytų administracinių nusižengimų;
+71\) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos – dėl šio kodekso 72, 73, 74, 75, 80, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Papildyta straipsnio punktu:*
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 72\) Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos ir jos teritorinių skyrių – dėl šio kodekso 187 straipsnio 4 dalyje, 193, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14898,6 +14960,8 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
+part_6819e85fabcb41c6b61a8f022b331c1b_end
+
 Lietuvos Respublikos
 
 administracinių nusižengimų kodekso
@@ -14931,6 +14995,12 @@ priedas
 12\. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Komisijos deleguotuoju reglamentu (ES) 2018/729.
 
 13\. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus, su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009.
+
+13¹. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 648/2004 dėl ploviklių su paskutiniais pakeitimais, padarytais 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 259/2012.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 14\. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/112/EB.
 
@@ -15074,6 +15144,12 @@ priedas
 
 84\. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006.
 
+84¹. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
+
 85\. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų.
 
 86\. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB.
@@ -15131,6 +15207,12 @@ priedas
 109\. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
 
 110\. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2067 dėl duomenų patikros ir tikrintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB.
+
+110¹. 2019 m. kovo 12 d. Komisijos deleguotasis reglamentas (ES) 2019/945 dėl bepiločių orlaivių sistemų ir trečiųjų valstybių bepiločių orlaivių sistemų naudotojų su pakeitimais, padarytais 2020 m. balandžio 27 d. Komisijos deleguotuoju reglamentu (ES) 2020/1058.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320*
 
 111\. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos su pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos deleguotuoju reglamentu (ES) 2019/1673.
 
@@ -16505,3 +16587,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1063, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09673
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymas
+
+170\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 66, 508, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 66-1, 131-1 straipsniais įstatymas
