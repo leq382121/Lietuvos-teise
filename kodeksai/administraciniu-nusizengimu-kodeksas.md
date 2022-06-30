@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-05-28"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tsoJIFVFkF"
+redakcija_nuo: "2022-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/THaxxdFXZD"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -12578,6 +12578,12 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 38\) Lietuvos metrologijos inspekcijos – dėl šio kodekso 140, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
+38¹) Lietuvos probacijos tarnybos – dėl šio kodekso 71, 137, 481, 484 ir 485 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų;
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173*
+
 39\) netenka galios 2020-07-01;
 
 *Straipsnio punkto pakeitimai:*
@@ -14960,7 +14966,7 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
-part_6819e85fabcb41c6b61a8f022b331c1b_end
+part_972dffabf2c4431ba70dd25f54b510ea_end
 
 Lietuvos Respublikos
 
@@ -16595,3 +16601,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 66, 508, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 66-1, 131-1 straipsniais įstatymas
+
+171\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
