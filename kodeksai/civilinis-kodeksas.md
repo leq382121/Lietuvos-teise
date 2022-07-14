@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2022-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ajbJVdmNNn"
+redakcija_nuo: "2022-07-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/RUcbztGlDb"
 ---
 
 # Civilinis kodeksas
@@ -2092,7 +2092,11 @@ Civilinės būklės aktai, išskyrus partnerystę, registruojami civilinės būk
 
 4\. Jeigu visuomenės informavimo priemonė atsisako spausdinti ar kitaip paskelbti paneigimą arba to nepadaro per šio straipsnio 2 dalyje nustatytą terminą, asmuo įgyja teisę kreiptis į teismą šio straipsnio 1 dalyje nustatyta tvarka. Duomenų, neatitinkančių tikrovės ir žeminančių kito asmens reputaciją, paneigimo tvarką ir terminus tokiu atveju nustato teismas.
 
-5\. Visuomenės informavimo priemonė, paskleidusi asmens reputaciją žeminančius ir tikrovės neatitinkančius duomenis, privalo atlyginti asmeniui padarytą turtinę ir neturtinę žalą tik tais atvejais, kai ji žinojo ar turėjo žinoti, jog paskleisti duomenys neatitinka tikrovės, taip pat kai tuos duomenis paskelbė jos darbuotojai ar duomenys paskleisti anonimiškai, o visuomenės informavimo priemonė atsisako nurodyti tuos duomenis pateikusį asmenį. Visais kitais atvejais turtinę ir neturtinę žalą privalo atlyginti duomenis paskleidęs asmuo ir jo veikla.
+5\. Visuomenės informavimo priemonė, paskleidusi asmens reputaciją žeminančius ir tikrovės neatitinkančius duomenis, privalo atlyginti asmeniui padarytą turtinę ir neturtinę žalą tik tais atvejais, kai ji žinojo ar turėjo žinoti, jog paskleisti duomenys neatitinka tikrovės, taip pat kai tuos duomenis paskelbė jos darbuotojai ar duomenys paskleisti anonimiškai, o visuomenės informavimo priemonė atsisako nurodyti tuos duomenis pateikusį asmenį. Visais kitais atvejais turtinę ir neturtinę žalą privalo atlyginti duomenis paskleidęs asmuo.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452*
 
 6\. Paskleidęs tikrovės neatitinkančius duomenis asmuo atleidžiamas nuo civilinės atsakomybės, jeigu tie duomenys yra paskelbti apie viešą asmenį bei jo valstybinę ar visuomeninę veiklą, o juos paskelbęs asmuo įrodo, kad jis veikė sąžiningai siekdamas supažindinti visuomenę su tuo asmeniu ir jo veikla.
 
@@ -4357,8 +4361,6 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 5\) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu.
 
 2\. Prokūra pasibaigia ją išregistravus iš Įgaliojimų registro, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
-
-TAR pastaba. 2.184 straipsnio 2 dalis įsigalioja 2023-01-01.
 
 *Straipsnio pakeitimai:*
 
@@ -22127,3 +22129,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.145, 2.146, 2.148, 2.178, 2.181 ir 2.184 straipsnių pakeitimo įstatymas
+
+61\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
+
+Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
