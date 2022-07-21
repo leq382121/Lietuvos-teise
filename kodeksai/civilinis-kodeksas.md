@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2022-07-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/RUcbztGlDb"
+redakcija_nuo: "2022-07-22"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mqUZmjepDB"
 ---
 
 # Civilinis kodeksas
@@ -9182,7 +9182,11 @@ Jungtinė hipoteka – kelių tam pačiam asmeniui nuosavybės teise priklausan�
 
 2\. Svetimo daikto hipoteka gali būti atlygintina.
 
-3\. Svetimo daikto hipotekos atveju kreditorius neturi teisės perleisti reikalavimo teisės trečiajam asmeniui be įkeisto turto savininko sutikimo.
+3\. Svetimo daikto hipotekos atveju kreditorius neturi teisės perleisti reikalavimo teisės trečiajam asmeniui be įkeisto turto savininko sutikimo, išskyrus kituose Lietuvos Respublikos įstatymuose nustatytus atvejus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395*
 
 *Straipsnio pakeitimai:*
 
@@ -11559,6 +11563,12 @@ Draudžiama vienašališkai atsisakyti įvykdyti prievolę ar vienašališkai pa
 4\. Sandorio pripažinimas negaliojančiu sukelia teisines pasekmes tik ieškinį dėl sandorio pripažinimo negaliojančiu pareiškusiam kreditoriui ir tik tiek, kiek būtina kreditoriaus teisių pažeidimui pašalinti.
 
 5\. Sandorio pripažinimas negaliojančiu neturi įtakos sąžiningų trečiųjų asmenų teisėms į turtą, kuris buvo pripažinto negaliojančiu sandorio objektas.
+
+6\. Kreditorius neturi teisės ginčyti skolininko sudarytų sandorių su patikėtiniu pagal Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo nuostatas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395*
 
 ###### 6.67 straipsnis. Nesąžiningumo prezumpcija
 
@@ -20650,6 +20660,12 @@ Paskelbęs viešą konkursą asmuo privalo grąžinti konkurso dalyviams darbus 
 
 2\. Turto perdavimas kitam asmeniui patikėjimo teise nepakeičia turto nuosavybės teisės. Perduoto turto savininku ir toliau lieka patikėtojas.
 
+3\. Investuotojų į vertybinius popierius patikėtinio reikalavimus gali nustatyti kiti Lietuvos Respublikos įstatymai.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395*
+
 ###### 6.954 straipsnis. Turto patikėjimo teisės turinys
 
 1\. Turto patikėjimo teisės turinį nustato šio kodekso 4.106 straipsnis.
@@ -20708,7 +20724,11 @@ Patikėjimo teisės steigėju (patikėtoju) gali būti turto savininkas arba kit
 
 1\. Turtas, perduotas patikėtiniui patikėjimo teise, turi būti atskirtas nuo patikėtojo ir patikėtinio turto. Patikėtinis privalo sudaryti ir tvarkyti jam perduoto turto apskaitą (balansą), o atsiskaitymams atlikti turi atidaryti atskirą banko sąskaitą.
 
-2\. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui.
+2\. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui, išskyrus kituose Lietuvos Respublikos įstatymuose nustatytus atvejus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395*
 
 ###### 6.962 straipsnis. Įkeisto turto perdavimas patikėjimo teise
 
@@ -20774,7 +20794,11 @@ Patikėtinis turi teisę į sutartyje nustatytą atlyginimą ir būtinų išlaid
 
 ###### 6.968 straipsnis. Turto patikėjimo teisės ypatumai
 
-Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėtinis yra valstybės arba savivaldybės įmonės, įstaigos ar organizacijos, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais.
+Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėjimo teise perduodamas valstybės ar savivaldybės turtas, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais ir kitais atvejais.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395*
 
 #### LI skyrius – JUNGTINĖ VEIKLA (partnerystė)
 
@@ -22137,3 +22161,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
 
 Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
+
+62\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
+
+Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas
