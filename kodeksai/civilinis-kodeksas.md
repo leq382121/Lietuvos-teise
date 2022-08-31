@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2022-07-22"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mqUZmjepDB"
+redakcija_nuo: "2022-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/BeAkhzXMPl"
 ---
 
 # Civilinis kodeksas
@@ -2810,7 +2810,11 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 4\) juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo;
 
-5\) politinė partija Politinių partijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
+5\) politinė organizacija Politinių organizacijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-1385, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15856*
 
 6\) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį;
 
@@ -22169,3 +22173,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
 
 Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas
+
+63\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1385, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15856
+
+Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas
