@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2022-10-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/RPixFcUXkk"
+redakcija_nuo: "2022-11-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ACogIaZLrw"
 ---
 
 # Baudžiamasis kodeksas
@@ -1458,11 +1458,13 @@ b) vieno MGL dydžio baudai (1:1);
 
 1\. Teismas gali uždrausti asmeniui naudotis specialiomis teisėmis (teise vairuoti kelių, oro ar vandens transporto priemones, teise laikyti ir nešioti ginklą, teise medžioti, teise žvejoti ir pan.) tais atvejais, kai naudodamasis šiomis teisėmis asmuo padarė nusikalstamą veiką.
 
-2\. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis.
+2\. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Už šio kodekso 281 straipsnio 2, 4, 6 dalyse ar 281¹ straipsnyje numatytas nusikalstamas veikas gali būti uždraudžiama naudotis teise vairuoti kelių transporto priemones nuo vienerių iki septynerių metų asmeniui, kuriam šių nusikalstamų veikų padarymo metu šio kodekso nustatyta tvarka jau buvo uždrausta naudotis teise vairuoti kelių transporto priemones dėl nusikalstamos veikos, jo padarytos neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų. Šioje dalyje nurodyti terminai skaičiuojami metais, mėnesiais ir dienomis.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859*
+
+*Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163*
 
 3\. Teismas, uždrausdamas asmeniui naudotis specialiomis teisėmis, konkrečiai nurodo, kokia teise ar teisėmis naudotis uždrausta, ir šio draudimo terminą.
 
@@ -6678,7 +6680,7 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 *Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
-part_a2fefd56720a4fdca09935feb6ecabcb_end
+part_98c94c24c23d48cd985649b37f1f1a9e_end
 
 Lietuvos Respublikos
 
@@ -7761,3 +7763,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1451, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21166
 
 Lietuvos Respublikos baudžiamojo kodekso 250, 251 ir 252 straipsnių pakeitimo įstatymas
+
+51\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163
+
+Lietuvos Respublikos baudžiamojo kodekso 68 straipsnio pakeitimo įstatymas
