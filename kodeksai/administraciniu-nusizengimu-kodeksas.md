@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2022-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/mJKgyokKtD"
+redakcija_nuo: "2022-12-09"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tUEaXZMelR"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -9710,6 +9710,14 @@ užtraukia baudą vairuotojams nuo trisdešimt iki devyniasdešimt eurų.
 
 užtraukia baudą vairuotojams nuo trisdešimt iki devyniasdešimt eurų.
 
+2¹. Sustojimas ir stovėjimas vietose, kuriose gali stovėti tik skiriamuoju ženklu „Neįgalusis“ arba neįgalių asmenų automobilių statymo kortele pažymėtos transporto priemonės, neturint teisės sustoti ir stovėti tokiose vietose
+
+užtraukia baudą vairuotojams nuo šešiasdešimt iki vieno šimto aštuoniasdešimt eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033*
+
 3\. Reikalavimo duoti kelią pradedant važiuoti, įvažiuojant į kelią, persirikiuojant ir kitaip keičiant važiavimo kryptį nevykdymas, įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus, apsisukimas geležinkelio pervažose, vietose, kur kelio matomumas bent viena kryptimi mažesnis kaip 100 metrų, draudimo vairuotojams naudotis mobiliojo ryšio priemonėmis, kai jomis naudojamasi rankomis (išskyrus atvejus, kai stovinčios transporto priemonės variklis išjungtas), nesilaikymas
 
 užtraukia baudą vairuotojams nuo šešiasdešimt iki devyniasdešimt eurų.
@@ -13296,7 +13304,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 54\) Valstybės garantuojamos teisinės pagalbos tarnybos – dėl šio kodekso 507, 531 straipsniuose numatytų administracinių nusižengimų;
 
-55\) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 508, 524 straipsniuose, 526 straipsnio 3 dalyje, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų;
+55\) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 2¹, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 508, 524 straipsniuose, 526 straipsnio 3 dalyje, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -13319,6 +13327,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492*
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
+
+*Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033*
 
 56\) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -13602,7 +13612,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -13621,6 +13631,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118*
 
 *Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492*
+
+*Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -14178,7 +14190,7 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 #### 603 straipsnis. Priverstinis transporto priemonės nuvežimas
 
-Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 420 straipsnio 1, 2 dalyse, 422 straipsnio 2, 3, 4, 5 dalyse, 423 straipsnio 1, 2 dalyse, 424 straipsnio 3, 4 dalyse, 426 straipsnio 1, 2 dalyse numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, administracinio nusižengimo teiseną pradėję ar administracinio nusižengimo tyrimą atliekantys pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama ar šiame straipsnyje nustatyta tvarka realizuojama arba sunaikinama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims arba sumažinta jos vertė pakeičiant komplektaciją iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos. Kai transporto priemonės, kuri priverstinai nuvežta padarius administracinį nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, saugojimas, priežiūra ir laikymas viršija transporto priemonės vertę ir ji negali būti grąžinama savininkui (valdytojui), administracinį nusižengimą tiriančio pareigūno nutarimu ši transporto priemonė realizuojama arba sunaikinama Civilinio proceso kodekse nustatyta areštuoto turto realizavimo tvarka. Kai byloje įsiteisėja teismo nutarimas (nutartis), kuriuo (kuria) nepriimtas sprendimas konfiskuoti transporto priemonę, teisėtam valdytojui atlyginama realizuotos arba sunaikintos transporto priemonės vertė.
+Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 2¹ dalyje (sustojimas ir stovėjimas vietose, kuriose gali stovėti tik skiriamuoju ženklu „Neįgalusis“ arba neįgalių asmenų automobilių statymo kortele pažymėtos transporto priemonės, neturint teisės sustoti ir stovėti tokiose vietose), 420 straipsnio 1, 2 dalyse, 422 straipsnio 2, 3, 4, 5 dalyse, 423 straipsnio 1, 2 dalyse, 424 straipsnio 3, 4 dalyse, 426 straipsnio 1, 2 dalyse numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, administracinio nusižengimo teiseną pradėję ar administracinio nusižengimo tyrimą atliekantys pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama ar šiame straipsnyje nustatyta tvarka realizuojama arba sunaikinama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims arba sumažinta jos vertė pakeičiant komplektaciją iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos. Kai transporto priemonės, kuri priverstinai nuvežta padarius administracinį nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, saugojimas, priežiūra ir laikymas viršija transporto priemonės vertę ir ji negali būti grąžinama savininkui (valdytojui), administracinį nusižengimą tiriančio pareigūno nutarimu ši transporto priemonė realizuojama arba sunaikinama Civilinio proceso kodekse nustatyta areštuoto turto realizavimo tvarka. Kai byloje įsiteisėja teismo nutarimas (nutartis), kuriuo (kuria) nepriimtas sprendimas konfiskuoti transporto priemonę, teisėtam valdytojui atlyginama realizuotos arba sunaikintos transporto priemonės vertė.
 
 *Straipsnio pakeitimai:*
 
@@ -14191,6 +14203,8 @@ Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose
 *Nr. XIV-264, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08866*
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
+
+*Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033*
 
 #### 604 straipsnis. Neteisėtai pastatytų, laikomų ar apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams naudojamų vagonėlių, kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas
 
@@ -15550,7 +15564,7 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
-part_f468f129c519436a945641289a0c7e70_end
+part_6d27155246dc48ab911c48a0773cbac7_end
 
 Lietuvos Respublikos
 
@@ -17309,3 +17323,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 28, 29, 71, 415, 416, 417, 420, 422, 423, 424, 426, 427, 428, 431, 589, 602, 603, 608, 611 ir 686 straipsnių pakeitimo įstatymas
+
+185\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1448, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21204
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 247, 589, 608 straipsnių ir priedo pakeitimo ir Kodekso papildymo 248-1, 248-2, 248-3 straipsniais įstatymo Nr. XIV-598 5 straipsnio pakeitimo įstatymas
+
+186\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 57-1 straipsniu įstatymas
+
+187\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1565, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24645
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 248 straipsnio pakeitimo įstatymas
+
+188\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 417, 589 ir 603 straipsnių pakeitimo įstatymas
