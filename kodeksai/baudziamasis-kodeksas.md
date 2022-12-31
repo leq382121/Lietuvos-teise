@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2022-12-31"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/chZrRXitCD"
+redakcija_nuo: "2023-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/zsKkGowrnj"
 ---
 
 # Baudžiamasis kodeksas
@@ -1032,7 +1032,11 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 *Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331*
 
-3\. Laisvės atėmimo iki gyvos galvos bausmę nuteistieji atlieka pataisos įstaigose. Laisvės atėmimo iki gyvos galvos bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+3\. Neteko galios nuo 2023-01-01
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557*
 
 *Straipsnio dalies pakeitimai:*
 
@@ -1396,7 +1400,11 @@ b) vieno MGL dydžio baudai (1:1);
 
 1\. Baudžiamojo poveikio priemonės turi padėti įgyvendinti bausmės paskirtį.
 
-2\. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš pataisos įstaigos Bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios baudžiamojo poveikio priemonės:
+2\. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš laisvės atėmimo vietų įstaigos, gali būti skiriamos šios baudžiamojo poveikio priemonės:
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557*
 
 1\) uždraudimas naudotis specialia teise;
 
@@ -1417,6 +1425,12 @@ b) vieno MGL dydžio baudai (1:1);
 9\) dalyvavimas smurtinį elgesį keičiančiose programose;
 
 10\) išplėstinis turto konfiskavimas;
+
+11\) įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238*
 
 3\. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas, įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriami kartu su bausme. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
@@ -1638,7 +1652,11 @@ Teismas įpareigoja dalyvauti smurtinį elgesį keičiančiose programose asmeni
 
 2\. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriamas nuo vienerių iki penkerių metų. Teismas, skirdamas įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais ir mėnesiais.
 
-3\. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, paskirtas kartu su terminuotu laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laikotarpį po laisvės atėmimo ar arešto atlikimo, o asmenį lygtinai paleidus iš pataisos įstaigos ar atidėjus bausmės vykdymą, – probacijos laikotarpiu ir likusį laikotarpį pasibaigus probacijai.
+3\. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, paskirtas kartu su terminuotu laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo bausmės ar arešto bausmės atlikimo laiką ir teismo paskirtą laikotarpį po laisvės atėmimo bausmės ar arešto bausmės atlikimo, o asmenį lygtinai paleidus iš laisvės atėmimo vietų įstaigos ar atidėjus bausmės vykdymą, – probacijos laikotarpiu ir likusį laikotarpį pasibaigus probacijai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557*
 
 4\. Paskyrus įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, iki teismo nustatyto termino pabaigos asmuo, planuodamas pakeisti gyvenamąją vietą ar išvykti iš gyvenamosios vietos ilgiau kaip septynioms paroms, privalo ne vėliau kaip per tris dienas nuo išvykimo pranešti apie tai policijos įstaigai, kurios teritorijoje yra asmens gyvenamoji vieta iki jos pakeitimo.
 
@@ -1784,7 +1802,11 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 
 #### 82 straipsnis. Auklėjamojo poveikio priemonės nepilnamečiams
 
-1\. Nepilnamečiui, padariusiam baudžiamąjį nusižengimą ar nusikaltimą ir atleistam nuo baudžiamosios atsakomybės ar bausmės, taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš pataisos įstaigų Lietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios auklėjamojo poveikio priemonės:
+1\. Nepilnamečiui, padariusiam baudžiamąjį nusižengimą ar nusikaltimą ir atleistam nuo baudžiamosios atsakomybės ar bausmės, taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš laisvės atėmimo vietų įstaigos, gali būti skiriamos šios auklėjamojo poveikio priemonės:“.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557*
 
 1\) įspėjimas;
 
