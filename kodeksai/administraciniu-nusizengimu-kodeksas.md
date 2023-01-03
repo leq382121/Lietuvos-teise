@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2023-01-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/AFbAeZVxKZ"
+redakcija_nuo: "2023-01-04"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/TtfwMARQgU"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -13394,11 +13394,17 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
 
-45\) Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+45\) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
+**45 punkto redakcija nuo 2024-01-01:**
+
+45\) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758*
+
+*Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124*
 
 46\) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 479 straipsnio 1, 2, 4 dalyse, 480, 480¹, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -13652,9 +13658,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
+**67 punkto redakcija nuo 2024-01-01:**
+
+67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+
+*Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124*
 
 68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 66¹, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
