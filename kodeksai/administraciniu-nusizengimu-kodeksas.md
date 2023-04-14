@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2023-01-04"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/TtfwMARQgU"
+redakcija_nuo: "2023-04-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/wHxZEhlbwR"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -474,7 +474,7 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 
 3\. Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio kodekso specialiosios dalies straipsnyje, nustatančiame administracinę atsakomybę už asmens padarytą veiką. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
-4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
 
 *Straipsnio dalies pakeitimai:*
 
@@ -483,6 +483,8 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
 
 *Nr. XIV-1568, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25034*
+
+*Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
 
 1\) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
 
@@ -11974,11 +11976,21 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 *Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
-#### 515 straipsnis. Tarptautinių sankcijų pažeidimas
+#### 515 straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
-Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų pažeidimas
+1\. Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
-užtraukia baudą nuo dviejų šimtų iki šešių tūkstančių eurų.
+užtraukia baudą asmenims nuo dviejų šimtų iki šešių tūkstančių eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki šešių tūkstančių eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankio, priemonės, taip pat prekių arba lėšų, kurios buvo nusižengimo dalykas ar veiklos rezultatas, konfiskavimas.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
 
 #### 516 straipsnis. Nustatytos tvarkos vykdant mobilizaciją ar demobilizaciją, teikiant priimančiosios šalies paramą pažeidimas
 
@@ -13026,7 +13038,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
-7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 221, 222, 224, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -13036,11 +13048,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
-8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 124 straipsnyje, 146, 226¹, 477, 505, 507 straipsniuose, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
+*Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
+
+8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 124 straipsnyje, 146, 226¹, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431*
+
+*Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
 
 9\) Lietuvos Respublikos konkurencijos tarybos – dėl šio kodekso 199, 224, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15836,7 +15852,7 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
-part_07412692c45546c09c6a9cfc07b53e4f_end
+part_a977f8f6e0d044c99151461801b43328_end
 
 Lietuvos Respublikos
 
@@ -17681,3 +17697,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+195\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 29, 515 ir 589 straipsnių pakeitimo įstatymas
