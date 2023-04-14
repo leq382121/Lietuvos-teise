@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2023-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/zsKkGowrnj"
+redakcija_nuo: "2023-04-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/teMlQjhKjc"
 ---
 
 # Baudžiamasis kodeksas
@@ -2552,9 +2552,9 @@ Tas, kas būdamas įgaliotas atstovauti Lietuvos Respublikai palaikant santykius
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-#### 123¹ straipsnis. Tarptautinių sankcijų pažeidimas
+#### 123¹ straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
-1\. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
+1\. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
@@ -2567,6 +2567,10 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 *Straipsnio pakeitimai:*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473*
 
 #### 124 straipsnis. Neteisėtas disponavimas informacija, kuri yra valstybės paslaptis
 
@@ -6698,7 +6702,7 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 
 *Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
-part_543dedcf8e014f12b29f67a4c4ca9a84_end
+part_f73f57e92f5946e3bbcbf049495b8f90_end
 
 Lietuvos Respublikos
 
@@ -7805,3 +7809,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1749, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27570
 
 Lietuvos Respublikos baudžiamojo kodekso XXII skyriaus pavadinimo ir 154 straipsnio pakeitimo įstatymas
+
+54\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473
+
+Lietuvos Respublikos baudžiamojo kodekso 123-1 straipsnio pakeitimo įstatymas
