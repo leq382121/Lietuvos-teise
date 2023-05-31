@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2023-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/zuOZletGUR"
+redakcija_nuo: "2023-06-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/jrpIUEPVct"
 ---
 
 # Darbo kodeksas
@@ -2696,13 +2696,15 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 4\. Neįvykdžius darbo normų dėl darbuotojo kaltės, mokama už faktiškai atliktą darbą.
 
-##### 144 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, viršvalandinį darbą ir kompensacijos darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu
+##### 144 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, viršvalandinį darbą ir darbą, kai yra nukrypimų nuo normalių darbo sąlygų, taip pat kai padidinamas darbuotojo darbo mastas
 
 *Pakeistas straipsnio pavadinimas:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
 
 *Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135*
+
+*Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174*
 
 1\. Už darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, mokamas ne mažesnis kaip dvigubas darbuotojo darbo užmokestis.
 
@@ -2718,7 +2720,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 7\. Už darbą, kai yra nukrypimų nuo normalių darbo sąlygų, taip pat kai padidinamas darbuotojo darbo mastas, mokamas padidintas, palyginti su normaliomis darbo sąlygomis, darbo užmokestis, nurodytas šio kodekso 139 straipsnio 4 dalyje. Konkretūs apmokėjimo dydžiai nustatomi kolektyvinėse ir darbo sutartyse.
 
-8\. Darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu, kompensuojamos su tuo susijusios padidėjusios išlaidos už faktiškai tokio pobūdžio dirbtą darbo laiką. Šių kompensacijų dydis negali viršyti 30 procentų bazinio (tarifinio) darbo užmokesčio ir jos mokamos tuo atveju, kai darbuotojui neapmokamos komandiruotės išlaidos.
+8\. Neteko galios nuo 2023-06-01
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174*
 
 *Papildyta straipsnio dalimi:*
 
