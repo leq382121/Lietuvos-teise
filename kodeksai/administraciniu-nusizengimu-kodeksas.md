@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2023-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/EciKCIwDPt"
+redakcija_nuo: "2023-07-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/MwUDxpmlUO"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -12110,6 +12110,16 @@ Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo ad
 
 užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
 
+#### 507¹ straipsnis. Viešąsias paslaugas teikiančio asmens garbės ir orumo pažeminimas
+
+Fizinio asmens, kuris pagal įstatymų ir (ar) viešojo administravimo subjektų nustatytus reikalavimus paslaugų gavėjui teikia socialines, švietimo, sveikatos priežiūros, kultūros ir (ar) kitas valstybės ar savivaldybių garantuojamas ir visuomenės nariams vienodai prieinamas paslaugas, garbės ir orumo pažeminimas, reiškiamas raštu, žodžiu, gestais, įžeidžiančiu, įžūliu, provokuojančiu ar kitokiu elgesiu,
+
+užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337*
+
 #### 508 straipsnis. Statutinio valstybės tarnautojo, kario ar žvalgybos pareigūno garbės ir orumo pažeminimas
 
 Statutinio valstybės tarnautojo, kario ar žvalgybos pareigūno garbės ir orumo pažeminimas, reiškiamas žodžiais, gestais, įžeidžiančiu, įžūliu, provokuojančiu elgesiu ar kitokiu elgesiu,
@@ -13700,7 +13710,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
-49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹ straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
+49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹ straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 507, 507¹, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 526¹, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -13747,6 +13757,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
+
+*Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337*
 
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 525, 526, 526¹ straipsniuose numatytų administracinių nusižengimų;
 
@@ -14122,7 +14134,7 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 507¹, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14145,6 +14157,8 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 *Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033*
 
 *Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582*
+
+*Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -16166,7 +16180,7 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
-part_a14b27507d654eafac1cc6b0a100b959_end
+part_4c69bbe0638e42339e4230b98d027f1f_end
 
 Lietuvos Respublikos
 
@@ -18103,3 +18117,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2080, 2023-06-20, paskelbta TAR 2023-06-26, i. k. 2023-12756
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2026 1 straipsnio pakeitimo įstatymas
+
+206\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 507-1 straipsniu įstatymas
