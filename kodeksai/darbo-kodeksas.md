@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2023-06-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/jrpIUEPVct"
+redakcija_nuo: "2023-08-31"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/PIpkRXeEmx"
 ---
 
 # Darbo kodeksas
@@ -3830,7 +3830,11 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 2\. Darbuotojų atstovų paskirti nariai turi tokias pačias teises ir pareigas, kaip ir kiti juridinio asmens kolegialaus valdymo ar priežiūros organo nariai.
 
-3\. Darbuotojų dalyvavimą priimant sprendimus Europos bendrovėse, Europos kooperatinėse bendrovėse ir bendrovėse po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi veiksiančiose ribotos atsakomybės bendrovėse nustato specialūs įstatymai.
+3\. Darbuotojų dalyvavimą priimant sprendimus Europos bendrovėse, Europos kooperatinėse bendrovėse ir bendrovėse, po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių pertvarkymo, jungimosi ar skaidymo veiksiančiose ribotos atsakomybės bendrovėse nustato specialūs įstatymai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-1875, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07540*
 
 ##### 211 straipsnis. Darbuotojų atstovų teisės skirti juridinio asmens kolegialaus valdymo ar priežiūros organo narius įgyvendinimas
 
@@ -4564,8 +4568,6 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 5\. Lokauto padaryta žala kitiems fiziniams ar juridiniams asmenims atlyginama įstatymų nustatyta tvarka.
 
-part_9a495bf6e2bc47069d5a1d5a6fbf7d9f_end
-
 Lietuvos Respublikos
 
 darbo kodekso
@@ -4887,3 +4889,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1690, 2022-12-15, paskelbta TAR 2022-12-29, i. k. 2022-27268
 
 Lietuvos Respublikos darbo kodekso 135 straipsnio pakeitimo įstatymas
+
+35\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-1875, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07540
+
+Lietuvos Respublikos darbo kodekso 210 straipsnio pakeitimo įstatymas
