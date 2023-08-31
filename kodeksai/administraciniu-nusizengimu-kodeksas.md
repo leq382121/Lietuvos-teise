@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2023-07-12"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/MwUDxpmlUO"
+redakcija_nuo: "2023-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FmkaVjRHju"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10328,7 +10328,7 @@ užtraukia baudą vairuotojams nuo vieno tūkstančio iki vieno tūkstančio pen
 
 #### 428 straipsnis. Pėsčiųjų ir kitų kelių eismo dalyvių padarytas Kelių eismo taisyklių pažeidimas
 
-1\. Pėsčiųjų judėjimas per važiuojamąją kelio dalį arba judėjimas ja ten, kur draudžiama, dviračius vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse ir greitkeliuose nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas
+1\. Pėsčiųjų judėjimas per važiuojamąją kelio dalį arba judėjimas ja ten, kur draudžiama, dviračius, motorinius dviračius, elektrines mikrojudumo priemones vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse ir greitkeliuose nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas arba dviračių, motorinių dviračių vairuotojams ir (ar) keleiviams, elektrinių mikrojudumo priemonių vairuotojams reikalavimo naudoti šalmą nesilaikymas
 
 užtraukia baudą nuo dvidešimt iki keturiasdešimt eurų.
 
@@ -10337,6 +10337,8 @@ užtraukia baudą nuo dvidešimt iki keturiasdešimt eurų.
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
+
+*Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414*
 
 2\. Šio straipsnio 1 dalyje nurodytų asmenų padarytas Kelių eismo taisyklių pažeidimas, sukėlęs pavojingą situaciją (t. y. privertęs kitus eismo dalyvius staigiai pakeisti judėjimo greitį, kryptį arba imtis kitų veiksmų savo ar kitų asmenų saugumui užtikrinti),
 
@@ -10358,7 +10360,7 @@ užtraukia baudą nuo vieno šimto septyniasdešimt iki dviejų šimtų trisdeš
 
 užtraukia baudą nuo dešimt iki dvylikos eurų.
 
-7\. Dviračių, motorinių dviračių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) asmenys,
+7\. Dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) asmenys,
 
 užtraukia baudą nuo aštuoniasdešimt iki vieno šimto penkiasdešimt eurų.
 
@@ -10366,13 +10368,17 @@ užtraukia baudą nuo aštuoniasdešimt iki vieno šimto penkiasdešimt eurų.
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
 
-8\. Dviračių, motorinių dviračių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 1,51 promilės) ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys, vengimas pasitikrinti dėl neblaivumo ar apsvaigimo
+*Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414*
+
+8\. Dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 1,51 promilės) ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys, vengimas pasitikrinti dėl neblaivumo ar apsvaigimo
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
+
+*Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414*
 
 #### 429 straipsnis. Leidimas važiuoti gedimų turinčia transporto priemone ar pažeidžiant kitas taisykles
 
@@ -16180,8 +16186,6 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 *Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404*
 
-part_4c69bbe0638e42339e4230b98d027f1f_end
-
 Lietuvos Respublikos
 
 administracinių nusižengimų kodekso
@@ -18125,3 +18129,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 507-1 straipsniu įstatymas
+
+207\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 428 straipsnio pakeitimo įstatymas
