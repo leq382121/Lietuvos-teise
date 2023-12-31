@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2023-11-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/VMwcxeVbah"
+redakcija_nuo: "2024-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/jAyDGgzdzx"
 ---
 
 # Darbo kodeksas
@@ -3832,7 +3832,11 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 ##### 210 straipsnis. Darbuotojų atstovų dalyvavimas juridinio asmens valdyme
 
-1\. Šio kodekso ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+1\. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993*
 
 2\. Darbuotojų atstovų paskirti nariai turi tokias pačias teises ir pareigas, kaip ir kiti juridinio asmens kolegialaus valdymo ar priežiūros organo nariai.
 
@@ -4422,7 +4426,11 @@ Jeigu panaikinamas jau įvykdytas darbo ginčų komisijos sprendimas arba teismo
 
 1\. Draudžiama skelbti streiką greitosios medicinos pagalbos tarnybų darbuotojams ir kitiems darbuotojams, kurių teisę streikuoti riboja įstatymai. Šių darbuotojų reikalavimus sprendžia kolektyvinius darbo ginčus dėl interesų nagrinėjantys organai.
 
-2\. Streikai draudžiami stichinės nelaimės zonose, regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, iki bus likviduojami stichinės nelaimės padariniai, paskelbta demobilizacija ar atšaukta karo, nepaprastoji padėtis.
+2\. Streiko ribojimus mobilizacijos, nepaprastosios, karo padėties ar ekstremaliosios situacijos metu nustato mobilizaciją, nepaprastąją, karo padėtį ar ekstremaliąją situaciją reglamentuojantys įstatymai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627*
 
 3\. Galiojant kolektyvinei sutarčiai, draudžiama skelbti streiką dėl reikalavimų ar darbo sąlygų, reglamentuotų šioje sutartyje, jeigu jų laikomasi.
 
@@ -4550,7 +4558,11 @@ Lokautas – darbdavio ar darbdavių organizacijos paskelbtas vieno darbdavio ar
 
 ##### 258 straipsnis. Lokauto draudimas
 
-Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės nelaimės zonose, taip pat regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, taip pat viešojo administravimo įstaigose ir kitais įstatymų nustatytais atvejais.
+Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, ekstremaliosios situacijos zonose, taip pat regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, taip pat viešojo administravimo įstaigose ir kitais įstatymų nustatytais atvejais.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627*
 
 ##### 259 straipsnis. Lokauto pabaiga
 
@@ -4911,3 +4923,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
 
 Lietuvos Respublikos darbo kodekso 33, 147 ir 210 straipsnių pakeitimo įstatymas
+
+37\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2228, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22373
+
+Lietuvos Respublikos darbo kodekso 132 straipsnio pakeitimo įstatymas
+
+38\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627
+
+Lietuvos Respublikos darbo kodekso 248 ir 258 straipsnių pakeitimo įstatymas
