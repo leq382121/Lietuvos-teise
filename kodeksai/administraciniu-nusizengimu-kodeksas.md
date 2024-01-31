@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/nudDXDUdec"
+redakcija_nuo: "2024-02-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RVCLAAnyoh"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -12944,9 +12944,9 @@ užtraukia baudą nuo dvidešimt iki penkiasdešimt eurų.
 
 užtraukia baudą nuo keturiasdešimt iki vieno šimto penkiasdešimt eurų.
 
-#### 557¹ straipsnis. Karinės teritorijos filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
+#### 557¹ straipsnis. Žvalgybos institucijos valdomos ir naudojamos teritorijos, įskaitant joje esančius statinius, ar karinės teritorijos filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
 
-1\. Karinės teritorijos, kurią draudžiama filmuoti, fotografuoti ar kitu būdu vizualizuoti, filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
+1\. Žvalgybos institucijos valdomos ir naudojamos teritorijos, įskaitant joje esančius statinius, ar karinės teritorijos, kurią draudžiama filmuoti, fotografuoti ar kitu būdu vizualizuoti, filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
 
 užtraukia baudą nuo dvidešimt iki penkiasdešimt eurų.
 
@@ -12956,9 +12956,9 @@ užtraukia baudą nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų.
 
 3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964*
+*Nr. XIV-2394, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25910*
 
 #### 558 straipsnis. Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
 
@@ -13516,11 +13516,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-137, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00258*
 
-12\) Lietuvos Respublikos valstybės saugumo departamento – dėl šio kodekso 506 straipsnio 4, 4¹ dalyse, 508, 509, 553, 554, 555 straipsniuose numatytų administracinių nusižengimų;
+12\) Lietuvos Respublikos valstybės saugumo departamento – dėl šio kodekso 393 straipsnio 4, 5, 8, 9 dalyse, 506 straipsnio 4 dalyje, 508, 509, 553, 554, 555, 557¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
+
+*Nr. XIV-2394, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25910*
 
 13\) Lietuvos Respublikos valstybinės kultūros paveldo komisijos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
