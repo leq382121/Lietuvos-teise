@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-02-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RVCLAAnyoh"
+redakcija_nuo: "2024-03-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/MtiyvxNqVi"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3626,11 +3626,15 @@ TAR pastaba. 185 straipsnis taikomas, kai Lietuvos Respublikos viešojo sektoria
 
 *Nr. XIII-3318, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21259*
 
-#### 186 straipsnis. Biudžeto asignavimų paskirstymo ir panaudojimo tvarkos pažeidimas
+#### 186 straipsnis. Biudžeto asignavimų paskirstymo ir (ar) panaudojimo tvarkos pažeidimas
 
-Biudžeto asignavimų paskirstymo ir panaudojimo tvarkos pažeidimas
+Biudžeto asignavimų paskirstymo ir (ar) panaudojimo tvarkos pažeidimas
 
-užtraukia baudą biudžeto asignavimų valdytojams ir jiems pavaldžių biudžetinių įstaigų vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą biudžeto asignavimų valdytojų vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams ir kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2329, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25316*
 
 #### 187 straipsnis. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pateikimo tvarkos pažeidimas
 
