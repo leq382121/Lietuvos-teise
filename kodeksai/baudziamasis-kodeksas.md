@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2024-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/WekKxFlQRC"
+redakcija_nuo: "2024-03-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/bmekgwMgMd"
 ---
 
 # Baudžiamasis kodeksas
@@ -506,7 +506,11 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 3\. Vykdytojas yra asmuo, nusikalstamą veiką padaręs pats arba pasitelkęs nepakaltinamus asmenis arba nesulaukusius šio kodekso 13 straipsnyje nustatyto amžiaus asmenis, arba kitus asmenis, kurie dėl tos veikos nėra kalti. Jeigu nusikalstamą veiką padarė keli asmenys kartu, tai kiekvienas iš jų laikomas vykdytoju (bendravykdytoju).
 
-4\. Organizatorius yra asmuo, subūręs organizuotą grupę ar nusikalstamą susivienijimą, jiems vadovavęs ar koordinavęs jų narių veiklą arba parengęs nusikalstamą veiką ar jai vadovavęs.
+4\. Organizatorius yra asmuo, subūręs organizuotą grupę, teroristinę grupę ar nusikalstamą susivienijimą, jiems vadovavęs ar koordinavęs jų narių veiklą arba parengęs nusikalstamą veiką ar jai vadovavęs.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 5\. Kurstytojas yra asmuo, palenkęs kitą asmenį daryti nusikalstamą veiką.
 
@@ -514,19 +518,19 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 #### 25 straipsnis. Bendrininkavimo formos
 
-1\. Bendrininkavimo formos yra bendrininkų grupė, organizuota grupė, nusikalstamas susivienijimas.
+1\. Bendrininkavimo formos yra bendrininkų grupė, teroristinė grupė, organizuota grupė, nusikalstamas susivienijimas.
 
 2\. Bendrininkų grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria nusikalstamą veiką daryti, tęsti ar užbaigti, jei bent du iš jų yra vykdytojai.
 
-3\. Organizuota grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria daryti kelis nusikaltimus arba vieną apysunkį, sunkų ar labai sunkų nusikaltimą ir kiekvienas grupės narys, darydamas nusikaltimą, atlieka tam tikrą užduotį ar turi skirtingą vaidmenį.
+3\. Teroristinė grupė – trijų ar daugiau asmenų iš anksto sukurta tam tikram laikotarpiui ir suderintai veikianti grupė, turinti tikslą daryti vieną ar kelis teroristinius nusikaltimus.
 
-4\. Nusikalstamas susivienijimas yra tada, kai bendrai nusikalstamai veiklai – vienam ar keliems apysunkiams, sunkiems ar labai sunkiems nusikaltimams daryti – susivienija trys ar daugiau asmenų, kuriuos sieja pastovūs tarpusavio ryšiai bei vaidmenų ar užduočių pasiskirstymas. Nusikalstamam susivienijimui prilyginama antikonstitucinė grupė ar organizacija bei teroristinė grupė.
+4\. Organizuota grupė yra tada, kai bet kurioje nusikalstamos veikos stadijoje du ar daugiau asmenų susitaria daryti kelis nusikaltimus arba vieną apysunkį, sunkų ar labai sunkų nusikaltimą ir kiekvienas grupės narys, darydamas nusikaltimą, atlieka tam tikrą užduotį ar turi skirtingą vaidmenį.
+
+5\. Nusikalstamas susivienijimas yra tada, kai bendrai nusikalstamai veiklai – vienam ar keliems apysunkiams, sunkiems ar labai sunkiems nusikaltimams daryti – susivienija trys ar daugiau asmenų, kuriuos sieja pastovūs tarpusavio ryšiai ir vaidmenų ar užduočių pasiskirstymas. Nusikalstamam susivienijimui prilyginama antikonstitucinė grupė ar organizacija ir organizuota teroristinė grupė.
 
 *Straipsnio pakeitimai:*
 
-*Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
-
-*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 #### 26 straipsnis. Bendrininkų baudžiamoji atsakomybė
 
@@ -604,7 +608,11 @@ Asmuo pripažįstamas kaltu padaręs nusikaltimą ar baudžiamąjį nusižengim�
 
 1\. Asmuo neatsako pagal šį kodeksą, jeigu jis teisėtai atliko nusikalstamą veiką imituojančius veiksmus.
 
-2\. Asmuo neatsako pagal baudžiamąjį įstatymą, jeigu jis nusikalstamo susivienijimo ar organizuotos grupės veikloje ir jos daromose nusikalstamose veikose dalyvavo vykdydamas teisėsaugos institucijos kitą teisėtą užduotį ir neperžengė šios užduoties ribų.
+2\. Asmuo neatsako pagal baudžiamąjį įstatymą, jeigu jis nusikalstamo susivienijimo, teroristinės grupės ar organizuotos grupės veikloje ir jos daromose nusikalstamose veikose dalyvavo vykdydamas teisėsaugos institucijos kitą teisėtą užduotį ir neperžengė šios užduoties ribų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 3\. Jeigu, atlikdamas nusikalstamą veiką imituojančius veiksmus ar vykdydamas kitą teisėsaugos institucijos užduotį, asmuo peržengė šios užduoties ribas, jis atsako pagal baudžiamąjį įstatymą, tačiau bausmė gali būti švelninama remiantis šio kodekso 59 straipsniu.
 
@@ -696,15 +704,15 @@ Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų tyčinį 
 
 *Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087*
 
-**39(¹) straipsnis. Atleidimas nuo baudžiamosios atsakomybės, kai asmuo aktyviai padėjo atskleisti organizuotos grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas**
+#### 39¹ straipsnis. Atleidimas nuo baudžiamosios atsakomybės, kai asmuo aktyviai padėjo atskleisti organizuotos grupės, teroristinės grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas
 
-1\. Asmuo, įtariamas dalyvavęs organizuotai grupei ar nusikalstamam susivienijimui darant nusikalstamas veikas arba priklausęs nusikalstamam susivienijimui, gali būti atleistas nuo baudžiamosios atsakomybės, jeigu jis prisipažino dalyvavęs darant tokią nusikalstamą veiką ar priklausęs nusikalstamam susivienijimui ir aktyviai padėjo atskleisti organizuotos grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas.
+1\. Asmuo, įtariamas dalyvavęs organizuotai grupei, teroristinei grupei ar nusikalstamam susivienijimui darant nusikalstamas veikas arba priklausęs nusikalstamam susivienijimui, gali būti atleistas nuo baudžiamosios atsakomybės, jeigu jis prisipažino dalyvavęs darant tokią nusikalstamą veiką ar priklausęs nusikalstamam susivienijimui ir aktyviai padėjo atskleisti organizuotos grupės, teroristinės grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas.
 
-2\. Šio straipsnio 1 dalis netaikoma asmeniui, kuris dalyvavo tyčia nužudant arba kuris tokiais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat organizuotos grupės ar nusikalstamo susivienijimo organizatoriui ar vadovui.
+2\. Šio straipsnio 1 dalis netaikoma asmeniui, kuris dalyvavo tyčia nužudant arba kuris tokiais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat organizuotos grupės, teroristinės grupės ar nusikalstamo susivienijimo organizatoriui ar vadovui.
 
-*Kodeksas papildytas straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 #### 39² straipsnis. Pranešėjo atleidimas nuo baudžiamosios atsakomybės
 
@@ -5166,29 +5174,33 @@ baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisv�
 
 *Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)*
 
-#### 249¹ straipsnis. Grupių, kurių tikslas – daryti teroristinius nusikaltimus, kūrimas ir veikla
+#### 249¹ straipsnis. Teroristinės arba organizuotos teroristinės grupės kūrimas ir veikla
 
-1\. Tas, kas kūrė organizuotą grupę, kurios tikslas – daryti teroristinius nusikaltimus, arba jai vadovavo ar dalyvavo šios grupės veikloje,
+1\. Tas, kas dalyvavo teroristinės grupės veikloje,
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-2\. Tas, kas dalyvavo teroristinės grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje,
+2\. Tas, kas kūrė teroristinę grupę arba jai vadovavo,
 
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
-3\. Tas, kas dalyvavo šaunamaisiais ginklais, sprogmenimis, sprogstamosiomis, radioaktyviosiomis, biologinėmis ar cheminėmis kenksmingomis medžiagomis, preparatais ar mikroorganizmais ginkluotos teroristinės grupės veikloje,
+3\. Tas, kas dalyvavo organizuotos teroristinės grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje,
+
+baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
+
+4\. Tas, kas dalyvavo šaunamaisiais ginklais, sprogmenimis, sprogstamosiomis, radioaktyviosiomis, biologinėmis ar cheminėmis kenksmingomis medžiagomis, preparatais ar mikroorganizmais ginkluotos organizuotos teroristinės grupės veikloje,
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-4\. Tas, kas kūrė šio straipsnio 2 ar 3 dalyje numatytą teroristinę grupę arba jai vadovavo,
+5\. Tas, kas kūrė šio straipsnio 3 ar 4 dalyje numatytą organizuotą teroristinę grupę arba jai vadovavo,
 
 baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+6\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
-*Kodeksas papildytas straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)*
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 #### 250 straipsnis. Teroro aktas
 
@@ -5244,9 +5256,13 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 #### 250² straipsnis. Verbavimas teroristinei veiklai
 
-1\. Tas, kas verbavo kitą asmenį padaryti teroristinį nusikaltimą ar dalyvauti darant teroristinį nusikaltimą arba dalyvauti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje,
+1\. Tas, kas verbavo kitą asmenį padaryti teroristinį nusikaltimą ar dalyvauti darant teroristinį nusikaltimą arba dalyvauti teroristinės grupės veikloje,
 
 baudžiamas laisvės atėmimu iki septynerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5272,13 +5288,15 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 
 #### 250⁴ straipsnis. Teroristinės veiklos finansavimas ir rėmimas
 
-1\. Tas, kas tiesiogiai ar netiesiogiai rinko, kaupė arba teikė lėšas ar kitą turtą arba teikė kitokią materialinę paramą kitam asmeniui, žinodamas arba siekdamas, kad šis turtas, parama ar jų dalis būtų panaudota teroristiniam ar su teroristine veikla susijusiam nusikaltimui rengti ar daryti arba vienam ar keliems teroristams arba grupei, kurios tikslas – daryti teroristinius nusikaltimus, arba asmenims ar grupėms, kurie verbuoja, rengia teroristus ar kitaip dalyvauja teroristinėje veikloje, remti,
+1\. Tas, kas tiesiogiai ar netiesiogiai rinko, kaupė arba teikė lėšas ar kitą turtą arba teikė kitokią materialinę paramą kitam asmeniui, žinodamas arba siekdamas, kad šis turtas, parama ar jų dalis būtų panaudota teroristiniam ar su teroristine veikla susijusiam nusikaltimui rengti ar daryti arba vienam ar keliems teroristams arba teroristinei grupei, arba asmenims ar grupėms, kurie verbuoja, rengia teroristus ar kitaip dalyvauja teroristinėje veikloje, remti,
 
 baudžiamas laisvės atėmimu iki dešimties metų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5304,9 +5322,13 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 
 #### 250⁶ straipsnis. Vykimas teroristiniais tikslais
 
-1\. Tas, kas atvyko į Lietuvos Respubliką ar vyko į kitą valstybę, siekdamas rengti ar daryti teroristinį nusikaltimą arba dalyvauti darant teroristinį nusikaltimą, arba dalyvauti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veikloje, arba rengti teroristus, arba mokytis teroristiniais tikslais,
+1\. Tas, kas atvyko į Lietuvos Respubliką ar vyko į kitą valstybę, siekdamas rengti ar daryti teroristinį nusikaltimą arba dalyvauti darant teroristinį nusikaltimą, arba dalyvauti teroristinės grupės veikloje, arba rengti teroristus, arba mokytis teroristiniais tikslais,
 
 baudžiamas laisvės atėmimu iki penkerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 2\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5408,13 +5430,15 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 *Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234*
 
-2\. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 249¹, 250¹, 250², 250⁴, 250⁵ ir 250⁶ straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą.
+2\. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 249¹, 250¹, 250², 250⁴, 250⁵ ir 250⁶ straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti teroristinės grupės veiklą.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023*
 
 *Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234*
+
+*Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809*
 
 3\. Teroristiniai tikslai – siekimas labai įbauginti visuomenę ar jos dalį arba neteisėtai priversti tarptautinę viešąją organizaciją, valstybę ar jos instituciją atlikti bet kokį veiksmą arba susilaikyti nuo jo atlikimo, arba destabilizuoti ar sunaikinti svarbiausius valstybės konstitucinius, politinius, ekonominius ar socialinius darinius ar tarptautinę viešąją organizaciją.
 
@@ -8091,3 +8115,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2152, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14338
 
 Lietuvos Respublikos baudžiamojo kodekso 270, 271-1, 277-1 straipsnių pakeitimo ir Kodekso papildymo 270-4 straipsniu įstatymas
+
+60\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809
+
+Lietuvos Respublikos baudžiamojo kodekso 24, 25, 32, 39-1, 249-1, 250-2, 250-4, 250-6 ir 252-1 straipsnių pakeitimo įstatymas
