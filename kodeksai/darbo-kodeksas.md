@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2024-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/jAyDGgzdzx"
+redakcija_nuo: "2024-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/MDJnEjWeis"
 ---
 
 # Darbo kodeksas
@@ -3832,7 +3832,7 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 ##### 210 straipsnis. Darbuotojų atstovų dalyvavimas juridinio asmens valdyme
 
-1\. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+1\. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo ir Lietuvos Respublikos viešųjų įstaigų įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
 
 *Straipsnio dalies pakeitimai:*
 
