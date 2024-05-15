@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/xXIBvDZguk"
+redakcija_nuo: "2024-05-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/rhEvVYlvgz"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -8592,89 +8592,255 @@ užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
 
 #### 351 straipsnis. Naujo statinio savavališka statyba
 
-1\. Naujo nesudėtingo statinio savavališka statyba
+1\. Naujo nesudėtingojo statinio savavališka statyba
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
-3\. Naujo nesudėtingo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+3\. Naujo nesudėtingojo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio vieno šimto dvidešimt iki dviejų tūkstančių keturių šimtų eurų.
 
-5\. Naujo neypatingo statinio savavališka statyba
+5\. Naujo neypatingojo statinio savavališka statyba
 
 užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
-7\. Naujo neypatingo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+7\. Naujo neypatingojo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių septynių šimtų eurų.
+užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
-9\. Naujo ypatingo statinio savavališka statyba
+9\. Naujo ypatingojo statinio savavališka statyba
 
 užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių septynių šimtų eurų.
 
 10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
 
-11\. Naujo ypatingo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+11\. Naujo ypatingojo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
 užtraukia baudą nuo keturių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
 
 12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
 
 #### 352 straipsnis. Statinio savavališkas rekonstravimas
 
-1\. Nesudėtingo statinio savavališkas rekonstravimas
+1\. Nesudėtingojo statinio savavališkas rekonstravimas
 
 užtraukia baudą nuo šešiasdešimt iki trijų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
-3\. Nesudėtingo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+3\. Nesudėtingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo dviejų šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
-5\. Neypatingo statinio savavališkas rekonstravimas
+5\. Neypatingojo statinio savavališkas rekonstravimas
 
 užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių keturių šimtų eurų.
+užtraukia baudą nuo trijų tūkstančių keturių šimtų iki šešių tūkstančių eurų.
 
-7\. Neypatingo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+7\. Neypatingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
 užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų.
 
 8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
+užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+9\. Ypatingojo statinio savavališkas rekonstravimas
+
 užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
-9\. Ypatingo statinio savavališkas rekonstravimas
+10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
+
+11\. Ypatingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas rekonstravimas
+
+užtraukia baudą nuo keturių tūkstančių trijų šimtų iki šešių tūkstančių eurų.
+
+12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo penkių tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
+
+#### 353 straipsnis. Statinio savavališkas kapitalinis remontas
+
+1\. Nesudėtingojo statinio savavališkas kapitalinis remontas
+
+užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto aštuoniasdešimt iki keturių šimtų šešiasdešimt eurų.
+
+3\. Nesudėtingojo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų dvidešimt iki šešių šimtų eurų.
+
+5\. Neypatingojo statinio savavališkas kapitalinis remontas
+
+užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio aštuoniasdešimt iki dviejų tūkstančių keturių šimtų eurų.
+
+7\. Neypatingojo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų tūkstančių keturių šimtų iki keturių tūkstančių šešių šimtų eurų.
+
+9\. Ypatingojo statinio savavališkas kapitalinis remontas
+
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
+
+10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų tūkstančių keturių šimtų iki šešių tūkstančių eurų.
+
+11\. Ypatingojo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas kapitalinis remontas
+
+užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų.
+
+12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
+
+#### 354 straipsnis. Statinio savavališkas paprastasis remontas
+
+1\. Nesudėtingojo statinio savavališkas paprastasis remontas
+
+užtraukia įspėjimą arba baudą nuo keturiolikos iki trisdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+3\. Nesudėtingojo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
+
+5\. Neypatingojo statinio savavališkas paprastasis remontas
+
+užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
+
+7\. Neypatingojo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo keturių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+9\. Ypatingojo statinio savavališkas paprastasis remontas
+
+užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių keturių šimtų eurų.
+
+11\. Ypatingojo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas paprastasis remontas
+
+užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+
+12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų tūkstančių keturių šimtų iki trijų tūkstančių keturių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
+
+#### 355 straipsnis. Statinio savavališkas griovimas
+
+1\. Nesudėtingojo statinio savavališkas griovimas
+
+užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
+
+3\. Nesudėtingojo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų šimtų keturiasdešimt iki keturių šimtų keturiasdešimt eurų.
+
+5\. Neypatingojo statinio savavališkas griovimas
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+
+7\. Neypatingojo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
+
+užtraukia baudą nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
+
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo keturių tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+9\. Ypatingojo statinio savavališkas griovimas
 
 užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
@@ -8682,163 +8848,17 @@ užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūksta
 
 užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
-11\. Ypatingo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas rekonstravimas
+11\. Ypatingojo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas griovimas
 
 užtraukia baudą nuo keturių tūkstančių trijų šimtų iki šešių tūkstančių eurų.
 
 12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
 
-#### 353 straipsnis. Statinio savavališkas kapitalinis remontas
+*Straipsnio pakeitimai:*
 
-1\. Nesudėtingo statinio savavališkas kapitalinis remontas
-
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų.
-
-3\. Nesudėtingo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų.
-
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno šimto šešiasdešimt iki trijų šimtų eurų.
-
-5\. Neypatingo statinio savavališkas kapitalinis remontas
-
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo penkių šimtų keturiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-7\. Neypatingo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
-
-9\. Ypatingo statinio savavališkas kapitalinis remontas
-
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
-
-10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų.
-
-11\. Ypatingo statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas kapitalinis remontas
-
-užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų.
-
-12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
-
-#### 354 straipsnis. Statinio savavališkas paprastasis remontas
-
-1\. Nesudėtingo statinio savavališkas paprastasis remontas
-
-užtraukia įspėjimą arba baudą nuo keturiolikos iki trisdešimt eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
-
-3\. Nesudėtingo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
-
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
-5\. Neypatingo statinio savavališkas paprastasis remontas
-
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
-
-6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
-
-7\. Neypatingo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
-
-8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
-
-9\. Ypatingo statinio savavališkas paprastasis remontas
-
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-11\. Ypatingo statinio savavališkas paprastasis remontas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas paprastasis remontas
-
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
-
-#### 355 straipsnis. Statinio savavališkas griovimas
-
-1\. Nesudėtingo statinio savavališkas griovimas
-
-užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
-3\. Nesudėtingo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
-
-5\. Neypatingo statinio savavališkas griovimas
-
-užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
-
-6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
-
-7\. Neypatingo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-
-užtraukia baudą nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
-
-8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo dviejų tūkstančių trijų šimtų penkiasdešimt iki keturių tūkstančių šešių šimtų eurų.
-
-9\. Ypatingo statinio savavališkas griovimas
-
-užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
-
-10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo keturių tūkstančių trijų šimtų iki šešių tūkstančių eurų.
-
-11\. Ypatingo statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas griovimas
-
-užtraukia baudą nuo keturių tūkstančių trijų šimtų iki šešių tūkstančių eurų.
-
-12\. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkstančių eurų.
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
 
 #### 356 straipsnis. Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus
 
@@ -8898,19 +8918,27 @@ užtraukia baudą nuo vieno tūkstančio vieno šimto šešiasdešimt iki dviej�
 
 *Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
 
-#### 357 straipsnis. Informacijos apie statybą nepateikimas
+#### 357 straipsnis. Pranešimo apie statybos pradžią ir informacijos apie pasamdytą subrangovą nepateikimas
 
-1\. Informacijos apie statybos pradžią, rangovo pasamdymą ar paskyrimą, taip pat apie pagrindinių statybos sričių vadovų (statinio projekto vykdymo priežiūros vadovo, statinio statybos vadovo, statinio statybos techninio prižiūrėtojo) pasamdymą ar paskyrimą nepateikimas arba pateikimas nesilaikant teisės aktuose nustatytų terminų
+1\. Lietuvos Respublikos statybos įstatyme nustatytus reikalavimus atitinkančio pranešimo apie statybos pradžią nepateikimas
 
-užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334*
+užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
+
+3\. Informacijos apie pasamdytą subrangovą nepateikimas
+
+užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
 
 #### 357¹ straipsnis. Statinių ir daiktinių teisių į statinius registravimo ir statinių kadastro duomenų tikslinimo tvarkos pažeidimas
 
@@ -8932,9 +8960,13 @@ užtraukia baudą statinio projektą pasirašiusiems asmenims nuo penkių šimt�
 
 užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
-3\. Teisės aktuose nustatytų reikalavimų neatitinkančio statinio ekspertizės akto pateikimas statinio ekspertizės užsakovui
+3\. Teisės aktuose nustatytų reikalavimų neatitinkančio statinio projekto ekspertizės akto, statinio ekspertizės akto pateikimas šių dokumentų užsakovui ar deklaracijos apie statybos užbaigimą, ar pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių patvirtinimas
 
-užtraukia baudą statinio ekspertizės aktą pasirašiusiems asmenims nuo penkių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą statinio projekto ekspertizės aktą ar statinio ekspertizės aktą pasirašiusiems asmenims, deklaraciją apie statybos užbaigimą ar pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių patvirtinusiems asmenims nuo penkių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -8942,13 +8974,17 @@ užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki penkių tūkstanči
 
 #### 359 straipsnis. Statinio (jo patalpų) naudojimas pažeidžiant nustatytus reikalavimus ir (ar) naudojimas ne pagal paskirtį
 
-1\. Statinio (jo patalpų) naudojimas pažeidžiant Lietuvos Respublikos statybos įstatyme ir kituose įstatymuose nustatytus reikalavimus ir (ar) naudojimas ne pagal paskirtį, išskyrus atvejus, kai statinys (jo patalpos) naudojamas (naudojamos) ne pagal paskirtį Lietuvos Respublikos Vyriausybės nustatytais atvejais ir tvarka,
+1\. Savavališkai pastatyto ar statomo statinio (jo patalpų) naudojimas ir (ar) nebaigto statinio (jo patalpų) naudojimas, išskyrus Lietuvos Respublikos statybos įstatyme nustatytus atvejus, ir (ar) statinio (jo patalpų) naudojimas pažeidžiant Lietuvos Respublikos statybos įstatyme ir kituose įstatymuose nustatytus reikalavimus, ir (ar) naudojimas ne pagal paskirtį, išskyrus atvejus, kai statinys (jo patalpos) naudojamas (naudojamos) ne pagal paskirtį Lietuvos Respublikos Vyriausybės nustatytais atvejais ir tvarka,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo dviejų šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo keturių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912*
 
 #### 360 straipsnis. Statinio naudotojo pareigų nevykdymas ir statinių techninę priežiūrą reglamentuojančių teisės aktų pažeidimas
 
@@ -18607,3 +18643,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2485, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04800
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 290 straipsnio pakeitimo įstatymas
+
+225\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2518, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06307
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 207-2 straipsniu įstatymas
+
+226\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2551, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07555
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 218 straipsnio pakeitimo įstatymas
+
+227\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 196 ir 589 straipsnių pakeitimo ir Kodekso papildymo 196-1 straipsniu įstatymas
+
+228\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 351, 352, 353, 354, 355, 357, 358, 359 straipsnių pakeitimo įstatymas
