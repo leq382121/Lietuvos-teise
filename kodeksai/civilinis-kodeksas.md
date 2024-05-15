@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/vnJqbLouIW"
+redakcija_nuo: "2024-05-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/iAnCCHSKjA"
 ---
 
 # Civilinis kodeksas
@@ -8640,7 +8640,11 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 ###### 4.103 straipsnis. Statybos, pažeidžiančios teisės aktų reikalavimus, civilinės teisinės pasekmės
 
-1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai tokiu statiniu (jo dalimi) naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.) draudžiama. Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
+1\. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant teisės aktų reikalavimus, tai tokiu statiniu (jo dalimi) naudotis ar juo disponuoti (jį parduoti, padovanoti, išnuomoti ar pan.) draudžiama. Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913*
 
 2\. Asmenys, kurių teisės ir interesai yra pažeidžiami, ir kiti įstatymų įgalioti asmenys dėl šio straipsnio 1 dalyje nurodytų pažeidimų turi teisę kreiptis į teismą.
 
@@ -22503,3 +22507,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2256, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22987
 
 Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas
+
+73\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
+
+Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
