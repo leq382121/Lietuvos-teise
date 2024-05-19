@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-05-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/iAnCCHSKjA"
+redakcija_nuo: "2024-05-20"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/FFEZeYMqHf"
 ---
 
 # Civilinis kodeksas
@@ -7609,6 +7609,12 @@ Vaiko globėju (rūpintoju) gali būti skiriamas asmuo:
 6\) kuris nėra teistas už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, kuris buvo nuteistas už kitas nusikalstamas veikas ar kuriam buvo paskirtos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, teisės būti vaiko globėju (rūpintoju) sprendžiama, įvertinus padarytos (padarytų) nusikalstamos (nusikalstamų) veikos (veikų) ar administracinio (administracinių) nusižengimo (nusižengimų) pobūdį, pavojingumą ir atsižvelgus į vaiko interesus;
 
 7\) iki šešiasdešimt penkerių metų, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
+
+*TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d. redakcija, Žin., 2000, Nr. 74-2262; 2021 m. gruodžio 23 d. redakcija, TAR, 2022-01-04, Nr. 70, identifikacinis kodas 2022-00070) 7 punktas prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai.*
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103*
 
 8\) neturintis psichikos ir elgesio sutrikimų ar nesergantis kitomis ligomis, kurių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
 
@@ -22515,3 +22521,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
 
 Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
+
+74\.
+
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+
+Nr. KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
+
+Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai
