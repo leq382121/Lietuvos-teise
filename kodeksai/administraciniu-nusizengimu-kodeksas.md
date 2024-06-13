@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-05-31"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/EQpFIhGraT"
+redakcija_nuo: "2024-06-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RbrsBAqPGH"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -7202,29 +7202,35 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų
 
 *Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754*
 
-**307 straipsnis. Transporto priemonių, ne keliais judančių mechanizmų ir įrengimų, kurių į aplinkos orą išmetamų teršalų kiekis viršija nustatytus ribinius dydžius, arba transporto priemonių, ne keliais judančių mechanizmų ir įrengimų su sumontuotu prietaisu ar įrenginiu, kuris išderina gamintojo numatytą išmetamųjų dujų neutralizavimo sistemos veikimą, eksploatavimas**
+**307 straipsnis. Transporto priemonių, ne keliais judančių mechanizmų ir įrenginių, kurių į aplinkos orą išmetamų teršalų kiekis viršija nustatytus ribinius dydžius, arba transporto priemonių, ne keliais judančių mechanizmų ir įrenginių su neveikiančia gamintojo numatyta išmetamųjų dujų neutralizavimo sistema, arba transporto priemonių, ne keliais judančių mechanizmų ir įrenginių su sumontuotu prietaisu ar įrenginiu, kuris išderina gamintojo numatytą išmetamųjų dujų neutralizavimo sistemos veikimą, eksploatavimas**
 
-1\. Transporto priemonių, ne keliais judančių mechanizmų ir įrengimų, kurių į aplinkos orą išmetamų teršalų kiekis viršija nustatytus ribinius dydžius, arba transporto priemonių, ne keliais judančių mechanizmų ir įrengimų su neveikiančia gamintojo numatyta išmetamųjų dujų neutralizavimo sistema eksploatavimas
+1\. Transporto priemonių, ne keliais judančių mechanizmų ir įrenginių, kurių į aplinkos orą išmetamų teršalų kiekis viršija nustatytus ribinius dydžius, eksploatavimas
+
+užtraukia įspėjimą arba baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų eurų.
+
+2\. Transporto priemonių, ne keliais judančių mechanizmų ir įrenginių su neveikiančia gamintojo numatyta išmetamųjų dujų neutralizavimo sistema eksploatavimas
 
 užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų eurų.
 
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+3\. Šio straipsnio 1 ir 2 dalyse numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki devynių šimtų eurų.
 
-3\. Transporto priemonių, ne keliais judančių mechanizmų ir įrengimų su sumontuotu gamintojo nenumatytu išmetamųjų dujų neutralizavimo sistemos veikimui neigiamos įtakos turinčiu prietaisu ar įrenginiu, kuris išderina gamintojo numatytą išmetamųjų dujų neutralizavimo sistemos veikimą, eksploatavimas
+4\. Transporto priemonių, ne keliais judančių mechanizmų ir įrenginių su sumontuotu gamintojo nenumatytu išmetamųjų dujų neutralizavimo sistemos veikimui neigiamos įtakos turinčiu prietaisu ar įrenginiu, kuris išderina gamintojo numatytą išmetamųjų dujų neutralizavimo sistemos veikimą, eksploatavimas
 
 užtraukia baudą asmenims nuo trijų šimtų iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septynių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą asmenims nuo šešių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių dviejų šimtų penkiasdešimt eurų.
 
-5\. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti prietaiso ar įrenginio konfiskavimą.
+6\. Už šio straipsnio 4 ir 5 dalyse numatytus administracinius nusižengimus privaloma skirti prietaiso ar įrenginio konfiskavimą.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754*
+
+*Nr. XIV-2684, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10822*
 
 #### 308 straipsnis. Cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimas
 
@@ -18707,3 +18713,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2662, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09703
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 242, 268, 286 ir 589 straipsnių pakeitimo įstatymas
+
+230\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2684, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10822
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 307 straipsnio pakeitimo įstatymas
