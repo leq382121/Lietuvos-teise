@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2024-03-27"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/ifdnavmxTc"
+redakcija_nuo: "2024-06-14"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/YStPNuBKfm"
 ---
 
 # Baudžiamasis kodeksas
@@ -2466,13 +2466,17 @@ baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 1\. Tas, kas organizavo ar dalyvavo sąmoksle valstybės perversmui įvykdyti arba dalyvavo perversme,
 
-baudžiamas laisvės atėmimu nuo ketverių iki dvidešimties metų.
+baudžiamas laisvės atėmimu nuo ketverių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
-2\. Tas, kas darydamas šio straipsnio 1 dalyje numatytą veiką panaudojo ginkluotą jėgą arba jeigu dėl jo veikos atsirado sunkių padarinių,
+2\. Tas, kas darydamas šio straipsnio 1 dalyje numatytą veiką panaudojo ginkluotą jėgą arba jeigu dėl jo veikos žuvo žmogus ar atsirado kitokių sunkių padarinių,
 
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 3\. Nuo baudžiamosios atsakomybės atleidžiamas šio straipsnio 1 ir 2 dalyse numatytame sąmoksle dalyvavęs asmuo, jeigu jis savo noru valstybės institucijai suteikė svarbią informaciją apie rengiamą valstybės perversmą.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
 
 #### 115 straipsnis. Kėsinimasis į Lietuvos Respublikos Prezidento gyvybę
 
@@ -2498,29 +2502,39 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 baudžiamas laisvės atėmimu nuo dvejų iki septynerių metų.
 
-2\. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šiame straipsnyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir jų vykdomą veiklą, nukreiptą prieš Lietuvos Respublikos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką pasinaudodamas ekstremaliąja situacija, nepaprastąja padėtimi ar mobilizacija,
 
-3\. Šio straipsnio 2 dalis netaikoma asmeniui, kuris šiame straipsnyje ar šio kodekso 119 straipsnyje nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių.
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
-4\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+3\. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio 1 ar 2 dalyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir jų vykdomą veiklą, nukreiptą prieš Lietuvos Respublikos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią.
 
-*Straipsnio pakeitimai:*
+4\. Šio straipsnio 3 dalis netaikoma asmeniui, kuris šiame straipsnyje ar šio kodekso 119 straipsnyje nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 ar 2 dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių.
 
-*Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)*
+5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875*
 
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
+
 #### 119 straipsnis. Šnipinėjimas
 
-1\. Tas, kas turėdamas tikslą perduoti užsienio valstybei, jos organizacijai pagrobė, pirko ar kitaip rinko informaciją, kuri yra Lietuvos Respublikos valstybės paslaptis, arba šią informaciją perdavė užsienio valstybei, jos organizacijai ar jų atstovui,
+1\. Tas, kas turėdamas tikslą perduoti užsienio valstybei, jos organizacijai ar jų atstovui pagrobė, pirko ar kitaip rinko informaciją, kuri yra Lietuvos Respublikos valstybės ar tarnybos paslaptis, arba šią informaciją perdavė užsienio valstybei, jos organizacijai ar jų atstovui,
 
 baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
-2\. Tas, kas vykdydamas kitos valstybės ar jos organizacijos užduotį pagrobė, pirko ar kitaip rinko arba perdavė informaciją, kuri yra Lietuvos Respublikos valstybės paslaptis, arba kitą užsienio valstybės žvalgybą dominančią informaciją,
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
+
+2\. Tas, kas vykdydamas kitos valstybės, jos organizacijos ar jų atstovo užduotį pagrobė, pirko ar kitaip rinko arba perdavė informaciją, kuri yra Lietuvos Respublikos valstybės ar tarnybos paslaptis, arba kitą užsienio valstybės žvalgybą dominančią informaciją,
 
 baudžiamas laisvės atėmimu nuo šešerių iki penkiolikos metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
 
 3\. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio 1 dalyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus, kuriems turėjo būti perduota ar buvo perduota surinkta informacija, kuri yra Lietuvos Respublikos valstybės paslaptis.
 
@@ -2542,13 +2556,31 @@ baudžiamas laisvės atėmimu nuo šešerių iki penkiolikos metų.
 
 Lietuvos Respublikos pilietis, okupacijos ar aneksijos sąlygomis padėjęs neteisėtos valdžios struktūroms įtvirtinti okupaciją ar aneksiją, slopinti Lietuvos gyventojų pasipriešinimą arba kitaip talkinęs neteisėtai valdžiai veikti prieš Lietuvos Respubliką,
 
-baudžiamas laisvės atėmimu iki penkerių metų.
+baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 
-#### 121 straipsnis. Antikonstitucinių grupių ar organizacijų kūrimas ir veikla
+*Straipsnio pakeitimai:*
 
-Tas, kas kūrė organizacijas ar ginkluotas grupes, turinčias tikslą neteisėtu būdu pakeisti Lietuvos valstybės konstitucinę santvarką, kėsintis į jos nepriklausomybę, pažeisti teritorijos vientisumą, arba dalyvavo tokių organizacijų ar grupių veikloje,
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
 
-baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+#### 121 straipsnis. Antikonstitucinės grupės ir organizacijos
+
+1\. Tas, kas dalyvavo grupės ar organizacijos, turinčių tikslą neteisėtu būdu pakeisti Lietuvos valstybės konstitucinę santvarką, kėsintis į jos nepriklausomybę, pažeisti teritorijos vientisumą, veikloje,
+
+baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
+
+2\. Tas, kas dalyvavo šaunamaisiais ginklais, sprogmenimis ar sprogstamosiomis medžiagomis ginkluotos grupės ar organizacijos, turinčių tikslą neteisėtu būdu pakeisti Lietuvos valstybės konstitucinę santvarką, kėsintis į jos nepriklausomybę, pažeisti teritorijos vientisumą, veikloje,
+
+baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+3\. Tas, kas organizavo šio straipsnio 1 ar 2 dalyje numatytą grupę ar organizaciją arba bet kuriai iš jų vadovavo,
+
+baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821*
 
 #### 122 straipsnis. Vieši raginimai smurtu pažeisti Lietuvos Respublikos suverenitetą
 
@@ -8153,3 +8185,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 Lietuvos Respublikos baudžiamojo kodekso priedo pakeitimo įstatymas
+
+62\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
+
+Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas
+
+63\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821
+
+Lietuvos Respublikos baudžiamojo kodekso 114, 118, 119, 120 ir 121 straipsnių pakeitimo įstatymas
