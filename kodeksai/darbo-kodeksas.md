@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2024-06-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/ueNTaXCoYp"
+redakcija_nuo: "2024-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/TAKEPxDAwi"
 ---
 
 # Darbo kodeksas
@@ -2542,7 +2542,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 1\. Darbuotojoms suteikiamos nėštumo ir gimdymo atostogos – septyniasdešimt kalendorinių dienų iki gimdymo ir penkiasdešimt šešios kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – septyniasdešimt kalendorinių dienų). Šios atostogos apskaičiuojamos bendrai ir suteikiamos darbuotojai visos, nepaisant faktiškai iki gimdymo panaudotų dienų skaičiaus. Jeigu darbuotoja nesinaudoja nėštumo ir gimdymo atostogomis, darbdavys privalo suteikti keturiolikos dienų atostogų dalį iš karto po gimdymo, nepriklausomai nuo darbuotojos prašymo.
 
-2\. Darbuotojams, paskirtiems naujagimių globėjais, suteikiamos atostogos už laiką nuo globos nustatymo dienos, iki kūdikiui sukanka septyniasdešimt dienų.
+2\. Darbuotojams, paskirtiems naujagimių globėjais, suteikiamos atostogos už laiką nuo globos nustatymo dienos, iki kūdikiui sukanka septyniasdešimt dienų. Įmotėms suteikiamos trisdešimties kalendorinių dienų trukmės atostogos, kurioms mutatis mutandis taikomos šio kodekso 133 straipsnio 2 dalies nuostatos.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2228, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22373*
 
 3\. Už šio straipsnio 1 ir 2 dalyse nustatytų atostogų laiką mokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nustatyta išmoka.
 
