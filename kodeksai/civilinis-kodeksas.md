@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-05-20"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/FFEZeYMqHf"
+redakcija_nuo: "2024-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/PoRSFmNfMg"
 ---
 
 # Civilinis kodeksas
@@ -2750,11 +2750,13 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 *Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472*
 
-4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada.
+4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) vadovybės ataskaita (konsoliduotoji vadovybės ataskaita) ir, kai taikytina, deklaracija, nurodyta Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai finansinių ataskaitų auditas privalomas pagal įstatymus, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada. Kai į vadovybės ataskaitą (konsoliduotąją vadovybės ataskaitą) pagal įstatymus privaloma įtraukti informaciją tvarumo klausimais (konsoliduotąją informaciją tvarumo klausimais) arba pateikti tvarumo ataskaitą (konsoliduotąją tvarumo ataskaitą), kartu su vadovybės ataskaita (konsoliduotąja vadovybės ataskaita) arba tvarumo ataskaita (konsoliduotąja tvarumo ataskaita) turi būti pateikta tvarumo atskaitomybės užtikrinimo išvada ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme. Juridinio asmens mokėjimų valdžios institucijoms ataskaita (konsoliduotoji mokėjimų valdžios institucijoms ataskaita), pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme, juridinių asmenų registrui teikiami įstatymų nustatytais atvejais ir tvarka.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-1185, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09076*
+
+*Nr. XIV-2825, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12147*
 
 5\. Lietuvos Respublikos juridinių asmenų nemokumo įstatyme nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies 10 ir 11 punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu.
 
@@ -22529,3 +22531,11 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
 
 Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai
+
+75\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2825, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12147
+
+Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
