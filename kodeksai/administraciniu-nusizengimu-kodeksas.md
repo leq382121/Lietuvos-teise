@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-07-08"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ewfuCDmgpS"
+redakcija_nuo: "2024-08-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/KEAVybWMNs"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3624,15 +3624,11 @@ užtraukia baudą žemės ūkio produkciją superkančių įmonių vadovams nuo 
 
 *Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166*
 
-#### 180 straipsnis. Teisės aktuose nustatytos žemės ūkio produkcijos pirkėjų informacijos apie atsiskaitymą už žemės ūkio produkciją nepateikimas
+180 straipsnis. Neteko galios nuo 2024-08-01
 
-1\. Teisės aktuose nustatytos žemės ūkio produkcijos pirkėjų informacijos apie atsiskaitymą už žemės ūkio produkciją nepateikimas Valstybinei mokesčių inspekcijai
+*Straipsnio naikinimas:*
 
-užtraukia baudą žemės ūkio produkciją superkančių ir perdirbančių įmonių vadovams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+*Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555*
 
 #### 181 straipsnis. Gyvulių skerdenų klasifikavimą, klasifikavimo ir ženklinimo kontrolę, gyvulių skerdenų paruošimą klasifikuoti ir gyvulių įkainojimą pagal skerdenų svorį ir kokybę reglamentuojančių teisės aktų pažeidimas
 
@@ -4400,9 +4396,13 @@ užtraukia baudą nuo vieno šimto iki vieno tūkstančio eurų.
 
 #### 218 straipsnis. Su grynųjų pinigų deklaravimu kertant Europos Sąjungos vidaus sienas susijusių reikalavimų nesilaikymas
 
-1\. Reikalavimo deklaruoti į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamus, iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamus ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ar iš jų gabenamus grynuosius pinigus, kurių vienkartinė suma viršija dešimt tūkstančių eurų ar ją atitinkančią sumą užsienio valiuta, nesilaikymas, duomenų nepateikimas arba neteisingų duomenų pateikimas deklaracijoje, arba kitoks muitinės suklaidinimas
+1\. Reikalavimo deklaruoti į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamus, iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamus ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ar iš jų gabenamus grynuosius pinigus ar nelydimus grynuosius pinigus, kurių vienkartinė suma lygi dešimt tūkstančių eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija, nesilaikymas, duomenų nepateikimas arba neteisingų duomenų pateikimas deklaracijoje, arba kitoks muitinės suklaidinimas
 
 užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2551, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07555*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -14758,7 +14758,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952*
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹ straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹ straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14793,6 +14793,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691*
 
 *Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164*
+
+*Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113¹, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 334, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -19287,3 +19289,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 56, 57, 58 ir 589 straipsnių pakeitimo įstatymas
+
+238\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir 180 straipsnio pripažinimo netekusiu galios įstatymas
