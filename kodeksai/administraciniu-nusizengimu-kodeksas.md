@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-08-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/KEAVybWMNs"
+redakcija_nuo: "2024-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ZwCoDABPdr"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1884,11 +1884,19 @@ užtraukia baudą rinkėjui nuo trisdešimt iki dviejų šimtų devyniasdešimt 
 
 užtraukia baudą rinkimų komisijų ar referendumo komisijų nariams arba kitiems atsakingiems asmenims nuo trisdešimt iki penkių šimtų aštuoniasdešimt eurų.
 
-#### 88 straipsnis. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
+#### 88 straipsnis. 88 straipsnis. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstituciniame įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
 
-1\. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629*
+
+1\. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstituciniame įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -19297,3 +19305,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir 180 straipsnio pripažinimo netekusiu galios įstatymas
+
+239\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 88 straipsnio pakeitimo įstatymas
