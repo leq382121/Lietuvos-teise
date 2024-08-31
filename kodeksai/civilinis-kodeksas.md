@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/PoRSFmNfMg"
+redakcija_nuo: "2024-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/uZTPbIfyba"
 ---
 
 # Civilinis kodeksas
@@ -2404,7 +2404,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 ###### 2.47 straipsnis. Juridinio asmens įstatai
 
-1\. Juridinio asmens įstatuose, o jeigu juridinis asmuo neturi įstatų, – steigimo sandoryje arba bendruosiuose nuostatuose, jeigu juridinis asmuo veikia pagal bendruosius nuostatus, arba teisės akte, jei viešasis juridinis asmuo veikia pagal teisės aktą, turi būti nurodyta:
+1\. Juridinio asmens įstatuose, o jeigu juridinis asmuo neturi įstatų, – steigimo sandoryje arba teisės akte, jei viešasis juridinis asmuo veikia pagal teisės aktą, turi būti nurodyta:
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 1\) juridinio asmens pavadinimas;
 
@@ -2510,11 +2514,13 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 6\) kitos įstatymų ar juridinio asmens nustatytos nuostatos.
 
-2\. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
+2\. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 3\. Pavyzdinius juridinio asmens filialo nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
 
@@ -2564,7 +2570,11 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 6\) kitos įstatymų ar juridinio asmens nustatytos nuostatos.
 
-2\. Juridinio asmens atstovybės nuostatuose taip pat turi būti nurodoma informacija apie atstovybę įsteigusį asmenį, nurodyta šio kodekso 2.44 straipsnyje, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti atstovybės valdymo organus, priimti sprendimus dėl atstovybės teisinio statuso.
+2\. Juridinio asmens atstovybės nuostatuose taip pat turi būti nurodoma informacija apie atstovybę įsteigusį asmenį, nurodyta šio kodekso 2.44 straipsnyje, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti atstovybės valdymo organus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 ###### 2.58 straipsnis. Juridinio asmens atstovybės reglamentavimas
 
@@ -2610,7 +2620,11 @@ Juridiniai asmenys steigiami šio kodekso ir įstatymų nustatyta tvarka. Steigi
 
 3\. Juridiniai asmenys privalo juridinių asmenų registre nurodyti apie save ir savo veiklą visus įstatymų reikalaujamus duomenis (atskleidimo principas).
 
-4\. Vadovaujančiąją juridinių asmenų registro tvarkymo įstaigą ir registro tvarkymo įstaigą (registro tvarkytoją) nustato įstatymas.
+4\. Neteko galios nuo 2024-09-01
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 *Straipsnio pakeitimai:*
 
@@ -2678,103 +2692,45 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 5\) juridinio asmens elektroninio pristatymo dėžutės adresas;
 
-*Papildyta straipsnio punktu:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
 6\) juridinio asmens organai;
 
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
-7\) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas, gyvenamoji vieta);
-
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
+7\) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas, korespondencijos adresas);
 
 8\) juridinio asmens valdymo organų nariai ir juridinio asmens dalyviai, turintys teisę juridinio asmens vardu sudaryti sandorius, jų teisių ribos;
 
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
 9\) juridinio asmens filialai ir atstovybės (pavadinimai, kodai, buveinės, filialų ir atstovybių valdymo organų nariai);
-
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
 
 10\) juridinio asmens veiklos apribojimai;
 
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
 11\) juridinio asmens teisinis statusas;
-
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
 
 12\) juridinio asmens pasibaigimas;
 
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
 13\) juridinio asmens registro duomenų ir dokumentų keitimo datos;
-
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
 
 14\) juridinio asmens finansiniai metai;
 
-*Straipsnio punkto numeracijos pakeitimas:*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
 15\) kiti įstatymų numatyti duomenys.
 
-*Straipsnio punkto numeracijos pakeitimas:*
+2\. Registruojant juridinius asmenis, kurių dalyviai atsako pagal juridinio asmens prievoles, papildomai turi būti nurodomi juridinio asmens dalyvio fizinio asmens vardas, pavardė, asmens kodas, korespondencijos adresas arba juridinio asmens pavadinimas, teisinė forma, kodas, buveinė.
 
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
-2\. Registruojant juridinius asmenis, kurių dalyviai atsako pagal juridinio asmens prievoles, papildomai turi būti nurodomi juridinio asmens dalyvio fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta arba juridinio asmens pavadinimas, teisinė forma, kodas, buveinė.
-
-3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472*
+3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
 
 4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) vadovybės ataskaita (konsoliduotoji vadovybės ataskaita) ir, kai taikytina, deklaracija, nurodyta Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai finansinių ataskaitų auditas privalomas pagal įstatymus, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada. Kai į vadovybės ataskaitą (konsoliduotąją vadovybės ataskaitą) pagal įstatymus privaloma įtraukti informaciją tvarumo klausimais (konsoliduotąją informaciją tvarumo klausimais) arba pateikti tvarumo ataskaitą (konsoliduotąją tvarumo ataskaitą), kartu su vadovybės ataskaita (konsoliduotąja vadovybės ataskaita) arba tvarumo ataskaita (konsoliduotąja tvarumo ataskaita) turi būti pateikta tvarumo atskaitomybės užtikrinimo išvada ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme. Juridinio asmens mokėjimų valdžios institucijoms ataskaita (konsoliduotoji mokėjimų valdžios institucijoms ataskaita), pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme, juridinių asmenų registrui teikiami įstatymų nustatytais atvejais ir tvarka.
 
-*Straipsnio dalies pakeitimai:*
+5\. Lietuvos Respublikos juridinių asmenų nemokumo įstatyme nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies 11 ir 12 punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu.
 
-*Nr. XIII-1185, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09076*
+6\. Šio straipsnio 1 dalies 1–8 ir 12 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre dienos, išskyrus įstatymų numatytas išimtis.
 
-*Nr. XIV-2825, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12147*
+7\. Juridinių asmenų registro tvarkytojui teikiamuose dokumentuose neturi būti nurodyta asmens duomenų, kurių pateikimo juridinių asmenų registrui nenumato šis kodeksas ar kiti įstatymai.
 
-5\. Lietuvos Respublikos juridinių asmenų nemokumo įstatyme nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies 10 ir 11 punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472*
-
-6\. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472*
+8\. Asmens duomenys juridinių asmenų registre tvarkomi asmens tapatybės nustatymo, registro objekto registravimo, registro duomenų teikimo ir registro objektų apskaitos tikslais.
 
 *Straipsnio pakeitimai:*
 
-*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
-*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
+*Nr. XIV-2912, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13547*
 
 ###### 2.67 straipsnis. Asmenys, atsakingi už juridinio asmens dokumentų ir registro duomenų pateikimą registro tvarkytojui
 
@@ -2814,81 +2770,37 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 2\) nesuformuoti juridinio asmens valdymo organai ir dėl to jie negali priimti sprendimų ilgiau negu šešis mėnesius;
 
-3\) juridinio asmens valdymo organų narių ilgiau negu šešis mėnesius negalima surasti juridinio asmens buveinėje ir jų adresais, nurodytais juridinių asmenų registre;
+3\) juridinių asmenų registre ilgiau negu šešis mėnesius nenurodyta juridinio asmens buveinė;
 
 4\) juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo;
 
 5\) politinė organizacija Politinių organizacijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
 
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XIV-1385, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15856*
-
 6\) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį;
 
 7\) teismas priima nutartį atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva ir apie tai praneša juridinių asmenų registro tvarkytojui.
 
-*Papildyta straipsnio punktu:*
+2\. Kai yra šio straipsnio 1 dalyje numatytos aplinkybės, juridinių asmenų registro tvarkytojas turi išsiųsti pranešimą apie numatomą inicijuoti juridinio asmens likvidavimą juridinio asmens elektroninio pristatymo dėžutės adresu, o jeigu toks adresas nenurodytas juridinių asmenų registre, – į juridinio asmens buveinę ir juridinių asmenų registre nurodytais valdymo organo narių adresais. Jei juridinių asmenų registre nurodytas valdymo organo nario adresas nesutampa su Lietuvos Respublikos gyventojų registre nurodytu jo gyvenamosios vietos adresu, pranešimas apie numatomą inicijuoti juridinio asmens likvidavimą siunčiamas taip pat ir Gyventojų registre nurodytu gyvenamosios vietos adresu. Kai nėra galimybės pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiųsti juridinio asmens elektroninio pristatymo dėžutės adresu, į juridinio asmens buveinę ir (arba) juridinių asmenų registre nurodytais valdymo organo narių adresais, Gyventojų registre nurodytais šių asmenų gyvenamosios vietos adresais, registro tvarkytojas apie numatomą inicijuoti juridinio asmens likvidavimą viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje ir šį pranešimą įteikia kitais juridinių asmenų registro nuostatuose nurodytais būdais.
 
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
+3\. Jeigu per tris mėnesius nuo pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiuntimo ar viešo paskelbimo registro tvarkytojui nepateikiami šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nustatyti dokumentai, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą inicijuoti juridinio asmens likvidavimą ir juridinis asmuo įgyja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
 
-*Straipsnio dalies pakeitimai:*
+4\. Kai yra šio straipsnio 1 dalies 7 punkte numatytos aplinkybės, asmuo, padavęs teismui pareiškimą dėl juridinio asmens bankroto bylos iškėlimo ir pagal juridinių asmenų nemokumą reglamentuojantį įstatymą nesumokėjęs teismo nustatytos bankroto administravimo išlaidoms apmokėti skirtos sumos, neturi teisės šio straipsnio 3 dalyje nustatyta tvarka neigti aplinkybių dėl juridinio asmens likvidavimo pagrindo buvimo.
 
-*Nr. XII-1225, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14523*
+5\. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas, kai tas juridinis asmuo per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo juridinių asmenų registro tvarkytojui pateikia šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens kreditorius, turintis jo naudai išduotą vykdomąjį dokumentą, kuris nėra visiškai įvykdytas, per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
 
-2\. Kai yra šio straipsnio 1 dalyje numatytos aplinkybės, juridinių asmenų registro tvarkytojas turi išsiųsti pranešimą apie numatomą inicijuoti juridinio asmens likvidavimą į juridinio asmens buveinę ir juridinių asmenų registre nurodytais valdymo organo narių adresais. Tuo atveju, kai nėra galimybės pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiųsti į juridinio asmens buveinę ir (arba) juridinių asmenų registre nurodytais valdymo organo narių adresais, registro tvarkytojas apie numatomą inicijuoti juridinio asmens likvidavimą viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje ir šį pranešimą įteikia kitais juridinių asmenų registro nuostatuose nurodytais būdais.
+6\. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar nemokumo bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą.
 
-3\. Jeigu per tris mėnesius nuo pranešimo apie numatomą inicijuoti juridinio asmens likvidavimą išsiuntimo ar viešo paskelbimo juridinis asmuo registro tvarkytojui nepateikia šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nustatytų dokumentų, paneigiančių šio straipsnio 1 dalyje nurodytų aplinkybių buvimą, registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą inicijuoti juridinio asmens likvidavimą ir juridinis asmuo įgyja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
-
-4\. Kai yra šio straipsnio 1 dalies 7 punkte numatytos aplinkybės, asmuo, padavęs teismui pareiškimą dėl juridinio asmens bankroto bylos iškėlimo ir pagal juridinių asmenų nemokumą reglamentuojantį įstatymą nesumokėjęs teismo nustatytos bankroto administravimo išlaidoms apmokėti skirtos sumos, neturi teisės neigti aplinkybių dėl juridinio asmens likvidavimo pagrindo buvimo šio straipsnio 3 dalyje nustatyta tvarka.
-
-*Papildyta straipsnio dalimi:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
-
-5\. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens dalyvis ar valdymo organo narys per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
-
-6\. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
-
-7\. Jeigu teismas nepriėmė šio straipsnio 5 dalyje nurodyto prašymo ir 6 dalyje nurodyto ieškinio arba teismas inicijuojamo juridinio asmens likvidavimo neatšaukia, juridinių asmenų registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą likviduoti juridinį asmenį ir juridinis asmuo įgyja likviduojamo juridinio asmens statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
+7\. Jeigu juridinis asmuo šio straipsnio 5 dalyje nustatyta tvarka nepateikė joje nurodytų dokumentų arba teismas nepriėmė šio straipsnio 5 dalyje nurodyto prašymo ir 6 dalyje nurodyto ieškinio, arba teismas inicijuojamo juridinio asmens likvidavimo neatšaukia, juridinių asmenų registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą likviduoti juridinį asmenį ir juridinis asmuo įgyja likviduojamo juridinio asmens statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
 
 8\. Juridinį asmenį likviduojant juridinių asmenų registro tvarkytojo iniciatyva, likvidatorius neskiriamas. Juridinių asmenų registro tvarkytojo iniciatyva likviduojamo juridinio asmens valdymo organai netenka įgaliojimų nuo šio straipsnio 7 dalyje nurodyto sprendimo priėmimo. Šiuo atveju juridinių asmenų registro tvarkytojas atlieka šiame straipsnyje ir juridinių asmenų registro nuostatuose nustatytus veiksmus, reikalingus juridiniam asmeniui, likviduojamam juridinių asmenų registro tvarkytojo iniciatyva, išregistruoti.
 
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
-
 9\. Pasibaigusio juridinio asmens dalyviai trejus metus yra solidariai atsakingi ir privalo atlyginti žalą, kurią kreditoriai patyrė dėl to, kad juridinis asmuo likviduotas juridinių asmenų registro tvarkytojo iniciatyva dėl juridinio asmens dalyvių nesąžiningų veiksmų.
-
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
 
 10\. Šiame straipsnyje nustatyti juridinių asmenų registro tvarkytojo veiksmai gali būti skundžiami teismui įstatymų nustatyta tvarka.
 
-*Straipsnio dalies numeracijos pakeitimas:*
-
-*Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325*
-
 *Straipsnio pakeitimai:*
 
-*Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)*
-
-*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
-
-*Pastaba. Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašymu atšaukti likvidatorių, jei juridinio asmens likvidavimo procedūros buvo pradėtos Lietuvos Respublikos civilinio kodekso 2.70 straipsnyje nustatyta tvarka iki šio įstatymo (Nr. XII-1064) įsigaliojimo. Atšaukus likvidatorių, juridinis asmuo iš juridinių asmenų registro išregistruojamas juridinių asmenų registro nuostatuose nustatyta tvarka. Nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.*
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 ###### 2.71 straipsnis. Juridinių asmenų registro viešumas
 
@@ -3391,6 +3303,18 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 1\. Juridinio asmens valdymo organai netenka įgaliojimų ir juridinio asmens dalyvių kompetencija dėl sandorių sudarymo pereina likvidatoriui nuo likvidatoriaus paskyrimo, o šio kodekso 2.108 straipsnio 5 dalyje numatytais atvejais – nuo sprendimo dėl juridinio asmens likvidavimo įsigaliojimo.
 
 2\. Likvidatorius turi juridinio asmens valdymo organo teises ir pareigas ir jam mutatis mutandis taikomos šios knygos VII skyriaus nuostatos.
+
+3\. Likvidatorius juridinio asmens likvidavimo procedūras turi užbaigti ir juridinį asmenį išregistruoti iš juridinių asmenų registro ne vėliau kaip per vienerius metus nuo likviduojamo juridinio asmens statuso įregistravimo juridinių asmenų registre dienos. Nepasibaigus šiam terminui juridinis asmuo juridinių asmenų registro tvarkytojui gali pateikti prašymą pratęsti terminą vieneriems metams. Jeigu per šioje dalyje nustatytus terminus likvidatorius likvidavimo procedūrų neužbaigia ir juridinio asmens iš juridinių asmenų registro neišregistruoja, juridinių asmenų registro nuostatuose nustatytus veiksmus, reikalingus likviduojamam juridiniam asmeniui išregistruoti, atlieka juridinių asmenų registro tvarkytojas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
+
+4\. Likvidatorius, nevykdantis šiame straipsnyje ir atitinkamos teisinės formos juridinius asmenis reglamentuojančiuose įstatymuose nurodytų pareigų arba netinkamai jas vykdantis, privalo visiškai atlyginti dėl to atsiradusią žalą.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 ###### 2.111 straipsnis. Likviduojamo juridinio asmens sandoriai
 
@@ -4388,7 +4312,13 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 
 4\) likviduojamas ar reorganizuojamas išdavęs prokūrą juridinis asmuo;
 
-5\) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu.
+5\) prokuristas miręs arba pripažintas neveiksniu srityje, kurioje duota prokūra, arba pripažintas ribotai veiksniu srityje, kurioje duota prokūra, arba pripažintas nežinia kur esančiu;
+
+6\) pasibaigia prokūros terminas.
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 2\. Prokūra pasibaigia ją išregistravus iš Įgaliojimų registro, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
 
@@ -22539,3 +22469,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2825, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12147
 
 Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
+
+76\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+
+Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2. 57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymas
+
+77\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2912, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13547
+
+Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymo Nr. XIV-2630 8 straipsnio pakeitimo įstatymas
