@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-09-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/uZTPbIfyba"
+redakcija_nuo: "2024-10-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/SyOhDTqsAw"
 ---
 
 # Civilinis kodeksas
@@ -16522,6 +16522,12 @@ Jeigu ko kita nenustato įstatymai ar sutartis, apdovanotasis atsako tik už tas
 
 6\. Aukoms netaikomas šio kodekso 6.467 straipsnis.
 
+7\. Paramos sutarčiai, kurios suma yra ne didesnė kaip šimtas tūkstančių eurų, išskyrus atvejus, kai paramos dalykas yra nekilnojamasis daiktas, netaikomos šio kodekso 6.469 straipsnio 2 dalies nuostatos.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-3026, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18354*
+
 #### XXVIII skyrius – NUOMA
 
 ##### Pirmasis skirsnis – BendrOSIOS nuostatOS
@@ -22485,3 +22491,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2912, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13547
 
 Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymo Nr. XIV-2630 8 straipsnio pakeitimo įstatymas
+
+78\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3026, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18354
+
+Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas
