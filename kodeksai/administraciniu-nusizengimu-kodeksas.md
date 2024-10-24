@@ -4,21 +4,13 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-10-18"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/SQATmuAOpr"
+redakcija_nuo: "2024-10-25"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/RjkEgdOcIA"
 ---
 
 # Administracinių nusižengimų kodeksas
 
 *Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216*
-
-*TAR pastaba. Suvestinėse redakcijose nuo 2024-10-18 iki 2025-01-01 ir nuo 2025-01-01 nėra įtraukti visi Kodekso pakeitimai*
-
-*Lietuvos Respublikos Seimas, Įstatymas*
-
-*Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539*
-
-*Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas*
 
 **LIETUVOS RESPUBLIKOS**
 
@@ -17394,6 +17386,12 @@ priedas
 
 117\. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
 
+117¹. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432*
+
 118\. 2022 m. gruodžio 15 d. Tarybos direktyva (ES) 2022/2523 dėl visuotinio minimalaus tarptautinių įmonių grupių ir didelių vietos subjektų grupių apmokestinimo lygio užtikrinimo Sąjungoje.
 
 *Papildyta straipsnio dalimi:*
@@ -19347,3 +19345,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas
+
+242\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 96 straipsnio ir priedo pakeitimo įstatymas
