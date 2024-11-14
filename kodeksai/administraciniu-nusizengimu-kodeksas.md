@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/VVzupXFCQy"
+redakcija_nuo: "2024-11-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/PKCzoJgKQh"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -274,7 +274,7 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 
 #### 12 straipsnis. Mažai pavojinga veika
 
-1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217² straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 4 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1\. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217² straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 4 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 
 *Straipsnio dalies pakeitimai:*
 
@@ -305,6 +305,8 @@ Asmuo pripažįstamas kaltu dėl administracinio nusižengimo padarymo, jeigu ji
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
+
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
 2\. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.
 
@@ -13196,29 +13198,29 @@ užtraukia baudą asmenims nuo dvidešimt iki septyniasdešimt eurų ir juridini
 
 #### 526 straipsnis. Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo arba kitų krizių valdymą ir civilinę saugą reglamentuojančių teisės aktų nevykdymas ar pažeidimas
 
-*Pakeistas straipsnio pavadinimas:*
+1\. Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo arba kitų krizių valdymą ir civilinę saugą reglamentuojančių teisės aktų nevykdymas ar pažeidimas, išskyrus šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus,
 
-*Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582*
-
-1\. Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo arba kitų krizių valdymą ir civilinę saugą reglamentuojančių teisės aktų nevykdymas ar pažeidimas
-
-užtraukia įspėjimą arba baudą asmenims nuo keturiolikos iki trisdešimt eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trisdešimt iki šešiasdešimt eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582*
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki dviejų šimtų keturiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo trisdešimt iki keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki devyniasdešimt eurų.
+užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto aštuoniasdešimt iki trijų šimtų šešiasdešimt eurų.
 
-3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas karo, nepaprastosios padėties, mobilizacijos, karantino, riboto karantino metu, taip pat susidarius ekstremaliajai situacijai ar ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai,
+3\. Reikalavimų, susijusių su ypatingos svarbos subjektų atsparumo užtikrinimu, nevykdymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki keturių šimtų aštuoniasdešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų dvidešimt iki šešių šimtų keturiasdešimt eurų.
+
+5\. Šio straipsnio 1, 3 dalyse numatyti administraciniai nusižengimai, padaryti karo, nepaprastosios padėties, mobilizacijos, karantino, riboto karantino metu, taip pat susidarius ekstremaliajai situacijai ar ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai,
 
 užtraukia baudą asmenims nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki šešių tūkstančių eurų.
 
-*Papildyta straipsnio dalimi:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
 #### 526¹ straipsnis. Lietuvos Respublikos nepaprastosios padėties įstatymo arba kitų nepaprastąją padėtį reglamentuojančių teisės aktų nevykdymas ar pažeidimas
 
@@ -14396,7 +14398,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-1203, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15566*
 
-34\) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 4, 5, 6, 7, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 431, 481, 505² straipsniuose, 506 straipsnio 3, 4, 4¹ dalyse, 508 straipsnyje, 526 straipsnio 3 dalyje, 526¹, 556, 557, 557¹, 562 straipsniuose numatytų administracinių nusižengimų;
+34\) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 4, 5, 6, 7, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 431, 481, 505² straipsniuose, 506 straipsnio 3, 4, 4¹ dalyse, 508 straipsnyje, 526 straipsnio 5 dalyje, 526¹, 556, 557, 557¹, 562 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14413,6 +14415,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582*
 
 *Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338*
+
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
 35\) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 256, 314, 314¹, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14574,7 +14578,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
-49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 170¹, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 507, 507¹, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 526¹, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
+49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 170¹, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 507, 507¹, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 5 dalyje, 526¹, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14632,6 +14636,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780*
 
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
+
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 525, 526, 526¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
@@ -14668,7 +14674,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 54\) Valstybės garantuojamos teisinės pagalbos tarnybos – dėl šio kodekso 507, 531 straipsniuose numatytų administracinių nusižengimų;
 
-55\) Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 2¹, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 422¹, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 524 straipsniuose, 526 straipsnio 3 dalyje, 526¹, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų;
+55\) Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 2¹, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 422¹, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 524 straipsniuose, 526 straipsnio 5 dalyje, 526¹, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14699,6 +14705,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
+
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
 56\) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 72 straipsnio 4, 5, 6, 7 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14924,7 +14932,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-74\) Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 506 straipsnio 4, 4¹ dalyse, 507, 508 straipsniuose, 526 straipsnio 3 dalyje, 526¹ straipsnyje numatytų administracinių nusižengimų;
+74\) Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 506 straipsnio 4, 4¹ dalyse, 507, 508 straipsniuose, 526 straipsnio 5 dalyje, 526¹ straipsnyje numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14933,6 +14941,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582*
 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
+
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -17454,6 +17464,12 @@ priedas
 
 *Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539*
 
+121\. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
+
 *Priedo pakeitimai:*
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
@@ -19429,3 +19445,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 72 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2916 2 straipsnio pakeitimo įstatymas
+
+247\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 526, 589 straipsnių ir priedo pakeitimo įstatymas
