@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-11-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/PKCzoJgKQh"
+redakcija_nuo: "2024-12-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GqGUZPAUyX"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3766,11 +3766,13 @@ TAR pastaba. 185 straipsnis taikomas, kai Lietuvos Respublikos viešojo sektoria
 
 Biudžeto asignavimų paskirstymo ir (ar) panaudojimo tvarkos pažeidimas
 
-užtraukia baudą biudžeto asignavimų valdytojų vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams ir kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą biudžeto asignavimų valdytojų vadovams ar jų įgaliotiems asmenims, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams ir kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-2329, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25316*
+
+*Nr. XV-30, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22082*
 
 #### 187 straipsnis. Ataskaitų, deklaracijų ar kitų mokesčių administratoriaus funkcijoms įgyvendinti reikalingų dokumentų ir duomenų pateikimo tvarkos pažeidimas
 
@@ -19453,3 +19455,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 526, 589 straipsnių ir priedo pakeitimo įstatymas
+
+248\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-30, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22082
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 186 straipsnio pakeitimo įstatymas
