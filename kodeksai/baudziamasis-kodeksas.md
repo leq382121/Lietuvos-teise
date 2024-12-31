@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2024-11-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/tlJFNMknrh"
+redakcija_nuo: "2025-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/kdXNfHZbYx"
 ---
 
 # Baudžiamasis kodeksas
@@ -3808,9 +3808,13 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 182¹ straipsnis. Manipuliavimas sporto varžybomis
 
-1\. Tas, kas neteisėtai paveikė sąžiningą profesionalių sporto varžybų eigą arba rezultatą,
+1\. Tas, kas neteisėtai paveikė sąžiningą aukšto meistriškumo sporto varžybų eigą arba rezultatą,
 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2853, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12639*
 
 2\. Asmuo, kuris padarė šio straipsnio 1 dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu jis iki jo pripažinimo įtariamuoju savanoriškai apie tai pranešė teisėsaugos institucijai ir aktyviai bendradarbiavo išaiškinant šią nusikalstamą veiką.
 
