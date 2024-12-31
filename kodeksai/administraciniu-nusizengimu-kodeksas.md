@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2024-12-24"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/WepccBHdxS"
+redakcija_nuo: "2025-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/qlftpSUSiq"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2120,7 +2120,7 @@ užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
 užtraukia baudą darbuotojui ar savarankiškai dirbančiam asmeniui nuo trisdešimt iki devyniasdešimt eurų.
 
-2\. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
+2\. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas, išskyrus šio straipsnio 4 dalyje numatytą pažeidimą,
 
 užtraukia baudą darbdaviams fiziniams asmenims, darbdavių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
 
@@ -2128,15 +2128,19 @@ užtraukia baudą darbdaviams fiziniams asmenims, darbdavių juridinių asmenų 
 
 užtraukia baudą asmenims, juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
 
-4\. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, dėl kurio galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
+4\. Lietuvos Respublikos darbo kodekso 30 straipsnio pažeidimas, jeigu nebuvo įgyvendintos būtinos priemonės smurto ir priekabiavimo prevencijai užtikrinti ar nebuvo imtasi aktyvių veiksmų pagalbai asmenims, patyrusiems smurtą ar priekabiavimą, suteikti arba nustatomas darbdavio fizinio asmens ar darbdavio juridinio asmens vadovo smurto ar priekabiavimo draudimo pažeidimas,
+
+užtraukia baudą darbdaviams fiziniams asmenims, darbdavių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+5\. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, jeigu dėl to galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
 
 užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
-5\. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+6\. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
-6\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+7\. Šio straipsnio 4 ar 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
@@ -2145,6 +2149,8 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 *Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899*
 
 *Nr. XIV-2706, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11230*
+
+*Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432*
 
 96¹ straipsnis. Neteko galios nuo 2024-07-01
 
@@ -2178,15 +2184,15 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių šimt
 
 *Nr. XIV-553, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21221*
 
-#### 98¹ straipsnis. Darbo ar paslaugų sutarties sudarymas su asmenimis, neatitinkančiais Lietuvos Respublikos sporto įstatyme nustatytų reikalavimų
+#### 98¹ straipsnis. Darbo, sporto veiklos ar paslaugų sutarties sudarymas su asmenimis, neatitinkančiais Lietuvos Respublikos sporto įstatyme nustatytų reikalavimų
 
-Teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi ar teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialisto paslaugas neturinčio asmens priėmimas į darbą ar paslaugų sutarties su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu, sudarymas arba darbo sutarties nenutraukimas su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi, ar paslaugų sutarties nenutraukimas su asmeniu, neturinčiu teisės teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialisto paslaugas,
+Teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto treneriu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi ar teikti fizinio aktyvumo ar aukšto meistriškumo sporto trenerio paslaugas neturinčio asmens priėmimas į darbą, sporto veiklos ar paslaugų sutarties su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto treneriu, sudarymas arba darbo sutarties su asmeniu, neturinčiu teisės dirbti fizinio aktyvumo ar aukšto meistriškumo sporto treneriu arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriumi, nenutraukimas, arba sporto veiklos ar paslaugų sutarties su asmeniu, neturinčiu teisės teikti fizinio aktyvumo ar aukšto meistriškumo sporto trenerio paslaugas, nenutraukimas
 
 užtraukia įspėjimą arba baudą darbdaviui fiziniam asmeniui nuo vieno šimto keturiasdešimt penkių iki septynių šimtų eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų septyniasdešimt eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602*
+*Nr. XIV-2861, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12644*
 
 #### 99 straipsnis. Darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
 
@@ -4524,9 +4530,9 @@ užtraukia baudą aukštųjų mokyklų ir mokslinių tyrimų institutų vadovams
 
 *Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481*
 
-**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
+**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
 
-1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
 
 užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
@@ -4553,6 +4559,8 @@ užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų orga
 *Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835*
 
 *Nr. XIV-2816, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12139*
+
+*Nr. XIV-2815, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12138*
 
 ### XVI SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU TEISINGUMU
 
@@ -9978,9 +9986,9 @@ užtraukia baudą nuo šešiasdešimt iki dviejų šimtų eurų.
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
 
-#### 376 straipsnis. Nepranešimas apie geležinkelių transporto katastrofą, eismo įvykį ar riktą
+#### 376 straipsnis. Nepranešimas apie geležinkelių avariją ar incidentą
 
-Nepranešimas teisės aktų nustatyta tvarka kompetentingai institucijai apie geležinkelių transporto katastrofą, eismo įvykį ar riktą
+Nepranešimas teisės aktų nustatyta tvarka kompetentingai institucijai apie geležinkelių avariją ar incidentą
 
 užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
 
@@ -9989,6 +9997,18 @@ užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
+
+#### 376¹ straipsnis. Nepranešimas apie lynų kelio įrenginio avariją ar incidentą
+
+Nepranešimas teisės aktų nustatyta tvarka kompetentingai institucijai apie lynų kelio įrenginio avariją ar incidentą
+
+užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 #### 377 straipsnis. Mokymo pajėgumų teikimo reikalavimų pažeidimas
 
@@ -10314,9 +10334,9 @@ užtraukia baudą orlaivių naudotojams – asmenims arba juridinių asmenų vad
 
 *Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338*
 
-#### 396 straipsnis. Nepranešimas apie įvykusią civilinės aviacijos avariją, pavojingą incidentą ar kitą aviacijos įvykį
+#### 396 straipsnis. Nepranešimas apie orlaivio avariją, incidentą ar kitą aviacijos įvykį
 
-Nepranešimas nustatyta tvarka kompetentingai institucijai apie įvykusią civilinės aviacijos avariją, pavojingą incidentą ar kitą aviacijos įvykį
+Nepranešimas teisės aktų nustatyta tvarka kompetentingai institucijai apie orlaivio avariją, incidentą ar kitą aviacijos įvykį
 
 užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki penkių tūkstančių eurų.
 
@@ -10326,19 +10346,17 @@ užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių š
 
 *Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338*
 
-#### 396¹ straipsnis. Reglamente (ES) Nr. 996/2010 nustatytų reikalavimų dėl orlaivyje esančių asmenų ir pavojingų prekių sąrašų parengimo ir (ar) pateikimo ir dėl neskelbtinos saugos informacijos apsaugos pažeidimas
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
-1\. Reglamente (ES) Nr. 996/2010 nustatytų reikalavimų dėl visų orlaivyje esančių asmenų ir pavojingų prekių sąrašų parengimo ir (ar) pateikimo pažeidimas
+#### 396¹ straipsnis. Reglamente (ES) Nr. 996/2010 nustatytų reikalavimų dėl orlaivyje esančių asmenų ir pavojingų prekių sąrašų parengimo ir (ar) pateikimo pažeidimas
+
+Reglamente (ES) Nr. 996/2010 nustatytų reikalavimų dėl visų orlaivyje esančių asmenų ir pavojingų prekių sąrašų parengimo ir (ar) pateikimo pažeidimas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-2\. Reglamente (ES) Nr. 996/2010 nustatytų reikalavimų dėl neskelbtinos saugos informacijos apsaugos pažeidimas
+*Straipsnio pakeitimai:*
 
-užtraukia baudą asmenims nuo vieno tūkstančio iki trijų tūkstančių eurų.
-
-*Papildyta straipsniu:*
-
-*Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 #### 397 straipsnis. Aerodromo naudojimo ir priežiūros taisyklių pažeidimas
 
@@ -10386,9 +10404,11 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt 
 
 #### 401 straipsnis. Saugios laivybos jūroje reikalavimų pažeidimas
 
-1\. Nepranešimas nustatyta tvarka kompetentingai institucijai apie laivo avariją ar incidentą
+1\. Neteko galios nuo 2025-01-01
 
-užtraukia baudą laivų kapitonams, laivybos bendrovėms – fiziniams asmenims arba laivybos bendrovių – juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 *Straipsnio dalies pakeitimai:*
 
@@ -10494,9 +10514,11 @@ užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadova
 
 užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų ir laivų kapitonams – nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-24\. Teisės aktuose nustatytų reikalavimų dėl laivo avarijos ar incidento tyrimo metu gautos informacijos konfidencialumo užtikrinimo pažeidimas
+24\. Neteko galios nuo 2025-01-01
 
-užtraukia baudą asmenims nuo vieno tūkstančio iki trijų tūkstančių eurų.
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 *Papildyta straipsnio dalimi:*
 
@@ -10531,6 +10553,16 @@ užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadova
 *Straipsnio pakeitimai:*
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
+
+#### 401¹ straipsnis. Nepranešimas apie laivo avariją ar incidentą
+
+Nepranešimas teisės aktų nustatyta tvarka kompetentingai institucijai apie laivo avariją ar incidentą
+
+užtraukia baudą laivų kapitonams, laivybos bendrovėms – fiziniams asmenims arba laivybos bendrovių – juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 #### 402 straipsnis. Laivų ir uosto įrenginių apsaugos reikalavimų pažeidimas
 
@@ -10660,15 +10692,27 @@ užtraukia baudą asmenims nuo dešimt iki šešiolikos eurų ir juridinių asme
 
 užtraukia baudą asmenims nuo šešiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trisdešimt iki šešiasdešimt eurų.
 
-#### 413¹ straipsnis. Reikalavimų dėl eismo saugos rekomendacijų, saugos rekomendacijų vertinimo pažeidimas
+#### 413¹ straipsnis. Reikalavimų dėl saugos rekomendacijų įvertinimo pažeidimas
 
-Reikalavimų dėl geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimo eismo saugos rekomendacijų, laivo avarijos ar incidento tyrimo saugos rekomendacijų, orlaivio avarijos ar incidento tyrimo saugos rekomendacijų įvertinimo pažeidimas
+Reikalavimų dėl kompetentingos institucijos pateiktų saugos rekomendacijų, siekiant užkirsti kelią kitoms orlaivių avarijoms ir incidentams, laivų avarijoms ir incidentams, geležinkelių avarijoms ir incidentams, lynų kelio įrenginių avarijoms ir incidentams bei kelių transporto priemonių įskaitiniams eismo įvykiams, įvertinimo pažeidimas
 
 užtraukia baudą asmenims nuo penkiasdešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
+
+#### 413² straipsnis. Reikalavimų dėl neskelbtinos saugos tyrimo informacijos apsaugos pažeidimas
+
+Reglamente (ES) Nr. 996/2010 ir teisės aktuose nustatytų reikalavimų dėl neskelbtinos saugos tyrimo informacijos apsaugos pažeidimas
+
+užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 #### 414 straipsnis. Neeksploatuojamų ir negalimų eksploatuoti transporto priemonių laikymas bendrojo naudojimo vietose
 
@@ -14326,7 +14370,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734*
 
-30\) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 247¹ straipsnio 1, 2 dalyse, 256 straipsnyje, 291 straipsnio 6 dalyje, 299 straipsnio 2, 3, 4 dalyse, 304¹ straipsnyje, 304² straipsnio 3, 4 dalyse, 312, 343 straipsniuose, 343¹ straipsnio 1, 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22 dalyse, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+30\) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 247¹ straipsnio 1, 2 dalyse, 256 straipsnyje, 291 straipsnio 6 dalyje, 299 straipsnio 2, 3, 4 dalyse, 304¹ straipsnyje, 304² straipsnio 3, 4 dalyse, 312, 343 straipsniuose, 343¹ straipsnio 1, 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22 dalyse, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14345,6 +14389,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164*
 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
+
+*Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370*
 
 31\) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 270¹ straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14802,7 +14848,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
-63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 401¹, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14835,6 +14881,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492*
 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15014,11 +15062,15 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-78\) Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centro – dėl šio kodekso 401 straipsnio 1 dalyje numatytų administracinių nusižengimų;
+78\) Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centro – dėl šio kodekso 401¹ straipsnyje numatytų administracinių nusižengimų;
 
 *Papildyta straipsnio punktu:*
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -15200,17 +15252,25 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-91\) orlaivių avarijų ir incidentų tyrimų vadovas (vadovai) – dėl šio kodekso 396, 396¹, 413¹, 505 straipsniuose numatytų administracinių nusižengimų;
+91\) saugos tyrimus atliekančio Lietuvos Respublikos teisingumo ministerijos struktūrinio padalinio – dėl šio kodekso 376, 376¹, 396, 396¹, 401¹, 413¹, 413², 505 straipsniuose numatytų administracinių nusižengimų;
 
 *Papildyta straipsnio punktu:*
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
+
 *Straipsnio punkto numeracijos pakeitimas:*
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-92\) geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimo vadovas (vadovai) – dėl šio kodekso 376, 413¹, 505 straipsniuose numatytų administracinių nusižengimų;
+92\) Neteko galios nuo 2025-01-01
+
+*Straipsnio punkto naikinimas:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 *Papildyta straipsnio punktu:*
 
@@ -15238,7 +15298,11 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-94\) laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 413¹, 505 straipsniuose numatytų administracinių nusižengimų;
+94\) Neteko galios nuo 2025-01-01
+
+*Straipsnio punkto naikinimas:*
+
+*Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
 
 *Straipsnio punkto pakeitimai:*
 
@@ -19501,3 +19565,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-56, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23065
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 77, 170, 170-1, 492 ir 590 straipsnių pakeitimo įstatymas
+
+250\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2815, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12138
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 85, 86, 88, 90, 92, 93, 94, 223, 544, 545 straipsnių, XI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 85-1 straipsniu įstatymo Nr. XIV-1382 11 straipsnio pakeitimo įstatymas
+
+251\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2861, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12644
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 98-1 straipsnio pakeitimo įstatymas
+
+252\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 376, 396, 396-1, 401, 413-1 ir 589 straipsnių pakeitimo ir Kodekso papildymo 376-1, 401-1 ir 413-2 straipsniais įstatymas
+
+253\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
