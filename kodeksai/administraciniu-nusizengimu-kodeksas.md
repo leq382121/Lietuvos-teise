@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/qlftpSUSiq"
+redakcija_nuo: "2025-01-02"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/AwyLpsGHln"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -4530,21 +4530,21 @@ užtraukia baudą aukštųjų mokyklų ir mokslinių tyrimų institutų vadovams
 
 *Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481*
 
-**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
+**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
 
-1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui, Politinių organizacijų narių registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
 
 užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-2\. Juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, auditoriaus išvados, tvarumo atskaitomybės užtikrinimo išvados nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
+2\. Juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, auditoriaus išvados, tvarumo atskaitomybės užtikrinimo išvados nepateikimas Juridinių asmenų registro duomenų tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
 
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-3\. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Įmonių ir įmonių grupių atskaitomybės įstatyme, nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
+3\. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) pateikimas Juridinių asmenų registro duomenų tvarkytojui, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, nepateikimas Juridinių asmenų registro duomenų tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Įmonių ir įmonių grupių atskaitomybės įstatyme, nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
 
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
-4\. Neteisingos juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo pelno mokesčio informacijos ataskaitos, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui, pelno mokesčio informacijos ataskaitos ir, kai taikytina, pareiškimo, nurodyto Įmonių ir įmonių grupių atskaitomybės įstatyme, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, šių ataskaitų nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
+4\. Neteisingos juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo pelno mokesčio informacijos ataskaitos, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro duomenų tvarkytojui, pelno mokesčio informacijos ataskaitos ir, kai taikytina, pareiškimo, nurodyto Įmonių ir įmonių grupių atskaitomybės įstatyme, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro duomenų tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, šių ataskaitų nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
 
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
@@ -4561,6 +4561,8 @@ užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų orga
 *Nr. XIV-2816, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12139*
 
 *Nr. XIV-2815, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12138*
+
+*Nr. XIV-3147, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20390*
 
 ### XVI SKYRIUS – ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU TEISINGUMU
 
@@ -19597,3 +19599,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+254\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3147, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20390
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 223 straipsnio pakeitimo įstatymas
