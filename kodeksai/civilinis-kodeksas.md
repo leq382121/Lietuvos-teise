@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2024-11-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/SJwVvIcVoq"
+redakcija_nuo: "2025-01-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/NLxRtisaqa"
 ---
 
 # Civilinis kodeksas
@@ -2384,23 +2384,23 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 ###### 2.46 straipsnis. Juridinių asmenų steigimo dokumentai
 
-1\. Juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, steigimo sandorį arba įstatymų numatytais atvejais – bendruosius nuostatus. Pagal šį kodeksą įstatams prilygsta juridinių asmenų nuostatai, statutai ar kiti jų steigimo dokumentai.
+1\. Juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus arba steigimo sandorį. Pagal šį kodeksą įstatams prilygsta juridinių asmenų nuostatai, statutai ar kiti jų steigimo dokumentai.
 
 2\. Steigimo dokumentų normos galioja tiek, kiek jos neprieštarauja imperatyviosioms įstatymų normoms.
 
-3\. Viešieji juridiniai asmenys gali veikti pagal įstatymus ar, jei įstatymai numato, pagal valstybės ar savivaldybių institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo, jei toks teisės aktas nenumato, kad viešasis juridinis asmuo veikia pagal valstybės ar savivaldybių institucijos patvirtintus įstatus.
+3\. Viešieji juridiniai asmenys gali veikti pagal įstatymus ar, jei įstatymai numato, pagal valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo, jei toks teisės aktas nenumato, kad viešasis juridinis asmuo veikia pagal valstybės ar savivaldybės institucijos patvirtintus steigimo dokumentus.
 
-4\. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 3 dalyje nurodyti teisės aktai privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą.
+4\. Valstybės ar savivaldybių institucijų teisės aktai, kuriais tvirtinami, keičiami ar pripažįstami netekusiais galios viešojo juridinio asmens steigimo dokumentai, taip pat šio straipsnio 3 dalyje nurodyti teisės aktai skelbiami Teisės aktų registre. Šioje dalyje nurodytų teisės aktų identifikaciniai kodai Teisės aktų registre privalo būti pateikti juridinių asmenų registrui.
 
-*Straipsnio dalies pakeitimai:*
+5\. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo dienos, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 4 dalyje nurodytų teisės aktų identifikaciniai kodai Teisės aktų registre privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą.
 
-*Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659*
+6\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
 
-5\. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
+7\. Vienu valstybės ar savivaldybės institucijos teisės aktu gali būti tvirtinami, keičiami tik vieno viešojo juridinio asmens steigimo dokumentai.
 
 *Straipsnio pakeitimai:*
 
-*Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462*
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 ###### 2.47 straipsnis. Juridinio asmens įstatai
 
@@ -2634,17 +2634,29 @@ Juridiniai asmenys steigiami šio kodekso ir įstatymų nustatyta tvarka. Steigi
 
 1\. Juridinis asmuo laikomas įsteigtu nuo jo įregistravimo juridinių asmenų registre.
 
-2\. Įstatymas ar įstatymų numatytais atvejais kitas teisės aktas, kuriuo yra įsteigtas viešasis juridinis asmuo, gali nustatyti, kad juridinis asmuo laikomas įsteigtu nuo teisės akto dėl jo įsteigimo įsigaliojimo. Tokiu atveju tame teisės akte turi būti pateikti šio kodekso 2.66 straipsnyje nurodyti duomenys, o toks teisės aktas privalo būti viešai paskelbtas bei perduotas juridinių asmenų registrui.
+2\. Įstatymas ar įstatymų numatytais atvejais kitas teisės aktas, kuriuo yra įsteigtas viešasis juridinis asmuo, gali nustatyti, kad juridinis asmuo laikomas įsteigtu nuo teisės akto dėl jo įsteigimo įsigaliojimo dienos. Tokiu atveju tame teisės akte turi būti pateikti šio kodekso 2.66 straipsnyje nurodyti duomenys, o toks teisės aktas privalo būti viešai paskelbtas Teisės aktų registre ir jo identifikacinis kodas Teisės aktų registre turi būti perduotas juridinių asmenų registrui.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 ###### 2.64 straipsnis. Juridinių asmenų registravimas
 
 1\. Juridinis asmuo registruojamas juridinių asmenų registre, kai pateikiami šio straipsnio 2 dalyje nurodyti dokumentai, jei šio kodekso normos ar šio kodekso numatytais atvejais kiti įstatymai nenustato kitaip.
 
-2\. Juridiniam asmeniui įregistruoti juridinių asmenų registre turi būti pateikti šie dokumentai:
+2\. Juridiniam asmeniui įregistruoti juridinių asmenų registre turi būti pateikta:
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 1\) nustatytos formos prašymas įregistruoti juridinį asmenį;
 
-2\) juridinio asmens steigimo dokumentai;
+2\) juridinio asmens steigimo dokumentai arba Teisės aktų registro objekto identifikacinis kodas, jeigu viešasis juridinis asmuo veikia pagal įstatymą ar valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo arba pagal Teisės aktų registre skelbiamus steigimo dokumentus;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 3\) licencija, jei pagal įstatymus licencija turi būti išduota iki juridinio asmens įsteigimo;
 
@@ -2710,11 +2722,25 @@ Juridinį asmenį įregistravęs registro tvarkytojas juridiniam asmeniui suteik
 
 14\) juridinio asmens finansiniai metai;
 
-15\) kiti įstatymų numatyti duomenys.
+15\) Teisės aktų registro objekto identifikacinis kodas, jeigu viešasis juridinis asmuo veikia pagal įstatymą ar valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo arba pagal Teisės aktų registre skelbiamus steigimo dokumentus;
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
+
+16\) kiti įstatymų numatyti duomenys.
+
+*Straipsnio punkto numeracijos pakeitimas:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 2\. Registruojant juridinius asmenis, kurių dalyviai atsako pagal juridinio asmens prievoles, papildomai turi būti nurodomi juridinio asmens dalyvio fizinio asmens vardas, pavardė, asmens kodas, korespondencijos adresas arba juridinio asmens pavadinimas, teisinė forma, kodas, buveinė.
 
-3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
+3\. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas. Jei viešojo juridinio asmens pakeisti steigimo dokumentai ar jų pakeitimai paskelbti Teisės aktų registre, prašymo įregistruoti pakeitimus juridinių asmenų registre pateikti nereikia. Kai iki pakeitimo steigimo dokumentai Teisės aktų registre neturėjo būti paskelbti ar šio kodekso 2.46 straipsnio 4 dalyje nurodytas teisės aktas pripažįstamas netekusiu galios ir priimamas naujas teisės aktas, juridinių asmenų registrui turi būti pateiktas teisės akto, kuriuo keičiami ar tvirtinami viešojo juridinio asmens steigimo dokumentai, identifikacinis kodas Teisės aktų registre.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 4\. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) vadovybės ataskaita (konsoliduotoji vadovybės ataskaita) ir, kai taikytina, deklaracija, nurodyta Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai finansinių ataskaitų auditas privalomas pagal įstatymus, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada. Kai į vadovybės ataskaitą (konsoliduotąją vadovybės ataskaitą) pagal įstatymus privaloma įtraukti informaciją tvarumo klausimais (konsoliduotąją informaciją tvarumo klausimais) arba pateikti tvarumo ataskaitą (konsoliduotąją tvarumo ataskaitą), kartu su vadovybės ataskaita (konsoliduotąja vadovybės ataskaita) arba tvarumo ataskaita (konsoliduotąja tvarumo ataskaita) turi būti pateikta tvarumo atskaitomybės užtikrinimo išvada ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme. Juridinio asmens mokėjimų valdžios institucijoms ataskaita (konsoliduotoji mokėjimų valdžios institucijoms ataskaita), pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas Įmonių ir įmonių grupių atskaitomybės įstatyme, juridinių asmenų registrui teikiami įstatymų nustatytais atvejais ir tvarka.
 
@@ -2742,7 +2768,11 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 1\) pateiktas prašymas įregistruoti juridinį asmenį (registre registruotinų duomenų ir dokumentų pakeitimus, išbraukti duomenis) neatitinka nustatytos formos arba pateikti ne visi dokumentai, nurodyti šio kodekso 2.63 ir 2.64 straipsniuose;
 
-2\) praleisti šio kodekso 2.46 straipsnio 4 dalyje nurodyti terminai;
+2\) praleisti šio kodekso 2.46 straipsnio 5 dalyje nurodyti terminai;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665*
 
 3\) pateikti registrui duomenys ir dokumentai neatitinka vieni kitų, yra neaiškūs arba klaidinantys;
 
