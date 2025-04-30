@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-01-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/AwyLpsGHln"
+redakcija_nuo: "2025-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/vabzTGtfPG"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3880,19 +3880,19 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 *Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364*
 
-#### 188⁴ straipsnis. Mokėjimo paslaugų teikėjams nustatytų reikalavimų nesilaikymas
+#### 188⁴ straipsnis. Mokėjimo paslaugų teikėjams nustatytų reikalavimų nesilaikymas, nurodymų nevykdymas
 
-1\. Mokėjimo paslaugų teikėjams Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas
+1\. Mokėjimo paslaugų teikėjams Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Lietuvos Respublikos loterijų įstatyme ir šių įstatymų įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas ir (ar) šių įstatymų pagrindu duotų nurodymų nevykdymas užtraukia baudą
 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690*
+*Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694*
 
 #### 188⁵ straipsnis. Lietuvos subjektų grupių ir tarptautinių subjektų grupių apmokestinamiesiems subjektams nustatytų reikalavimų nesilaikymas
 
@@ -4167,6 +4167,20 @@ užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo dviejų tū
 *Papildyta straipsniu:*
 
 *Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126*
+
+#### 207² straipsnis. Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymo pažeidimas
+
+1\. Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymo pažeidimas
+
+užtraukia įspėjimą arba baudą asmenims nuo vieno šimto iki penkių šimtų eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki vieno tūkstančio eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-2518, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06307*
 
 #### 208 straipsnis. Kontrabanda
 
@@ -4956,7 +4970,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 *Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508*
 
-#### 242 straipsnis. Teršalų išmetimą į aplinkos orą reglamentuojančių teisės aktų pažeidimas. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą pažeidimas
+**242 straipsnis. Teršalų išmetimą į aplinkos orą reglamentuojančių teisės aktų pažeidimas. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą, ir (ar) draudimo deginti atliekas buitiniuose aplinkos oro taršos šaltiniuose pažeidimas**
 
 *Pakeistas straipsnio pavadinimas:*
 
@@ -4977,6 +4991,18 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų
 4\. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą pažeidimas
 
 užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto septyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2662, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09703*
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637*
+
+5\. Draudimo deginti atliekas buitiniuose aplinkos oro taršos šaltiniuose pažeidimas
+
+užtraukia baudą asmenims nuo šešiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto septyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
 
 *Papildyta straipsnio dalimi:*
 
@@ -5499,6 +5525,22 @@ užtraukia įspėjimą arba baudą pakuočių pardavėjams ir (ar) platintojams 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-1565, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24645*
+
+10\. Viešojo maitinimo paslaugą teikiančių asmenų neatlygintinis vienkartinių plastikinių gaminių, nurodytų Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 1¹ priedo 1 ir 4 punktuose, kai jie pardavimo metu pripildomi maisto produktų ar gėrimų viešojo maitinimo vietose, dalijimas vartotojams ir (ar) alternatyvos, numatytos Pakuočių ir pakuočių atliekų tvarkymo įstatymo 8³ straipsnio 2 dalyje, nepateikimas vartotojams viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose))
+
+užtraukia įspėjimą arba baudą viešojo maitinimo paslaugų teikėjams fiziniams asmenims nuo trisdešimt iki šešiasdešimt eurų ir baudą viešojo maitinimo paslaugų teikėjų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto iki dviejų šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2952, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13619*
+
+11\. Viešojo maitinimo paslaugą teikiančių asmenų neatlygintinis vienkartinių plastikinių gaminių, nurodytų Pakuočių ir pakuočių atliekų tvarkymo įstatymo 1¹ priedo 1 ir 4 punktuose, kai šie vienkartiniai plastikiniai gaminiai pripildomi maisto produktų ar gėrimų teikiant viešojo maitinimo paslaugą, dalijimas ir (ar) pardavimas, išskyrus atvejus, kai pagal Pakuočių ir pakuočių atliekų tvarkymo įstatymo 8³ straipsnio 4 dalį yra taikomas užstatas, vartotojams masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose
+
+užtraukia įspėjimą arba baudą viešojo maitinimo paslaugų teikėjams fiziniams asmenims nuo trisdešimt iki šešiasdešimt eurų ir baudą viešojo maitinimo paslaugų teikėjų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto iki dviejų šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2952, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13619*
 
 #### 248¹ straipsnis. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų tvarkymo reikalavimų nevykdymas
 
@@ -9944,9 +9986,13 @@ užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
 
 #### 373 straipsnis. Elgesio geležinkeliuose taisyklių pažeidimas
 
-1\. Šiukšlių ar kitų daiktų išmetimas iš geležinkelių riedmenų, šiukšlinimas traukiniuose
+1\. Šiukšlių ar kitų daiktų išmetimas iš traukinio, šiukšlinimas traukiniuose
 
 užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-3069, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19832*
 
 2\. Įlipimas ar išlipimas važiuojant traukiniui, važiavimas ant vagonų laiptelių ar stogų arba kitose tam neskirtose traukinio vietose, teisės būti pavojingojoje geležinkelio zonoje neturinčių asmenų buvimas šioje zonoje tam neskirtose vietose
 
@@ -10014,7 +10060,7 @@ užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių penkių šimtų 
 
 #### 377 straipsnis. Mokymo pajėgumų teikimo reikalavimų pažeidimas
 
-Mokymo pajėgumų teikimą geležinkelių infrastruktūros valdytojams, asmenų, pageidaujančių dirbti darbą, tiesiogiai arba netiesiogiai susijusį su geležinkelių transporto eismu, asmenų, pageidaujančių atlikti krovinių krovimo ir tvirtinimo vagonuose darbų vadovo funkcijas, ir (arba) traukinio mašinistų mokymo ar egzaminavimo veiklą vykdantiems asmenims, geležinkelio įmonėms (vežėjams) ir kitoms įmonėms (juridiniams asmenims, kitoms organizacijoms, juridinių asmenų, kitų organizacijų filialams), kurios neįgijusios geležinkelio įmonės (vežėjo) licencijos naudojasi geležinkelių infrastruktūra važiuodamos į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ar iš jos ir (arba) manevruodamos joje, reglamentuojančių teisės aktų reikalavimų pažeidimas
+Mokymo pajėgumų teikimą geležinkelių infrastruktūros valdytojams, asmenų, siekiančių įgyti teisę dirbti pavojingojoje geležinkelio zonoje, asmenų, siekiančių įgyti teisę vadovauti krovinių krovimo ir tvirtinimo vagonuose darbams, ir (arba) traukinio mašinistų mokymo ar egzaminavimo veiklą vykdantiems asmenims, geležinkelio įmonėms (vežėjams) ir kitoms įmonėms (juridiniams asmenims, kitoms organizacijoms, juridinių asmenų, kitų organizacijų filialams), kurios neįgijusios geležinkelio įmonės (vežėjo) licencijos naudojasi geležinkelių infrastruktūra važiuodamos į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ar iš jos ir (arba) manevruodamos joje, reglamentuojančių teisės aktų reikalavimų pažeidimas
 
 užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
 
@@ -10023,6 +10069,8 @@ užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
+
+*Nr. XIV-3069, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19832*
 
 #### 378 straipsnis. Stacionariųjų geležinkelių posistemių naudojimas ar geležinkelių riedmenų pateikimas rinkai neturint leidimo
 
@@ -14216,7 +14264,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
-7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 207², 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14227,6 +14275,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921*
 
 *Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
+
+*Nr. XIV-2518, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06307*
 
 8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 122 straipsnyje (kai pažeidimai padaryti dėl autorių teisių ar gretutinių teisių objekto arba jų dalies, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), 124 straipsnyje, 146, 226¹, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 
@@ -14594,11 +14644,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-42\) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 198, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+42\) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 188⁴, 198, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069*
+
+*Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694*
 
 43\) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14894,7 +14946,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952*
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹ straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹, 207² straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14931,6 +14983,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164*
 
 *Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555*
+
+*Nr. XIV-3021, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18352*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113¹, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 334, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15116,7 +15170,7 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4 dalyje, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 507¹, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4, 5 dalyse, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 507¹, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -19607,3 +19661,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3147, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20390
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 223 straipsnio pakeitimo įstatymas
+
+255\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3021, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18352
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 207-2 straipsniu įstatymo Nr. XIV-2518 2 straipsnio pakeitimo įstatymas
+
+256\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2952, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13619
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 248 straipsnio pakeitimo įstatymas
+
+257\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3069, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19832
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 373 ir 377 straipsnių pakeitimo įstatymas
+
+258\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straipsnių pakeitimo įstatymas
