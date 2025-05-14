@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/vabzTGtfPG"
+redakcija_nuo: "2025-05-15"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/IcqexDbRmr"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10350,17 +10350,25 @@ užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstanč
 
 užtraukia baudą nuo septynių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-7\. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų skrydžių taisyklių pažeidimas
+7\. Skrydžių taisyklių, nustatytų 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, su visais pakeitimais, pažeidimas, Lietuvos Respublikos aviacijos įstatyme ir kituose teisės aktuose nustatytų orlaivio skrydžio vykdymo nevaldomąja oro erdve, pasienio, draudžiamojoje, ribojamojoje zonoje sąlygų ir (ar) tvarkos pažeidimas
 
 užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
 
-8\. Orlaivio skrydis valdomoje oro erdvėje be atitinkamo leidimo, kai leidimas reikalingas,
+*Straipsnio dalies pakeitimai:*
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
+*Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556*
 
-9\. Orlaivio skrydis be specialaus leidimo draudžiamose arba ribojamose zonose
+8\. Neteko galios nuo 2025-05-15
 
-užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
+*Straipsnio dalies naikinimas:*
+
+*Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556*
+
+9\. Neteko galios nuo 2025-05-15
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556*
 
 10\. Lazerio spindulio ar kito aukšto intensyvumo šviesos šaltinio tyčinis nukreipimas į skrendantį orlaivį
 
@@ -19693,3 +19701,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straipsnių pakeitimo įstatymas
+
+259\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2734, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11571
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 517-4, 560, 560-1 ir 589 straipsnių pakeitimo įstatymas
+
+260\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-3025, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18353
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 196 ir 589 straipsnių pakeitimo ir Kodekso papildymo 196-1 straipsniu įstatymo Nr. XIV-2576 4 straipsnio pakeitimo įstatymas
+
+261\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 672 ir 676 straipsnių pakeitimo įstatymas
+
+262\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 394 straipsnio pakeitimo įstatymas
