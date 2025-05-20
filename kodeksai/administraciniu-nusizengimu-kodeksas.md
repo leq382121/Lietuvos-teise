@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-05-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/IcqexDbRmr"
+redakcija_nuo: "2025-05-21"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/iWguAsOYrC"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -17630,6 +17630,12 @@ priedas
 
 *Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
 
+122\. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-205, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08907*
+
 *Priedo pakeitimai:*
 
 *Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867*
@@ -19733,3 +19739,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 394 straipsnio pakeitimo įstatymas
+
+263\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-189, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08557
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 486 straipsnio pakeitimo įstatymas
+
+264\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-205, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08907
+
+Lietuvos Respublikos administracinių nusižengimų kodekso priedo pakeitimo įstatymas
