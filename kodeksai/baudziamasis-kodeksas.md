@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2025-02-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/cLtIOQKxTp"
+redakcija_nuo: "2025-05-21"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/SrrmtyqfVi"
 ---
 
 # Baudžiamasis kodeksas
@@ -2908,11 +2908,13 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 #### 123¹ straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
-1\. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to padarė didelės žalos Lietuvos Respublikos interesams,
+1\. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to buvo padaryta didelė žala, taip pat tas, kas pažeisdamas tarptautine sankcija ar ribojamąja priemone asmeniui nustatytą draudimą atvykti į valstybės narės teritoriją arba vykti tranzitu per valstybės narės teritoriją sudarė sąlygas tam asmeniui atvykti į Lietuvos Respubliką arba vykti tranzitu per jos teritoriją,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Šio straipsnio 1 dalyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
+
+3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 *Kodeksas papildytas straipsniu:*
 
@@ -2925,6 +2927,8 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473*
+
+*Nr. XV-204, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08906*
 
 #### 124 straipsnis. Neteisėtas disponavimas informacija, kuri yra valstybės paslaptis
 
@@ -8078,6 +8082,12 @@ priedas
 
 *Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686*
 
+40\. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-204, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08906*
+
 *Kodeksas papildytas priedu:*
 
 *Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)*
@@ -9099,3 +9109,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 Lietuvos Respublikos baudžiamojo kodekso 3, 60, 99, 100, 100-1, 100-2, 100-3, 103, 107, 108, 109, 123, 124, 125, 126, 127, 128, 129, 131, 132, 134, 135, 136, 137, 138, 139, 140, 142, 143, 145, 146, 147, 147-1, 147-2, 148, 149, 150, 151, 151-1, 152, 152-1, 156, 157, 159, 160, 161, 162, 169, 170, 170-1, 170-2, 172, 173, 174, 175, 176, 178, 180, 181, 182-1, 185, 188, 189, 189-1, 191, 192, 193, 194, 196, 197, 198, 198-1, 198-2, 202, 206, 207, 208, 209, 210, 213, 214, 215, 217, 218, 224, 229, 231, 232, 233, 234, 236, 238, 249-1, 250, 250-2, 250-4, 250-5, 251, 256, 256-1, 257, 257-1, 258, 259, 262, 265, 267, 267-1, 267-2, 267-3, 268, 270, 270-2, 270-3, 273, 274, 275, 276, 276-1, 276-2, 276-3, 277, 278, 279, 280, 281, 283, 285, 286, 287, 288, 289, 292, 292-1, 294, 295, 296, 297, 299, 300, 301, 302, 302-1, 303, 304, 306, 306-1, 306-2, 307, 308, 309, 310, 311, 312 straipsnių ir priedo pakeitimo įstatymas
+
+70\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-204, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08906
+
+Lietuvos Respublikos baudžiamojo kodekso 123-1 straipsnio ir priedo pakeitimo įstatymas
