@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-05-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/iWguAsOYrC"
+redakcija_nuo: "2025-06-21"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/INytHJNdvQ"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2900,23 +2900,33 @@ užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų 
 
 *Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354*
 
-#### 137 straipsnis. Neteisėtas stiprių alkoholinių gėrimų, brogos, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas arba naminių stiprių alkoholinių gėrimų gamybos įrangos gaminimas, laikymas, gabenimas ar realizavimas
+#### 137 straipsnis. Neteisėtas stiprių alkoholinių gėrimų, raugalo, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas arba naminių stiprių alkoholinių gėrimų gamybos įrangos gaminimas, laikymas, gabenimas ar realizavimas
 
 *Pakeistas straipsnio pavadinimas:*
 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
-1\. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, brogai, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti
+*Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223*
+
+1\. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, raugalui, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti
 
 užtraukia įspėjimą gyvenamųjų ar kitų patalpų savininkams.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
 
-3\. Naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
+3\. Naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
 
 užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223*
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2938,11 +2948,13 @@ užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių trijų šimt�
 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
-7\. Už šio straipsnio 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
+7\. Už šio straipsnio 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
+
+*Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223*
 
 *Straipsnio pakeitimai:*
 
@@ -19755,3 +19767,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-205, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08907
 
 Lietuvos Respublikos administracinių nusižengimų kodekso priedo pakeitimo įstatymas
+
+265\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 112, 113, 113-1, 351 ir 589 straipsnių pakeitimo įstatymas
+
+266\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-254, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10901
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 72 straipsnio pakeitimo įstatymas
+
+267\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-275, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11220
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 294, 295, 301, 302, 589 straipsnių ir priedo pakeitimo įstatymas
+
+268\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 137 straipsnio pakeitimo įstatymas
