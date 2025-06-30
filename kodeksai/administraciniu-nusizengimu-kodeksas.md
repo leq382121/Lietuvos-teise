@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-06-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/INytHJNdvQ"
+redakcija_nuo: "2025-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/fudNTDLMqJ"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1142,23 +1142,27 @@ užtraukia baudą nuo keturiolikos iki trisdešimt eurų.
 
 #### 56 straipsnis. Tyčinis melagingų duomenų apie privalomojo sveikatos draudimo įmokų mokėjimą pateikimas
 
-Valstybinės mokesčių inspekcijos, Valstybinio socialinio draudimo fondo administravimo įstaigos ir teritorinių ligonių kasų tyčinis melagingų duomenų apie privalomojo sveikatos draudimo įmokų mokėjimą pateikimas
+Valstybinės mokesčių inspekcijos, Valstybinio socialinio draudimo fondo administravimo įstaigos ir Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos tyčinis melagingų duomenų apie privalomojo sveikatos draudimo įmokų mokėjimą pateikimas
 
 užtraukia baudą asmenims, įgaliotiems teikti informaciją, nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736*
+
 **57 straipsnis. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas**
 
-1\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
+1\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos, kai dėl šios veikos padaroma mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
 
-užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims.
+užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ortopedijos įmonių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių) ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-3\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma ne mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
+3\. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos, kai dėl šios veikos padaroma ne mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
 
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar su teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ortopedijos įmonių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių) ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -1184,9 +1188,9 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 **58 straipsnis. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, specialiosios medicininės paskirties maisto produktus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) ir nuomojamas medicinos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) pateikimas**
 
-1\. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas ir išduotus (parduotus) kompensuojamuosius vaistus, specialiosios medicininės paskirties maisto produktus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) ir nuomojamas medicinos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms
+1\. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas ir išduotus (parduotus) kompensuojamuosius vaistus, specialiosios medicininės paskirties maisto produktus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) ir nuomojamas medicinos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos
 
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, specialiosios medicininės paskirties maisto produktų ir (ar) medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ortopedijos įmonių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos dėl išduotų kompensuojamųjų vaistų, specialiosios medicininės paskirties maisto produktų ir (ar) medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių) įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -2422,29 +2426,43 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dvie
 
 #### 112 straipsnis. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti
 
-Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti, kai jų nesiima žemės savininkai ar kiti žemės naudotojai po to, kai jie raštu buvo įspėti tai padaryti,
+1\. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti,
 
-užtraukia baudą nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia įspėjimą arba baudą žemės savininkams ar kitiems žemės naudotojams nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto keturiasdešimt iki dviejų šimtų aštuoniasdešimt eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-#### 113 straipsnis. Geodezinio punkto sunaikinimas arba sugadinimas
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
-Geodezinio punkto sunaikinimas arba sugadinimas
+#### 113 straipsnis. Valstybinio geodezinio punkto sunaikinimas arba sugadinimas
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+1\. Valstybinio geodezinio punkto sunaikinimas arba sugadinimas
 
-#### 113¹ straipsnis. Riboženklio ar geodezinio ženklo pakeitimas
+užtraukia įspėjimą arba baudą nuo vieno šimto iki trijų šimtų eurų.
 
-Neteisėtas riboženklio ar geodezinio ženklo pastatymas, perdarymas, pašalinimas ar nukėlimas
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
+
+#### 113¹ straipsnis. Riboženklio pakeitimas
+
+Neteisėtas riboženklio pastatymas, perdarymas, pašalinimas ar nukėlimas
 
 užtraukia baudą nuo vieno šimto iki trijų šimtų penkiasdešimt eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 #### 114 straipsnis. Gyvūnijos valstybinės nuosavybės teisės pažeidimas
 
@@ -9188,7 +9206,11 @@ užtraukia baudą nuo vieno tūkstančio vieno šimto dvidešimt iki dviejų tū
 
 5\. Naujo neypatingojo statinio savavališka statyba
 
-užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -9196,7 +9218,11 @@ užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 7\. Naujo neypatingojo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo dviejų tūkstančių penkių šimtų penkiasdešimt iki penkių tūkstančių dviejų šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -9204,7 +9230,11 @@ užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
 9\. Naujo ypatingojo statinio savavališka statyba
 
-užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių septynių šimtų eurų.
+užtraukia baudą nuo keturių tūkstančių trijų šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -12676,13 +12706,27 @@ užtraukia baudą nuo keturiolikos iki trisdešimt eurų.
 
 #### 486 straipsnis. Lindynių laikymas
 
-1\. Azartinių lošimų, ištvirkavimo arba alkoholinių gėrimų vartojimo lindynių laikymas
+1\. Patalpų suteikimas azartiniams lošimams lošti, ištvirkauti arba alkoholiniams gėrimams vartoti
 
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų aštuoniasdešimt eurų.
+
+3\. Patalpų suteikimas narkotinėms, psichotropinėms ar kitoms psichiką veikiančioms medžiagoms vartoti
+
+užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki septynių šimtų eurų.
+
+5\. Už šio straipsnio 2 ir 4 dalyse numatytus administracinius nusižengimus gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-189, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08557*
 
 #### 487 straipsnis. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis
 
@@ -14464,7 +14508,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370*
 
-31\) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 270¹ straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31\) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247 straipsniuose, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 270¹ straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14503,6 +14547,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2305, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24172*
 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 187¹, 188, 193, 198, 205 straipsniuose, 207 straipsnio 1, 2 dalyse, 207¹ straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14692,7 +14738,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
 
-45\) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 113, 113¹, 333¹, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+45\) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 113, 333¹, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14703,6 +14749,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
 *Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 46\) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 480 straipsnio 3, 4 dalyse, 480¹, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -14960,11 +15008,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
-65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 57¹, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+65\) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 56, 57, 57¹, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952*
+
+*Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736*
 
 66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹, 207² straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15006,7 +15056,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-3021, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18352*
 
-67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113¹, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 334, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 113¹, 261 straipsniuose, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15017,6 +15067,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
 *Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325*
+
+*Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 66¹, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
