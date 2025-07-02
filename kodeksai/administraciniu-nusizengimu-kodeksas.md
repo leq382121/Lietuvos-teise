@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-07-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/fudNTDLMqJ"
+redakcija_nuo: "2025-07-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/naEOuSlCYq"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -10188,17 +10188,21 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
 
-#### 383 straipsnis. Geležinkelių transporto keleivių teisių pažeidimas traukinių vėlavimo, praleistų persėdimų, reisų atšaukimo atvejais ir teikiant informaciją
+#### 383 straipsnis. Reglamente (ES) 2021/782 nurodytų geležinkelių keleivių teisių pažeidimas ir kitų įpareigojimų nevykdymas
 
-Reglamente (EB) Nr. 1371/2007 nurodytų geležinkelių transporto keleivių teisių pažeidimas traukinių vėlavimo, praleistų persėdimų, reisų atšaukimo atvejais ir teikiant informaciją, išskyrus Lietuvos Respublikos geležinkelių transporto kodekse nustatytas išimtis dėl šių teisių įgyvendinimo,
-
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
-
-#### 384 straipsnis. Su naudojimusi geležinkelių transporto paslaugomis susijusių neįgaliųjų arba ribotos judėsenos asmenų teisių pažeidimas
-
-Reglamente (EB) Nr. 1371/2007 nurodytų su naudojimusi geležinkelių transporto paslaugomis susijusių neįgaliųjų arba ribotos judėsenos asmenų teisių pažeidimas, išskyrus Lietuvos Respublikos geležinkelių transporto kodekse nustatytas išimtis dėl šių teisių įgyvendinimo,
+Reglamente (ES) 2021/782 nurodytų geležinkelių keleivių teisių pažeidimas ir kitų Reglamente (ES) 2021/782 geležinkelio įmonėms (vežėjams), geležinkelio stočių valdytojams, viešosios geležinkelių infrastruktūros valdytojui, bilietų pardavėjams ir kelionių operatoriams nustatytų įpareigojimų nevykdymas ar netinkamas vykdymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
+
+384 straipsnis. Neteko galios nuo 2025-07-03
+
+*Straipsnio naikinimas:*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
 
 #### 385 straipsnis. Skrydžių saugos pažeidimas aerodromo apsaugos zonoje
 
@@ -14970,7 +14974,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856*
 
-63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 401¹, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+63\) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 370¹, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 401¹, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 449¹, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15005,6 +15009,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162*
 
 *Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
 
 64\) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -17424,7 +17430,11 @@ priedas
 
 30\. 2006 m. gruodžio 22 d. Komisijos reglamentas (EB) Nr. 2023/2006 dėl medžiagų ir gaminių, skirtų liestis su maistu, geros gamybos praktikos su paskutiniais pakeitimais, padarytais 2008 m. kovo 27 d. Komisijos reglamentu (EB) Nr. 282/2008.
 
-31\. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų.
+31\. Neteko galios nuo 2025-07-03
+
+*Punkto naikinimas:*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
 
 32\. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje su paskutiniais pakeitimais, padarytais 2015 m. rugpjūčio 28 d. Komisijos direktyva (ES) 2015/1480.
 
@@ -17664,11 +17674,21 @@ priedas
 
 117\. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
 
-117¹. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
+117¹. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
+
+117². 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
 
 *Papildyta straipsnio dalimi:*
 
 *Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432*
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145*
 
 118\. 2022 m. gruodžio 15 d. Tarybos direktyva (ES) 2022/2523 dėl visuotinio minimalaus tarptautinių įmonių grupių ir didelių vietos subjektų grupių apmokestinimo lygio užtikrinimo Sąjungoje.
 
@@ -19851,3 +19871,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 137 straipsnio pakeitimo įstatymas
+
+269\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 383, 589 straipsnių ir priedo pakeitimo, 384 straipsnio pripažinimo netekusiu galios įstatymas
