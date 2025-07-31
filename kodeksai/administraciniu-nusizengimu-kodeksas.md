@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-07-03"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/naEOuSlCYq"
+redakcija_nuo: "2025-08-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/plRWiwiBKs"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1626,25 +1626,37 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto eurų.
 
 užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
 
-4\. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas
+4\. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas tik vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5 dalyje, ar bent vienos pareigos, nustatytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, nevykdymas
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-254, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10901*
 
 5\. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
-6\. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas arba pareigų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 9 dalyje, nevykdymas, jei šioje dalyje nurodytose įstaigose, įmonėse, organizacijose dirba, užsiima savanoriška veikla, atlieka praktiką, stažuojasi ar teikia paslaugas asmuo, kuris apkaltinamuoju teismo nuosprendžiu pripažintas kaltu dėl nusikalstamų veikų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje, arba asmuo, kuris yra padaręs Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytas nusikalstamas veikas, bet atleistas nuo baudžiamosios atsakomybės Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytais pagrindais,
+6\. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas tik vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5 dalyje, ar bent vienos pareigos, nustatytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, nevykdymas arba pareigų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 9 dalyje, nevykdymas, jei šioje dalyje nurodytose įstaigose, įmonėse, organizacijose dirba, užsiima savanoriška veikla, atlieka praktiką, stažuojasi ar teikia paslaugas asmuo, kuris įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintas kaltu dėl nusikalstamų veikų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje, arba asmuo, kuris yra padaręs bent vieną Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytą nusikalstamą veiką, įvardytą kaip seksualiniai nusikaltimai, bet atleistas nuo baudžiamosios atsakomybės,
 
 užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-254, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10901*
 
 7\. Šio straipsnio 6 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
-8\. Asmens, besiverčiančio individualia veikla, teikiančio paslaugas ar vykdančio bet kokią kitą veiklą, jei ši veikla ar paslaugos tiesioginiais ir reguliariais kontaktais susijusios su vaikais, pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, ir pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 7 dalyje, nevykdymas
+8\. Asmens, besiverčiančio individualia veikla, teikiančio paslaugas ar vykdančio bet kokią kitą veiklą, jei ši veikla ar paslaugos tiesioginiais ir reguliariais kontaktais susijusios su vaikais, pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, ir (ar) pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 7 dalyje, nevykdymas
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-254, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10901*
 
 9\. Šio straipsnio 8 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
