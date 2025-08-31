@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2025-04-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/cmbvyLEfKD"
+redakcija_nuo: "2025-09-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mCxcVqHYnd"
 ---
 
 # Civilinis kodeksas
@@ -10894,7 +10894,11 @@ Mirus vienam sutuoktiniui, suinteresuotiems įpėdiniams šio kodekso 5.33 strai
 
 1\. Įpėdinis, priėmęs palikimą pagal antstolio sudarytą turto apyrašą, už palikėjo skolas atsako tik paveldėtu turtu. Jeigu bent vienas įpėdinis priėmė palikimą pagal turto apyrašą, tai ir visi kiti įpėdiniai laikomi priėmusiais palikimą pagal turto apyrašą.
 
-2\. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo.
+2\. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites Civilinio proceso kodekso nustatyta tvarka pateikia vykdyti antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025*
 
 3\. Turto apyrašą antstolis sudaro ne vėliau kaip per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo. Tais atvejais, kai paveldimas turtas yra keliose vietose arba yra daug palikėjo kreditorių, turto apyrašą antstolis privalo sudaryti ne vėliau kaip per tris mėnesius.
 
@@ -10908,7 +10912,11 @@ Mirus vienam sutuoktiniui, suinteresuotiems įpėdiniams šio kodekso 5.33 strai
 
 6\. Turto apyrašą pasirašo antstolis ir įpėdinis, dalyvavęs sudarant apyrašą. Apyrašo pabaigoje turi būti įpėdinio pasirašytas paliudijimas, tolygus priesaikai, kad apyraše nurodytas visas įpėdiniui žinomas palikėjo turtas, visi palikėjo skoliniai reikalavimai ir skolinės pareigos.
 
-7\. Įpėdinis, po turto apyrašo sudarymo sužinojęs apie neįtrauktą į apyrašą turtą, skolines teises ar skolines pareigas, privalo nedelsdamas kreiptis į notarą dėl vykdomojo pavedimo papildyti turto apyrašą išdavimo. Notaro išduotą vykdomąjį pavedimą papildyti turto apyrašą įpėdinis ne vėliau kaip per tris darbo dienas pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Antstolis, vadovaudamasis įpėdinio pateiktais duomenimis, ne vėliau kaip per tris savaites privalo turto apyrašą papildyti.
+7\. Įpėdinis, po turto apyrašo sudarymo sužinojęs apie neįtrauktą į apyrašą turtą, skolines teises ar skolines pareigas, privalo nedelsdamas kreiptis į notarą dėl vykdomojo pavedimo papildyti turto apyrašą išdavimo. Notaro išduotą vykdomąjį pavedimą papildyti turto apyrašą įpėdinis ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka pateikia vykdyti antstoliui. Antstolis, vadovaudamasis įpėdinio pateiktais duomenimis, ne vėliau kaip per tris savaites privalo turto apyrašą papildyti.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025*
 
 8\. Turto apyrašą sudaryti gali pareikalauti ir palikėjo kreditoriai. Palikėjo kreditoriai turi teisę patys dalyvauti sudarant turto apyrašą arba įgalioti kitą asmenį dalyvauti sudarant turto apyrašą.
 
@@ -22571,3 +22579,19 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT21-N5/2025, 2025-04-17, paskelbta TAR 2025-04-17, i. k. 2025-06803
 
 Dėl Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo 28 straipsnio, Lietuvos Respublikos civilinio kodekso 3.229 straipsnio atitikties Lietuvos Respublikos Konstitucijai
+
+82\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117
+
+Lietuvos Respublikos civilinio kodekso 6.228-3, 6.228-7, 6.228-10 straipsnių ir priedo pakeitimo įstatymas
+
+83\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
+
+Lietuvos Respublikos civilinio kodekso 5.53 straipsnio pakeitimo įstatymas
