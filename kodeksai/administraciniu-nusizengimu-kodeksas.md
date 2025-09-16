@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-08-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/plRWiwiBKs"
+redakcija_nuo: "2025-09-17"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/vxHTPoSmYJ"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -14584,13 +14584,15 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
 
-33\) Informacinės visuomenės plėtros komiteto – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
+33\) Valstybės skaitmeninių sprendimų agentūros – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186*
 
 *Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 33¹) Lietuvos kalėjimų tarnybos – dėl šio kodekso 71, 76, 77, 108, 109, 115, 137, 226, 481, 485, 490, 492 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų;
 
@@ -17148,11 +17150,13 @@ Tuo atveju, kai priimami keli nutarimai skirti administracines nuobaudas ar sura
 
 *Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572*
 
-2\. Nutarimo skirti baudą vykdymo, išskyrus, kiek tai susiję su šio kodekso 671 straipsnio 1, 2, 3 dalyse ir 675 straipsnio 4 dalyje nurodytais veiksmais, kontrolė pavedama Valstybinei mokesčių inspekcijai. Su nutarimo skirti baudą vykdymu susijusius klausimus, išskyrus numatytuosius šio kodekso 671 straipsnio 1, 2, 3 dalyse ir 675 straipsnio 4 dalyje, sprendžia Valstybinė mokesčių inspekcija.
+2\. Nutarimo skirti baudą vykdymo, išskyrus, kiek tai susiję su šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje nurodytais veiksmais, kontrolė pavedama Valstybinei mokesčių inspekcijai. Su nutarimo skirti baudą vykdymu susijusius klausimus, išskyrus numatytuosius šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje, sprendžia Valstybinė mokesčių inspekcija.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 3\. Skundus dėl nutarimus skirti administracines nuobaudas vykdančių institucijų ir dėl šio straipsnio 1 dalyje nurodytų institucijų veiksmų nagrinėja apylinkės teismai, laikydamiesi šio kodekso XXXIV ir XXXVI skyriuose nustatytų reikalavimų. Skundai dėl Valstybinės mokesčių inspekcijos veiksmų nagrinėjami Mokesčių administravimo įstatyme nustatyta tvarka.
 
@@ -19891,3 +19895,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 383, 589 straipsnių ir priedo pakeitimo, 384 straipsnio pripažinimo netekusiu galios įstatymas
+
+270\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių, priedo pakeitimo ir Kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas
