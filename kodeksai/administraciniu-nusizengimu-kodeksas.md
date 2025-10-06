@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-09-17"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/vxHTPoSmYJ"
+redakcija_nuo: "2025-10-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GxJymFAAJV"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -5140,9 +5140,13 @@ užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio vieno šimt
 
 #### 247 straipsnis. Atliekų tvarkymą reglamentuojančių teisės aktų reikalavimų nevykdymas
 
-1\. Aplinkos užteršimas mažesniu kaip vienas šimtas kubinių decimetrų nepavojingų atliekų kiekiu
+1\. Aplinkos užteršimas mažesniu kaip vienas šimtas kubinių decimetrų nepavojingų atliekų, išskyrus padangų atliekas, kiekiu
 
 užtraukia įspėjimą arba baudą nuo trisdešimt iki devyniasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 2\. Šio straipsnio 1 dalyje numatyta veika, kai dėl jos nepavojingomis atliekomis buvo užteršta aplinka požeminio vandens vandenviečių apsaugos zonose, rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose, biosferos poligonuose, atkuriamuosiuose ir genetiniuose sklypuose, gamtos paveldo objektų teritorijose, gamtos paveldo objektų buferinėse apsaugos zonose, kultūros paveldo objektų ir vietovių teritorijose ir jų apsaugos zonose, rekreacinėse teritorijose, išžvalgytų naudingųjų iškasenų telkiniuose, aerodromų, magistralinių dujotiekių ir naftotiekių (produktotiekių), meteorologinių stebėjimų aikštelių, vandens matavimo stočių apsaugos zonose, Šiaurės Lietuvos karstinio regiono intensyvaus karsto žemėse, šaltiniuotose vietose ir pelkėse, geležinkelio kelių ir jų įrenginių, geležinkelio želdinių ir valstybinės reikšmės kelių apsaugos zonose,
 
@@ -5168,9 +5172,13 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 *Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939*
 
-5\. Aplinkos užteršimas vienu šimtu kubinių decimetrų ir didesniu nepavojingų atliekų kiekiu
+5\. Aplinkos užteršimas vienu šimtu kubinių decimetrų ir didesniu nepavojingų atliekų, išskyrus padangų atliekas, kiekiu
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 6\. Šio straipsnio 5 dalyje numatyta veika, kai dėl jos nepavojingomis atliekomis buvo užteršta aplinka požeminio vandens vandenviečių apsaugos zonose, rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose, biosferos poligonuose, atkuriamuosiuose ir genetiniuose sklypuose, gamtos paveldo objektų teritorijose, gamtos paveldo objektų buferinėse apsaugos zonose, kultūros paveldo objektų ir vietovių teritorijose ir jų apsaugos zonose, rekreacinėse teritorijose, išžvalgytų naudingųjų iškasenų telkiniuose, aerodromų, magistralinių dujotiekių ir naftotiekių (produktotiekių), meteorologinių stebėjimų aikštelių, vandens matavimo stočių apsaugos zonose, Šiaurės Lietuvos karstinio regiono intensyvaus karsto žemėse, šaltiniuotose vietose ir pelkėse, geležinkelio kelių ir jų įrenginių, geležinkelio želdinių ir valstybinės reikšmės kelių apsaugos zonose,
 
@@ -5181,6 +5189,14 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 *Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343*
 
 *Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939*
+
+6¹. Aplinkos užteršimas padangų atliekomis
+
+užtraukia baudą nuo dviejų šimtų iki penkių šimtų eurų už kiekvieną atsikratytą padangos atliekos vienetą, bet ne didesnę negu šeši tūkstančiai eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 7\. Aplinkos užteršimas vienu šimtu kubinių decimetrų ir didesniu pavojingų atliekų kiekiu
 
@@ -5196,9 +5212,13 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penk
 
 *Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939*
 
-9\. Aplinkos užteršimas vieno kubinio metro ir didesniu nepavojingų atliekų kiekiu
+9\. Aplinkos užteršimas vieno kubinio metro ir didesniu nepavojingų atliekų, išskyrus padangų atliekas, kiekiu
 
 užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 10\. Šio straipsnio 9 dalyje numatyta veika, kai dėl jos nepavojingomis atliekomis buvo užteršta aplinka požeminio vandens vandenviečių apsaugos zonose, rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose, biosferos poligonuose, atkuriamuosiuose ir genetiniuose sklypuose, gamtos paveldo objektų teritorijose, gamtos paveldo objektų buferinėse apsaugos zonose, kultūros paveldo objektų ir vietovių teritorijose ir jų apsaugos zonose, rekreacinėse teritorijose, išžvalgytų naudingųjų iškasenų telkiniuose, aerodromų, magistralinių dujotiekių ir naftotiekių (produktotiekių), meteorologinių stebėjimų aikštelių, vandens matavimo stočių apsaugos zonose, Šiaurės Lietuvos karstinio regiono intensyvaus karsto žemėse, šaltiniuotose vietose ir pelkėse, geležinkelio kelių ir jų įrenginių, geležinkelio želdinių ir valstybinės reikšmės kelių apsaugos zonose,
 
@@ -5224,13 +5244,15 @@ užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstan�
 
 *Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939*
 
-13\. Aplinkos užteršimas penkių kubinių metrų ir didesniu, bet mažesniu kaip penkiolika kubinių metrų nepavojingų atliekų kiekiu
+13\. Aplinkos užteršimas penkių kubinių metrų ir didesniu, bet mažesniu kaip penkiolika kubinių metrų nepavojingų atliekų, išskyrus padangų atliekas, kiekiu
 
 užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-2221, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22367*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 14\. Šio straipsnio 13 dalyje numatyta veika, kai dėl jos nepavojingomis atliekomis buvo užteršta aplinka požeminio vandens vandenviečių apsaugos zonose, rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose, biosferos poligonuose, atkuriamuosiuose ir genetiniuose sklypuose, gamtos paveldo objektų teritorijose, gamtos paveldo objektų buferinėse apsaugos zonose, kultūros paveldo objektų ir vietovių teritorijose ir jų apsaugos zonose, rekreacinėse teritorijose, išžvalgytų naudingųjų iškasenų telkiniuose, aerodromų, magistralinių dujotiekių ir naftotiekių (produktotiekių), meteorologinių stebėjimų aikštelių, vandens matavimo stočių apsaugos zonose, Šiaurės Lietuvos karstinio regiono intensyvaus karsto žemėse, šaltiniuotose vietose ir pelkėse, geležinkelio kelių ir jų įrenginių, geležinkelio želdinių ir valstybinės reikšmės kelių apsaugos zonose,
 
@@ -5524,25 +5546,47 @@ užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno t
 
 #### 248 straipsnis. Pakuočių ir (ar) pakuočių atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Vidaus rinkai patiektų tuščių pakuočių apskaitos ataskaitos nepateikimas iki nustatytų terminų
+1\. Pakuočių apskaitos ataskaitos nepateikimas iki nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-2\. Pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+2\. Pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-3\. Pakuočių ir (ar) pakuočių atliekų apskaitos netvarkymas arba netinkamas tvarkymas
+*Straipsnio dalies pakeitimai:*
 
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+3\. Neteko galios nuo 2025-10-07
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 4\. Informacijos apie tai, kaip vartotojai gali grąžinti pakuotes, nepateikimas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-5\. Klaidingų duomenų pateikimas vidaus rinkai patiektų tuščių pakuočių apskaitos ataskaitose
+5\. Neteisingų duomenų pateikimas pakuočių apskaitoje ir (ar) apskaitos ataskaitoje arba pakuočių apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+5¹. Pakuočių apskaitos netvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 6\. Atsisakymas priimti parduodamų gaminių pakuotes, už kurias nustatytas užstatas, ar užstato negrąžinimas
 
@@ -5586,9 +5630,13 @@ užtraukia įspėjimą arba baudą viešojo maitinimo paslaugų teikėjams fizin
 
 #### 248¹ straipsnis. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+1\. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 2\. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, apskaitos ataskaitų nepateikimas iki nustatytų terminų
 
@@ -5616,9 +5664,13 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 248² straipsnis. Drėgnųjų servetėlių ir (ar) oro balionėlių atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Drėgnųjų servetėlių ir (ar) oro balionėlių pateikimas Lietuvos Respublikos rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+1\. Drėgnųjų servetėlių ir (ar) oro balionėlių pateikimas Lietuvos Respublikos rinkai neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 2\. Drėgnųjų servetėlių ir (ar) oro balionėlių apskaitos ataskaitų nepateikimas iki nustatytų terminų
 
@@ -5646,9 +5698,13 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 248³ straipsnis. Žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+1\. Žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 2\. Žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos ataskaitų nepateikimas iki nustatytų terminų
 
@@ -5676,29 +5732,43 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 249 straipsnis. Elektros ir elektroninės įrangos ir (ar) šios įrangos atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Elektros ir elektroninės įrangos tiekimo rinkai apskaitos ir atliekų tvarkymo ataskaitos nepateikimas iki nustatytų terminų
+1\. Elektros ir elektroninės įrangos apskaitos, apskaitos ataskaitos ir (ar) elektros ir elektroninės įrangos atliekų tvarkymo organizavimo veiklos ataskaitos nepateikimas iki nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-2\. Elektros ir elektroninės įrangos tiekimo rinkai apskaitos netvarkymas ar netinkamas tvarkymas
+*Straipsnio dalies pakeitimai:*
 
-užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+2\. Neteko galios nuo 2025-10-07
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 3\. Informacijos apie elektros ir elektroninėje įrangoje esančias pavojingas medžiagas, jų keliamą pavojų aplinkai ir žmonių sveikatai arba informacijos apie šios įrangos atliekų tvarkymą ir priėmimą prekybos vietoje nepateikimas elektros ir elektroninės įrangos vartotojams ar šios įrangos atliekų tvarkytojams
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-4\. Elektros ir elektroninės įrangos, kurios gamintojas ir (ar) importuotojas nėra užsiregistravęs Gamintojų ir importuotojų registravimo sąvade, platinimas
+4\. Elektros ir elektroninės įrangos, kurios gamintojas ir (ar) importuotojas nėra įsiregistravęs Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje, platinimas
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 5\. Pagal nustatytus reikalavimus nepaženklintos elektros ir elektroninės įrangos platinimas
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-6\. Klaidingų duomenų pateikimas elektros ir elektroninės įrangos tiekimo rinkai apskaitos ir atliekų tvarkymo ataskaitose
+6\. Neteisingų duomenų pateikimas elektros ir elektroninės įrangos apskaitoje, šios apskaitos ataskaitoje ir (ar) elektros ir elektroninės įrangos atliekų tvarkymo organizavimo veiklos ataskaitoje arba elektros ir elektroninės įrangos apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 7\. Atsisakymas be papildomo mokesčio priimti prekybos vietoje vartotojo atiduodamas buityje susidarančias elektros ir elektroninės įrangos atliekas tuo atveju, kai vartotojo atiduodamos elektros ir elektroninės įrangos atliekos yra tos pačios paskirties kaip jo perkama įranga ir kai atiduodamos įrangos atliekų kiekis (skaičiuojant įrangos vienetais) atitinka perkamos įrangos kiekį,
 
@@ -5708,17 +5778,33 @@ užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų pen
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
-9\. Elektros ir elektroninės įrangos tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+9\. Elektros ir elektroninės įrangos tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 10\. Elektros ir elektroninės įrangos tiekimas Lietuvos Respublikos vidaus rinkai neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas,
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-11\. Šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+10¹. Elektros ir elektroninės įrangos apskaitos netvarkymas
+
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+11\. Šio straipsnio 1, 3, 4, 5, 6, 7, 8, 9, 10, 10¹ dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 12\. Elektros ir elektroninės įrangos atliekų netvarkymas ir nedalyvavimas elektros ir elektroninės įrangos atliekų tvarkymo sistemoje
 
@@ -5726,57 +5812,53 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 250 straipsnis. Alyvos ir (ar) alyvos atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Alyvos tiekimo rinkai apskaitos ir alyvos atliekų tvarkymo ataskaitos nepateikimas iki nustatytų terminų
+1\. Alyvos apskaitos ataskaitos ir (ar) alyvos atliekų tvarkymo organizavimo veiklos ataskaitos nepateikimas iki nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+2\. Alyvos tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-3\. Alyvos tiekimo rinkai apskaitos netvarkymas ar netinkamas tvarkymas
-
-užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
-
-4\. Klaidingų duomenų pateikimas alyvos tiekimo rinkai apskaitos ir alyvos atliekų tvarkymo apskaitos ataskaitose
+4\. Neteisingų duomenų pateikimas alyvos apskaitoje, šios apskaitos ataskaitoje ir (ar) alyvos atliekų tvarkymo organizavimo veiklos ataskaitoje arba alyvos apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
 5\. Alyvos atliekų tvarkymas atliekų tvarkymą reglamentuojančiuose teisės aktuose nenumatytais būdais ir (ar) deginimas, kai tai daro ne atliekų tvarkytojas,
 
-užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki penkių šimtų keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki penkių šimtų keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
-
-6\. Alyvos tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
-
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
-
-7\. Alyvos atliekų atlygintinas ar neatlygintinas perdavimas neturintiems teisės tvarkyti alyvos atliekas asmenims
+6\. Alyvos atliekų atlygintinas ar neatlygintinas perdavimas neturintiems teisės tvarkyti alyvos atliekas asmenims
 
 užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948*
-
-8\. Šio straipsnio 4, 5, 6, 7 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+7\. Šio straipsnio 2, 4, 5, 6 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą nuo septynių šimtų penkiasdešimt iki dviejų tūkstančių eurų.
 
-9\. Iki penkiasdešimt procentų mažesnio, negu privaloma sutvarkyti pagal Lietuvos Respublikos Vyriausybės nustatytą alyvos atliekų tvarkymo užduotį, alyvos atliekų kiekio sutvarkymas
+8\. Alyvos apskaitos netvarkymas
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
 
-10\. Alyvos atliekų netvarkymas ir nedalyvavimas alyvos atliekų tvarkymo sistemoje
+9\. Mažesnio kaip penkiasdešimt procentų ar penkiasdešimt procentų privalomo sutvarkyti alyvos atliekų kiekio, numatyto pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytą alyvos atliekų tvarkymo užduotį, nesutvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+
+10\. Didesnio kaip penkiasdešimt procentų privalomo sutvarkyti alyvos atliekų kiekio, numatyto pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytą alyvos atliekų tvarkymo užduotį, nesutvarkymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
 
-11\. Daugiau kaip penkiasdešimt procentų mažesnio, negu privaloma sutvarkyti pagal Lietuvos Respublikos Vyriausybės nustatytą alyvos atliekų tvarkymo užduotį, alyvos atliekų kiekio sutvarkymas
+11\. Lietuvos Respublikos atliekų tvarkymo įstatyme alyvos gamintojams ir importuotojams nustatytos pareigos neatlygintinai surinkti alyvos atliekas iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių, šias atliekas pervežti ir perduoti alyvos atliekų tvarkytojams arba kompensuoti transporto priemonių techninės priežiūros ir remonto paslaugas teikiančioms įmonėms ar atliekų tvarkytojams alyvos atliekų surinkimo ir vežimo tvarkyti išlaidas Lietuvos Respublikos teritorijoje nevykdymas
 
-užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 #### 251 straipsnis. Atliekų įvežimo ar importo į Lietuvos Respubliką, atliekų išvežimo ar eksporto iš Lietuvos Respublikos ir atliekų vežimo tranzitu per Lietuvos Respublikos teritoriją reikalavimų pažeidimas
 
@@ -5894,37 +5976,37 @@ užtraukia baudą laivų perdirbimo bendrovių vadovams ar kitiems atsakingiems 
 
 *Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852*
 
-#### 252 straipsnis. Apmokestinamųjų gaminių ir apmokestinamųjų gaminių atliekų tvarkymo reikalavimų nevykdymas
+#### 252 straipsnis. Apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos tvarkymo, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Apmokestinamųjų gaminių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
-
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
-
-2\. Apmokestinamųjų gaminių tiekimo rinkai apskaitos ir apmokestinamųjų gaminių atliekų tvarkymo ataskaitų nepateikimas iki nustatytų terminų
+1\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos ataskaitos ir (ar) apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo organizavimo veiklos ataskaitos nepateikimas iki nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-3\. Apmokestinamųjų gaminių tiekimo rinkai apskaitos netvarkymas arba netinkamas tvarkymas
+2\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-4\. Informacijos apie baterijose ir akumuliatoriuose esančių medžiagų keliamą pavojų aplinkai ir žmonių sveikatai ir (ar) informacijos apie baterijų ir akumuliatorių atliekų surinkimo, apdorojimo ir perdirbimo sistemas nepateikimas baterijų ir akumuliatorių vartotojams arba informacijos apie galimybę prekybos vietose atiduoti nešiojamųjų baterijų ir akumuliatorių atliekas nepateikimas baterijų ir akumuliatorių vartotojams
+3\. Informacijos apie baterijose ir akumuliatoriuose esančių medžiagų keliamą pavojų aplinkai ir žmonių sveikatai ir (ar) informacijos apie baterijų ir akumuliatorių atliekų surinkimo, apdorojimo ir perdirbimo sistemas nepateikimas baterijų ir akumuliatorių vartotojams arba informacijos apie galimybę prekybos vietose atiduoti nešiojamųjų baterijų ir akumuliatorių atliekas nepateikimas baterijų ir akumuliatorių vartotojams
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-5\. Atsisakymas nemokamai priimti vartotojų atiduodamas nešiojamųjų baterijų ir akumuliatorių atliekas ar reikalavimas pirkti naują nešiojamąją bateriją ar akumuliatorių atiduodant jų atliekas nešiojamųjų baterijų ir akumuliatorių prekybos vietose
+4\. Atsisakymas nemokamai priimti vartotojų atiduodamas nešiojamųjų baterijų ir akumuliatorių atliekas ar reikalavimas pirkti naują nešiojamąją bateriją ar akumuliatorių atiduodant jų atliekas nešiojamųjų baterijų ir akumuliatorių prekybos vietose
 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+5\. Lietuvos Respublikos atliekų tvarkymo įstatyme numatytos pareigos priimti padangų atliekas nevykdymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 6\. Atsisakymas priimti iš vartotojų pramoninių baterijų ir akumuliatorių atliekas
 
 užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-7\. Klaidingų duomenų pateikimas apmokestinamųjų gaminių tiekimo rinkai apskaitos ir atliekų tvarkymo ataskaitose
+7\. Neteisingų duomenų pateikimas apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitoje, šios apskaitos ataskaitoje ir (ar) apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo organizavimo veiklos ataskaitoje arba apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-8\. Surinktų apmokestinamųjų gaminių atliekų atlygintinis ar neatlygintinis perleidimas neturintiems teisės tvarkyti šias atliekas asmenims
+8\. Surinktų apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų atlygintinis ar neatlygintinis perleidimas neturintiems teisės tvarkyti šias atliekas asmenims
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
@@ -5932,9 +6014,21 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
 
-10\. Baterijų ir akumuliatorių atliekų netvarkymas ir (ar) nedalyvavimas organizuojant baterijų ir akumuliatorių atliekų tvarkymo sistemas
+10\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos netvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+11\. Šio straipsnio 10 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių dviejų šimtų eurų.
+
+12\. Atliekų tvarkymo įstatyme numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų, kurios susidarė naudojant apmokestinamuosius gaminius ir (ar) gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais į prietaisus ar transporto priemones įmontuotas baterijas ir (ar) akumuliatorius, arba sudaryti sutartis nevykdymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 #### 253 straipsnis. Valstybės gamtos išteklių registrų ir kadastrų nuostatų pažeidimas
 
@@ -5974,15 +6068,15 @@ užtraukia baudą veiklos vykdytojams asmenims nuo trijų šimtų iki šešių �
 
 #### 255 straipsnis. Transporto priemonių ir eksploatuoti netinkamų transporto priemonių tvarkymą reglamentuojančių teisės aktų reikalavimų pažeidimas
 
-1\. Transporto priemonių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
-
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
-
-2\. Transporto priemonių tiekimo rinkai apskaitos ir atliekų tvarkymo ataskaitos nepateikimas iki nustatytų terminų
+1\. Transporto priemonių apskaitos ataskaitos ir (ar) eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo veiklos ataskaitos nepateikimas iki nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-3\. Klaidingų duomenų pateikimas transporto priemonių tiekimo rinkai apskaitos ir atliekų tvarkymo ataskaitose
+2\. Transporto priemonių tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+3\. Neteisingų duomenų pateikimas transporto priemonių apskaitoje, šios apskaitos ataskaitoje ir (ar) eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo veiklos ataskaitoje arba transporto priemonių apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
@@ -5990,27 +6084,35 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
 
-5\. Transporto priemonių tiekimo rinkai apskaitos netvarkymas ar netinkamas tvarkymas
+5\. Transporto priemonių apskaitos netvarkymas
 
-užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
 
-6\. Iki penkiasdešimt procentų mažesnio, negu privaloma sutvarkyti pagal Lietuvos Respublikos Vyriausybės nustatytą eksploatuoti netinkamų transporto priemonių tvarkymo užduotį, eksploatuoti netinkamų transporto priemonių kiekio sutvarkymas
+6\. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytos eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymas penkiasdešimt ar mažiau procentų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-7\. Daugiau kaip penkiasdešimt procentų mažesnio, negu privaloma sutvarkyti pagal Lietuvos Respublikos Vyriausybės nustatytą eksploatuoti netinkamų transporto priemonių tvarkymo užduotį, eksploatuoti netinkamų transporto priemonių kiekio sutvarkymas
+7\. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytos eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymas daugiau kaip penkiasdešimt procentų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
 
-8\. Eksploatuoti netinkamų transporto priemonių netvarkymas ir nedalyvavimas eksploatuoti netinkamų transporto priemonių tvarkymo sistemoje
+8\. Lietuvos Respublikos atliekų tvarkymo įstatyme numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą eksploatuoti netinkamų transporto priemonių, kurios susidarė naudojant gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, arba sudaryti sutartis nevykdymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 #### 255¹ straipsnis. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimas
 
-1\. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimai, išskyrus šio kodekso 235 straipsnio 1, 2, 3, 4, 7, 8 dalyse, 242, 244, 246 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 36, 37, 38, 39, 40 dalyse, 249, 252 straipsnio 5, 6, 8, 9 dalyse, 309 straipsnio 1, 2, 4, 7, 8 dalyse, 332 straipsnio 2 dalyje numatytus pažeidimus,
+1\. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimai, išskyrus šio kodekso 235 straipsnio 1, 2, 3, 4, 7, 8 dalyse, 242, 244, 246 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 36, 37, 38, 39, 40 dalyse, 249 straipsnyje, 252 straipsnio 4, 5, 6, 8, 9, 12 dalyse, 309 straipsnio 1, 2, 4, 7, 8 dalyse, 332 straipsnio 2 dalyje numatytus pažeidimus,
 
 užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki aštuonių šimtų septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų dvidešimt penkių iki vieno tūkstančio vieno šimto eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -14736,7 +14838,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694*
 
-43\) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+43\) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14749,6 +14851,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390*
 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 44\) Mobilizacijos ir pilietinio pasipriešinimo departamento prie Krašto apsaugos ministerijos – dėl šio kodekso 505, 507, 516, 517, 517⁴ straipsniuose numatytų administracinių nusižengimų;
 
@@ -15968,7 +16072,11 @@ Padarius šio kodekso 305 straipsnio 10, 11 dalyse numatytus administracinius nu
 
 2\) dėl šio kodekso 431 straipsnio 1, 2, 3 ir 4 dalyse numatytų administracinių nusižengimų, taip pat šio kodekso 611 straipsnyje numatytais atvejais;
 
-3\) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 236¹ straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 243¹ straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 248¹ straipsnio 2 ir 4 dalyse, 248² straipsnio 2 ir 4 dalyse, 248³ straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 2 dalyse, 252 straipsnio 2 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 2 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
+3\) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 236¹ straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 243¹ straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 248¹ straipsnio 2 ir 4 dalyse, 248² straipsnio 2 ir 4 dalyse, 248³ straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 3 dalyse, 252 straipsnio 1 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 1 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 3\. Dėl šio kodekso 224 straipsnio 2 dalyje numatyto administracinio nusižengimo, be šio kodekso 589 straipsnyje nurodytų pareigūnų, protokolą turi teisę surašyti administracinio nusižengimo bylą ne teismo tvarka nagrinėjantis pareigūnas arba nutarimą administracinio nusižengimo byloje vykdančios institucijos pareigūnas. Jeigu šio kodekso 224 straipsnio 2 dalyje numatytas administracinis nusižengimas paaiškėja bylą nagrinėjant teisme, teisėjas neskundžiama nutartimi apie tai praneša institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą ir surašė administracinio nusižengimo protokolą.
 
@@ -17436,7 +17544,11 @@ priedas
 
 25\. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
 
-26\. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849.
+26\. Neteko galios nuo 2025-10-07
+
+*Punkto naikinimas:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 27\. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1901/2006 dėl pediatrijoje vartojamų vaistinių preparatų, iš dalies keičiantis Reglamentą (EEB) Nr. 1768/92, Direktyvą 2001/20/EB, Direktyvą 2001/83/EB ir Reglamentą (EB) Nr. 726/2004, su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/5.
 
@@ -17711,6 +17823,12 @@ priedas
 *Papildyta straipsnio dalimi:*
 
 *Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164*
+
+118¹. 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1542 dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva 2008/98/EB bei Reglamentas (ES) 2019/1020 ir panaikinama Direktyva 2006/66/EB.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
 119\. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014.
 
@@ -19903,3 +20021,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių, priedo pakeitimo ir Kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas
+
+271\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas
