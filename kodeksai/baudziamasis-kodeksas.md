@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2025-05-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/SrrmtyqfVi"
+redakcija_nuo: "2025-10-18"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/UYGpNjbqgT"
 ---
 
 # Baudžiamasis kodeksas
@@ -5470,13 +5470,13 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 #### 228 straipsnis. Piktnaudžiavimas
 
-1\. Valstybės tarnautojas ar jam prilygintas asmuo, piktnaudžiavęs tarnybine padėtimi arba viršijęs įgaliojimus, jeigu dėl to didelės žalos patyrė valstybė, Europos Sąjunga, tarptautinė viešoji organizacija, juridinis ar fizinis asmuo,
+1\. Valstybės tarnautojas ar jam prilygintas asmuo, piktnaudžiavęs tarnybine padėtimi arba viršijęs įgaliojimus, jeigu dėl to didelę žalą patyrė valstybė, Europos Sąjunga, tarptautinė viešoji organizacija, juridinis ar fizinis asmuo,
 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką siekdamas turtinės ar kitokios asmeninės naudos, jeigu nebuvo kyšininkavimo požymių,
 
-baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
+baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
 3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -5485,6 +5485,10 @@ baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 *Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)*
 
 *Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)*
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-474, 2025-10-16, paskelbta TAR 2025-10-17, i. k. 2025-17375*
 
 #### 228¹ straipsnis. Neteisėtas teisių į daiktą įregistravimas
 
@@ -9117,3 +9121,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-204, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08906
 
 Lietuvos Respublikos baudžiamojo kodekso 123-1 straipsnio ir priedo pakeitimo įstatymas
+
+71\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-474, 2025-10-16, paskelbta TAR 2025-10-17, i. k. 2025-17375
+
+Lietuvos Respublikos baudžiamojo kodekso 228 straipsnio pakeitimo įstatymas
