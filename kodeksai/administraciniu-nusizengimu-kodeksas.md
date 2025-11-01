@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-10-07"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/GxJymFAAJV"
+redakcija_nuo: "2025-11-02"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/naVVFoIpVx"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -12376,21 +12376,31 @@ užtraukia baudą vairuotojams arba transporto priemonių savininkams (valdytoja
 
 #### 464 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas
 
-1\. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo bangų siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių neteisėtas naudojimas ir (arba) laikymas, radijo ryšio stočių, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), neteisėtas laikymas
+1\. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo bangų siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio stočių, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), neteisėtas laikymas
 
 užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.
+3\. Radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių neteisėtas naudojimas ir (arba) laikymas
+
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+
+5\. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808*
 
 *Nr. XIV-2206, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21646*
+
+*Nr. XV-482, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17641*
 
 #### 465 straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti radijo trikdžius arba sumažinti jų lygį nevykdymas
 
@@ -20029,3 +20039,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas
+
+272\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-482, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17641
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
