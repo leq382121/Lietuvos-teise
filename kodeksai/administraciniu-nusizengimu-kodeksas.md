@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-11-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/naVVFoIpVx"
+redakcija_nuo: "2025-12-02"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ZgVNYomaEE"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -7406,7 +7406,11 @@ užtraukia baudą nuo dviejų šimtų penkiasdešimt iki penkių šimtų penkias
 
 užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų.
 
-11\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 5, 6, 7, 8, 9 ir 10 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą.
+11\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 5, 6, 7, 8, 9 ir 10 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą. Už šio straipsnio 4, 5, 9, 10 dalyse numatytus administracinius nusižengimus gali būti skiriamas transporto priemonių, kurios buvo panaudotos draudžiamų žvejybos įrankių ir (ar) neteisėtai sugautų žuvų gabenimui, konfiskavimas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-575, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20384*
 
 *Straipsnio pakeitimai:*
 
@@ -20047,3 +20051,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-482, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17641
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
+
+273\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 251-1, 317, 318, 426, 505, 589, 604 straipsnių pakeitimo ir Kodekso papildymo 521-1 straipsniu įstatymas
+
+274\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-575, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20384
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 291 straipsnio pakeitimo įstatymas
