@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-12-02"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ZgVNYomaEE"
+redakcija_nuo: "2025-12-05"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/LqkfEhhHOr"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -1742,7 +1742,7 @@ užtraukia baudą nuo vieno šimto aštuoniasdešimt iki keturių šimtų keturi
 
 *Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854*
 
-#### 77 straipsnis. Tabako gaminių ar susijusių gaminių nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiams
+#### 77 straipsnis. Tabako gaminių, susijusių gaminių, prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiams
 
 1\. Tabako gaminių ar susijusių gaminių, išskyrus elektronines cigaretes ir (ar) elektroninių cigarečių pildykles, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiui
 
@@ -1760,7 +1760,15 @@ užtraukia baudą nuo trijų šimtų dvidešimt iki penkių šimtų aštuoniasde
 
 užtraukia baudą nuo penkių šimtų aštuoniasdešimt iki aštuonių šimtų dvidešimt eurų.
 
-5\. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių ar susijusių gaminių konfiskavimą.
+5\. Prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiui
+
+užtraukia baudą nuo dviejų šimtų iki trijų šimtų eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis pažeidimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+7\. Už šio straipsnio 1, 2, 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių, susijusių gaminių, prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, konfiskavimą.
 
 *Straipsnio pakeitimai:*
 
@@ -1769,6 +1777,8 @@ užtraukia baudą nuo penkių šimtų aštuoniasdešimt iki aštuonių šimtų d
 *Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957*
 
 *Nr. XV-56, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23065*
+
+*Nr. XV-621, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20663*
 
 #### 78 straipsnis. Energinių gėrimų pardavimas, nupirkimas ar kitoks perdavimas jaunesniems kaip 18 metų asmenims
 
@@ -20067,3 +20077,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-575, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20384
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 291 straipsnio pakeitimo įstatymas
+
+275\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-621, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20663
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 77 straipsnio pakeitimo įstatymas
