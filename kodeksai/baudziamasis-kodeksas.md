@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2025-10-18"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/UYGpNjbqgT"
+redakcija_nuo: "2025-12-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/QxpkhhHWHP"
 ---
 
 # Baudžiamasis kodeksas
@@ -4708,7 +4708,19 @@ baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
 baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
-4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Tas, kas per Lietuvos Respublikos valstybės sieną gabendamas privalomus pateikti muitinei daiktus nepateikė jų muitinės kontrolei ar kitaip šios kontrolės išvengė, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Straipsnio pakeitimai:*
 
@@ -4752,7 +4764,19 @@ baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
 baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
-4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+4\. Tas, kas pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais apmokestinamas prekes, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+5\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Straipsnio pakeitimai:*
 
@@ -6154,7 +6178,19 @@ baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
 baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
-3\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -6236,7 +6272,19 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 baudžiamas laisvės atėmimu iki aštuonerių metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -6354,13 +6402,33 @@ baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
 baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 
-5\. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį narkotinių ar psichotropinių medžiagų,
+5\. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė narkotines ar psichotropines medžiagas, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+6\. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį narkotinių ar psichotropinių medžiagų,
 
 baudžiamas laisvės atėmimu nuo dešimties iki aštuoniolikos metų.
 
-6\. Už šio straipsnio 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+*Straipsnio dalies numeracijos pakeitimas:*
 
-7\. Asmuo, kuris savo noru kreipėsi į sveikatos priežiūros įstaigą dėl medicinos pagalbos ar į valstybės instituciją norėdamas atiduoti neteisėtai gabentą ar siųstą be tikslo platinti nedidelį kiekį narkotinių ar psichotropinių medžiagų, atleidžiamas nuo baudžiamosios atsakomybės už atiduotų narkotinių ar psichotropinių medžiagų kontrabandą.
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+7\. Už šio straipsnio 3, 4, 5 ir 6 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+8\. Asmuo, kuris savo noru kreipėsi į sveikatos priežiūros įstaigą dėl medicinos pagalbos ar į valstybės instituciją norėdamas atiduoti neteisėtai gabentą ar siųstą be tikslo platinti nedidelį kiekį narkotinių ar psichotropinių medžiagų, atleidžiamas nuo baudžiamosios atsakomybės už atiduotų narkotinių ar psichotropinių medžiagų kontrabandą.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -6468,9 +6536,21 @@ baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 baudžiamas laisvės atėmimu nuo trejų iki septynerių metų.
 
-3\. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo ketverių iki septynerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+4\. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
 
 baudžiamas laisvės atėmimu nuo septynerių iki dvylikos metų.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 4\. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
@@ -6530,7 +6610,19 @@ baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 *Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686*
 
-3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+3\. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+4\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -6546,7 +6638,19 @@ baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 *Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686*
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -6880,7 +6984,19 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
-2\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2\. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą,
+
+baudžiamas laisvės atėmimu nuo dvejų iki šešerių metų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
+
+3\. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 *Papildyta straipsniu:*
 
@@ -7054,13 +7170,31 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 
 *Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859*
 
-#### 282 straipsnis. Transporto eismo tvarkos ar saugumo taisyklių pažeidimas
+#### 282 straipsnis. Transporto saugumo sutrikdymas
 
 1\. Tas, kas nevairuodamas transporto priemonės pažeidė transporto eismo tvarkos ar saugumo taisykles, jeigu dėl to žuvo žmogus arba buvo sunkiai sutrikdyta žmogaus sveikata,
 
 baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
-2\. Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos padarytos dėl neatsargumo.
+2\. Tas, kas neteisėtai panaudojo valdomą ar nevaldomą objektą, judantį oru, žeme ar vandeniu, ir dėl to kilo reali grėsmė žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba buvo sutrikdytas saugus transporto eismas, arba padaryta didelė turtinė žala,
+
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
+
+3\. Tas, kas padarė šio straipsnio 2 dalyje numatytą veiką, jeigu dėl to buvo sunkiai sutrikdyta žmogaus sveikata arba buvo padaryta labai didelė turtinė žala, arba atsirado kitokių sunkių padarinių,
+
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+
+4\. Tas, kas padarė šio straipsnio 2 dalyje numatytą veiką, jeigu dėl to žuvo žmogus,
+
+baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
+
+5\. Asmuo atsako pagal šio straipsnio 1 dalį tik tais atvejais, kai joje numatytos veikos padarytos dėl neatsargumo.
+
+6\. Už šio straipsnio 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483*
 
 #### 282¹ straipsnis. Sąvokų išaiškinimas
 
@@ -9129,3 +9263,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-474, 2025-10-16, paskelbta TAR 2025-10-17, i. k. 2025-17375
 
 Lietuvos Respublikos baudžiamojo kodekso 228 straipsnio pakeitimo įstatymas
+
+72\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
+
+Lietuvos Respublikos baudžiamojo kodekso 199, 199-2, 253-2, 256-2, 260-1, 266-1, 267-2, 267-3, 276-4 ir 282 straipsnių pakeitimo įstatymas
