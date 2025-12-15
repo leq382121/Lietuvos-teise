@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2025-09-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/mCxcVqHYnd"
+redakcija_nuo: "2025-12-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/tBeGqHQZjU"
 ---
 
 # Civilinis kodeksas
@@ -6576,7 +6576,11 @@ Išlaikymas priteisiamas nuo teisės į išlaikymą atsiradimo dienos, tačiau i
 
 1\. Valstybė išlaiko nepilnamečius vaikus, ilgiau kaip mėnesį negaunančius išlaikymo iš tėvo (motinos) ar iš kitų pilnamečių artimųjų giminaičių, turinčių galimybę juos išlaikyti.
 
-2\. Valstybės teikiamo išlaikymo dydį, tvarką ir sąlygas nustato Vyriausybė.
+2\. Valstybės teikiamo išlaikymo dydis ir teisės į išlaikymą atsiradimo sąlygos nustatomi įstatymu.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-647, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21479*
 
 3\. Valstybė, teikusi išlaikymą nepilnamečiams vaikams pagal šį straipsnį, turi atgręžtinio reikalavimo teisę išieškoti vaikui suteiktas išlaikymo lėšas iš vaiko tėvų ar kitų jo pilnamečių artimųjų giminaičių, jeigu jie neteikė vaikui išlaikymo dėl priežasčių, teismo pripažintų nesvarbiomis.
 
@@ -13342,26 +13346,6 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 6\) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
 
-7\) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
-
-*Papildyta straipsnio punktu:*
-
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
-
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
-
-8\) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti.
-
-*Papildyta straipsnio punktu:*
-
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
-
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
-
 2\. Įstatymuose ir Mažmeninės prekybos taisyklėse gali būti nustatyta reikalavimų dėl papildomos informacijos, kurią būtina suteikti vartotojams prieš sudarant vartojimo sutartis dėl tam tikrų rūšių prekių ar paslaugų, teikimo.
 
 3\. Šis straipsnis netaikomas smulkioms buitinėms sutartims, kurios įvykdomos iš karto po jų sudarymo.
@@ -13419,32 +13403,6 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 15\) jeigu reikalinga, užstatai ar kitos finansinės garantijos, kurias vartotojas turi pateikti ar sumokėti verslininko reikalavimu, ir jų taikymo sąlygos;
 
 16\) jeigu reikalinga, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos;
-
-17\) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
-
-*Papildyta straipsnio punktu:*
-
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
-
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
-
-18\) jeigu reikalinga, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti;
-
-*Papildyta straipsnio punktu:*
-
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
-
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
-
-19\) jeigu reikalinga, tai, kad kaina buvo individualizuota taikant automatizuotą sprendimų priėmimą.
-
-*Papildyta straipsnio punktu:*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
 
 2\. Šio straipsnio 1 dalies 7, 8 ir 9 punktuose nurodyta informacija gali būti vartotojui suteikta pateikiant užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą. Šią formą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Jeigu verslininkas pateikė vartotojui tinkamai užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą, laikoma, kad verslininkas tinkamai įvykdė šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytus informacijos teikimo reikalavimus.
 
@@ -22595,3 +22553,35 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
 
 Lietuvos Respublikos civilinio kodekso 5.53 straipsnio pakeitimo įstatymas
+
+84\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-443, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16789
+
+Lietuvos Respublikos civilinio kodekso 2.77 straipsnio pakeitimo ir 2.78, 2.79 straipsnių pripažinimo netekusiais galios įstatymas
+
+85\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-529, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19761
+
+Lietuvos Respublikos civilinio kodekso 4.107, 4.109 ir 6.956 straipsnių pakeitimo įstatymas
+
+86\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385
+
+Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas
+
+87\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-647, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21479
+
+Lietuvos Respublikos civilinio kodekso 3.204 straipsnio pakeitimo įstatymas
