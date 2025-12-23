@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2025-12-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/tBeGqHQZjU"
+redakcija_nuo: "2025-12-24"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/HBVsXBOPTD"
 ---
 
 # Civilinis kodeksas
@@ -7058,7 +7058,11 @@ Visas turtas, kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, g
 
 *Nr. XIII-241, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05912*
 
-5\. Globėjai ir rūpintojai privalo informuoti globos (rūpybos) instituciją apie savo gyvenamosios vietos pasikeitimą.
+5\. Globėjai ir rūpintojai privalo informuoti globos ir rūpybos instituciją apie savo gyvenamosios vietos pasikeitimą.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540*
 
 6\. Jeigu išnyksta aplinkybės, dėl kurių asmuo buvo pripažintas neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje, asmens globėjas ar rūpintojas turi kreiptis į teismą dėl asmens pripažinimo veiksniu.
 
@@ -7408,7 +7412,11 @@ Vaiko nuolatinė globa (rūpyba) baigiasi, kai vaikas:
 
 *Nr. XIII-1290, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10591*
 
-2\. Bendras vaikų skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai neišskiriami broliai ir seserys, arba mažesnis, jeigu yra globojamas neįgalus vaikas.
+2\. Bendras vaikų skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, jeigu neišskiriami broliai ir seserys, arba mažesnis, jeigu yra globojamas vaikas su negalia.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540*
 
 3\. Vaiko globa (rūpyba) šeimynoje nustatoma vadovaujantis įstatymais, Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais, kitais teisės aktais.
 
@@ -7574,7 +7582,11 @@ Vaiko globos (rūpybos) vieta gali būti:
 
 Vaiko globėju (rūpintoju) gali būti skiriamas asmuo:
 
-1\) ne jaunesnis negu dvidešimt vienerių metų, išskyrus atvejus, kai globoti pageidauja artimasis giminaitis;
+1\) pilnametis;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540*
 
 2\) nepripažintas neveiksniu šioje srityje arba ribotai veiksniu šioje srityje;
 
@@ -7586,9 +7598,11 @@ Vaiko globėju (rūpintoju) gali būti skiriamas asmuo:
 
 6\) kuris nėra teistas už tyčinį nusikaltimą žmoniškumui, žmogaus gyvybei, laisvei, seksualinio apsisprendimo laisvei ir neliečiamumui, vaikui ir šeimai, visuomenės saugumui, dorovei, nusikaltimą, pavojingą žmogaus gyvybei ir sveikatai, sunkų sveikatos sutrikdymą, taip pat nusikaltimą, susijusį su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas įstatymų nustatyta tvarka. Dėl asmens, kuris buvo nuteistas už kitas nusikalstamas veikas ar kuriam buvo paskirtos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, teisės būti vaiko globėju (rūpintoju) sprendžiama, įvertinus padarytos (padarytų) nusikalstamos (nusikalstamų) veikos (veikų) ar administracinio (administracinių) nusižengimo (nusižengimų) pobūdį, pavojingumą ir atsižvelgus į vaiko interesus;
 
-7\) iki šešiasdešimt penkerių metų, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
+7\) Neteko galios nuo 2025-12-24
 
-*TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d. redakcija, Žin., 2000, Nr. 74-2262; 2021 m. gruodžio 23 d. redakcija, TAR, 2022-01-04, Nr. 70, identifikacinis kodas 2022-00070) 7 punktas prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai.*
+*Straipsnio punkto naikinimas:*
+
+*Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540*
 
 *Straipsnio punkto pakeitimai:*
 
@@ -22585,3 +22599,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-647, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21479
 
 Lietuvos Respublikos civilinio kodekso 3.204 straipsnio pakeitimo įstatymas
+
+88\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540
+
+Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 3.211, 3.217, 3.224, 3.243, 3.246, 3.250, 3.260, 3.261, 3.262, 3.264, 3.266 ir 3.269 straipsnių pakeitimo įstatymas
