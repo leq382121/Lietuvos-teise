@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2025-12-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/QxpkhhHWHP"
+redakcija_nuo: "2026-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/KjBTgQqlkz"
 ---
 
 # Baudžiamasis kodeksas
@@ -7816,6 +7816,32 @@ baudžiamas bauda arba areštu.
 
 *Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)*
 
+#### 314¹ straipsnis. Skyrimo į alternatyviąją krašto apsaugos tarnybą ir jos atlikimo vengimas
+
+1\. Alternatyviosios krašto apsaugos tarnybos prievolininkas, vengęs skyrimo į alternatyviąją krašto apsaugos tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,
+
+baudžiamas areštu arba laisvės atėmimu iki trejų metų.
+
+2\. Alternatyviosios krašto apsaugos tarnybos prievolininkas, paskirtas atlikti alternatyviąją krašto apsaugos tarnybą, vengęs ją atlikti sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,
+
+baudžiamas laisvės atėmimu iki trejų metų.
+
+3\. Alternatyviosios krašto apsaugos tarnybos prievolininkas, vengęs skyrimo į alternatyviąją krašto apsaugos tarnybą karo padėties metu,
+
+baudžiamas laisvės atėmimu iki penkerių metų.
+
+4\. Alternatyviosios krašto apsaugos tarnybos prievolininkas, paskirtas atlikti alternatyviąją krašto apsaugos tarnybą, padaręs šio straipsnio 2 dalyje numatytą veiką karo padėties metu arba jeigu dėl tos veikos atsirado sunkių padarinių,
+
+baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
+
+5\. Alternatyviosios krašto apsaugos tarnybos prievolininkas, vengęs skyrimo į alternatyviąją krašto apsaugos tarnybą, jeigu nebuvo požymių, nurodytų šio straipsnio 1 dalyje, padarė baudžiamąjį nusižengimą ir
+
+baudžiamas bauda arba areštu.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-2736, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11573*
+
 #### 315 straipsnis. Šaukimo į karo tarnybą karo padėties metu vengimas
 
 Karo prievolininkas, vengęs šaukimo į karo tarnybą karo padėties metu, baudžiamas laisvės atėmimu iki penkerių metų.
@@ -7826,9 +7852,13 @@ Karo prievolininkas, vengęs šaukimo į karo tarnybą karo padėties metu, baud
 
 #### 316 straipsnis. Vengimas atlikti karo tarnybą
 
-1\. Karys, vengęs atlikti tikrąją karo tarnybą sutrikdydamas savo sveikatą arba simuliuodamas ligą, suklastodamas dokumentus ar kitokia apgaule,
+1\. Karys, vengęs atlikti tikrąją karo tarnybą sutrikdydamas savo sveikatą, simuliuodamas ligą ar sveikatos sutrikimą, suklastodamas dokumentus ar kitokia apgaule,
 
 baudžiamas laisvės atėmimu iki trejų metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2736, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11573*
 
 2\. Karys, padaręs šio straipsnio 1 dalyje numatytą veiką karo padėties metu ar atlikdamas kovos užduotį, arba jeigu dėl tos veikos atsirado sunkių padarinių,
 
@@ -7969,6 +7999,12 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 *Nr. XIII-3231, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15865*
 
 2\. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
+
+3\. Alternatyviosios krašto apsaugos tarnybos prievolininkas – prievolę atlikti alternatyviąją krašto apsaugos tarnybą turintis Lietuvos Respublikos pilnametis pilietis.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XIV-2736, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11573*
 
 *Straipsnio pakeitimai:*
 
