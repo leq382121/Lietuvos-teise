@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2025-12-15"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/CXOtXmxMVD"
+redakcija_nuo: "2026-01-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/nkXJDZCDhK"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -3964,6 +3964,42 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 *Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164*
 
+#### 188⁶ straipsnis. Duomenis teikiantiems kriptoturto paslaugų teikėjams nustatytų reikalavimų nesilaikymas
+
+1\. Duomenis teikiantiems kriptoturto paslaugų teikėjams Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas
+
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
+
+#### 188⁷ straipsnis. Vengimas teikti informaciją Valstybinei mokesčių inspekcijai
+
+1\. Trečiųjų asmenų pareigos saugoti įrodymus, kurių pagrindu jie priėmė sprendimą Valstybinei mokesčių inspekcijai teikti Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nurodytą informaciją ar jos neteikti, nevykdymas
+
+užtraukia baudą asmenims nuo vieno šimto iki vieno tūkstančio eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą asmenims nuo dviejų šimtų iki dviejų tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų iki trijų tūkstančių eurų.
+
+3\. Aplinkybių, su kuriomis siejama Mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta trečiųjų asmenų pareiga teikti informaciją Valstybinei mokesčių inspekcijai, sukūrimas, pakeitimas ir (ar) panaikinimas siekiant išvengti teisingos ir išsamios informacijos teikimo Valstybinei mokesčių inspekcijai
+
+užtraukia baudą asmenims nuo dviejų šimtų iki trijų tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki keturių tūkstančių eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą asmenims nuo keturių šimtų iki penkių tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų iki šešių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
+
 #### 189 straipsnis. Registravimosi mokesčių mokėtoju tvarkos pažeidimas
 
 1\. Mokesčių mokėtojo registravimo duomenų nepateikimas ar pavėluotas pateikimas mokesčių mokėtojus registruojančiai įstaigai, neteisingų duomenų pateikimas, taip pat pakeistų arba papildomų mokesčių mokėtojo registravimo duomenų nepateikimas ar pavėluotas pateikimas
@@ -4176,23 +4212,53 @@ Skolintų lėšų įmonėse kaupimas pažeidžiant įstatymų nustatytą tvarką
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki trijų tūkstančių eurų.
 
-#### 207 straipsnis. Atsiskaitymų tvarkos pažeidimas
+#### 207 straipsnis. Atsiskaitymų, informacijos teikimo tvarkos pažeidimas
 
-1\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pavėluotas pateikimas arba klaidingos informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pateikimas
+1\. Vengimas kaupti duomenis ir juos teikti Valstybinei mokesčių inspekcijai, vykdančiai informacijos mainus plėtojant tarptautinį bendradarbiavimą,
 
-užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisdešimt eurų.
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio trijų šimtų eurų.
 
-2\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas nepateikimas
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo septynių šimtų aštuoniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo vieno tūkstančio trijų šimtų iki keturių tūkstančių eurų.
 
-3\. Pinigų nurašymo ir išdavimo iš mokėtojų sąskaitų tvarkos pažeidimas
+3\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pavėluotas pateikimas, neišsamios arba klaidingos informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pateikimas
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių eurų.
+
+5\. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas nepateikimas
+
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių šešių šimtų eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų tūkstančių šešių šimtų iki šešių tūkstančių eurų.
+
+7\. Vengimas atlikti išsamaus patikrinimo procedūras, kaupti duomenis apie sąskaitas ir juos teikti Valstybinei mokesčių inspekcijai, vykdančiai informacijos mainus plėtojant tarptautinį bendradarbiavimą, šių duomenų teikimo tvarkos nesilaikymas
+
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių šešių šimtų eurų.
+
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų tūkstančių šešių šimtų iki šešių tūkstančių eurų.
+
+9\. Pinigų nurašymo ir išdavimo iš mokėtojų sąskaitų tvarkos pažeidimas
 
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
+
+10\. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 #### 207¹ straipsnis. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas
 
@@ -5807,6 +5873,22 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 10¹. Elektros ir elektroninės įrangos apskaitos netvarkymas
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+10². Penkiasdešimt ar mažiau procentų privalomo sutvarkyti elektros ir elektroninės įrangos atliekų kiekio, numatyto pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytą elektros ir elektroninės įrangos atliekų tvarkymo užduotį, nesutvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+10³. Didesnio kaip penkiasdešimt procentų privalomo sutvarkyti elektros ir elektroninės įrangos atliekų kiekio, numatyto pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytą elektros ir elektroninės įrangos atliekų tvarkymo užduotį, nesutvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio aštuonių šimtų iki keturių tūkstančių penkių šimtų eurų.
 
 *Papildyta straipsnio dalimi:*
 
@@ -13456,19 +13538,27 @@ užtraukia baudą valstybės tarnautojui ar darbuotojui nuo šešių šimtų iki
 
 *Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
 
-#### 517⁴ straipsnis. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, funkcijų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu
+#### 517⁴ straipsnis. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, funkcijų neatlikimas ar netinkamas atlikimas, judėjimo laisvės apribojimų pažeidimas mobilizacijos ar karo padėties metu
 
-1\. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, jam nustatytų funkcijų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu, jeigu dėl to neatsirado sunkių padarinių,
+1\. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, jam nustatytų išvykimo iš Lietuvos Respublikos mobilizacijos ar karo padėties metu reikalavimų nesilaikymas
 
-užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+3\. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, jam nustatytų funkcijų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu, jeigu dėl to neatsirado sunkių padarinių,
+
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
 užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
+*Nr. XIV-2734, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11571*
 
 #### 518 straipsnis. Savavaldžiavimas
 
@@ -14002,9 +14092,9 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 užtraukia baudą nuo dviejų šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-#### 560 straipsnis. Karo prievolininkų pareigų nevykdymas
+#### 560 straipsnis. Karo prievolininkų ir alternatyviosios krašto apsaugos tarnybos prievolininkų pareigų nevykdymas
 
-1\. Lietuvos Respublikos karo prievolės įstatyme nustatytų karo prievolininkų pareigų, išskyrus šio kodekso 558 straipsnyje numatytus atvejus, nevykdymas, paskirtų atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkų pareigų nevykdymas
+1\. Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nustatytų karo prievolininkų pareigų, išskyrus šio kodekso 558 ir 559 straipsniuose numatytus atvejus, nevykdymas, alternatyviosios krašto apsaugos tarnybos prievolininkų pareigų, išskyrus šio kodekso 558 straipsnyje numatytus atvejus, nevykdymas
 
 užtraukia baudą nuo šešiasdešimt iki devyniasdešimt eurų.
 
@@ -14016,9 +14106,11 @@ užtraukia baudą nuo devyniasdešimt iki dviejų šimtų dešimt eurų.
 
 *Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362*
 
-#### 560¹ straipsnis. Karo prievolininkams mobilizacijos ar karo padėties metu taikomų judėjimo laisvės apribojimų pažeidimas
+*Nr. XIV-2734, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11571*
 
-1\. Karo prievolininkams nustatytų išvykimo iš Lietuvos Respublikos mobilizacijos ar karo padėties metu reikalavimų nesilaikymas
+#### 560¹ straipsnis. Karo prievolininkams ir alternatyviosios krašto apsaugos tarnybos prievolininkams mobilizacijos ar karo padėties metu taikomų judėjimo laisvės apribojimų pažeidimas
+
+1\. Karo prievolininkams ir alternatyviosios krašto apsaugos tarnybos prievolininkams nustatytų išvykimo iš Lietuvos Respublikos mobilizacijos ar karo padėties metu reikalavimų nesilaikymas
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
 
@@ -14026,9 +14118,9 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
 
 užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
-*Papildyta straipsniu:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
+*Nr. XIV-2734, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11571*
 
 #### 561 straipsnis. Tyčinis kario liudijimo sugadinimas ar praradimas dėl nerūpestingumo
 
@@ -14714,7 +14806,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
-32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 187¹, 188, 193, 198, 205 straipsniuose, 207 straipsnio 1, 2 dalyse, 207¹ straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų;
+32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 187¹, 188, 193, 198, 205 straipsniuose, 207 straipsnio 3, 4, 5, 6 dalyse, 207¹ straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14731,6 +14823,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
 
 *Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 33\) Valstybės skaitmeninių sprendimų agentūros – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15186,7 +15280,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736*
 
-66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹, 207² straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66\) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 187¹, 188, 188¹, 188³, 188⁴, 188⁵, 188⁶, 188⁷, 189, 190, 191, 192, 194, 198¹, 205, 207, 207¹, 207² straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 362¹, 431, 449, 449¹ straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15225,6 +15319,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555*
 
 *Nr. XIV-3021, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18352*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 113¹, 261 straipsniuose, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15387,6 +15483,12 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
+
+79¹) alternatyviąją krašto apsaugos tarnybą administruojančios institucijos – dėl alternatyviosios krašto apsaugos tarnybos prievolininkų padarytų šio kodekso 558, 560, 560¹ straipsniuose numatytų administracinių nusižengimų;
+
+*Papildyta straipsnio punktu:*
+
+*Nr. XIV-2734, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11571*
 
 80\) Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos – dėl šio kodekso 123, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -17678,11 +17780,15 @@ priedas
 
 57\. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
-57¹. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2021 m. kovo 22 d. Tarybos direktyva (ES) 2021/514.
+57¹. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2023 m. spalio 17 d. Tarybos direktyva (ES) 2023/2226.
 
 *Papildyta punktu:*
 
 *Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364*
+
+*Punkto pakeitimai:*
+
+*Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
 58\. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
