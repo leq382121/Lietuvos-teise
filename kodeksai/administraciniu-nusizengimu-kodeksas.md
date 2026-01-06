@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/nkXJDZCDhK"
+redakcija_nuo: "2026-01-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/NOTrDYCcnA"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -486,7 +486,7 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 
 3\. Turto konfiskavimas gali būti skiriamas, kai tai numatyta šio kodekso specialiosios dalies straipsnyje, nustatančiame administracinę atsakomybę už asmens padarytą veiką. Daiktai, kurių apyvarta uždrausta, konfiskuojami visais atvejais.
 
-4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304² straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10 ir 11 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
+4\. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234² straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304² straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10, 11 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 514¹ straipsnio 3, 4, 7 dalyse, 515 straipsnio 1, 2 dalyse, 524, 557¹ straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:
 
 *Straipsnio dalies pakeitimai:*
 
@@ -505,6 +505,8 @@ Asmuo, padaręs administracinį nusižengimą, atleidžiamas nuo administracinė
 *Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338*
 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 1\) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
 
@@ -8424,21 +8426,27 @@ užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki trijų šimt
 
 užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
 
-#### 321 straipsnis. Patekimas į saugomą objektą, kuriame yra nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto, arba į branduolinės energetikos objekto aikštelę neturint tam teisės
+#### 321 straipsnis. Patekimas į branduolinės energetikos objekto aikštelę neturint tam teisės
 
-1\. Patekimas ar bandymas patekti į saugomą objektą, kuriame yra nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto, arba į branduolinės energetikos objekto aikštelę neturint tam teisės
+1\. Patekimas ar bandymas patekti į branduolinės energetikos objekto aikštelę neturint tam teisės
 
-užtraukia baudą nuo trisdešimt iki septyniasdešimt eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki penkių šimtų eurų.
+
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas karo, nepaprastosios padėties, mobilizacijos metu, taip pat paskelbus ekstremaliąją situaciją ar įvykus ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai arba gyvybiškai svarbių valstybės funkcijų atlikimui,
+
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-289, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07278*
 
 *Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 #### 322 straipsnis. Valstybinės atominės energetikos saugos inspekcijos pareigūnų teisėtų reikalavimų (privalomų vykdyti nurodymų) nevykdymas ar kitoks kliudymas atlikti jiems pavestas pareigas
 
@@ -13440,6 +13448,42 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 *Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900*
 
+#### 514¹ straipsnis. Fizinės saugos reikalavimų nacionaliniam saugumui užtikrinti svarbiuose objektuose pažeidimas
+
+1\. Nacionaliniam saugumui užtikrinti svarbios įmonės ar juridinio asmens, kuris nuosavybės ar patikėjimo teise valdo arba nuomos ar panaudos pagrindais naudoja nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, vadovo nustatytų fizinės saugos reikalavimų pažeidimas, išskyrus šio straipsnio 3, 4, 5, 6, 7 dalyse numatytus pažeidimus,
+
+užtraukia baudą nuo vieno šimto iki dviejų šimtų eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+3\. Nacionaliniam saugumui užtikrinti svarbios įmonės ar juridinio asmens, kuris nuosavybės ar patikėjimo teise valdo arba nuomos ar panaudos pagrindais naudoja nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, patalpų ar teritorijos, kurias draudžiama filmuoti, fotografuoti ar kitu būdu vizualizuoti, taip pat nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto, kuriuos draudžiama filmuoti, fotografuoti ar kitu būdu vizualizuoti, filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
+
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+5\. Patekimas ar bandymas patekti į nacionaliniam saugumui užtikrinti svarbios įmonės ar juridinio asmens, kuris nuosavybės ar patikėjimo teise valdo arba nuomos ar panaudos pagrindais naudoja nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą, patalpas ar teritoriją arba į nacionaliniam saugumui užtikrinti svarbios įmonės, įrenginių ir turto apsaugos zoną neturint tam teisės
+
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+6\. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+7\. Šio straipsnio 1, 3, 5 dalyse numatyti administraciniai nusižengimai, padaryti karo, nepaprastosios padėties, mobilizacijos metu, taip pat paskelbus ekstremaliąją situaciją ar įvykus ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai arba gyvybiškai svarbių valstybės funkcijų atlikimui,
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+8\. Už šio straipsnio 3, 4, 7 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.
+
+*Papildyta straipsniu:*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
+
 #### 515 straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
 1\. Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
@@ -14040,27 +14084,41 @@ užtraukia baudą asmenims nuo trisdešimt iki vieno šimto keturiasdešimt eur�
 
 1\. Patekimas be leidimo į karinę teritoriją
 
-užtraukia baudą nuo dvidešimt iki penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo keturiasdešimt iki vieno šimto penkiasdešimt eurų.
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas karo, nepaprastosios padėties, mobilizacijos metu, taip pat paskelbus ekstremaliąją situaciją ar įvykus ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai arba gyvybiškai svarbių valstybės funkcijų atlikimui,
+
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 #### 557¹ straipsnis. Žvalgybos institucijos valdomos ir naudojamos teritorijos, įskaitant joje esančius statinius, ar karinės teritorijos filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
 
 1\. Žvalgybos institucijos valdomos ir naudojamos teritorijos, įskaitant joje esančius statinius, ar karinės teritorijos, kurią draudžiama filmuoti, fotografuoti ar kitu būdu vizualizuoti, filmavimas, fotografavimas ar vizualizavimas kitu būdu arba gautos vaizdinės informacijos perdavimas kitiems asmenims neturint tam teisės
 
-užtraukia baudą nuo dvidešimt iki penkiasdešimt eurų.
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų.
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
-3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.
+3\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas karo, nepaprastosios padėties, mobilizacijos metu, taip pat paskelbus ekstremaliąją situaciją ar įvykus ekstremaliajam įvykiui, jeigu ekstremalioji situacija ar ekstremalusis įvykis kelia pavojų žmonių gyvybei ar sveikatai arba gyvybiškai svarbių valstybės funkcijų atlikimui,
+
+užtraukia baudą nuo penkių šimtų iki devynių šimtų eurų.
+
+4\. Už šio straipsnio 1, 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas neteisėtai gautos vaizdinės informacijos ir jai gauti naudotų priemonių ar įrangos konfiskavimas.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-2394, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25910*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 #### 558 straipsnis. Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
 
@@ -15036,7 +15094,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866*
 
-49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 170¹, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 507, 507¹, 508, 510¹, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 5 dalyje, 526¹, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
+49\) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 131¹, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 170¹, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 209¹, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 234¹, 234² straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 422¹, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 474¹, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 484¹, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 494¹, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 4¹, 5, 6 dalyse, 507, 507¹, 508, 510¹, 511, 512, 513, 514¹, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 5 dalyje, 526¹, 527, 528, 530, 534, 535, 538, 540, 546, 553, 555¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15095,6 +15153,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780*
 
 *Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 50\) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 525, 526, 526¹ straipsniuose numatytų administracinių nusižengimų;
 
@@ -15402,7 +15462,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-74\) Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 506 straipsnio 4, 4¹ dalyse, 507, 508 straipsniuose, 526 straipsnio 5 dalyje, 526¹ straipsnyje numatytų administracinių nusižengimų;
+74\) Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 321 straipsnyje, 393 straipsnio 4, 5, 8, 9 dalyse, 506 straipsnio 4, 4¹ dalyse, 507, 508, 514¹ straipsniuose, 526 straipsnio 5 dalyje, 526¹ straipsnyje numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15413,6 +15473,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
 
 *Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818*
+
+*Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -20231,3 +20293,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-624, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20827
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 33, 419, 589, 610 ir 611 straipsnių pakeitimo ir Kodekso papildymo 419-1 straipsniu įstatymas
+
+277\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 29, 321, 557, 557-1, 589 straipsnių pakeitimo ir Kodekso papildymo 514-1 straipsniu įstatymas
