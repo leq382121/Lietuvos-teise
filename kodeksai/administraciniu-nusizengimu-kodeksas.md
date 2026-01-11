@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-01-10"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/qvBWNRoYiY"
+redakcija_nuo: "2026-01-12"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/zNRvWtaYHv"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -6040,9 +6040,13 @@ užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.
 
 #### 251¹ straipsnis. Reglamente (ES) Nr. 1257/2013 nustatytų su laivo perdirbimu susijusių reikalavimų laivų perdirbimo bendrovėms pažeidimas
 
-1\. Laivo perdirbimo plano ir (ar) kitų su laivo perdirbimu susijusių dokumentų nepateikimas aplinkos apsaugos valstybinės kontrolės pareigūnams
+1\. Laivo perdirbimo plano ir (ar) kitų su laivo perdirbimu susijusių dokumentų nepateikimas aplinkos apsaugos valstybinės priežiūros pareigūnams
 
 užtraukia baudą laivų perdirbimo bendrovių vadovams ar kitiems atsakingiems asmenims nuo penkiasdešimt iki vieno šimto eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -8394,21 +8398,29 @@ Teisės aktuose nustatytų gamtos išteklių naudojimo ar aplinkos apsaugos reik
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
-#### 317 straipsnis. Aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymas
+#### 317 straipsnis. Aplinkos apsaugos valstybinės priežiūros pareigūno duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymas
 
-1\. Aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymas laiku
+1\. Aplinkos apsaugos valstybinės priežiūros pareigūno duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymas laiku
 
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų.
+užtraukia baudą asmenims nuo trijų šimtų penkiasdešimt iki aštuonių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki devynių šimtų aštuoniasdešimt eurų.
 
-2\. Aplinkos apsaugos valstybinės kontrolės pareigūno pakartotinai duotame privalomajame nurodyme nustatytų reikalavimų neįvykdymas laiku
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki dviejų tūkstančių eurų.
+užtraukia baudą asmenims nuo septynių šimtų iki vieno tūkstančio penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devynių šimtų iki trijų tūkstančių eurų.
 
-#### 318 straipsnis. Nutarimo sustabdyti aplinkai kenksmingą veiklą nevykdymas
+*Straipsnio pakeitimai:*
 
-Aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo sustabdyti aplinkai kenksmingą veiklą nevykdymas
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
-užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki trijų tūkstančių eurų.
+#### 318 straipsnis. Privalomojo nurodymo sustabdyti aplinkai kenksmingą veiklą nevykdymas
+
+Aplinkos apsaugos valstybinės priežiūros pareigūno duotame privalomajame nurodyme sustabdyti aplinkai kenksmingą veiklą nevykdymas
+
+užtraukia baudą asmenims nuo penkių šimtų iki dviejų tūkstančių keturių šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devynių šimtų iki keturių tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 #### 319 straipsnis. Savivaldybės administracijos direktoriaus sprendimo laikinai apriboti arba uždrausti transporto priemonių eismą nevykdymas
 
@@ -11468,7 +11480,7 @@ užtraukia baudą vairuotojams nuo vieno tūkstančio vieno šimto iki dviejų t
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešimt eurų.
 
-4\. Nepaklusimas uniformuoto aplinkos apsaugos valstybinės kontrolės pareigūno, valstybinių miškų apsaugos pareigūno, Lietuvos Respublikos muitinės (toliau šiame straipsnyje – muitinė) pareigūno, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos pareigūno, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų ar Lietuvos transporto saugos administracijos pareigūno teisėtam, aiškiai išreikštam ir šio straipsnio 6 dalyje nustatytą tvarką atitinkančiam reikalavimui sustabdyti transporto priemonę
+4\. Nepaklusimas uniformuoto aplinkos apsaugos valstybinės priežiūros pareigūno, valstybinių miškų apsaugos pareigūno, Lietuvos Respublikos muitinės (toliau šiame straipsnyje – muitinė) pareigūno, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos pareigūno, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų ar Lietuvos transporto saugos administracijos pareigūno teisėtam, aiškiai išreikštam ir šio straipsnio 6 dalyje nustatytą tvarką atitinkančiam reikalavimui sustabdyti transporto priemonę
 
 užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
@@ -11480,6 +11492,8 @@ užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio d
 
 *Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390*
 
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
+
 5\. Nepaklusimas uniformuoto policijos ar Karo policijos pareigūno teisėtam, aiškiai išreikštam ir šio straipsnio 6 dalyje nustatytą tvarką atitinkančiam reikalavimui sustabdyti transporto priemonę
 
 užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
@@ -11488,7 +11502,7 @@ užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno t
 
 *Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621*
 
-6\. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, aplinkos apsaugos valstybinės kontrolės pareigūno, valstybinių miškų apsaugos pareigūno, muitinės, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų pareigūno reikalavimas sustabdyti transporto priemonę išreiškiamas duodant signalą lazdele arba mojant skrituliu su raudonu atšvaitu skersai judėjimo krypties, arba per garsiakalbį liepiant sustoti. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, muitinės pareigūno reikalavimas sustabdyti transporto priemonę taip pat gali būti išreiškiamas įjungus specialiomis spalvomis nudažyto ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos arba muitinės ženklu pažymėto automobilio švieslentę su užrašu „STOP POLICIJA“ arba „STOP“. Neturintis tarnybinio ženklo muitinės pareigūnas bet kokiu atveju parodo transporto priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų, aplinkos apsaugos valstybinės kontrolės, valstybinių miškų apsaugos pareigūnas arba muitinės pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitų šviesą atspindinčių elementų). Patrulis turi būti sudarytas ne mažiau kaip iš dviejų policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų, aplinkos apsaugos valstybinės kontrolės, valstybinių miškų apsaugos pareigūnų arba muitinės pareigūnų, turinčių specialiomis spalvomis nudažytą ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybos, Aplinkos apsaugos departamento prie Aplinkos ministerijos, miškų urėdijos skiriamaisiais ženklais arba muitinės ženklu pažymėtą motorinę transporto priemonę, ir stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba šviesą atspindinčiu skrituliu, įjungęs patrulinės motorinės transporto priemonės mėlynos ir (arba) raudonos spalvos švyturėlius.
+6\. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, aplinkos apsaugos valstybinės priežiūros pareigūno, valstybinių miškų apsaugos pareigūno, muitinės, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų pareigūno reikalavimas sustabdyti transporto priemonę išreiškiamas duodant signalą lazdele arba mojant skrituliu su raudonu atšvaitu skersai judėjimo krypties, arba per garsiakalbį liepiant sustoti. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, muitinės pareigūno reikalavimas sustabdyti transporto priemonę taip pat gali būti išreiškiamas įjungus specialiomis spalvomis nudažyto ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos arba muitinės ženklu pažymėto automobilio švieslentę su užrašu „STOP POLICIJA“ arba „STOP“. Neturintis tarnybinio ženklo muitinės pareigūnas bet kokiu atveju parodo transporto priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų, aplinkos apsaugos valstybinės priežiūros, valstybinių miškų apsaugos pareigūnas arba muitinės pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitų šviesą atspindinčių elementų). Patrulis turi būti sudarytas ne mažiau kaip iš dviejų policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų, aplinkos apsaugos valstybinės priežiūros, valstybinių miškų apsaugos pareigūnų arba muitinės pareigūnų, turinčių specialiomis spalvomis nudažytą ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybos, Aplinkos apsaugos departamento prie Aplinkos ministerijos, miškų urėdijos skiriamaisiais ženklais arba muitinės ženklu pažymėtą motorinę transporto priemonę, ir stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba šviesą atspindinčiu skrituliu, įjungęs patrulinės motorinės transporto priemonės mėlynos ir (arba) raudonos spalvos švyturėlius.
 
 *Straipsnio dalies pakeitimai:*
 
@@ -11499,6 +11513,8 @@ užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno t
 *Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621*
 
 *Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 7\. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki penkerių metų. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo trejų iki penkerių metų. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus vairuotojams gali būti skiriamas teisės vairuoti transporto priemones atėmimas nuo vienų iki trejų metų, o neturintiems teisės vairuoti transporto priemones asmenims privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų iki trejų metų.
 
@@ -13262,7 +13278,7 @@ užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eu
 
 #### 505 straipsnis. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jiems suteiktas teises ar atlikti pavestas pareigas, jų teisėtų reikalavimų ar nurodymų ir kolegialių institucijų ar valstybės pareigūnų sprendimų nevykdymas
 
-1\. Kliudymas įstatymų įgaliotiems pareigūnams ir visuomeniniais pagrindais veikiantiems aplinkos apsaugos valstybinės kontrolės pareigūnų pagalbininkams – neetatiniams aplinkos apsaugos inspektoriams – įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų ir neetatinių aplinkos apsaugos inspektorių teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas, išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 505¹, 506 straipsniuose nurodytus atvejus,
+1\. Kliudymas įstatymų įgaliotiems pareigūnams ir visuomeniniais pagrindais veikiantiems aplinkos apsaugos valstybinės priežiūros pareigūnų pagalbininkams – neetatiniams aplinkos apsaugos inspektoriams – įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų ir neetatinių aplinkos apsaugos inspektorių teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas, išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 505¹, 506 straipsniuose nurodytus atvejus,
 
 užtraukia baudą asmenims nuo aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų devyniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
 
@@ -13271,6 +13287,8 @@ užtraukia baudą asmenims nuo aštuoniasdešimt iki septynių šimtų aštuonia
 *Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864*
 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -13633,6 +13651,16 @@ užtraukia baudą nuo dešimt iki keturiolikos eurų.
 Neteisėtas vidaus tarnybos sistemos pareigūno tarnybinės uniformos dėvėjimas
 
 užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
+
+#### 521¹ straipsnis. Neteisėtas aplinkos apsaugos valstybinės priežiūros pareigūno tarnybinės uniformos su skiriamaisiais ženklais, atskirų jos dalių ar jos skiriamųjų ženklų dėvėjimas ir (arba) tarnybinio pažymėjimo ir (ar) tarnybinio ženklo naudojimas
+
+Neteisėtas aplinkos apsaugos valstybinės priežiūros pareigūno tarnybinės uniformos su aplinkos apsaugos valstybinės priežiūros pareigūnų skiriamaisiais ženklais, atskirų jos dalių ar aplinkos apsaugos valstybinės priežiūros pareigūnų skiriamųjų ženklų dėvėjimas ir (arba) tarnybinio pažymėjimo ir (ar) tarnybinio ženklo naudojimas
+
+užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 #### 522 straipsnis. Nacionalinio dokumentų fondo dokumentų valdymą ir (ar) naudojimą reglamentuojančių norminių teisės aktų pažeidimas arba nevykdymas
 
@@ -14824,7 +14852,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370*
 
-31\) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247 straipsniuose, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 270¹ straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2, 3 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31\) aplinkos apsaugos valstybinės priežiūros pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 236¹, 237, 238, 239, 241, 242, 243, 243¹, 244, 246, 247 straipsniuose, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 270¹ straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2, 3 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 521¹, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14867,6 +14895,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
 *Nr. XV-275, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11220*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 187¹, 188, 193, 198, 205 straipsniuose, 207 straipsnio 3, 4, 5, 6 dalyse, 207¹ straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -16236,11 +16266,13 @@ Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose
 
 #### 604 straipsnis. Neteisėtai pastatytų, laikomų ar apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams naudojamų vagonėlių, kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas
 
-Padarius šio kodekso 305 straipsnio 10, 11 dalyse numatytus administracinius nusižengimus, aplinkos apsaugos valstybinės kontrolės pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti neteisėtai pastatytus, laikomus ar apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams naudojamus vagonėlius, kitus kilnojamuosius objektus arba įrenginius.
+Padarius šio kodekso 305 straipsnio 10, 11 dalyse numatytus administracinius nusižengimus, aplinkos apsaugos valstybinės priežiūros pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti neteisėtai pastatytus, laikomus ar apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams naudojamus vagonėlius, kitus kilnojamuosius objektus arba įrenginius.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390*
+
+*Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 #### 605 straipsnis. Nušalinimas nuo transporto priemonių vairavimo, patikrinimas dėl neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų
 
