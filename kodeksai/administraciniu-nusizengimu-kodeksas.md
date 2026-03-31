@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-01-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/QFJGMLduBv"
+redakcija_nuo: "2026-04-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tvGOZBCeeH"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -4674,11 +4674,19 @@ užtraukia baudą aukštųjų mokyklų ir mokslinių tyrimų institutų vadovams
 
 *Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481*
 
-**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
+**223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro duomenų tvarkytojui, Politinių organizacijų narių registro duomenų tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas**
 
-1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro duomenų tvarkytojui, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+*Pakeistas straipsnio pavadinimas:*
+
+*Nr. XIV-3147, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20390*
+
+1\. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro duomenų tvarkytojui, Politinių organizacijų narių registro duomenų tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro duomenų tvarkytojui, Politinių organizacijų narių registro duomenų tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
 
 užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-3147, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20390*
 
 2\. Juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, auditoriaus išvados, tvarumo atskaitomybės užtikrinimo išvados nepateikimas Juridinių asmenų registro duomenų tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
 
@@ -20332,11 +20340,19 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 196 ir 589 straipsni
 
 Lietuvos Respublikos Seimas, Įstatymas
 
+Nr. XV-798, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06071
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+
+262\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
 Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 672 ir 676 straipsnių pakeitimo įstatymas
 
-262\.
+263\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20344,7 +20360,7 @@ Nr. XV-188, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08556
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 394 straipsnio pakeitimo įstatymas
 
-263\.
+264\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20352,7 +20368,7 @@ Nr. XV-189, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08557
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 486 straipsnio pakeitimo įstatymas
 
-264\.
+265\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20360,7 +20376,7 @@ Nr. XV-205, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08907
 
 Lietuvos Respublikos administracinių nusižengimų kodekso priedo pakeitimo įstatymas
 
-265\.
+266\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20368,7 +20384,7 @@ Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 112, 113, 113-1, 351 ir 589 straipsnių pakeitimo įstatymas
 
-266\.
+267\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20376,7 +20392,7 @@ Nr. XV-254, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10901
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 72 straipsnio pakeitimo įstatymas
 
-267\.
+268\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20384,7 +20400,7 @@ Nr. XV-275, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11220
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 294, 295, 301, 302, 589 straipsnių ir priedo pakeitimo įstatymas
 
-268\.
+269\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20392,7 +20408,7 @@ Nr. XV-277, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11223
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 137 straipsnio pakeitimo įstatymas
 
-269\.
+270\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20400,7 +20416,7 @@ Nr. XV-391, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12145
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 383, 589 straipsnių ir priedo pakeitimo, 384 straipsnio pripažinimo netekusiu galios įstatymas
 
-270\.
+271\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20408,7 +20424,7 @@ Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių, priedo pakeitimo ir Kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas
 
-271\.
+272\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20416,7 +20432,7 @@ Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas
 
-272\.
+273\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20424,7 +20440,7 @@ Nr. XV-482, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17641
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas
 
-273\.
+274\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20432,7 +20448,7 @@ Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 251-1, 317, 318, 426, 505, 589, 604 straipsnių pakeitimo ir Kodekso papildymo 521-1 straipsniu įstatymas
 
-274\.
+275\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20440,7 +20456,7 @@ Nr. XV-575, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20384
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 291 straipsnio pakeitimo įstatymas
 
-275\.
+276\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20448,7 +20464,7 @@ Nr. XV-621, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20663
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 77 straipsnio pakeitimo įstatymas
 
-276\.
+277\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20456,7 +20472,7 @@ Nr. XV-624, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20827
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 33, 419, 589, 610 ir 611 straipsnių pakeitimo ir Kodekso papildymo 419-1 straipsniu įstatymas
 
-277\.
+278\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
@@ -20464,7 +20480,7 @@ Nr. XV-714, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00064
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 29, 321, 557, 557-1, 589 straipsnių pakeitimo ir Kodekso papildymo 514-1 straipsniu įstatymas
 
-278\.
+279\.
 
 Lietuvos Respublikos Seimas, Įstatymas
 
