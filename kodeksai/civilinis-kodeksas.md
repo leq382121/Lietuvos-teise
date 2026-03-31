@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2025-12-24"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/HBVsXBOPTD"
+redakcija_nuo: "2026-04-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/xAWRNzdWqL"
 ---
 
 # Civilinis kodeksas
@@ -2810,7 +2810,11 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 4\) juridinis asmuo per penkerius metus neatnaujino savo duomenų juridinių asmenų registre ir yra pagrindas manyti, kad šis juridinis asmuo jokios veiklos nevykdo;
 
-5\) politinė organizacija Politinių organizacijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
+5\) jeigu politinėje organizacijoje ilgiau kaip šešis mėnesius yra mažiau narių, negu jai įsteigti būtinas steigėjų skaičius, ir šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) per 6 mėnesius nuo šių aplinkybių atsiradimo dienos nepriima sprendimo reorganizuoti, pertvarkyti ar likviduoti politinę organizaciją;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XIV-3146, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20389*
 
 6\) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį;
 
