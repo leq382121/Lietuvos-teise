@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-04-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/tvGOZBCeeH"
+redakcija_nuo: "2026-04-16"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/JpicoQoeKf"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -14044,13 +14044,17 @@ užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų aštu
 
 #### 547 straipsnis. Atsisakymas teikti informaciją visuomenės informavimo priemonių atstovams ar trukdymas žurnalistams atlikti profesines pareigas
 
-1\. Valstybės ir savivaldybių institucijų ir įstaigų vadovų atsisakymas teikti informaciją visuomenės informavimo priemonių atstovams, išskyrus pagal Lietuvos Respublikos įstatymus neskelbtiną informaciją, nenurodant atsisakymo priežasties, trukdymas žurnalistams atlikti profesines pareigas
+1\. Valstybės ir savivaldybių institucijų ir įstaigų vadovų atsisakymas teikti informaciją visuomenės informavimo priemonių atstovams, išskyrus pagal Lietuvos Respublikos įstatymus ar tiesiogiai taikomus Europos Sąjungos teisės aktus neskelbtiną informaciją, nenurodant atsisakymo priežasties, trukdymas žurnalistams atlikti profesines pareigas
 
-užtraukia baudą valstybės ir savivaldybių institucijų ir įstaigų vadovams nuo dvidešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą valstybės ir savivaldybių institucijų ir įstaigų vadovams nuo šešiasdešimt iki trijų šimtų eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-801, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06072*
 
 #### 548 straipsnis. Visuomenės informavimo priemonių paskelbtos informacijos saugojimo tvarkos pažeidimas
 
@@ -20487,3 +20491,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 243-1, 251, 304-2, 308-1, 310, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 243-2, 270-2 straipsniais ir 243-1 straipsnio pripažinimo netekusiu galios įstatymas
+
+280\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-531, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19763
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 195 straipsnio pakeitimo įstatymas
+
+281\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-801, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06072
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 547 straipsnio pakeitimo įstatymas
