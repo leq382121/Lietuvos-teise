@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-04-16"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/JpicoQoeKf"
+redakcija_nuo: "2026-05-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/UxrjBFCAXw"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -4090,15 +4090,29 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
-#### 196 straipsnis. Neteisėtas su turto arba verslo vertinimu susijusios informacijos atskleidimas arba jos panaudojimas, taip pat neteisėtas banko paslapties atskleidimas
+#### 196 straipsnis. Neteisėtas banko paslapties atskleidimas
 
-1\. Neteisėtas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytos su turto arba verslo vertinimu susijusios fizinių ar juridinių asmenų (tarp jų ir turto arba verslo vertintojų ar turto arba verslo vertinimo įmonių) informacijos atskleidimas arba jos panaudojimas
-
-užtraukia baudą Lietuvos Respublikos Vyriausybės įgaliotos atlikti turto arba verslo vertintojų ir turto arba verslo vertinimo įmonių valstybinę priežiūrą įstaigos darbuotojams ir Turto arba verslo vertintojų garbės teismo nariams nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
-
-2\. Neteisėtas banko paslapties, Centrinės kredito unijos ar kredito unijos paslapties atskleidimas
+Neteisėtas banko paslapties, Centrinės kredito unijos ar kredito unijos paslapties atskleidimas
 
 užtraukia baudą nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217*
+
+#### 196¹ straipsnis. Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymo ir (arba) kitų teisės aktų, nustatančių reikalavimą atlikti privalomąjį turto arba verslo vertinimą, pažeidimas
+
+1\. Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymo ir (arba) kitų teisės aktų, nustatančių reikalavimą atlikti privalomąjį turto arba verslo vertinimą, pažeidimas
+
+užtraukia baudą privalomąjį turto ar verslo vertinimą atlikusiems asmenims arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki trijų tūkstančių eurų.
+
+2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą privalomąjį turto ar verslo vertinimą atlikusiems asmenims arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217*
 
 197 straipsnis. Neteko galios nuo 2017-03-01
 
@@ -5108,7 +5122,7 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 *Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508*
 
-**242 straipsnis. Teršalų išmetimą į aplinkos orą reglamentuojančių teisės aktų pažeidimas. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą, ir (ar) draudimo deginti atliekas buitiniuose aplinkos oro taršos šaltiniuose pažeidimas**
+**242 straipsnis. Teršalų išmetimą į aplinkos orą reglamentuojančių teisės aktų pažeidimas. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą, ir (ar) draudimo deginti kietąjį iškastinį kurą buitiniuose aplinkos oro taršos šaltiniuose, ir (ar) draudimo deginti atliekas buitiniuose aplinkos oro taršos šaltiniuose pažeidimas**
 
 *Pakeistas straipsnio pavadinimas:*
 
@@ -5126,7 +5140,7 @@ užtraukia baudą asmenims nuo dviejų šimtų septyniasdešimt iki vieno tūkst
 
 užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki trijų šimtų eurų.
 
-4\. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą pažeidimas
+4\. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą, ir (ar) draudimo deginti kietąjį iškastinį kurą buitiniuose aplinkos oro taršos šaltiniuose pažeidimas
 
 užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto septyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
 
@@ -14736,7 +14750,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872*
 
-7\) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 207², 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+7\) Lietuvos banko – dėl šio kodekso 196, 198, 207², 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14749,6 +14763,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474*
 
 *Nr. XIV-2518, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06307*
+
+*Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217*
 
 8\) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 122 straipsnyje (kai pažeidimai padaryti dėl autorių teisių ar gretutinių teisių objekto arba jų dalies, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), 124 straipsnyje, 146, 226¹, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 
@@ -14806,11 +14822,13 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431*
 
-17\) Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 185, 195 straipsniuose, 196 straipsnio 1 dalyje, 205 straipsnio 7 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+17\) Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 185, 195 straipsniuose, 205 straipsnio 7 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118*
+
+*Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217*
 
 18\) Lietuvos Respublikos kultūros ministerijos – dėl šio kodekso 135, 136 straipsniuose, 496 straipsnio 2 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15684,7 +15702,7 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4, 5 dalyse, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419, 419¹ straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 507¹, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82\) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4, 5 dalyse, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 2¹ dalyse, 418, 419, 419¹ straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 445, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 459, 484, 484¹, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 505¹, 507, 507¹, 516, 517¹, 517², 517³, 517⁴, 518, 519, 526, 526¹, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15714,6 +15732,8 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637*
 
+*Nr. XV-798, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06071*
+
 *Nr. XV-624, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20827*
 
 *Straipsnio punkto numeracijos pakeitimas:*
@@ -15722,13 +15742,15 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803*
 
-83\) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 446 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 505 straipsniuose numatytų administracinių nusižengimų;
+83\) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 445, 446 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 449¹, 457, 505 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284*
 
 *Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492*
+
+*Nr. XV-798, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06071*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -15938,13 +15960,15 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600*
 
-98\) Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 127 straipsnyje, 223 straipsnio 3, 5 dalyse numatytų administracinių nusižengimų;
+98\) Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 127, 196¹ straipsniuose, 223 straipsnio 3, 5 dalyse numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416*
 
 *Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835*
+
+*Nr. XIV-2576, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08217*
 
 *Straipsnio punkto numeracijos pakeitimas:*
 
@@ -20507,3 +20531,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-801, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06072
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 547 straipsnio pakeitimo įstatymas
+
+282\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-549, 2025-11-18, paskelbta TAR 2025-12-02, i. k. 2025-20533
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 314 ir 589 straipsnių pakeitimo įstatymas
