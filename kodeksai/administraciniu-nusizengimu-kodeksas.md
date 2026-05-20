@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/UxrjBFCAXw"
+redakcija_nuo: "2026-05-21"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/CnlRNnKRrj"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -6000,83 +6000,83 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 *Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
 
-#### 251 straipsnis. Atliekų įvežimo ar importo į Lietuvos Respubliką, atliekų išvežimo ar eksporto iš Lietuvos Respublikos ir atliekų vežimo tranzitu per Lietuvos Respublikos teritoriją reikalavimų pažeidimas
+#### 251 straipsnis. Reglamente (ES) Nr. 2024/1157 nustatytų su atliekų įvežimu, importu, išvežimu, eksportu susijusių reikalavimų pažeidimas
 
-1\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas arba informacinio dokumento nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
-
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
-
-2\. Reikalavimo turėti informacinį dokumentą atliekų vežimo metu pažeidimas arba vežimo kontrolės formų nepateikimas muitinės pareigūnams pareikalavus
+1\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas arba Reglamento (ES) Nr. 2024/1157 VII priede nustatytos formos dokumento (toliau – Reglamento (ES) Nr. 2024/1157 VII priedo dokumentas) nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
 
 užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
 
-3\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+2\. Reikalavimo turėti Reglamento (ES) Nr. 2024/1157 VII priedo dokumentą ar Reglamento (ES) 2024/1157 IB priede nustatytos formos dokumentą (toliau – judėjimo dokumentas) atliekų vežimo metu pažeidimas arba šių dokumentų nepateikimas muitinės pareigūnams pareikalavus
+
+užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+
+3\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
-4\. Klaidingos informacijos pranešimo formoje ar vežimo kontrolės formoje pateikimas Lietuvos Respublikos kompetentingai institucijai arba vežimo kontrolės formų nepateikimas Lietuvos Respublikos kompetentingai institucijai, arba vežimo kontrolės formos pateikimas Lietuvos Respublikos kompetentingai institucijai pažeidžiant teisės aktuose nustatytus pateikimo terminus
+4\. Klaidingos informacijos Reglamento (ES) 2024/1157 IA priede nustatytos formos dokumente (toliau – pranešimo dokumentas) ar judėjimo dokumente pateikimas Lietuvos Respublikos kompetentingai institucijai ir (ar) atliekų gavėjui arba judėjimo dokumento nepateikimas Lietuvos Respublikos kompetentingai institucijai ir (ar) atliekų gavėjui, arba judėjimo dokumento pateikimas Lietuvos Respublikos kompetentingai institucijai ir (ar) atliekų gavėjui pažeidžiant Reglamento (ES) Nr. 2024/1157 16 straipsnyje nustatytus pateikimo terminus
 
 užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
-5\. Didesnio kaip penki šimtai kilogramų, bet mažesnio negu dvidešimt penkios tonos kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas arba informacinio dokumento nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
+5\. Didesnio kaip penki šimtai kilogramų, bet mažesnio kaip dvidešimt penkios tonos kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas arba Reglamento (ES) Nr. 2024/1157 VII priedo dokumento nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
 
 užtraukia baudą nuo šešiasdešimt iki trijų šimtų eurų.
 
-6\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+6\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo aštuoniasdešimt iki trijų šimtų eurų.
 
-7\. Didesnio kaip penki šimtai kilogramų, bet mažesnio negu dvidešimt penkios tonos kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+7\. Didesnio kaip penki šimtai kilogramų, bet mažesnio kaip dvidešimt penkios tonos kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
 
-8\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+8\. Penkių šimtų kilogramų arba mažesnio kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
-9\. Atliekų vežimas nesilaikant pranešimo formoje ir vežimo kontrolės formoje nustatytų reikalavimų
+9\. Atliekų vežimas nesilaikant pranešimo dokumente ir (ar) judėjimo dokumente nustatytų reikalavimų
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki keturių šimtų keturiasdešimt eurų.
 
-10\. Didesnio kaip penki šimtai kilogramų, bet mažesnio negu dvidešimt penkios tonos kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+10\. Didesnio kaip penki šimtai kilogramų, bet mažesnio kaip dvidešimt penkios tonos kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo dviejų šimtų iki penkių šimtų penkiasdešimt eurų.
 
-11\. Reikalavimo teisės aktuose nustatyta tvarka gauti leidimą įvežti ar importuoti atliekas į Lietuvos Respubliką pažeidimas
-
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-12\. Dvidešimt penkių tonų arba didesnio kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas arba informacinio dokumento nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
+11\. Dvidešimt penkių tonų arba didesnio kiekio skirtų naudoti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas arba Reglamento (ES) Nr. 2024/1157 VII priedo dokumento nepateikimas atliekas vežančiam asmeniui, kai vežamas šioje dalyje nurodytas atliekų kiekis,
 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-13\. Didesnio kaip penki šimtai kilogramų, bet mažesnio negu dvidešimt penkios tonos kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+12\. Didesnio kaip penki šimtai kilogramų, bet mažesnio kaip dvidešimt penkios tonos kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-14\. Dvidešimt penkių tonų arba didesnio kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+13\. Dvidešimt penkių tonų arba didesnio kiekio skirtų šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo keturių šimtų keturiasdešimt iki vieno tūkstančio keturių šimtų keturiasdešimt eurų.
 
-15\. Dvidešimt penkių tonų arba didesnio kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+14\. Dvidešimt penkių tonų arba didesnio kiekio skirtų naudoti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
 
-16\. Dvidešimt penkių tonų arba didesnio kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be teisės aktuose nustatyta tvarka gauto sprendimo leisti vežti atliekas
+15\. Dvidešimt penkių tonų arba didesnio kiekio skirtų šalinti pavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be Reglamento (ES) Nr. 2024/1157 9 straipsnyje nustatyta tvarka gauto sutikimo vežti atliekas
 
 užtraukia baudą nuo devynių šimtų iki dviejų tūkstančių eurų.
 
-17\. Šio straipsnio 1, 2, 3, 4, 5, 6, 9 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+16\. Šio straipsnio 1, 2, 3, 4, 5, 6, 9 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą nuo aštuoniasdešimt iki šešių šimtų eurų.
 
-18\. Šio straipsnio 7, 8, 10, 11, 12, 13 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+17\. Šio straipsnio 7, 8, 10, 11, 12 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio septynių šimtų penkiasdešimt eurų.
 
-19\. Šio straipsnio 14, 15, 16 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+18\. Šio straipsnio 13, 14, 15 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
 užtraukia baudą nuo aštuonių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
 #### 251¹ straipsnis. Reglamente (ES) Nr. 1257/2013 nustatytų su laivo perdirbimu susijusių reikalavimų laivų perdirbimo bendrovėms pažeidimas
 
@@ -15094,7 +15094,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653*
 
-40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 141¹, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 217², 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 243² straipsnio 2 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 304² straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8, 9 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 5, 9, 10 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 343¹ straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 510¹, 515, 526¹ straipsniuose numatytų administracinių nusižengimų;
+40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 141¹, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 217², 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 243² straipsnio 2 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalyse, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 304² straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8, 9 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 5, 9, 10 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 343¹ straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 510¹, 515, 526¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -17894,7 +17894,11 @@ priedas
 
 23\. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 su paskutiniais pakeitimais, padarytais 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 165/2014.
 
-24\. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 10 d. Komisijos reglamentu (ES) 2015/2002.
+24\. Neteko galios nuo 2026-05-21
+
+*Punkto naikinimas:*
+
+*Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
 25\. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
 
@@ -18246,9 +18250,19 @@ priedas
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
-119². 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/3234, kuriuo iš dalies keičiamas Reglamentas (ES) 2023/1115, kiek tai susiję su nuostatomis dėl taikymo pradžios datos.
+119². 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006.
 
 *Papildyta straipsnio dalimi:*
+
+*Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
+
+119³. 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2024/3234, kuriuo iš dalies keičiamas Reglamentas (ES) 2023/1115, kiek tai susiję su nuostatomis dėl taikymo pradžios datos.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
+
+*Straipsnio dalies numeracijos pakeitimas:*
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
