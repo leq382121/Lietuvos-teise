@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-05-21"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/CnlRNnKRrj"
+redakcija_nuo: "2026-06-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/rgKJCbXnGY"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -4082,13 +4082,17 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 195 straipsnis. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas, jos nepateikimas ar pavėluotas pateikimas arba veiksmų atlikimas be reikiamo leidimo
 
-1\. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas arba reikalingų dokumentų nepateikimas ar pavėluotas pateikimas Lietuvos Respublikos finansų ministerijai arba centralizuotai valdomo valstybės turto valdytojui pagal Lietuvos Respublikos valstybės skolos įstatymą
+1\. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas arba reikalingų dokumentų nepateikimas ar pavėluotas pateikimas Lietuvos Respublikos finansų ministerijai arba kitam subjektui, kuris pagal pavedimo sutartį administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, pagal Lietuvos Respublikos valstybės skolos įstatymą
 
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-2\. Veiksmų, kuriems pagal Lietuvos Respublikos valstybės skolos įstatymą reikalingas Lietuvos Respublikos finansų ministerijos arba centralizuotai valdomo valstybės turto valdytojo leidimas, atlikimas neturint šio leidimo
+2\. Veiksmų, kuriems atlikti pagal Valstybės skolos įstatymą reikalingas Finansų ministerijos arba kito subjekto, kuris pagal pavedimo sutartį administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, rašytinis leidimas, atlikimas neturint šio leidimo
 
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-531, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19763*
 
 #### 196 straipsnis. Neteisėtas banko paslapties atskleidimas
 
