@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2026-05-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ioSMRajfoU"
+redakcija_nuo: "2026-06-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/PyjcOQeiid"
 ---
 
 # Civilinis kodeksas
@@ -8720,7 +8720,11 @@ Savininkas gali reikalauti pašalinti bet kuriuos jo teisės pažeidimus, nors i
 
 ###### 4.107 straipsnis. Turto patikėjimo teisės subjektai
 
-1\. Turto patikėjimo teisės subjektai (patikėtiniai) Lietuvos Respublikoje yra valstybės ar savivaldybių įmonės, įstaigos ir organizacijos, taip pat gali būti kiti juridiniai ir fiziniai asmenys.
+1\. Turto patikėjimo teisės subjektai (patikėtiniai) Lietuvos Respublikoje yra įstatymų nustatyti valstybės ar savivaldybių turto patikėjimo teisės subjektai, taip pat gali būti kiti juridiniai ir fiziniai asmenys.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-529, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19761*
 
 2\. Patikėtojas ar keli patikėtojai gali skirti vieną ar keletą patikėtinių, nustatyti jų skyrimo ar keitimo tvarką.
 
@@ -8730,7 +8734,11 @@ Turto patikėjimo teisės atsiradimo pagrindas gali būti: įstatymas, administr
 
 ###### 4.109 straipsnis. Turto patikėjimo teisės turinys
 
-1\. Valstybės ar savivaldybės įmonės, įstaigos, organizacijos valdo, naudoja atitinkamai valstybės ar savivaldybės joms perduotą turtą, juo disponuoja savo įstatuose (nuostatuose), taip pat valstybės ar savivaldybių įmonių, įstaigų, organizacijų veiklą reglamentuojančiuose norminiuose aktuose nustatyta tvarka bei sąlygomis, nepažeisdamos įstatymų ir kitų asmenų teisių bei interesų.
+1\. Valstybės ar savivaldybių turto valdytojai jiems patikėjimo teise perduotą atitinkamai valstybės ar savivaldybių turtą valdo, naudoja ir juo disponuoja įstatymų nustatyta tvarka bei sąlygomis, nepažeisdami įstatymų ir kitų asmenų teisių bei interesų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-529, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19761*
 
 2\. Kiti juridiniai ir fiziniai asmenys valdo, naudoja patikėtojo jiems perduotą turtą bei disponuoja juo tiek, tokia tvarka bei sąlygomis, kaip nustatyta turto perdavimo patikėjimo teise sutartyje, testamente, teismo sprendime ar įstatyme.
 
@@ -20938,7 +20946,11 @@ Paskelbęs viešą konkursą asmuo privalo grąžinti konkurso dalyviams darbus 
 
 1\. Patikėjimo teisės objektais gali būti nekilnojamieji ir kilnojamieji daiktai, vertybiniai popieriai ar kitoks turtas.
 
-2\. Valstybės ar savivaldybės turtas, kurį patikėjimo teise valdo, naudoja ar juo disponuoja valstybės ar savivaldybės įmonė, įstaiga ar organizacija, negali būti perduotas kitam asmeniui patikėjimo teise, išskyrus atvejus, kai ta įmonė, įstaiga ar organizacija likviduojama ar reorganizuojama, taip pat kitus įstatymo nustatytus atvejus.
+2\. Valstybės ar savivaldybių turtas, kurį patikėjimo teise valdo, naudoja ar kuriuo disponuoja valstybės ar savivaldybių turto valdytojai, negali būti perduotas kitam asmeniui patikėjimo teise, išskyrus atvejus, kai valstybės ar savivaldybių turto valdytojas likviduojamas arba reorganizuojamas, taip pat kitus įstatymo nustatytus atvejus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-529, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19761*
 
 ###### 6.957 straipsnis. Patikėjimo teisės steigėjas (patikėtojas)
 
