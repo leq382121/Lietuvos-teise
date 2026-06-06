@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-06-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/rgKJCbXnGY"
+redakcija_nuo: "2026-06-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/fwaGRVPjjW"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2232,31 +2232,25 @@ užtraukia įspėjimą arba baudą darbdaviui fiziniam asmeniui nuo vieno šimto
 
 *Nr. XIV-2861, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12644*
 
-#### 99 straipsnis. Darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
+#### 99 straipsnis. Darbo užmokesčio nustatymo, apskaičiavimo ir mokėjimo tvarkos pažeidimas
 
-1\. Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas
+1\. Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje, darbo apmokėjimo sistemoje nustatytos darbo užmokesčio nustatymo, apskaičiavimo ir mokėjimo tvarkos pažeidimas
 
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIV-367, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13174*
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo vieno tūkstančio keturių šimtų penkiasdešimt iki trijų tūkstančių eurų.
 
-3\. Tyčinis Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje nustatytos darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimas arba darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų, neįtrauktų į finansinės apskaitos dokumentus, išmokėjimas
+3\. Tyčinis Lietuvos Respublikos darbo kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kolektyvinėje arba darbo sutartyje, darbo apmokėjimo sistemoje nustatytos darbo užmokesčio nustatymo, apskaičiavimo ir mokėjimo tvarkos pažeidimas arba darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų, neįtrauktų į finansinės apskaitos dokumentus, išmokėjimas
 
 užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118*
 
 *Straipsnio pakeitimai:*
 
 *Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857*
+
+*Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788*
 
 #### 100 straipsnis. Darbo laiko apskaitos pažeidimas
 
@@ -18220,7 +18214,13 @@ priedas
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
-118². 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1542 dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva 2008/98/EB bei Reglamentas (ES) 2019/1020 ir panaikinama Direktyva 2006/66/EB.
+118². 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/970, kuria, nustatant darbo užmokesčio skaidrumo ir vykdymo užtikrinimo mechanizmus, griežčiau taikomas vienodo vyrų ir moterų darbo užmokesčio už vienodą arba vienodos vertės darbą principas.
+
+*Papildyta punktu:*
+
+*Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788*
+
+118³. 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1542 dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva 2008/98/EB bei Reglamentas (ES) 2019/1020 ir panaikinama Direktyva 2006/66/EB.
 
 *Papildyta straipsnio dalimi:*
 
@@ -18230,17 +18230,27 @@ priedas
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
-118³. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2023/1115 dėl tam tikrų su miškų naikinimu ir alinimu siejamų biržos prekių ir produktų tiekimo Sąjungos rinkai ir jų eksporto iš Sąjungos, kuriuo panaikinimas Reglamentas (ES) Nr. 995/2010, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3234.
+*Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788*
+
+118⁴. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2023/1115 dėl tam tikrų su miškų naikinimu ir alinimu siejamų biržos prekių ir produktų tiekimo Sąjungos rinkai ir jų eksporto iš Sąjungos, kuriuo panaikinimas Reglamentas (ES) Nr. 995/2010, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3234.
 
 *Papildyta straipsnio dalimi:*
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
-118⁴. 2023 m. rugpjūčio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2023/1773, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2023/956 taikymo taisyklės, pagal kurias pereinamuoju laikotarpiu vykdoma pareiga teikti pasienio anglies dioksido korekcinio mechanizmo ataskaitas, su paskutiniais pakeitimais, padarytais 2024 m. spalio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2024/2469.
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788*
+
+118⁵. 2023 m. rugpjūčio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2023/1773, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2023/956 taikymo taisyklės, pagal kurias pereinamuoju laikotarpiu vykdoma pareiga teikti pasienio anglies dioksido korekcinio mechanizmo ataskaitas, su paskutiniais pakeitimais, padarytais 2024 m. spalio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2024/2469.
 
 *Papildyta straipsnio dalimi:*
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788*
 
 119\. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014.
 
@@ -20557,3 +20567,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-549, 2025-11-18, paskelbta TAR 2025-12-02, i. k. 2025-20533
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 314 ir 589 straipsnių pakeitimo įstatymas
+
+283\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 283, 589 straipsnių pakeitimo ir 112, 113-1 straipsnių pripažinimo netekusiais galios įstatymas
+
+284\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-816, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06394
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 476 straipsnio ir priedo pakeitimo įstatymas
+
+285\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 99, 589 straipsnių ir priedo pakeitimo įstatymas
