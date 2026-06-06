@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2016-09-14"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "f6d686707e7011e6b969d7ae07280e89"
-redakcija_nuo: "2025-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/WZMSOvymXd"
+redakcija_nuo: "2026-06-07"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/jlrUauipfr"
 ---
 
 # Darbo kodeksas
@@ -390,15 +390,15 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 1\. Šio kodekso, kitų įstatymų ir kitų darbo teisės normų nustatyta tvarka darbdavys privalo teikti informaciją apie darbuotojus ir jų darbo sąlygas ar kitus darbo santykių aspektus juose nurodytoms kompetentingoms institucijoms.
 
-2\. Darbdavys, kurio vidutinis darbuotojų skaičius yra daugiau kaip dvidešimt, pareikalavus darbo tarybai, o kai jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti bent kartą per metus atnaujinamą informaciją:
+2\. Darbdavys, kurio vidutinis darbuotojų skaičius – daugiau kaip dvidešimt, pareikalavus darbo tarybai, o jeigu jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti bent kartą per metus atnaujinamą informaciją:
 
-1\) apie darbuotojų, išskyrus vadovaujančias pareigas einančius darbuotojus, nuasmenintus duomenis apie vidutinį darbo užmokestį pagal profesijų grupes ir lytį, jeigu profesijos grupėje yra daugiau kaip du darbuotojai;
+1\) apie darbuotojų, išskyrus vadovaujamas pareigas einančius darbuotojus, nuasmenintus duomenis apie vidutinį darbo užmokestį pagal pareigybių grupes ir lytį, jeigu pareigybių grupėje yra daugiau kaip 2 darbuotojai;
 
 2\) kurią skelbti įpareigoja įstatymai, kolektyvinės sutartys, darbdavio ir darbo tarybos susitarimai.
 
-*Straipsnio dalies pakeitimai:*
+*Straipsnio pakeitimai:*
 
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 24 straipsnis. Sąžiningumo ir bendradarbiavimo principų įgyvendinimas
 
@@ -482,7 +482,19 @@ Atsakomybę už šiame kodekse nustatytų teisių ir pareigų nevykdymą ar neti
 
 3\. Lyčių lygybės ir nediskriminavimo kitais pagrindais principų įgyvendinimo ypatumus gali nustatyti kiti įstatymai ir kitos darbo teisės normos.
 
-4\. Nagrinėjant diskriminacijos dėl darbo užmokesčio bylas, atlyginimu už darbą laikomas darbo užmokestis ar bet koks kitas atlygis, įskaitant atlygį grynaisiais pinigais arba natūra, kurį darbuotojas tiesiogiai ar netiesiogiai gauna iš darbdavio už savo darbą.
+4\. Nagrinėjant diskriminacijos dėl darbo užmokesčio bylas:
+
+1\) atlyginimu už darbą laikomas darbo užmokestis ar bet koks kitas atlygis (įskaitant atlygį grynaisiais pinigais arba natūra), kurį darbuotojas tiesiogiai ar netiesiogiai gauna iš darbdavio už darbą;
+
+2\) vertinant, ar darbuotojos moterys ir darbuotojai vyrai atlieka tą patį arba vienodos vertės darbą, tikrinama, ar darbuotojų padėtis panaši, neapsiribojant tik tais atvejais, kai darbuotojos moterys ir darbuotojai vyrai dirba tam pačiam darbdaviui, įvertinant ir vieną darbo užmokesčio sąlygas nustatantį šaltinį. Vienas darbo užmokesčio sąlygas nustatantis šaltinis – toks šaltinis, pagal kurį daugiau nei vienai patronuojančios bendrovės, kaip ji apibrėžiama Lietuvos Respublikos akcinių bendrovių įstatyme, dukterinei bendrovei ar įmonei centralizuotai nustatomos atitinkamos lyginant darbuotojus svarbios darbo užmokesčio sąlygos, nurodytos šio kodekso 140 straipsnyje;
+
+3\) jeigu darbovietėje nėra kito tokį patį ar vienodos vertės darbą dirbančio darbuotojo vyro ar kitos tokį patį ar vienodos vertės darbą dirbančios darbuotojos moters, su kurio (kurios) darbo užmokesčiu būtų galima palyginti darbuotojo darbo užmokestį ir nustatyti, ar darbuotojas diskriminuojamas dėl lyties darbo užmokesčio srityje, darbuotojas gali pateikti bet kokius kitus įrodymus, įskaitant statistinius duomenis arba palyginimą, kaip būtų traktuojamas panašioje padėtyje esantis darbuotojas, neatsižvelgiant į jo įdarbinimo momentą;
+
+4\) vertinant, ar darbuotojų moterų ir darbuotojų vyrų, atliekančių tą patį ar vienodos vertės darbą, padėtis panaši, neturi būti apsiribojama darbuotojais, įdarbintais tuo pačiu metu, kaip ir darbuotojai, kurių teisė į tokį patį darbo užmokestį už tokį patį ar vienodos vertės darbą galimai pažeidžiama.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 5\. Nagrinėjant lyčių lygybės ir nediskriminavimo kitais pagrindais bylas, susijusias su darbo santykiais, darbuotojui nurodžius aplinkybes, leidžiančias daryti prielaidą, kad darbuotojas patyrė diskriminaciją, darbdaviui tenka pareiga įrodyti, kad diskriminacijos nebuvo.
 
@@ -708,7 +720,11 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 ##### 39 straipsnis. Susitarimas dėl konfidencialios informacijos apsaugos
 
-1\. Darbo sutarties šalys gali sulygti dėl to, kad darbuotojas darbo sutarties vykdymo metu ir pasibaigus darbo sutarčiai asmeniniais ar komerciniais tikslais nenaudos ir kitiems asmenims neatskleis tam tikros iš darbdavio ar dėl atliktos darbo funkcijos gautos informacijos, kurią darbo sutarties šalys savo susitarime dėl konfidencialios informacijos apsaugos įvardys konfidencialia. Konfidencialia informacija negali būti laikomi duomenys, kurie viešai prieinami, taip pat duomenys, kurie pagal teisės aktus ar pagal jų paskirtį negali būti laikomi konfidencialiais ar kurių apsaugai darbdavys nesiima protingų priemonių. Konfidencialios informacijos atskleidimo draudimas netaikomas, kai informacija teikiama valstybės ar savivaldybės institucijai ar įstaigai apie darbdavio daromus darbo ar kitų teisės normų pažeidimus, taip pat kai informacija teikiama teismui ar kitam ginčus nagrinėjančiam organui.
+1\. Darbo sutarties šalys gali sulygti dėl to, kad darbuotojas darbo sutarties vykdymo metu ir pasibaigus darbo sutarčiai asmeniniais ar komerciniais tikslais nenaudos ir kitiems asmenims neatskleis tam tikros iš darbdavio ar dėl atliktos darbo funkcijos gautos informacijos, kurią darbo sutarties šalys susitarime dėl konfidencialios informacijos apsaugos įvardys konfidencialia. Konfidencialia informacija negali būti laikomi viešai prieinami duomenys, taip pat duomenys, kurie pagal teisės aktus ar pagal jų paskirtį negali būti laikomi konfidencialiais ar kurių apsaugai darbdavys nesiima protingų priemonių. Konfidencialia informacija taip pat negali būti laikomi duomenys apie savo darbo užmokestį, jeigu darbuotojas tokius duomenis atskleidžia siekdamas užtikrinti savo teisę už tokį patį ar vienodos vertės darbą gauti vienodą darbo užmokestį. Konfidencialios informacijos atskleidimo draudimas netaikomas, jeigu valstybės ar savivaldybės institucijai, įstaigai teikiama informacija apie darbdavio daromus darbo ar kitų teisės normų pažeidimus, taip pat jeigu informacija teikiama teismui ar kitam ginčus nagrinėjančiam organui.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 2\. Susitarime dėl konfidencialios informacijos apsaugos turi būti apibrėžti konfidencialią informaciją sudarantys duomenys, susitarimo dėl konfidencialios informacijos apsaugos galiojimo terminas, darbdavio pareigos padedant darbuotojui išsaugoti šios informacijos slaptumą. Darbo sutarties šalys gali sulygti dėl netesybų už šio susitarimo nevykdymą ar netinkamą jo vykdymą.
 
@@ -732,21 +748,31 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 *Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228*
 
-6\. Darbas ne viso darbo laiko sąlygomis dirbantiems darbuotojams nesukelia ribojimų nustatant kasmetinių atostogų trukmę, apskaičiuojant darbo stažą, skiriant į aukštesnes pareigas, tobulinant kvalifikaciją, neapriboja kitų darbuotojo darbo teisių, palyginti su darbuotojais, kurie dirba tokį patį ar lygiavertį darbą viso darbo laiko sąlygomis, atsižvelgiant į darbo stažą, kvalifikaciją ir kitas aplinkybes. Už darbą ne viso darbo laiko sąlygomis mokama proporcingai dirbtam laikui arba atliktam darbui, palyginti su darbu, dirbamu viso darbo laiko sąlygomis.
+6\. Darbas ne viso darbo laiko sąlygomis dirbantiems darbuotojams neturi įtakos nustatant kasmetinių atostogų trukmę, apskaičiuojant darbo stažą, skiriant į aukštesnes pareigas, tobulinant kvalifikaciją, jis neapriboja jokių darbuotojo darbo teisių, palyginti su darbuotojais, dirbančiais tokį patį ar vienodos vertės darbą viso darbo laiko sąlygomis, atsižvelgiant į darbo stažą, kvalifikaciją ir kitas aplinkybes. Už darbą ne viso darbo laiko sąlygomis mokama proporcingai dirbtam laikui arba atliktam darbui, palyginti su darbu, dirbamu viso darbo laiko sąlygomis.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 7\. Darbdavio atsisakymas leisti dirbti ne visą darbo laiką, taip pat vienodų darbo sąlygų nustatymo pažeidimas gali būti ginčijamas darbo ginčams dėl teisės nagrinėti nustatyta tvarka.
 
-8\. Darbdaviai reguliariai, ne rečiau kaip kartą per kalendorinius metus, pareikalavus darbo tarybai, o kai jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti informaciją apie ne visą darbo laiką įmonėje, įstaigoje, organizacijoje dirbančius darbuotojus, nurodydami darbuotojų, dirbančių ne visą darbo laiką, skaičių, užimamas pareigybes ir, jeigu profesijos grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal profesijų grupes ir lytį.
+8\. Darbdaviai reguliariai, ne rečiau kaip kartą per kalendorinius metus, pareikalavus darbo tarybai, o jeigu jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti informaciją apie ne visą darbo laiką įmonėje, įstaigoje, organizacijoje dirbančius darbuotojus, nurodydami darbuotojų, dirbančių ne visą darbo laiką, skaičių, pareigybes, ir, jeigu pareigybių grupėje yra daugiau negu du darbuotojai, nurodyti darbo užmokesčio vidurkį pagal pareigybių grupes ir lytį.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
 
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
+
 ### III SKYRIUS – DARBO SUTARTIES SUDARYMAS
 
 ##### 41 straipsnis. Darbo sutarties šalių ikisutartiniai santykiai
 
-1\. Darbo sutarties šalys, iki sudarydamos darbo sutartį, taip pat ir tada, kai darbo sutartis nesudaryta, turi laikytis lyčių lygybės, nediskriminavimo kitais pagrindais, sąžiningumo, sutarčiai sudaryti ir vykdyti reikalingos informacijos suteikimo ir konfidencialios informacijos išsaugojimo pareigų. Draudžiama iš darbuotojo reikalauti informacijos, kuri nėra susijusi su jo sveikatos būkle, kvalifikacija ar kitomis aplinkybėmis, nesusijusiomis su tiesioginiu darbo funkcijos atlikimu.
+1\. Darbo sutarties šalys, iki sudarydamos darbo sutartį, taip pat ir tada, kai darbo sutartis nesudaryta, turi laikytis lyčių lygybės, nediskriminavimo kitais pagrindais, sąžiningumo principų, vykdyti sutarčiai sudaryti ir vykdyti reikalingos informacijos suteikimo ir konfidencialios informacijos išsaugojimo pareigas. Draudžiama iš darbuotojo reikalauti informacijos, nesusijusios su jo sveikatos būkle, kvalifikacija ar aplinkybėmis, nesusijusiomis su tiesioginio darbo atlikimu, taip pat informacijos apie dabartiniuose ar ankstesniuose darbo santykiuose jo gautą darbo užmokestį. Jeigu įmonėje, įstaigoje ar organizacijoje yra galiojanti kolektyvinė sutartis, būsimas darbdavys įsidarbinti norinčiam asmeniui iki darbo sutarties sudarymo turi pateikti ne tik šio kodekso 25 straipsnio 6 dalyje nurodytą informaciją, bet ir kolektyvinės sutarties nuostatas, kurios yra taikomos sudarius darbo sutartį. Tokia informacija įsidarbinti norinčiam asmeniui pateikiama taip, kad būtų užtikrintos pagrįstos ir skaidrios derybos dėl darbo užmokesčio.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 2\. Jeigu šios pareigos nevykdomos ar netinkamai vykdomos, kita darbo sutarties šalis įgyja teisę kreiptis į darbo ginčus nagrinėjantį organą ir reikalauti atlyginti padarytą žalą arba naudotis kitomis šio kodekso suteiktomis pažeistų teisių gynimo priemonėmis.
 
@@ -770,11 +796,13 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 1\. Darbo sutartis laikoma sudaryta, kai šalys susitaria dėl būtinųjų darbo sutarties sąlygų (šio kodekso 34 straipsnis).
 
-2\. Apie darbo sutarties sudarymą ir darbuotojo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui mažiausiai prieš vieną darbo dieną iki numatytos darbo pradžios. Šis reikalavimas netaikomas, jeigu asmuo priimamas į darbą pagal darbo sutartį, kurioje nurodyta, kad asmens darbo vieta yra ne Lietuvos Respublikoje, ir kai pagal Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautines sutartis šiam asmeniui yra taikomi ne Lietuvos Respublikos teisės aktai socialinio draudimo srityje. Apie darbo sutarties sudarymą ir juridinio asmens vienasmenio valdymo organo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui mažiausiai prieš vieną darbo valandą iki numatytos darbo pradžios.
+2\. Apie darbo sutarties sudarymą ir darbuotojo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo administravimo įstaigai mažiausiai prieš vieną darbo dieną iki numatytos darbo pradžios. Šis reikalavimas netaikomas, jeigu asmuo priimamas į darbą pagal darbo sutartį, kurioje nurodyta, kad asmens darbo vieta – ne Lietuvos Respublikoje, ir jeigu pagal Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautines sutartis šiam asmeniui taikomi ne Lietuvos Respublikos teisės aktai socialinio draudimo srityje. Apie darbo sutarties sudarymą ir juridinio asmens vienasmenio valdymo organo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo administravimo įstaigai mažiausiai prieš vieną darbo valandą iki numatytos darbo pradžios.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 3\. Darbo sutartis įsigalioja darbuotojui pradėjus dirbti. Jeigu darbo sutartis buvo sudaryta, tačiau ji neįsigaliojo ne dėl darbuotojo kaltės, darbdavys privalo sumokėti darbuotojui kompensaciją, kurios dydis ne mažesnis, negu darbuotojo darbo užmokestis už sulygtą darbo laikotarpį, tačiau ne ilgesnį negu vienas mėnuo. Jeigu darbo sutartis buvo sudaryta, tačiau neįsigaliojo dėl darbuotojo kaltės – darbuotojui iš anksto neinformavus darbdavio prieš tris darbo dienas iki sutartos darbo pradžios, darbuotojas privalo atlyginti darbdaviui padarytą žalą, kurios dydis ne didesnis, negu darbuotojo darbo užmokestis už sulygtą darbo laikotarpį, tačiau ne ilgesnį negu dvi savaitės.
 
@@ -940,9 +968,17 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 2\. Dalinis darbas yra iki pusės darbuotojo darbo laiko normos trumpesnis darbo laikas, kai dėl darbo laiko sutrumpinimo sumažėjęs darbo užmokestis darbuotojui kompensuojamas, išmokant dalinio darbo išmoką Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka.
 
-3\. Pagrindas darbdaviui nustatyti dalinį darbą yra Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus sprendimas dėl dalinio darbo išmokos skyrimo. Darbdavio sprendime dėl dalinio darbo nustatymo nurodoma sutrumpinto darbo laiko normos dalis, nurodoma, kas trumpinama (darbo dienų per darbo savaitę skaičius, darbo valandų per dieną skaičius arba ir viena, ir kita), dalinio darbo pradžia ir trukmė, darbuotojai, kuriems taikomas dalinis darbas.
+3\. Pagrindas darbdaviui nustatyti dalinį darbą – Valstybinio socialinio draudimo fondo administravimo įstaigos sprendimas dėl dalinio darbo išmokos skyrimo. Darbdavio sprendime dėl dalinio darbo nustatymo nurodoma sutrumpinto darbo laiko normos dalis, nurodoma, kas trumpinama (darbo dienų per darbo savaitę skaičius, darbo valandų per dieną skaičius arba ir viena, ir kita), dalinio darbo pradžia ir trukmė, darbuotojai, kuriems taikomas dalinis darbas.
 
-4\. Darbdavio sprendimas dėl dalinio darbo nustatymo įsigalioja nuo tos dienos, nuo kurios vadovaujantis Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus sprendimu pradedama mokėti dalinio darbo išmoka.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
+
+4\. Darbdavio sprendimas dėl dalinio darbo nustatymo įsigalioja nuo tos dienos, nuo kurios, vadovaujantis Valstybinio socialinio draudimo fondo administravimo įstaigos sprendimu, pradedama mokėti dalinio darbo išmoka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 49 straipsnis. Darbo sutarties vykdymo sustabdymas darbdavio ar kitų asmenų iniciatyva
 
@@ -1000,7 +1036,11 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 5\. Apie būsimą verslo ar jo dalies perdavimą darbuotojui verslo perdavėjas turi pranešti iš anksto raštu ne vėliau kaip prieš dešimt darbo dienų iki perdavimo, nurodydamas verslo ar jo dalies perdavimo datą, teisinį pagrindą, tokio perdavimo ekonominius ir socialinius padarinius darbuotojui ir priimtas priemones. Jeigu darbuotojas per penkias darbo dienas nuo pranešimo gavimo raštu nesutinka su darbo santykių tęstinumu, verslo perdavėjas nutraukia darbo sutartį su darbuotoju darbdavio iniciatyva be darbuotojo kaltės šio kodekso 57 straipsnyje nustatyta tvarka.
 
-6\. Verslo ar jo dalies perdavėjas perduoda verslo perėmėjui turimus darbuotojų asmeninius duomenis, dokumentus ir apie darbdavio pasikeitimą praneša Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui. Ne vėliau kaip per dešimt darbo dienų nuo darbo santykių perėjimo turi būti padaryti darbo sutarčių pakeitimai.
+6\. Verslo ar jo dalies perdavėjas verslo perėmėjui perduoda turimus darbuotojų asmeninius duomenis, dokumentus ir apie darbdavio pasikeitimą praneša Valstybinio socialinio draudimo fondo administravimo įstaigai. Ne vėliau kaip per dešimt darbo dienų nuo darbo santykių perėjimo dienos turi būti padaryti darbo sutarčių pakeitimai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 52 straipsnis. Nuotolinis darbas
 
@@ -1030,11 +1070,13 @@ TAR pastaba: įstatymo Nr. XIV-1189 nuostata dėl išbandymo termino sudarant te
 
 7\. Darbdavys privalo sudaryti sąlygas nuotolinį darbą dirbantiems darbuotojams bendrauti ir bendradarbiauti su kitais darbdavio darbovietėje dirbančiais darbuotojais ir darbuotojų atstovais, gauti iš darbdavio informaciją.
 
-8\. Darbdavys privalo reguliariai, ne rečiau kaip kartą per kalendorinius metus, pareikalavus darbo tarybai, informuoti darbo tarybą, o kai jos nėra, – darbdavio lygmeniu veikiančią profesinę sąjungą apie nuotolinio darbo būklę įmonėje, įstaigoje, organizacijoje, nurodydamas taip dirbančių darbuotojų skaičių, užimamas pareigybes ir, jeigu profesijos grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal profesijų grupes ir lytį.
+8\. Darbdavys privalo reguliariai, ne rečiau kaip kartą per kalendorinius metus, pareikalavus darbo tarybai, informuoti darbo tarybą, o jeigu jos nėra, – darbdavio lygmeniu veikiančią profesinę sąjungą apie nuotolinio darbo būklę įmonėje, įstaigoje, organizacijoje, nurodydamas taip dirbančių darbuotojų skaičių, pareigybes ir, jeigu pareigybių grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal pareigybių grupes ir lytį.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ### V SKYRIUS – DARBO SUTARTIES PASIBAIGIMAS
 
@@ -1376,7 +1418,11 @@ Darbo sutartis pasibaigia:
 
 6\. Jeigu darbo sutarties pasibaigimo dieną (išskyrus, kai darbo sutartis nutraukiama šalių susitarimu arba darbuotojo iniciatyva, suėjus terminuotos darbo sutarties terminui arba pasibaigus darbdaviui) darbuotojas yra laikinai nedarbingas arba išėjęs jam suteiktų atostogų, darbo santykių pasibaigimo diena nukeliama iki laikinojo nedarbingumo arba atostogų pabaigos, o darbuotojams, slaugantiems vaiką iki šešiolikos metų, sergantį sunkiomis ligomis, kurių sąrašą tvirtina Lietuvos Respublikos sveikatos apsaugos ministras ir Lietuvos Respublikos socialinės apsaugos ir darbo ministras, dar du mėnesius po laikinojo nedarbingumo pabaigos. Tokiu atveju darbo santykių pasibaigimo diena atitinkamai laikoma pirmoji darbo diena po laikinojo nedarbingumo ar atostogų pabaigos arba pirmoji diena pasibaigus dviejų mėnesių laikotarpiui po laikinojo nedarbingumo pabaigos.
 
-7\. Pasibaigus darbo sutarčiai, apie tai daromas įrašas darbo sutartyje. Ne vėliau kaip kitą darbo dieną po darbo santykių pasibaigimo dienos darbdavys privalo apie darbo sutarties pasibaigimą pranešti Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui.
+7\. Pasibaigus darbo sutarčiai, apie tai daromas įrašas darbo sutartyje. Ne vėliau kaip kitą darbo dieną po darbo santykių pasibaigimo dienos darbdavys privalo apie darbo sutarties pasibaigimą pranešti Valstybinio socialinio draudimo fondo administravimo įstaigai.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 8\. Jeigu yra darbuotojo prašymas, darbdavys per dešimt dienų privalo jam išduoti pažymą apie darbuotojo vykdytą darbo funkciją, jos pradžią ir pabaigą, taip pat gautą darbo užmokestį.
 
@@ -1464,11 +1510,13 @@ Darbo sutartis pasibaigia:
 
 2\. Darbdavys privalo informuoti darbuotojus, dirbančius pagal terminuotas darbo sutartis, apie laisvas darbo vietas, į kurias bus priimta dirbti pagal neterminuotą darbo sutartį, ir užtikrinti, kad jie turėtų tokias pačias galimybes įsidarbinti nuolatiniam darbui kaip ir kiti asmenys. Tokia informacija skelbiama įprastais darbovietėje būdais.
 
-3\. Darbdaviai ne rečiau kaip kartą per metus, pareikalavus darbo tarybai, o kai jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti informaciją apie terminuotų darbo sutarčių būklę įmonėje, įstaigoje, organizacijoje, nurodydami darbuotojų, dirbančių pagal terminuotas sutartis, skaičių, užimamas pareigybes ir, jeigu profesijos grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal profesijų grupes ir lytį.
+3\. Darbdaviai ne rečiau kaip kartą per metus, pareikalavus darbo tarybai, o jeigu jos nėra, pareikalavus darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti informaciją apie terminuotų darbo sutarčių būklę įmonėje, įstaigoje, organizacijoje, nurodydami darbuotojų, dirbančių pagal terminuotas sutartis, skaičių, pareigybes ir, jeigu pareigybių grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal pareigybių grupes ir lytį.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 #### ANTRASIS SKIRSNIS – LAIKINOJO DARBO SUTARTYS
 
@@ -1646,11 +1694,13 @@ Už laikinojo darbo naudotojui laikinojo darbuotojo padarytą žalą laikinas da
 
 5\) atsisakyti suteikti laikinojo įdarbinimo įmonei informaciją apie darbuotojų saugą ir sveikatą darbe užtikrinančias priemones ir darbo sąlygas, kurios būtų taikomos, jeigu laikinojo darbo naudotojas būtų laikinąjį darbuotoją įdarbinęs pagal darbo sutartį toje pačioje darbo vietoje.
 
-4\. Laikinojo darbo naudotojas kartą per metus, savo įmonės, įstaigos, organizacijos darbo tarybai pareikalavus, o kai jos nėra, – darbdavio lygmeniu veikiančiai profesinei sąjungai pareikalavus, privalo teikti informaciją apie laikinojo darbo būklę įmonėje, įstaigoje, organizacijoje, nurodydamas per metus dirbusių ar dirbančių laikinųjų darbuotojų skaičių, užimamas pareigybes ir, jeigu profesijos grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal profesijų grupes ir lytį.
+4\. Laikinojo darbo naudotojas kartą per metus, savo įmonės, įstaigos, organizacijos darbo tarybai pareikalavus, o jeigu jos nėra, pareikalavus darbdavio lygmeniu veikiančiai profesinei sąjungai, privalo teikti informaciją apie laikinojo darbo būklę įmonėje, įstaigoje, organizacijoje, nurodydamas per metus dirbusių ar dirbančių laikinųjų darbuotojų skaičių, pareigybes ir, jeigu pareigybių grupėje yra daugiau negu du darbuotojai, darbo užmokesčio vidurkį pagal pareigybių grupes ir lytį.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 5\. Laikinojo įdarbinimo įmonės ir laikinojo darbo naudotojo pareigas užtikrinant laikinojo darbuotojo sveikatą ir saugą darbe nustato Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas.
 
@@ -2610,7 +2660,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 6\) nemokamos.
 
-2\. Darbdavys užtikrina darbuotojo teisę po tikslinių atostogų grįžti į tą pačią ar lygiavertę darbo vietą (pareigas) ne mažiau palankiomis negu buvusios darbo sąlygomis, įskaitant darbo užmokestį, ir naudotis visomis geresnėmis sąlygomis, įskaitant teisę į darbo užmokesčio padidėjimą, į kurias jis būtų turėjęs teisę, jeigu būtų dirbęs.
+2\. Darbdavys užtikrina darbuotojo teisę po tikslinių atostogų grįžti į tą pačią ar vienodos vertės darbo vietą (pareigas) ne mažiau palankiomis negu iki tikslinių atostogų buvusiomis darbo sąlygomis, įskaitant darbo užmokestį, ir naudotis visomis geresnėmis sąlygomis, įskaitant teisę į darbo užmokesčio padidėjimą, į kurias jis būtų turėjęs teisę, jeigu būtų dirbęs.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 132 straipsnis. Nėštumo ir gimdymo atostogos
 
@@ -2802,7 +2856,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 2\. Darbo užmokesčio dydis negali būti mažesnis, negu nustato darbo santykiams taikomi įstatymai, kolektyvinės sutartys, kitos darbo teisės normos ar darbovietėje patvirtinta darbo apmokėjimo sistema.
 
-3\. Darbo apmokėjimo sistema darbovietėje ar darbdavio įmonėje, įstaigoje, organizacijoje nustatoma kolektyvine sutartimi. Kai nėra tai nustatančios kolektyvinės sutarties, darbovietėse, kuriose vidutinis darbuotojų skaičius yra dvidešimt ir daugiau, darbo apmokėjimo sistemas privalo patvirtinti darbdavys ir tai padaryti prieinamą susipažinti visiems darbuotojams. Prieš tvirtinant ar keičiant darbo apmokėjimo sistemą, turi būti įvykdytos informavimo ir konsultavimo procedūros šio kodekso nustatyta tvarka. Darbo apmokėjimo sistemoje nurodomos darbuotojų kategorijos pagal pareigybes ir kvalifikaciją bei kiekvienos jų apmokėjimo formos ir darbo užmokesčio dydžiai (minimalus ir maksimalus), papildomo apmokėjimo (priedų ir priemokų) skyrimo pagrindai ir tvarka, darbo užmokesčio indeksavimo tvarka.
+3\. Darbo apmokėjimo sistema darbovietėje ar darbdavio įmonėje, įstaigoje, organizacijoje nustatoma kolektyvine sutartimi ir taikoma visiems tos darbovietės ar darbdavio įmonės, įstaigos, organizacijos darbuotojams. Jeigu nėra darbo apmokėjimo sistemą nustatančios kolektyvinės sutarties, darbdavys privalo patvirtinti darbo apmokėjimo sistemą ir padaryti ją prieinamą susipažinti visiems darbuotojams. Prieš tvirtinant ar keičiant darbo apmokėjimo sistemą, turi būti įvykdytos informavimo ir konsultavimo procedūros šio kodekso nustatyta tvarka. Darbo apmokėjimo sistemoje darbovietės ar darbdavio įmonės, įstaigos, organizacijos pareigybės turi būti suskirstytos į grupes pagal objektyvius ir lyties požiūriu neutralius kriterijus, apimančius įgūdžius (įskaitant įgūdžius, susijusius su bendravimo, bendradarbiavimo įgūdžiais, konfliktų sprendimu, gebėjimu dirbti su kitais žmonėmis ir svarbius atliekant darbo funkciją), kvalifikaciją, pastangas (fizinių, protinių ir emocinių resursų kiekis, reikalingas užduotims pagal pareigybės aprašymą atlikti), atsakomybę, darbo sąlygas (darbo aplinka, intensyvumas, rizika, fiziniai ir psichiniai veiksniai), ir, jeigu tikslinga, kitus svarbius kriterijus. Pareigybės, kurioms priskirtas toks pats ar vienodos vertės darbas, priskiriamos tai pačiai pareigybių grupei. Darbo apmokėjimo sistemoje, atsižvelgiant į objektyvius ir lyties požiūriu neutralius kriterijus, turi būti nustatytos darbo pagal pareigybių grupes arba pareigybes apmokėjimo formos, darbo užmokesčio dydžiai ar ribos (minimali ir maksimali), papildomo apmokėjimo (priedų ir priemokų), premijų skyrimo pagrindai, dydžiai ir tvarka, darbo užmokesčio indeksavimo, didinimo (darbdavio sprendimas, susijęs su geresniais darbuotojo veiklos rezultatais, augančiomis kompetencijomis, didesne patirtimi ir kt.) kriterijai ir tvarka. Darbdaviai, turintys mažiau nei 50 darbuotojų, atleidžiami nuo pareigos darbo apmokėjimo sistemoje numatyti darbo užmokesčio didinimo kriterijus ir tvarką.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 4\. Iš valstybės, savivaldybių ir valstybės socialinių fondų biudžetų ir kitų valstybės įsteigtų fondų lėšų finansuojamų įmonių, įstaigų ir organizacijų bei Lietuvos banko darbuotojų darbo apmokėjimo sąlygos nustatomos teisės aktų nustatyta tvarka.
 
@@ -2810,7 +2868,11 @@ Transporto, pašto, žemės ūkio, energetikos įmonėse, gydymo ir socialinės 
 
 *Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430*
 
-5\. Darbo apmokėjimo sistema turi būti parengta taip, kad ją taikant būtų išvengta bet kokio diskriminavimo lyties ir kitais pagrindais. Vyrams ir moterims už tokį patį ar lygiavertį darbą mokamas vienodas darbo užmokestis. Toks pats darbas reiškia atlikimą darbo veiklos, kuri pagal objektyvius kriterijus vienoda ar panaši į kitą darbo veiklą tiek, kad abu darbuotojai gali būti sukeisti vietomis be didesnių darbdavio sąnaudų. Lygiavertis darbas reiškia, kad jis pagal objektyvius kriterijus yra ne mažesnės kvalifikacijos ir ne mažiau reikšmingas darbdaviui siekiant savo veiklos tikslų, negu kitas palyginamasis darbas.
+5\. Darbo apmokėjimo sistema turi būti parengta taip, kad ją taikant būtų išvengta bet kokio diskriminavimo lyties ir kitais pagrindais. Vyrams ir moterims už tokį patį ar vienodos vertės darbą turi būti mokamas vienodas darbo užmokestis. Toks pats darbas – atlikimas darbo veiklos, pagal objektyvius kriterijus vienodos ar tiek panašios į kitą darbo veiklą, kad abu darbuotojai gali būti sukeisti vietomis ir darbdavys dėl to nepatirtų didesnių sąnaudų. Vienodos vertės darbas – darbas, kuris, vertinant pagal šio straipsnio 3 dalyje nustatytus objektyvius ir lyties požiūriu neutralius kriterijus, laikomas tokios pat vertės kaip kitas palyginamasis darbas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 6\. Įgyvendinant darbuotojų lyčių lygybės ir nediskriminavimo kitais pagrindais principus, darbuotojo darbo užmokestis be diskriminavimo reiškia nediskriminacinį darbo užmokestį ir visus papildomus uždarbius pinigais arba natūra, kuriuos darbuotojas tiesiogiai ar netiesiogiai gauna iš darbdavio už savo darbą.
 
@@ -2916,23 +2978,17 @@ TAR pastaba: 141 straipsnio 3 dalies nuostatos taikomos derantis dėl 2026 metai
 
 2\. Darbo sutarčiai pasibaigus, visos darbuotojo su darbo santykiais susijusios išmokos išmokamos, kai nutraukiama darbo sutartis su darbuotoju, bet ne vėliau kaip iki darbo santykių pabaigos, nebent šalys susitaria, kad su darbuotoju bus atsiskaityta ne vėliau kaip per dešimt darbo dienų. Darbo užmokesčio ar su juo susijusių išmokų dalis, neviršijanti darbuotojo vieno mėnesio vidutinio darbo užmokesčio dydžio, visais atvejais turi būti sumokama ne vėliau kaip darbo santykių pasibaigimo dieną, nebent atleidimo metu buvo susitarta kitaip.
 
-##### 147 straipsnis. Pavėluotas darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų mokėjimas
+##### 147 straipsnis. Pavėluotas ar netinkamas darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų mokėjimas
 
-1\. Darbo santykiams nepasibaigus, kai dėl darbdavio kaltės pavėluotai išmokamas darbo užmokestis ar kitos su darbo santykiais susijusios išmokos, kartu su jomis darbuotojui, turinčiam darbo santykių, išmokami delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras, jeigu darbo teisės normos nenustato didesnio delspinigių dydžio. Delspinigių dydį Lietuvos Respublikos socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Valstybės duomenų agentūros paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu). Darbdaviui iškėlus bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas įsiteisėjus teismo nutarčiai iškelti bankroto bylą arba nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos.
+1\. Darbo santykiams nepasibaigus, kai dėl darbdavio kaltės pavėluotai išmokamas darbo užmokestis ar kitos su darbo santykiais susijusios išmokos, kartu su jomis darbuotojui, turinčiam darbo santykių, išmokami delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras, jeigu darbo teisės normos nenustato didesnio delspinigių dydžio. Delspinigių dydį Lietuvos Respublikos socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Valstybės duomenų agentūros paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu). Darbdaviui iškėlus bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo arba nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos.
 
-*Straipsnio dalies pakeitimai:*
+2\. Darbo santykiams pasibaigus, jeigu darbdavys ne dėl darbuotojo kaltės uždelsė atsiskaityti su juo (šio kodekso 146 straipsnio 2 dalis), darbdavys privalo mokėti netesybas, kurių dydis – darbuotojo vidutinis darbo užmokestis per mėnesį, padaugintas iš uždelstų mėnesių skaičiaus. Jeigu uždelsta suma yra mažesnė negu darbuotojo vieno mėnesio vidutinis darbo užmokestis, netesybų dydį sudaro darbdavio uždelsta suma, padauginta iš uždelstų mėnesių skaičiaus. Jeigu uždelsto atsiskaitymo laikotarpis yra trumpesnis negu vienas mėnuo, netesybų dydį sudaro darbuotojo vidutinio darbo užmokesčio suma, apskaičiuota proporcingai uždelsto atsiskaitymo laikotarpiui.
 
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+3\. Jeigu darbdavys netinkamai vykdė pareigą už tokį patį ar vienodos vertės darbą mokėti vienodą darbo užmokestį, darbo santykiams tęsiantis mutatis mutandis taikomos šio straipsnio 1 dalies nuostatos, o darbo santykiams pasibaigus – šio straipsnio 2 dalies nuostatos.
 
-*Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993*
+*Straipsnio pakeitimai:*
 
-2\. Darbo santykiams pasibaigus, o darbdaviui ne dėl darbuotojo kaltės uždelsus atsiskaityti su juo (šio kodekso 146 straipsnio 2 dalis), darbdavys privalo mokėti netesybas, kurių dydis – darbuotojo vidutinis darbo užmokestis per mėnesį, padaugintas iš uždelstų mėnesių skaičiaus, tačiau ne daugiau kaip iš šešių. Jeigu uždelsta suma yra mažesnė negu darbuotojo vieno mėnesio vidutinis darbo užmokestis, netesybų dydį sudaro darbdavio uždelsta suma, padauginta iš uždelstų mėnesių skaičiaus, tačiau ne daugiau kaip iš šešių. Jeigu uždelsto atsiskaitymo laikotarpis yra trumpesnis negu vienas mėnuo, netesybų dydį sudaro darbuotojo vidutinio darbo užmokesčio suma, apskaičiuota proporcingai uždelsto atsiskaitymo laikotarpiui.
-
-*Straipsnio dalies pakeitimai:*
-
-*Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
-
-*Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135*
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 148 straipsnis. Informacija apie darbo užmokestį ir dirbtą darbą
 
@@ -3852,11 +3908,13 @@ Gali būti sudaromos šios kolektyvinės sutartys:
 
 ##### 197 straipsnis. Kolektyvinių sutarčių taikymas
 
-1\. Kolektyvinės sutartys taikomos darbuotojams – jas sudariusių profesinių sąjungų nariams. Jeigu profesinė sąjunga ir darbdavys susitaria dėl darbdavio lygmens ar darbovietės lygmens kolektyvinės sutarties taikymo visiems darbuotojams, ji taikoma visiems darbuotojams, jeigu ją patvirtina visuotinis darbdavio darbuotojų susirinkimas (konferencija). Konferencija – įmonės, įstaigos, organizacijos struktūriniuose organizaciniuose dariniuose išrinktų darbuotojų atstovų susirinkimas. Jeigu nesant darbdavio lygmeniu veikiančios profesinės sąjungos kolektyvinę sutartį sudaro šakos profesinė sąjunga, kuri šio kodekso nustatyta tvarka buvo įgaliota vesti derybas dėl darbdavio lygmens kolektyvinės sutarties, ir darbdavys, tokia kolektyvinė sutartis taikoma visiems darbdavio darbuotojams, jeigu ją patvirtina visuotinis darbdavio darbuotojų susirinkimas (konferencija).
+1\. Kolektyvinės sutartys taikomos darbuotojams – jas sudariusių profesinių sąjungų nariams, išskyrus šio kodekso 140 straipsnio 3 dalyje nurodytą atvejį, kai darbo apmokėjimo sistema taikoma visiems darbuotojams, jos netvirtinant visuotiniame darbdavio darbuotojų susirinkime (konferencijoje). Jeigu profesinė sąjunga ir darbdavys susitaria dėl darbdavio lygmens ar darbovietės lygmens kolektyvinės sutarties taikymo visiems darbuotojams, ji taikoma visiems darbuotojams, jeigu ją patvirtina visuotinis darbdavio darbuotojų susirinkimas (konferencija). Konferencija – įmonės, įstaigos, organizacijos struktūriniuose organizaciniuose dariniuose išrinktų darbuotojų atstovų susirinkimas. Jeigu, nesant darbdavio lygmeniu veikiančios profesinės sąjungos, kolektyvinę sutartį sudaro šakos profesinė sąjunga, kuri šio kodekso nustatyta tvarka buvo įgaliota vesti derybas dėl darbdavio lygmens kolektyvinės sutarties, ir darbdavys, ši kolektyvinė sutartis taikoma visiems darbdavio darbuotojams, jeigu ją patvirtina visuotinis darbdavio darbuotojų susirinkimas (konferencija).
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 2\. Darbdavio ar darbovietės lygmens kolektyvinę sutartį privalo taikyti darbdavys – šios sutarties šalis.
 
@@ -4162,15 +4220,19 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 ##### 217 straipsnis. Darbo ginčus dėl teisės nagrinėjančių organų kompetencija
 
-1\. Nagrinėdamas darbo ginčus dėl teisės, darbo ginčą nagrinėjantis organas turi teisę:
+1\. Darbo ginčus dėl teisės nagrinėjantis organas turi teisę:
 
-1\) įpareigoti kitą šalį atkurti dėl darbo teisės normų ar abipusių susitarimų nevykdymo ar netinkamo vykdymo pažeistas teises;
+1\) įpareigoti kitą šalį atkurti dėl darbo teisės normų ar susitarimų nevykdymo ar netinkamo vykdymo pažeistas teises;
 
-2\) priteisti padarytą turtinę ar neturtinę žalą, o darbo teisės normų ar susitarimų nustatytais atvejais – ir baudas ar delspinigius;
+2\) priteisti padarytą turtinę ar neturtinę žalą, o darbo teisės normų ar susitarimų nustatytais atvejais – ir baudas, delspinigius ar netesybas;
 
 3\) nutraukti arba pakeisti teisinius santykius;
 
 4\) įpareigoti atlikti kitus įstatymuose ar darbo teisės normose nustatytus veiksmus.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 2\. Nagrinėdamas kolektyvinius darbo ginčus dėl teisės, darbo ginčą nagrinėjantis organas turi teisę darbo teisės normas ar šalių susitarimus pažeidusiai šaliai kitos šalies naudai skirti iki 3 000 eurų baudą. Baudos dydis turi būti proporcingas pažeidimo sunkumui ir atgrasyti nuo teisės pažeidimo ateityje.
 
@@ -4183,6 +4245,12 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021*
+
+4\. Teismas gali nukrypti nuo Lietuvos Respublikos civilinio proceso kodekse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių bylose, susijusiose su ieškiniu dėl diskriminacijos darbo užmokesčio srityje, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 218 straipsnis. Sprendimai bylose dėl neteisėto nušalinimo ar atleidimo iš darbo
 
@@ -4198,9 +4266,15 @@ Ginčai dėl kolektyvinės sutarties vykdymo ar netinkamo jos vykdymo, įskaitan
 
 6\. Šio straipsnio 4 ir 5 dalyse nurodytais atvejais laikoma, kad darbo sutartis nutraukta darbo ginčus nagrinėjančio organo sprendimu jo įsiteisėjimo dieną.
 
-##### 219 straipsnis. Sprendimai bylose dėl darbo užmokesčio ir išmokų, susijusių su darbo santykiais
+##### 219 straipsnis. Sprendimai bylose dėl darbo užmokesčio ir kitų išmokų, susijusių su darbo santykiais
 
-Jeigu šiame kodekse nenustatyta kitaip, priimdamas sprendimus dėl uždelsto sumokėti darbo užmokesčio ir kitų išmokų, susijusių su darbo santykiais, priteisimo darbo ginčą nagrinėjantis organas priteisia šias sumas visas, atsižvelgdamas į šio kodekso nustatytus apribojimus ir ieškinio senaties taikymo taisykles.
+1\. Jeigu šiame kodekse nenustatyta kitaip, darbo ginčą nagrinėjantis organas, priimdamas sprendimus dėl uždelsto sumokėti darbo užmokesčio ir kitų išmokų, susijusių su darbo santykiais, priteisimo, priteisia visas šias sumas, atsižvelgdamas į šio kodekso nustatytus apribojimus ir ieškinio senaties taikymo taisykles.
+
+2\. Jeigu darbo ginčą nagrinėjantis organas nustato, kad darbdavys pažeidė pareigą už tokį patį ar vienodos vertės darbą mokėti vienodą darbo užmokestį, darbuotojui priteisiama kompensacija. Ši kompensacija apima visišką nesumokėto darbo užmokesčio ar mokėjimų natūra atgavimą, taip pat turtinės ir neturtinės žalos atlyginimą, įskaitant žalą, patirtą dėl diskriminacijos įvairiais pagrindais, ir kompensaciją už dėl šio pažeidimo prarastas su darbu susijusias galimybes.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 ##### 220 straipsnis. Darbo ginčo dėl teisės nagrinėjimas darbo ginčų komisijoje ir teisme
 
@@ -4340,7 +4414,11 @@ Jeigu šiame kodekse nenustatyta kitaip, priimdamas sprendimus dėl uždelsto su
 
 *Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430*
 
-5\. Darbo ginčų komisijos posėdyje turi būti užtikrintas patikimas šalių ir liudytojų tapatybės nustatymas, objektyvus duomenų (įrodymų) fiksavimas ir pateikimas, asmens duomenų apsaugos reikalavimų įgyvendinimas. Šios procedūros atliekamos Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka. Duomenų subjektų teisės įgyvendinamos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka.
+5\. Darbo ginčų komisijos posėdyje turi būti užtikrintas patikimas šalių ir liudytojų tapatybės nustatymas, objektyvus duomenų (įrodymų) fiksavimas ir pateikimas, asmens duomenų apsaugos reikalavimų įgyvendinimas. Šios procedūros atliekamos Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679. Duomenų subjektų teisės įgyvendinamos Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
 
 6\. Jeigu darbo ginčų komisijos narys negali dalyvauti darbo ginčų komisijos posėdyje, darbo ginčų komisijos pirmininkas sprendžia, ar atidėti posėdį, ar nagrinėti prašymą iš esmės. Jeigu be pateisinamos priežasties darbo ginčų komisijos narys tris kartus iš eilės neatvyksta į darbo ginčų komisijos posėdžius, darbo ginčų komisijos pirmininko motyvuotu teikimu Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius gali jį išbraukti iš darbo ginčų komisijos narių sąrašo.
 
@@ -4930,6 +5008,12 @@ priedas
 
 *Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430*
 
+19\. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/970, kuria, nustatant darbo užmokesčio skaidrumo ir vykdymo užtikrinimo mechanizmus, griežčiau taikomas vienodo vyrų ir moterų darbo užmokesčio už vienodą arba vienodos vertės darbą principas.
+
+*Papildyta punktu:*
+
+*Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785*
+
 *Priedo pakeitimai:*
 
 *Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454*
@@ -5265,3 +5349,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 
 Lietuvos Respublikos darbo kodekso 14, 30, 35, 36, 41, 42, 56, 57, 59, 62, 72-1, 112, 119, 134, 140, 141, 144, 171, 179, 181, 182, 185, 193, 194, 222, 223, 225, 226, 228, 237, 240, 241 straipsnių ir priedo pakeitimo įstatymas
+
+42\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-969, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08785
+
+Lietuvos Respublikos darbo kodekso 23, 26, 39, 40, 41, 42, 48, 51, 52, 65, 71, 79, 131, 140, 147, 148, 197, 217, 219, 226 straipsnių ir priedo pakeitimo įstatymas
