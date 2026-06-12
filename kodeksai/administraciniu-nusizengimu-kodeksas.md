@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-06-07"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/fwaGRVPjjW"
+redakcija_nuo: "2026-06-13"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ulzLclAEDI"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2586,13 +2586,15 @@ užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūks
 
 #### 120 straipsnis. Kreditorių teisių pažeidimas
 
-1\. Kreditorių teisių pažeidimas (kreditorių reikalavimų tenkinimo eilės ir tvarkos pažeidimas, pareiškimo dėl bankroto bylos iškėlimo nepateikimas ar pavėluotas pateikimas teismui, kreditorių susirinkimų nesušaukimas įstatymuose numatytais atvejais)
+1\. Kreditorių teisių pažeidimas (kreditorių reikalavimų tenkinimo eilės ir tvarkos pažeidimas, kreditorių susirinkimų nesušaukimas įstatymuose numatytais atvejais)
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163*
+
+*Nr. XV-988, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10325*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -20591,3 +20593,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-970, 2026-05-21, paskelbta TAR 2026-05-25, i. k. 2026-08788
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 99, 589 straipsnių ir priedo pakeitimo įstatymas
+
+286\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-988, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10325
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 120 straipsnio pakeitimo įstatymas
