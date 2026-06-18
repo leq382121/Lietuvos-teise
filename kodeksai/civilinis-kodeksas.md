@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2026-06-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/PyjcOQeiid"
+redakcija_nuo: "2026-06-19"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/vGgUOlvJvu"
 ---
 
 # Civilinis kodeksas
@@ -13238,7 +13238,11 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 3\) sutartims dėl sveikatos priežiūros paslaugų;
 
-4\) sutartims dėl finansinių paslaugų;
+4\) sutartims dėl finansinių paslaugų, išskyrus nuotolines finansinių paslaugų sutartis. Nuotolinėms finansinių paslaugų sutartims taikomos šio kodekso 6.228¹, 6.228² straipsnių, 6.228⁵ straipsnio 3 ir 5 dalių, 6.228⁷ straipsnio 6 dalies, 6.228⁸ straipsnio 5 dalies, 6.228¹⁰ straipsnio 11–16 dalių ir 6.228¹⁶ straipsnio nuostatos;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
 
 5\) statybos rangos sutartims dėl naujo statinio statybos ar statinio rekonstrukcijos;
 
@@ -13432,7 +13436,11 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 6\) apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas ir, jeigu reikalinga, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
 
-7\) teisė atsisakyti sutarties: šios teisės įgyvendinimo sąlygos, terminas ir tvarka pagal šio kodekso 6.228¹⁰ straipsnį, taip pat pavyzdinė sutarties atsisakymo forma arba informacija, kad vartotojas neturi teisės atsisakyti sutarties pagal šio kodekso 6.228¹⁰ straipsnį, arba, jei reikalinga, aplinkybės, kuriomis vartotojas praranda teisę atsisakyti sutarties;
+7\) teisė atsisakyti sutarties: šios teisės įgyvendinimo sąlygos, terminas ir tvarka pagal šio kodekso 6.228¹⁰ straipsnį, taip pat pavyzdinė sutarties atsisakymo forma ir, jei reikalinga, informacija apie sutarties atsisakymo funkciją ir jos pateikimo vietą arba informacija, kad vartotojas neturi teisės atsisakyti sutarties pagal šio kodekso 6.228¹⁰ straipsnį, arba, jei reikalinga, aplinkybės, kuriomis vartotojas praranda teisę atsisakyti sutarties;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
 
 8\) jeigu reikalinga, informacija, kad vartotojas, atsisakęs sutarties, turi padengti prekių grąžinimo išlaidas, o nuotolinių sutarčių atvejais – prekių grąžinimo išlaidas, jei prekės dėl savo pobūdžio paprastai negali būti grąžintos paštu;
 
@@ -13631,6 +13639,48 @@ c) jeigu sudaroma sutartis dėl reguliaraus prekių pristatymo per nustatytą la
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
+
+11\. Kai nuotolinė sutartis sudaryta naudojantis elektronine sąsaja, vartotojas turi teisę atsisakyti šios sutarties, naudodamasis sutarties atsisakymo funkcija. Elektroninėje sąsajoje sutarties atsisakymo funkcija turi būti pažymėta žodžiais „atsisakyti sutarties čia“ arba pateikta kita panaši nedviprasmiška, lengvai įskaitoma formuluotė. Sutarties atsisakymo funkcija turi būti nuolat prieinama tol, kol vartotojas turi teisę atsisakyti sutarties. Ši funkcija turi būti aiškiai matoma elektroninėje sąsajoje ir lengvai prieinama vartotojui.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+12\. Sutarties atsisakymo funkcija vartotojui turi būti suteikiama galimybė išsiųsti verslininkui naudojantis internetu parengtą vartotojo pareiškimą atsisakyti sutarties. Tokiame naudojantis internetu parengtame pareiškime vartotojui turi būti suteikiama galimybė lengvai pateikti ar patvirtinti šią informaciją:
+
+1\) savo vardą ir pavardę;
+
+2\) sutarties, kurios atsisakoma, identifikavimo duomenis;
+
+3\) išsamius duomenis apie elektronines priemones, kuriomis jam turi būti siunčiamas sutarties atsisakymo gavimo patvirtinimas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+13\. Vartotojui pagal šio straipsnio 12 dalį naudojantis internetu parengus pareiškimą dėl sutarties atsisakymo, verslininkas turi suteikti vartotojui galimybę patvirtinti šį pareiškimą naudojantis patvirtinimo funkcija. Ši funkcija turi būti pažymėta lengvai įskaitomais žodžiais „patvirtinti sutarties atsisakymą“ arba panašia nedviprasmiška formuluote.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+14\. Kai vartotojas pasinaudoja patvirtinimo funkcija, verslininkas turi nedelsdamas išsiųsti vartotojui patvariąja laikmena sutarties atsisakymo gavimo patvirtinimą, kuriame pateikiamas sutarties atsisakymo turinys ir jo pateikimo data bei laikas.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+15\. Vartotojas turi teisę įgyvendinti savo teisę atsisakyti sutarties, pateikdamas šio straipsnio 12 dalyje nurodytą naudojantis internetu parengtą pareiškimą iki sutarties atsisakymo termino pabaigos.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+16\. Jeigu Europos Sąjungos teisės aktuose ar kituose Europos Sąjungos teisės aktų įgyvendinamuosiuose įstatymuose nustatytos kitokios, negu nustatyta šio straipsnio 11–15 dalyse, sutarties atsisakymo taisyklės, šis kodeksas taikomas tiek, kiek nurodyti kiti įstatymai ar Europos Sąjungos teisės aktai nenustato kitaip.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
 
 ###### 6.228¹¹ straipsnis. Sutarties atsisakymo teisinės pasekmės
 
@@ -21536,11 +21586,13 @@ priedas
 
 3\. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
-4\. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
+4\. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673.
 
 *Punkto pakeitimai:*
 
 *Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
+
+*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
 
 5\. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
