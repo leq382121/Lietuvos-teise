@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-06-13"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/ulzLclAEDI"
+redakcija_nuo: "2026-06-30"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FpZJuIcMtq"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -17602,7 +17602,11 @@ Tuo atveju, kai priimami keli nutarimai skirti administracines nuobaudas ar sura
 
 3\. Nutarimo skirti baudą priverstinio vykdymo senaties terminas – penkeri metai nuo šio kodekso 675 straipsnio 2 dalyje nustatyto termino pabaigos, o pagal šio kodekso 675 straipsnio 3 dalį išdėsčius nutarimu paskirtos baudos mokėjimą, – nuo išdėstymo termino pabaigos.
 
-4\. Nutarimas skirti baudą negali būti priverstinai vykdomas, jeigu Valstybinė mokesčių inspekcija sprendimu dėl priverstinio baudos išieškojimo neperdavė jo vykdyti antstoliui per šešis mėnesius nuo šio kodekso 675 straipsnio 2 dalyje nustatyto termino pabaigos arba, išdėsčius nutarimu paskirtos baudos mokėjimą pagal šio kodekso 675 straipsnio 3 dalį, neperdavė jo vykdyti antstoliui sprendimu dėl priverstinio baudos išieškojimo per šešis mėnesius nuo paskirtos baudos mokėjimo išdėstymo termino pabaigos arba išdėstymo nutraukimo, arba nuo sprendimo dėl mokestinio ginčo įsiteisėjimo Lietuvos Respublikos mokesčių administravimo įstatymo (toliau – Mokesčių administravimo įstatymas) nustatyta tvarka.
+4\. Neteko galios nuo 2026-06-30
+
+*Straipsnio dalies naikinimas:*
+
+*Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626*
 
 #### 673 straipsnis. Nutarimų skirti administracines nuobaudas vykdymo kontrolė ir su šių nutarimų vykdymu susijusių klausimų sprendimas
 
@@ -17656,9 +17660,17 @@ Tuo atveju, kai priimami keli nutarimai skirti administracines nuobaudas ar sura
 
 #### 676 straipsnis. Priverstinis nutarimų skirti baudą vykdymas
 
-1\. Jeigu pažeidėjas nesumoka baudos per šio kodekso 675 straipsnio 2 dalyje nustatytą terminą, taip pat jeigu baudos dalis nesumokama laiku pagal jos mokėjimo išdėstymo tvarką ir baudos mokėjimas dalimis nutraukiamas, nutarimas skirti baudą pateikiamas vykdyti priverstine tvarka.
+1\. Jeigu pažeidėjas nesumoka baudos per šio kodekso 675 straipsnio 2 dalyje nustatytą terminą, taip pat jeigu baudos dalis nesumokama laiku pagal jos mokėjimo išdėstymo tvarką ir baudos mokėjimas dalimis nutraukiamas, nutarimas skirti baudą pradedamas vykdyti priverstine tvarka.
 
-2\. Baudą priverstinai išieško antstoliai Civilinio proceso kodekse nustatyta tvarka.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626*
+
+2\. Baudą priverstinai išieško Valstybinė mokesčių inspekcija Mokesčių administravimo įstatyme nustatyta tvarka ir antstolis Civilinio proceso kodekse nustatyta tvarka.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626*
 
 3\. Jeigu vykdant priverstinį išieškojimą nerandama asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda, antstolis mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas, grąžina mokesčių administratoriui.
 
@@ -17672,7 +17684,11 @@ Tuo atveju, kai priimami keli nutarimai skirti administracines nuobaudas ar sura
 
 *Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688*
 
-5\. Nesumokėta bauda ar jos dalis gali būti pakartotinai perduota antstoliui priverstinai išieškoti, kai pasikeičia baudos pripažinimo beviltiška sąlygos – atsiranda turto ar pajamų, iš kurių gali būti vykdomas išieškojimas. Šiuo atveju netaikomas šio kodekso 672 straipsnio 4 dalyje nustatytas baudos perdavimo priverstinai išieškoti senaties terminas.
+5\. Nesumokėta bauda ar jos dalis gali būti pakartotinai perduota antstoliui priverstinai išieškoti, kai pasikeičia baudos pripažinimo beviltiška sąlygos – atsiranda turto ar pajamų, iš kurių gali būti vykdomas išieškojimas.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XIV-2809, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12626*
 
 6\. Nesumokėta bauda ar jos dalis gali būti pakartotinai perduota antstoliui priverstinai išieškoti tik tuo atveju, kai administracinio nusižengimo byloje klausimas dėl baudos pakeitimo viešaisiais darbais buvo išspręstas neigiamai ar asmeniui paskirti viešieji darbai buvo atkeisti į baudą.
 
