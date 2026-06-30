@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-06-30"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FpZJuIcMtq"
+redakcija_nuo: "2026-07-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/NKBCwYxtli"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -2452,15 +2452,11 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dvie
 
 *Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508*
 
-#### 112 straipsnis. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti
+112 straipsnis. Neteko galios nuo 2026-07-01
 
-1\. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti,
+*Straipsnio naikinimas:*
 
-užtraukia įspėjimą arba baudą žemės savininkams ar kitiems žemės naudotojams nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
-
-2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-
-užtraukia baudą nuo vieno šimto keturiasdešimt iki dviejų šimtų aštuoniasdešimt eurų.
+*Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185*
 
 *Straipsnio pakeitimai:*
 
@@ -2482,11 +2478,11 @@ užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
 
 *Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
 
-#### 113¹ straipsnis. Riboženklio pakeitimas
+113¹ straipsnis. Neteko galios nuo 2026-07-01
 
-Neteisėtas riboženklio pastatymas, perdarymas, pašalinimas ar nukėlimas
+*Straipsnio naikinimas:*
 
-užtraukia baudą nuo vieno šimto iki trijų šimtų penkiasdešimt eurų.
+*Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185*
 
 *Straipsnio pakeitimai:*
 
@@ -7242,11 +7238,15 @@ užtraukia įspėjimą arba baudą nuo dvidešimt iki vieno šimto keturiasdeši
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
-#### 283 straipsnis. Miškų, žemės ir saugomų teritorijų riboženklių, kvartalinių stulpų ir ženklų, informacinių stendų, priešgaisrinių ir rekreacinių įrenginių gadinimas, naikinimas ar savavališkas perkėlimas
+#### 283 straipsnis. Miškų, žemės ir saugomų teritorijų kvartalinių stulpų ir ženklų, informacinių stendų, priešgaisrinių ir rekreacinių įrenginių gadinimas, naikinimas ar savavališkas perkėlimas
 
-Miškų, žemės ir saugomų teritorijų riboženklių, kvartalinių stulpų ir ženklų, informacinių stendų, priešgaisrinių ir rekreacinių įrenginių gadinimas, naikinimas ar savavališkas perkėlimas
+Miškų, žemės ir saugomų teritorijų kvartalinių stulpų ir ženklų, informacinių stendų, priešgaisrinių ir rekreacinių įrenginių gadinimas, naikinimas ar savavališkas perkėlimas
 
 užtraukia baudą asmenims nuo trisdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki dviejų šimtų eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185*
 
 #### 284 straipsnis. Laukinių augalų ar grybų išteklių naudojimas pažeidžiant laukinių augalų ar grybų naudojimą reglamentuojančius teisės aktus
 
@@ -12784,7 +12784,7 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dvie
 
 3\. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti dekoderių, kitų dekoduojančių įrenginių ar programinės įrangos konfiskavimą.
 
-#### 476 straipsnis. Elektroninių ryšių infrastruktūros įrengimo, žymėjimo, priežiūros ir naudojimo taisyklių pažeidimas
+#### 476 straipsnis. Elektroninių ryšių infrastruktūros įrengimo, žymėjimo, priežiūros ir naudojimo taisyklių ir Reglamento (ES) 2024/1309 nuostatų pažeidimas
 
 1\. Elektroninių ryšių infrastruktūros įrengimo, žymėjimo, priežiūros ir naudojimo taisyklių pažeidimas
 
@@ -12793,6 +12793,18 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo septynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+3\. Reglamento (ES) 2024/1309 nuostatų pažeidimas
+
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+4\. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+
+*Straipsnio pakeitimai:*
+
+*Nr. XV-816, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06394*
 
 #### 476¹ straipsnis. Lietuvos Respublikos elektroninių ryšių įstatyme numatytos informacijos nepateikimas, neteisingos ar neišsamios informacijos pateikimas
 
@@ -15158,7 +15170,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694*
 
-43\) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+43\) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110 straipsnyje, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15173,6 +15185,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651*
 
 *Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+*Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185*
 
 44\) Mobilizacijos ir pilietinio pasipriešinimo departamento prie Krašto apsaugos ministerijos – dėl šio kodekso 505, 507, 516, 517, 517⁴ straipsniuose numatytų administracinių nusižengimų;
 
@@ -15504,7 +15518,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XV-415, 2025-09-11, paskelbta TAR 2025-09-16, i. k. 2025-15495*
 
-67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 113¹, 261 straipsniuose, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+67\) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 113, 261 straipsniuose, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 350, 351, 352, 353, 354, 355, 356, 356¹, 356², 357, 357¹, 358, 361, 362, 363, 364, 364¹, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15517,6 +15531,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325*
 
 *Nr. XV-214, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08910*
+
+*Nr. XV-782, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05185*
 
 68\) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 66¹, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 
@@ -18321,6 +18337,12 @@ priedas
 *Papildyta straipsnio dalimi:*
 
 *Nr. XV-275, 2025-06-12, paskelbta TAR 2025-06-20, i. k. 2025-11220*
+
+123\. 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1309 dėl priemonių gigabitinių elektroninių ryšių tinklų diegimo sąnaudoms mažinti, kuriuo iš dalies keičiamas Reglamentas (ES) 2015/2120 ir panaikinama Direktyva 2014/61/ES (Gigabitinės infrastruktūros aktas).
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-816, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06394*
 
 *Priedo pakeitimai:*
 
