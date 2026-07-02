@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-09-26"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.2B866DFF7D43"
-redakcija_nuo: "2026-01-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/KjBTgQqlkz"
+redakcija_nuo: "2026-07-03"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43/xrGMfyvVJL"
 ---
 
 # Baudžiamasis kodeksas
@@ -3808,9 +3808,13 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
 #### 162 straipsnis. Vaiko išnaudojimas pornografijai
 
-1\. Tas, kas verbavo, vertė arba įtraukė vaiką dalyvauti pornografinio pobūdžio renginiuose, arba išnaudojo vaiką tokiems tikslams, arba išnaudojo vaiką pornografinei produkcijai gaminti, arba pelnėsi iš tokios vaiko veiklos,
+1\. Tas, kas verbavo, vertė arba įtraukė vaiką dalyvauti pornografinio pobūdžio renginiuose, arba išnaudojo vaiką tokiems tikslams, arba ragino vaiką sukurti pornografinio turinio dalyką, arba kitaip išnaudojo vaiką pornografinei produkcijai gaminti, arba pelnėsi iš tokios vaiko veiklos,
 
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-1089, 2026-06-25, paskelbta TAR 2026-07-02, i. k. 2026-11474*
 
 2\. Tas, kas dalyvavo pornografinio pobūdžio renginyje, į kurį buvo įtrauktas vaikas,
 
@@ -9307,3 +9311,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
 
 Lietuvos Respublikos baudžiamojo kodekso 199, 199-2, 253-2, 256-2, 260-1, 266-1, 267-2, 267-3, 276-4 ir 282 straipsnių pakeitimo įstatymas
+
+73\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-1089, 2026-06-25, paskelbta TAR 2026-07-02, i. k. 2026-11474
+
+Lietuvos Respublikos baudžiamojo kodekso 162 straipsnio pakeitimo įstatymas
