@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2026-06-19"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/vGgUOlvJvu"
+redakcija_nuo: "2026-07-31"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ZydVxNNqjJ"
 ---
 
 # Civilinis kodeksas
@@ -15480,7 +15480,11 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 3\) kai taikytina, būti pristatytos kartu su tokiais priedais (įskaitant pakuotę, įdiegimo ar kitas instrukcijas), kuriuos gauti vartotojas gali pagrįstai tikėtis;
 
-4\) atitikti kiekį ir turėti tokias savybes (įskaitant su patvarumu, funkcionalumu, suderinamumu ir saugumu susijusias savybes) ir ypatybes, kuriomis paprastai pasižymi tokios pat rūšies prekės ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į prekių pobūdį ir į bet kokius pardavėjo ar kitų asmenų (įskaitant gamintoją) arba jų vardu pateiktus viešus pareiškimus, visų pirma, prekes reklamuojant ar jas ženklinant.
+4\) atitikti kiekį ir turėti tokias savybes (įskaitant su patvarumu, taisomumu, funkcionalumu, suderinamumu ir saugumu susijusias savybes) ir ypatybes, kuriomis paprastai pasižymi tokios pat rūšies prekės ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į prekių pobūdį ir į bet kokius pardavėjo ar kitų asmenų (įskaitant gamintoją) arba jų vardu pateiktus viešus pareiškimus, visų pirma, prekes reklamuojant ar jas ženklinant.
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 4\. Šio straipsnio 3 dalies 4 punkte nurodyti vieši pareiškimai pardavėjo neįpareigoja, jeigu jis įrodo, kad yra bent viena iš šių sąlygų:
 
@@ -15526,11 +15530,29 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 2\. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja per dvejus metus nuo skaitmeninių elementų turinčios prekės pristatymo. Jeigu sutartyje numatytas ilgiau negu dvejus metus trunkantis nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja šiuo sutartyje numatytu skaitmeninio turinio ar skaitmeninės paslaugos teikimo laikotarpiu.
 
-3\. Pardavėjas ir vartotojas gali susitarti dėl trumpesnio, negu nustatyta šio straipsnio 1 ir 2 dalyse, pardavėjo atsakomybės už naudotas prekes termino, tačiau šis terminas negali būti trumpesnis negu vieneri metai.
+3\. Jeigu prekė taisoma pagal šio kodekso 6.364¹ straipsnio 2 dalį, siekiant užtikrinti tinkamą jos kokybę, šio straipsnio 1 ir 2 dalyse nurodytas pardavėjo atsakomybės laikotarpis pratęsiamas vieną kartą vieniems metams.
 
-4\. Prekės (įskaitant skaitmeninių elementų turinčias prekes) trūkumas, kuris paaiškėja per vienerius metus nuo jos pristatymo, laikomas buvusiu pristatant prekę, nebent pardavėjas įrodo kitaip arba kai tai nesuderinama su prekės pobūdžiu ar trūkumo pobūdžiu.
+*Papildyta straipsnio dalimi:*
 
-5\. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės šio straipsnio 2 dalyje nurodytu laikotarpiu, tenka pardavėjui, jeigu trūkumas paaiškėja šiuo laikotarpiu.
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+4\. Pardavėjas ir vartotojas gali susitarti dėl trumpesnio, negu nustatyta šio straipsnio 1 ir 2 dalyse, pardavėjo atsakomybės už naudotas prekes termino, tačiau šis terminas negali būti trumpesnis negu vieneri metai.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+5\. Prekės (įskaitant skaitmeninių elementų turinčias prekes) trūkumas, kuris paaiškėja per vienerius metus nuo jos pristatymo, laikomas buvusiu pristatant prekę, nebent pardavėjas įrodo kitaip arba kai tai nesuderinama su prekės pobūdžiu ar trūkumo pobūdžiu.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+6\. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės šio straipsnio 2 dalyje nurodytu laikotarpiu, tenka pardavėjui, jeigu trūkumas paaiškėja šiuo laikotarpiu.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 *Straipsnio pakeitimai:*
 
@@ -15548,11 +15570,29 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 3\) tai, ar kitokio reikalavimo taikymas nesukeltų nepatogumų vartotojui.
 
-3\. Pardavėjas turi teisę atsisakyti užtikrinti tinkamą prekės kokybę, jeigu prekės neįmanoma pataisyti ar pakeisti arba jeigu dėl to pardavėjas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant šio straipsnio 2 dalies 1 ir 2 punktuose nurodytąsias.
+3\. Pardavėjas, prieš įgyvendindamas vartotojo reikalavimą pagal šio straipsnio 2 dalį, turi informuoti vartotoją apie jo teisę pasirinkti, ar pataisyti prekę, ar ją pakeisti, taip pat apie galimą pardavėjo atsakomybės laikotarpio pratęsimą, nurodytą šio kodekso 6.364 straipsnio 3 dalyje.
 
-4\. Vartotojas turi teisę reikalauti proporcingai sumažinti prekės kainą arba nutraukti pirkimo–pardavimo sutartį, vadovaudamasis šio kodekso 6.364³ straipsniu, jeigu:
+*Papildyta straipsnio dalimi:*
 
-1\) pardavėjas prekės nepataisė ar nepakeitė arba prekės pataisymas ar pakeitimas neatitinka šio kodekso 6.364² straipsnio 2 ir 3 dalyse nustatytų reikalavimų, arba pardavėjas, vadovaudamasis šio straipsnio 3 dalimi, atsisakė užtikrinti tinkamą prekės kokybę;
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+4\. Pardavėjas turi teisę atsisakyti užtikrinti tinkamą prekės kokybę, jeigu prekės neįmanoma pataisyti ar pakeisti arba jeigu dėl to pardavėjas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant šio straipsnio 2 dalies 1 ir 2 punktuose nurodytąsias.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+5\. Vartotojas turi teisę reikalauti proporcingai sumažinti prekės kainą arba nutraukti pirkimo–pardavimo sutartį, vadovaudamasis šio kodekso 6.364³ straipsniu, jeigu:
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+1\) pardavėjas prekės nepataisė ar nepakeitė arba prekės pataisymas ar pakeitimas neatitinka šio kodekso 6.364² straipsnio 2 ir 3 dalyse nustatytų reikalavimų, arba pardavėjas, vadovaudamasis šio straipsnio 4 dalimi, atsisakė užtikrinti tinkamą prekės kokybę;
+
+*Straipsnio punkto pakeitimai:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 2\) prekės trūkumas atsirado, nors pardavėjas bandė užtikrinti prekės kokybę;
 
@@ -15560,13 +15600,29 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 
 4\) pardavėjas pareiškė ar iš aplinkybių yra aišku, kad jis per protingą terminą neužtikrins tinkamos prekės kokybės arba tai sukels didelių nepatogumų vartotojui.
 
-5\. Vartotojas neturi teisės nutraukti sutartį, jeigu trūkumas yra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka pardavėjui.
+6\. Vartotojas neturi teisės nutraukti sutartį, jeigu trūkumas yra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka pardavėjui.
 
-6\. Vartotojas turi teisę sustabdyti prekės kainos ar jos dalies mokėjimą, iki pardavėjas įvykdys šiame skirsnyje nustatytas pardavėjo pareigas.
+*Straipsnio dalies numeracijos pakeitimas:*
 
-7\. Vartotojas turi teisę į žalos, atsiradusios dėl netinkamos prekės kokybės, atlyginimą.
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
-8\. Vartotojas, siekdamas įgyvendinti šiame straipsnyje nustatytas teises, privalo pranešti pardavėjui apie prekės kokybės reikalavimų neatitiktį ne vėliau kaip per du mėnesius nuo neatitikties aptikimo dienos. Pareiga įrodyti, kad vartotojas praleido šį terminą, tenka pardavėjui.
+7\. Vartotojas turi teisę sustabdyti prekės kainos ar jos dalies mokėjimą, iki pardavėjas įvykdys šiame skirsnyje nustatytas pardavėjo pareigas.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+8\. Vartotojas turi teisę į žalos, atsiradusios dėl netinkamos prekės kokybės, atlyginimą.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+9\. Vartotojas, siekdamas įgyvendinti šiame straipsnyje nustatytas teises, privalo pranešti pardavėjui apie prekės kokybės reikalavimų neatitiktį ne vėliau kaip per du mėnesius nuo neatitikties aptikimo dienos. Pareiga įrodyti, kad vartotojas praleido šį terminą, tenka pardavėjui.
+
+*Straipsnio dalies numeracijos pakeitimas:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 *Papildyta straipsniu:*
 
@@ -15587,6 +15643,18 @@ Jeigu vartojimo pirkimo–pardavimo sutartyje numatytas daiktų gabenimas ir par
 3\. Jeigu iki trūkumo paaiškėjimo prekė buvo tinkamai įdiegta (instaliuota, įrengta ar įmontuota), atsižvelgiant į jos pobūdį ir paskirtį, pardavėjo pareiga pataisyti ar pakeisti prekę apima ir prekės pašalinimą bei pataisytos ar pakeistos prekės įdiegimą arba išlaidų už prekės pašalinimą ir įdiegimą padengimą.
 
 4\. Pardavėjas neturi teisės reikalauti iš vartotojo sumokėti už įprastinį pakeistų prekių naudojimą laikotarpiu iki jų pakeitimo.
+
+5\. Kol prekė taisoma, pardavėjas, atsižvelgdamas į prekių kategorijos, kuriai priklauso ši prekė, ypatumus ir į vartotojo poreikį, kad tokios prekės būtų nuolat prieinamos, gali jam nemokamai suteikti naudoti pakaitinę prekę, įskaitant atnaujintą prekę.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
+
+6\. Pardavėjas, vykdydamas pareigą užtikrinti, kad prekė būtų pakeista, gali suteikti vartotojui kitą atnaujintą prekę, jeigu vartotojas pateikia aiškų prašymą.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 *Papildyta straipsniu:*
 
@@ -21602,7 +21670,9 @@ priedas
 
 8\. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų.
 
-9\. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
+9\. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.)
+
+10\. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828.
 
 *Kodeksas papildytas priedu:*
 
@@ -21612,7 +21682,11 @@ priedas
 
 *Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069*
 
-*Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753)*
+*Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753*
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180*
 
 *Priedo pakeitimai:*
 
@@ -22703,3 +22777,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540
 
 Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 3.211, 3.217, 3.224, 3.243, 3.246, 3.250, 3.260, 3.261, 3.262, 3.264, 3.266 ir 3.269 straipsnių pakeitimo įstatymas
+
+89\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180
+
+Lietuvos Respublikos civilinio kodekso 6.363, 6.364, 6.364-1, 6.364-2 straipsnių ir priedo pakeitimo įstatymas
