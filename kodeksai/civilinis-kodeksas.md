@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2000-07-18"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "TAR.8A39C83848CB"
-redakcija_nuo: "2026-07-31"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/ZydVxNNqjJ"
+redakcija_nuo: "2026-09-27"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB/eMNCPopNFw"
 ---
 
 # Civilinis kodeksas
@@ -13212,6 +13212,24 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 *Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
 
+16\. Gamintojas – prekių gamintojas, prekių importuotojas į Europos Sąjungą ar bet koks asmuo, ant prekių nurodantis savo pavadinimą, prekių ženklą ar kitą skiriamąjį ženklą.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
+
+17\. Taisomumo įvertis – vadovaujantis Europos Sąjungos teisės aktų reikalavimais nustatomas įvertis, kuriuo nurodomas prekės tinkamumas būti taisomai.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
+
+18\. Nemokamas naujinys – be užmokesčio prieinamas naujinys, įskaitant saugumo naujinius, kuris būtinas skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimams užtikrinti pagal šio kodekso 6.228¹⁹ ir (ar) 6.363 straipsnius.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
+
 *Straipsnio pakeitimai:*
 
 *Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844*
@@ -13390,19 +13408,33 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 2\) duomenys apie verslininką (vardas ir pavardė ar pavadinimas, buveinės adresas, telefono ryšio numeris);
 
-3\) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu reikalinga, visos papildomos vežimo, pristatymo ir pašto išlaidos, arba kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti;
+3\) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba, kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu taikoma, visos papildomos vežimo, pristatymo ir pašto išlaidos, arba, kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti;
 
-4\) jeigu reikalinga, apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
+4\) jeigu taikoma, apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
 
-5\) garantinio aptarnavimo ir kokybės garantijos (komercinės garantijos) sąlygos, jeigu reikalinga, kartu su priminimu apie prekės, skaitmeninio turinio ar skaitmeninės paslaugos garantiją pagal įstatymą (teisinę garantiją);
+5\) priminimas apie prekių ir jų pagrindinių elementų garantiją pagal įstatymą (teisinė garantija), įskaitant šio kodekso 6.364 straipsnyje nurodytą garantijos trukmę, kuris pateikiamas pastebimu būdu, naudojant Europos Sąjungos teisės akte numatytą pranešimą;
 
-*Straipsnio punkto pakeitimai:*
+6\) kai gamintojas pateikia verslininkui informaciją, kad gamintojas suteikia vartotojui be jokių papildomų išlaidų prekės patvarumo garantiją, kuri taikoma visai prekei ir kurios trukmė ilgesnė nei dveji metai, – informacija, kad tai prekei galioja prekės patvarumo garantija, šios garantijos galiojimo trukmė ir priminimas apie garantiją pagal įstatymą (teisinė garantija), kurie pateikiami pastebimu būdu, naudojant Europos Sąjungos teisės akte nurodytą ženklą;
 
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
+7\) kai teikiamas skaitmeninis turinys ar skaitmeninės paslaugos, priminimas apie taikomą skaitmeninio turinio ir skaitmeninių paslaugų garantiją pagal įstatymą (teisinė garantija);
 
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
+8\) jeigu taikoma, informacija apie sudarius sutartį teikiamas paslaugas ir kokybės garantiją (komercinė garantija) bei jų sąlygas;
 
-6\) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
+9\) kai parduodamos skaitmeninių elementų turinčios prekės arba teikiamas skaitmeninis turinys ar skaitmeninės paslaugos, informacija apie trumpiausią terminą, nurodant laiko tarpą arba datą, per kurį teikiami nemokami naujiniai, jeigu gamintojas arba skaitmeninio turinio ar skaitmeninių paslaugų teikėjas pateikia tokią informaciją verslininkui;
+
+10\) jeigu taikoma, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
+
+11\) jeigu taikoma, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
+
+12\) jeigu taikoma, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti;
+
+13\) jeigu taikoma, prekių taisomumo įvertis;
+
+14\) jeigu šios dalies 13 punktas netaikomas, informacija apie atsarginių dalių, kurių reikia prekės kokybės reikalavimų atitikčiai užtikrinti, prieinamumą, numatomas išlaidas ir šių dalių užsakymo tvarką, taip pat informacija apie taisymo ir techninės priežiūros instrukcijų prieinamumą ir taisymo apribojimus, jeigu gamintojas verslininkui tokią informaciją pateikia.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
 
 2\. Įstatymuose ir Mažmeninės prekybos taisyklėse gali būti nustatyta reikalavimų dėl papildomos informacijos, kurią būtina suteikti vartotojams prieš sudarant vartojimo sutartis dėl tam tikrų rūšių prekių ar paslaugų, teikimo.
 
@@ -13420,51 +13452,53 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 2\) duomenys apie verslininką (vardas ir pavardė ar pavadinimas, juridinio asmens teisinė forma);
 
-3\) verslininko buveinės adresas, telefono ryšio numeris ir elektroninio pašto adresas. Jeigu verslininkas pateikia kitas internetinio ryšio priemones, kuriomis vartotojui užtikrinama galimybė saugoti patvariojoje laikmenoje bet kokį rašytinį susirašinėjimą su verslininku, įskaitant susirašinėjimo datą ir laiką, turi būti nurodomos šios kitos ryšio priemonės. Visos šios verslininko pateiktos ryšio priemonės turi leisti vartotojui greitai susisiekti su verslininku ir veiksmingai su juo bendrauti. Be to, privaloma pateikti, jeigu reikalinga, duomenis apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
+3\) verslininko buveinės adresas, telefono ryšio numeris ir elektroninio pašto adresas. Jeigu verslininkas pateikia kitas interneto ryšio priemones, kuriomis vartotojui užtikrinama galimybė saugoti patvariojoje laikmenoje bet kokį rašytinį susirašinėjimą su verslininku, įskaitant susirašinėjimo datą ir laiką, turi būti nurodomos šios kitos ryšio priemonės. Visos šios verslininko pateiktos ryšio priemonės turi leisti vartotojui greitai susisiekti su verslininku ir veiksmingai su juo bendrauti. Be to, privaloma pateikti, jeigu taikoma, duomenis apie verslininką, kurio vardu veikiama, (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu taikoma, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
 
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
-
-*Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578*
-
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
-
-4\) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu reikalinga, visos papildomos vežimo, pristatymo, pašto ir kitos išlaidos, arba kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatytas periodinių įmokų mokėjimas, bendrą kainą sudaro visos tam tikro sąskaitos pateikimo laikotarpio išlaidos. Jeigu pagal sutartį turi būti mokamas fiksuotas mokestis, bendra kaina taip pat reiškia visas mėnesio išlaidas. Jeigu visos išlaidos negali būti iš anksto pagrįstai apskaičiuotos, turi būti nurodytas metodas, pagal kurį apskaičiuojama kaina;
+4\) bendra prekių ar paslaugų kaina, į kurią įskaičiuoti mokesčiai, arba, kai dėl prekių arba paslaugų pobūdžio kaina pagrįstai negali būti iš anksto apskaičiuota, metodas, pagal kurį ši kaina apskaičiuojama, ir, jeigu taikoma, visos papildomos vežimo, pristatymo, pašto ir kitos išlaidos, arba, kai šios papildomos išlaidos dėl pagrįstų priežasčių negali būti iš anksto apskaičiuotos, informacija apie tai, kad gali tekti jas apmokėti. Kai sudaroma neterminuota sutartis arba sutartis, kurioje numatytas periodinių įmokų mokėjimas, bendrą kainą sudaro visos tam tikro sąskaitos pateikimo laikotarpio išlaidos. Jeigu pagal sutartį turi būti mokamas fiksuotas mokestis, bendra kaina taip pat reiškia visas mėnesio išlaidas. Jeigu visos išlaidos negali būti iš anksto pagrįstai apskaičiuotos, turi būti nurodytas metodas, pagal kurį apskaičiuojama kaina;
 
 5\) naudojimosi ryšio priemonėmis sudarant sutartį išlaidos, jeigu jos apskaičiuojamos ne pagal bazinius (įprastus) dydžius;
 
-6\) apmokėjimo, pristatymo, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas ir, jeigu reikalinga, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
+6\) apmokėjimo ir pristatymo tvarka, įskaitant, jeigu įmanoma, aplinką tausojančias pristatymo galimybes, sutarties vykdymo tvarka, prekių pristatymo ar paslaugų suteikimo terminas ir, jeigu taikoma, verslininko atliekamo vartotojų skundų nagrinėjimo tvarka;
 
-7\) teisė atsisakyti sutarties: šios teisės įgyvendinimo sąlygos, terminas ir tvarka pagal šio kodekso 6.228¹⁰ straipsnį, taip pat pavyzdinė sutarties atsisakymo forma ir, jei reikalinga, informacija apie sutarties atsisakymo funkciją ir jos pateikimo vietą arba informacija, kad vartotojas neturi teisės atsisakyti sutarties pagal šio kodekso 6.228¹⁰ straipsnį, arba, jei reikalinga, aplinkybės, kuriomis vartotojas praranda teisę atsisakyti sutarties;
+7\) teisė atsisakyti sutarties: šios teisės įgyvendinimo sąlygos, terminas ir tvarka pagal šio kodekso 6.228¹⁰ straipsnį, taip pat pavyzdinė sutarties atsisakymo forma ir, jei taikoma, informacija apie sutarties atsisakymo funkciją ir jos pateikimo vietą arba informacija, kad vartotojas neturi teisės atsisakyti sutarties pagal šio kodekso 6.228¹⁰ straipsnį, arba, jei taikoma, aplinkybės, kuriomis vartotojas praranda teisę atsisakyti sutarties;
 
-*Straipsnio punkto pakeitimai:*
-
-*Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
-
-8\) jeigu reikalinga, informacija, kad vartotojas, atsisakęs sutarties, turi padengti prekių grąžinimo išlaidas, o nuotolinių sutarčių atvejais – prekių grąžinimo išlaidas, jei prekės dėl savo pobūdžio paprastai negali būti grąžintos paštu;
+8\) jeigu taikoma, informacija, kad vartotojas, atsisakęs sutarties, turi padengti prekių grąžinimo išlaidas, o nuotolinių sutarčių atvejais – prekių grąžinimo išlaidas, jeigu prekės dėl savo pobūdžio paprastai negali būti grąžintos paštu;
 
 9\) informacija, kad vartotojas, atsisakęs sutarties pagal šio kodekso 6.228¹⁰ straipsnio 9 ar 10 dalį, turi sumokėti verslininkui pagrįstas išlaidas pagal šio kodekso 6.228¹¹ straipsnio 9 dalį;
 
-10\) priminimas apie prekės, skaitmeninio turinio ar skaitmeninės paslaugos garantiją pagal įstatymą (teisinę garantiją);
+10\) priminimas apie prekių ir jų pagrindinių elementų garantiją pagal įstatymą (teisinė garantija), įskaitant šio kodekso 6.364 straipsnyje nurodytą garantijos trukmę, kuris pateikiamas pastebimu būdu, naudojant Europos Sąjungos teisės akte numatytą pranešimą;
 
-*Straipsnio punkto pakeitimai:*
+11\) kai gamintojas pateikia verslininkui informaciją, kad gamintojas siūlo vartotojui be jokių papildomų išlaidų prekės patvarumo garantiją, kuri taikoma visai prekei ir kurios trukmė ilgesnė nei dveji metai, – informacija, kad tai prekei galioja prekės patvarumo garantija, šios garantijos galiojimo trukmė ir priminimas apie garantiją pagal įstatymą (teisinė garantija), kurie pateikiami pastebimu būdu, naudojant Europos Sąjungos teisės akte nurodytą ženklą;
 
-*Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960*
+12\) kai teikiamas skaitmeninis turinys ar skaitmeninės paslaugos, priminimas apie taikomą skaitmeninio turinio ir skaitmeninių paslaugų garantiją pagal įstatymą (teisinė garantija);
 
-*Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
+13\) kai parduodamos skaitmeninių elementų turinčios prekės arba teikiamas skaitmeninis turinys ar skaitmeninės paslaugos, informacija apie trumpiausią terminą, nurodant laiko tarpą arba datą, per kurį teikiami nemokami naujiniai, jeigu gamintojas arba skaitmeninio turinio ar skaitmeninių paslaugų teikėjas pateikia tokią informaciją verslininkui;
 
-11\) jeigu reikalinga, vartotojų aptarnavimas, jiems teikiamos paslaugos po sutarties sudarymo ir kokybės garantija (komercinė garantija) bei jų sąlygos;
+14\) jeigu taikoma, informacija apie vartotojų aptarnavimą, jiems teikiamas paslaugas sudarius sutartį ir kokybės garantiją (komercinė garantija) bei jų sąlygas;
 
-12\) jeigu reikalinga, verslininkui taikomas elgesio kodeksas ir informacija, kaip su juo galima susipažinti;
+15\) jeigu taikoma, verslininkui taikomas elgesio kodeksas ir informacija, kaip su juo galima susipažinti;
 
-13\) jeigu reikalinga, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
+16\) jeigu taikoma, sutarties trukmė, o kai sutartis neterminuota ar pratęsiama automatiškai, – sutarties nutraukimo sąlygos;
 
-14\) jeigu reikalinga, minimali sutarties galiojimo trukmė;
+17\) jeigu taikoma, minimali sutarties galiojimo trukmė;
 
-15\) jeigu reikalinga, užstatai ar kitos finansinės garantijos, kurias vartotojas turi pateikti ar sumokėti verslininko reikalavimu, ir jų taikymo sąlygos;
+18\) jeigu taikoma, užstatai ar kitos finansinės garantijos, kurias vartotojas turi pateikti ar sumokėti verslininko reikalavimu, ir jų taikymo sąlygos;
 
-16\) jeigu reikalinga, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos;
+19\) jeigu taikoma, galimybė pateikti skundą ar reikalauti žalos atlyginimo ne teismo tvarka ir pasinaudojimo ja sąlygos;
+
+20\) jeigu taikoma, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų funkcionalumas, įskaitant taikomas technines apsaugos priemones;
+
+21\) jeigu taikoma, skaitmeninių elementų turinčių prekių, skaitmeninio turinio ir skaitmeninių paslaugų suderinamumas ir sąveikumas tiek, kiek verslininkas žino ar turi žinoti;
+
+22\) jeigu taikoma, tai, kad kaina buvo individualizuota taikant automatizuotą sprendimų priėmimą;
+
+23\) jeigu taikoma, prekių taisomumo įvertis;
+
+24\) jeigu šios dalies 23 punktas netaikomas, informacija apie atsarginių dalių, kurių reikia prekės kokybės reikalavimų atitikčiai užtikrinti, prieinamumą, numatomas išlaidas ir šių dalių užsakymo tvarką, taip pat informacija apie taisymo ir techninės priežiūros instrukcijų prieinamumą ir taisymo apribojimus, jeigu gamintojas verslininkui tokią informaciją pateikia.
+
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
 
 2\. Šio straipsnio 1 dalies 7, 8 ir 9 punktuose nurodyta informacija gali būti vartotojui suteikta pateikiant užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą. Šią formą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Jeigu verslininkas pateikė vartotojui tinkamai užpildytą pavyzdinę informacijos apie sutarties atsisakymą formą, laikoma, kad verslininkas tinkamai įvykdė šio straipsnio 1 dalies 7, 8 ir 9 punktuose nustatytus informacijos teikimo reikalavimus.
 
@@ -13500,13 +13534,19 @@ Sutartis gali būti pripažinta negaliojančia šio kodekso pirmosios knygos num
 
 2\. Sudarydamas nuotolinę sutartį, verslininkas privalo suteikti vartotojui šio kodekso 6.228⁷ straipsnio 1 dalyje nurodytą informaciją aiškia ir suprantama kalba arba sudaryti sąlygas vartotojui tinkamai susipažinti su ta informacija, atsižvelgdamas į naudojamas ryšio priemones. Patvariojoje laikmenoje pateikiama informacija turi būti įskaitoma.
 
-3\. Jeigu pagal elektroninėmis priemonėmis sudaromą nuotolinę sutartį vartotojas turi prievolę sumokėti, verslininkas aiškiai, pastebimu būdu ir prieš pat vartotojo užsakymo pateikimą privalo supažindinti vartotoją su šio kodekso 6.228⁷ straipsnio 1 dalies 1, 4, 13 ir 14 punktuose nurodyta informacija. Verslininkas privalo užtikrinti, kad vartotojas, pateikdamas savo užsakymą, aiškiai patvirtintų, kad po užsakymo pateikimo vartotojui atsiranda prievolė sumokėti. Jeigu pateikiant užsakymą reikia paspausti mygtuką ar naudoti panašią funkciją, mygtukas ar panaši funkcija turi būti pažymėti taip, kad būtų lengvai įskaitoma (suprantama), t. y. pateikti tik žodžiai „užsakymas su prievole sumokėti“ ar panaši nedviprasmiška formuluotė, nurodanti, kad pateikus užsakymą vartotojui atsiranda prievolė sumokėti verslininkui. Jeigu verslininkas pažeidžia šį reikalavimą, iš nuotolinės sutarties vartotojui mokėjimo prievolė neatsiranda.
+3\. Jeigu pagal elektroninėmis priemonėmis sudaromą nuotolinę sutartį vartotojas turi prievolę sumokėti, verslininkas aiškiai, pastebimu būdu ir prieš pat vartotojo užsakymo pateikimą privalo supažindinti vartotoją su šio kodekso 6.228⁷ straipsnio 1 dalies 1, 4, 11, 16 ir 17 punktuose nurodyta informacija. Verslininkas privalo užtikrinti, kad vartotojas, pateikdamas savo užsakymą, aiškiai patvirtintų, kad po užsakymo pateikimo vartotojui atsiranda prievolė sumokėti. Jeigu pateikiant užsakymą reikia paspausti mygtuką ar naudoti panašią funkciją, mygtukas ar panaši funkcija turi būti pažymėti taip, kad būtų lengvai įskaitoma (suprantama), t. y. pateikti tik žodžiai „užsakymas su prievole sumokėti“ ar panaši nedviprasmiška formuluotė, nurodanti, kad pateikus užsakymą vartotojui atsiranda prievolė sumokėti verslininkui. Jeigu verslininkas pažeidžia šį reikalavimą, iš nuotolinės sutarties vartotojui mokėjimo prievolė neatsiranda.
 
-4\. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.228⁷ straipsnio 1 dalies 1, 2, 4, 7 ir 13 punktuose nurodytą informaciją, išskyrus pavyzdinę sutarties atsisakymo formą. Kitą šio kodekso 6.228⁷ straipsnio 1 dalyje nurodytą informaciją, įskaitant pavyzdinę sutarties atsisakymo formą, verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
+*Straipsnio dalies pakeitimai:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
+
+4\. Jeigu nuotolinė sutartis sudaroma ryšio priemonėmis, kurias naudojant nėra pakankamai vietos ar laiko informacijai pateikti, verslininkas prieš sutarties sudarymą privalo šiomis priemonėmis pateikti bent šio kodekso 6.228⁷ straipsnio 1 dalies 1, 2, 4, 7 ir 16 punktuose nurodytą informaciją, išskyrus pavyzdinę sutarties atsisakymo formą. Kitą šio kodekso 6.228⁷ straipsnio 1 dalyje nurodytą informaciją, įskaitant pavyzdinę sutarties atsisakymo formą, verslininkas privalo pateikti vartotojui, kaip nustatyta šio straipsnio 2 dalyje.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
 
 5\. Verslininkas, kuris skambina vartotojui telefonu siekdamas sudaryti nuotolinę sutartį, pokalbio su vartotoju pradžioje privalo atskleisti savo tapatybę (vardą ir pavardę ar pavadinimą) ir, jeigu reikalinga, asmens, kurio vardu jis skambina, tapatybę (vardą ir pavardę ar pavadinimą) ir nurodyti komercinį šio pokalbio tikslą. Jeigu šiuo atveju vartotojas sutinka sudaryti nuotolinę sutartį, verslininkas privalo patvirtinti pasiūlymą vartotojui patvariojoje laikmenoje. Nuotolinė sutartis laikoma sudaryta, kai vartotojas pasirašo pasiūlymą arba išsiunčia verslininkui savo rašytinį sutikimą.
 
@@ -13827,6 +13867,12 @@ c) jeigu sudaroma sutartis dėl reguliaraus prekių pristatymo per nustatytą la
 4\. Vartotojo reikalavimu kokybės garantija turi būti jam pateikiama raštu popieriuje arba kitoje jam prieinamoje patvariojoje laikmenoje.
 
 5\. Vartotojas turi teisę reikalauti taikyti kokybės garantiją neatsižvelgiant į tai, kad ji suteikta pažeidžiant šiame straipsnyje nustatytus reikalavimus.
+
+6\. Prekės patvarumo garantija – kokybės garantija, pagal kurią gamintojas visą šios garantijos galiojimo laikotarpį yra tiesiogiai atsakingas vartotojui už tai, kad prekė būtų pataisyta ar pakeista pagal šio kodekso 6.364² straipsnį, kai neišlaiko savo patvarumo.
+
+*Papildyta straipsnio dalimi:*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
 
 ###### 6.228¹⁵ straipsnis. Verslininko atsakomybė ir prievolės įvykdymas natūra
 
@@ -21654,13 +21700,15 @@ priedas
 
 3\. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
-4\. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673.
+4\. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/825.
 
 *Punkto pakeitimai:*
 
 *Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066*
 
 *Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117*
+
+*Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385*
 
 5\. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
