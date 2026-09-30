@@ -4,8 +4,8 @@ rūšis: "Įstatymas"
 priimta: "2015-06-25"
 priėmė: "Lietuvos Respublikos Seimas"
 tar_id: "4ebe66c0262311e5bf92d6af3f6a2e8b"
-redakcija_nuo: "2026-08-01"
-šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/FRuIYjVokN"
+redakcija_nuo: "2026-10-01"
+šaltinis: "https://www.e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b/jXFmZxGWid"
 ---
 
 # Administracinių nusižengimų kodeksas
@@ -6112,59 +6112,83 @@ užtraukia baudą laivų perdirbimo bendrovių vadovams ar kitiems atsakingiems 
 
 *Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852*
 
-#### 252 straipsnis. Apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos tvarkymo, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo reikalavimų nevykdymas
+#### 252 straipsnis. Apmokestinamųjų gaminių apskaitos tvarkymo ir apmokestinamųjų gaminių atliekų tvarkymo reikalavimų nevykdymas
 
-1\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos ataskaitos ir (ar) apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo organizavimo veiklos ataskaitos nepateikimas iki nustatytų terminų
+1\. Apmokestinamųjų gaminių apskaitos ataskaitos ir (ar) apmokestinamųjų gaminių atliekų tvarkymo organizavimo veiklos ataskaitos nepateikimas iki teisės aktuose, reglamentuojančiuose šių ataskaitų pateikimo tvarką, nustatytų terminų
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
 
-2\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais neįsiregistravus Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje
+2\. Apmokestinamųjų gaminių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-3\. Informacijos apie baterijose ir akumuliatoriuose esančių medžiagų keliamą pavojų aplinkai ir žmonių sveikatai ir (ar) informacijos apie baterijų ir akumuliatorių atliekų surinkimo, apdorojimo ir perdirbimo sistemas nepateikimas baterijų ir akumuliatorių vartotojams arba informacijos apie galimybę prekybos vietose atiduoti nešiojamųjų baterijų ir akumuliatorių atliekas nepateikimas baterijų ir akumuliatorių vartotojams
-
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-4\. Atsisakymas nemokamai priimti vartotojų atiduodamas nešiojamųjų baterijų ir akumuliatorių atliekas ar reikalavimas pirkti naują nešiojamąją bateriją ar akumuliatorių atiduodant jų atliekas nešiojamųjų baterijų ir akumuliatorių prekybos vietose
-
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
-
-5\. Lietuvos Respublikos atliekų tvarkymo įstatyme numatytos pareigos priimti padangų atliekas nevykdymas
+3\. Atliekų tvarkymo įstatyme numatytos pareigos priimti padangų atliekas nevykdymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-6\. Atsisakymas priimti iš vartotojų pramoninių baterijų ir akumuliatorių atliekas
-
-užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
-
-7\. Neteisingų duomenų pateikimas apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitoje, šios apskaitos ataskaitoje ir (ar) apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų tvarkymo organizavimo veiklos ataskaitoje arba apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos tvarkymas pažeidžiant teisės aktų reikalavimus
+4\. Neteisingų duomenų pateikimas apmokestinamųjų gaminių apskaitoje, šios apskaitos ataskaitoje ir (ar) apmokestinamųjų gaminių atliekų tvarkymo organizavimo veiklos ataskaitoje arba apmokestinamųjų gaminių apskaitos vykdymas pažeidžiant šių gaminių apskaitą reglamentuojančių teisės aktų reikalavimus
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-8\. Surinktų apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų atlygintinis ar neatlygintinis perleidimas neturintiems teisės tvarkyti šias atliekas asmenims
+5\. Surinktų apmokestinamųjų gaminių atliekų atlygintinis ar neatlygintinis perleidimas neturintiems teisės tvarkyti šias atliekas asmenims
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
 
-9\. Šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+6\. Šio straipsnio 1, 2, 3, 4, 5 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
 
-užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
+užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
-10\. Apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos netvarkymas
+7\. Apmokestinamųjų gaminių apskaitos netvarkymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
 
-11\. Šio straipsnio 10 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+8\. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
 užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių dviejų šimtų eurų.
 
-12\. Atliekų tvarkymo įstatyme numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą apmokestinamųjų gaminių ir (ar) į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių atliekų, kurios susidarė naudojant apmokestinamuosius gaminius ir (ar) gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais į prietaisus ar transporto priemones įmontuotas baterijas ir (ar) akumuliatorius, arba sudaryti sutartis nevykdymas
+9\. Atliekų tvarkymo įstatyme numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą apmokestinamųjų gaminių atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai apmokestinamuosius gaminius, arba sudaryti apmokestinamųjų gaminių atliekų tvarkymo sutartis nevykdymas
 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
 
 *Straipsnio pakeitimai:*
 
 *Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
+
+#### 252¹ straipsnis. Baterijų atliekų tvarkymo organizavimo reikalavimų nevykdymas
+
+1\. Baterijų tiekimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+2\. Reglamente (ES) 2023/1542 numatytos pareigos nustatyta tvarka priimti baterijų atliekas nevykdymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+3\. Neteisingų duomenų pateikimas baterijų apskaitoje ir (ar) apskaitos ataskaitoje arba baterijų apskaitos vykdymas pažeidžiant baterijų apskaitą reglamentuojančių teisės aktų reikalavimus
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+4\. Surinktų baterijų atliekų atlygintinis ar neatlygintinis perleidimas neturintiems teisės tvarkyti šias atliekas asmenims
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+5\. Šio straipsnio 1, 2, 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+
+užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio devynių šimtų eurų.
+
+6\. Baterijų apskaitos netvarkymas
+
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio devynių šimtų eurų.
+
+7\. Šio straipsnio 6 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+
+užtraukia baudą nuo vieno tūkstančio devynių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+
+*Papildyta straipsniu:*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
 
 #### 253 straipsnis. Valstybės gamtos išteklių registrų ir kadastrų nuostatų pažeidimas
 
@@ -6242,13 +6266,15 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 #### 255¹ straipsnis. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimas
 
-1\. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimai, išskyrus šio kodekso 235 straipsnio 1, 2, 3, 4, 7, 8 dalyse, 242, 244, 246 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 36, 37, 38, 39, 40 dalyse, 249 straipsnyje, 252 straipsnio 4, 5, 6, 8, 9, 12 dalyse, 309 straipsnio 1, 2, 4, 7, 8 dalyse, 332 straipsnio 2 dalyje numatytus pažeidimus,
+1\. Transporto priemonių techninės priežiūros, remonto, techninės pagalbos ir perdirbimo aplinkos apsaugos reikalavimų pažeidimai, išskyrus šio kodekso 235 straipsnio 1, 2, 3, 4, 7, 8 dalyse, 242, 244, 246 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 6¹, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 36, 37, 38, 39, 40 dalyse, 249 straipsnyje, 252 straipsnio 3, 5, 6, 9 dalyse, 252¹ straipsnio 2, 4, 5 dalyse, 309 straipsnio 1, 2, 4, 7, 8 dalyse, 332 straipsnio 2 dalyje numatytus pažeidimus,
 
 užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki aštuonių šimtų septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų dvidešimt penkių iki vieno tūkstančio vieno šimto eurų.
 
 *Straipsnio dalies pakeitimai:*
 
 *Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
 
 2\. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 
@@ -14944,7 +14970,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
 
-31\) aplinkos apsaugos valstybinės priežiūros pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje, 235, 236, 236¹, 237, 238, 239, 241 straipsniuose, 242 straipsnio 1, 2, 3 dalyse, 243 straipsnyje, 243² straipsnio 1 dalyje, 244, 246, 247 straipsniuose, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 253, 255, 255¹, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267 straipsniuose, 268 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 269, 270, 270¹, 270² straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31\) aplinkos apsaugos valstybinės priežiūros pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 114 straipsnyje, 235, 236, 236¹, 237, 238, 239, 241 straipsniuose, 242 straipsnio 1, 2, 3 dalyse, 243 straipsnyje, 243² straipsnio 1 dalyje, 244, 246, 247 straipsniuose, 247¹ straipsnio 3, 4 dalyse, 248, 248¹, 248², 248³, 249, 250, 251, 251¹, 252, 252¹, 253, 255, 255¹, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267 straipsniuose, 268 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 269, 270, 270¹, 270² straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 6¹, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304¹, 304², 305, 307, 308, 308¹, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 5¹, 5², 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -14991,6 +15017,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XV-491, 2025-10-16, paskelbta TAR 2025-10-28, i. k. 2025-17894*
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
 
 32\) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 187¹, 188, 193, 198, 205 straipsniuose, 207 straipsnio 3, 4, 5, 6 dalyse, 207¹ straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 342² straipsnio 1, 2 dalyse, 342³ straipsnio 1, 2 dalyse, 342⁴ straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 4¹ dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų;
 
@@ -15102,7 +15130,7 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 
 *Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653*
 
-40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 141¹, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 217², 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 243² straipsnio 2 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalyse, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 304² straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8, 9 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 5, 9, 10 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 343¹ straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 510¹, 515, 526¹ straipsniuose numatytų administracinių nusižengimų;
+40\) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 141¹, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 217¹, 217², 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 243² straipsnio 2 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalyse, 252 straipsnio 2 dalyje, 252¹ straipsnio 1 dalyje, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 304² straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 308¹ straipsnio 2, 3, 5, 7, 8, 9 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 5, 9, 10 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 343¹ straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 4¹ dalyse, 507, 508, 510¹, 515, 526¹ straipsniuose numatytų administracinių nusižengimų;
 
 *Straipsnio punkto pakeitimai:*
 
@@ -15151,6 +15179,8 @@ Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų 
 *Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783*
 
 *Nr. XV-732, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23026*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
 
 41\) neteko galios nuo 2017-12-01;
 
@@ -16036,7 +16066,7 @@ TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus a
 
 *Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907*
 
-104\) Žemės ūkio agentūros prie Žemės ūkio ministerijos – dėl šio kodekso 345, 348 straipsniuose numatytų administracinių nusižengimų.
+104\) Žemės ūkio agentūros prie Žemės ūkio ministerijos – dėl šio kodekso 345, 348 straipsniuose numatytų administracinių nusižengimų;
 
 *Papildyta straipsnio punktu:*
 
@@ -16430,11 +16460,13 @@ Padarius šio kodekso 305 straipsnio 10, 11 dalyse numatytus administracinius nu
 
 2\) dėl šio kodekso 431 straipsnio 1, 2, 3 ir 4 dalyse numatytų administracinių nusižengimų, taip pat šio kodekso 611 straipsnyje numatytais atvejais;
 
-3\) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 236¹ straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 243¹ straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 248¹ straipsnio 2 ir 4 dalyse, 248² straipsnio 2 ir 4 dalyse, 248³ straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 3 dalyse, 252 straipsnio 1 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 1 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
+3\) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 236¹ straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 243¹ straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 248¹ straipsnio 2 ir 4 dalyse, 248² straipsnio 2 ir 4 dalyse, 248³ straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 3 dalyse, 252 straipsnio 1 ir 6 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 1 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
 
 *Straipsnio punkto pakeitimai:*
 
 *Nr. XV-448, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16801*
+
+*Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907*
 
 3\. Dėl šio kodekso 224 straipsnio 2 dalyje numatyto administracinio nusižengimo, be šio kodekso 589 straipsnyje nurodytų pareigūnų, protokolą turi teisę surašyti administracinio nusižengimo bylą ne teismo tvarka nagrinėjantis pareigūnas arba nutarimą administracinio nusižengimo byloje vykdančios institucijos pareigūnas. Jeigu šio kodekso 224 straipsnio 2 dalyje numatytas administracinis nusižengimas paaiškėja bylą nagrinėjant teisme, teisėjas neskundžiama nutartimi apie tai praneša institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą ir surašė administracinio nusižengimo protokolą.
 
@@ -20635,3 +20667,27 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-988, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10325
 
 Lietuvos Respublikos administracinių nusižengimų kodekso 120 straipsnio pakeitimo įstatymas
+
+287\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-1027, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11103
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 314 ir 589 straipsnių pakeitimo įstatymo Nr. XV-549 2 straipsnio pakeitimo įstatymas
+
+288\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-1071, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11524
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 53, 113, 256, 276, 334, 357-1, 364, 589 straipsnių pakeitimo ir Kodekso papildymo 334-1, 369-1 straipsniais įstatymas
+
+289\.
+
+Lietuvos Respublikos Seimas, Įstatymas
+
+Nr. XV-1142, 2026-07-07, paskelbta TAR 2026-07-14, i. k. 2026-11907
+
+Lietuvos Respublikos administracinių nusižengimų kodekso 252, 255-1, 589, 608 straipsnių pakeitimo ir Kodekso papildymo 252-1 straipsniu įstatymas
